@@ -50,7 +50,6 @@ Long Vowel Chords
 'kite': KAOEUT
 'type': TAOEUP
 'spite': SPAOEUT
-'drive': KRAOEUF
 'hope': HOEP
 'spore': SPOER
 'post': POEFT
