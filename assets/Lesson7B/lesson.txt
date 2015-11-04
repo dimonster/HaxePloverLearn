@@ -7,9 +7,9 @@ Punctuation in situ
 'x>y': KP* A*EPBGT SWR*
 'x=y': KP* KWA*LS SWR*
 'ls -R | less': HR* S* S-P H-PB R*P S-P PAO*EUP S-P HRES
-'under_scores': TPH-P R*UPBD SKORS
+'under_scores': UPBD/*ER R*UPBD SKORS or *UPBD R*UPBD SKORS
 'bit-coin': PWEUT H-PB KOEUPB
-'Wait -- I'm going too': WAEUT TK-RB AOEUPL TKPWOG TAO
+'Wait -- stop': WAEUT TK-RB STOP
 'Be good, and be kind': -B TKPWAOD KW-BG APBD -B KAOEUPBD
 'Be good; be kind': -B TKPWAOD SKWR*RBGS KAOEUPBD
 'Plover: The winnah': PHRO*FR STPH-FPLT W* EU* TPH* TPH* A* H*
