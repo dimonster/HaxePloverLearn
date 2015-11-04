@@ -33,3 +33,4 @@ Punctuation in situ
 'C#': KR* HAERB
 'What % is that?': WHA PERS S THA H-F
 'x+y': KP* PHR*US KWR*
+require_spaces=true

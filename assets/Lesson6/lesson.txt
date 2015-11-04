@@ -9,3 +9,4 @@ Prefix and Suffix Alternatives:
 'fire place': TPAOEUR S-P PHRAEUS
 'fireplace': TPAOEUR PHRAEUS
 'light engage': HR* EU* TKPW* H* T* S-P *E TPH* TKPW* A* TKPW* *E
+require_spaces=true
