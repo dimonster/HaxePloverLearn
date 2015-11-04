@@ -1,25 +1,11 @@
-Lesson 5 Exercise 3
-Suffix Compounds:
-'princes': PREUPBS/S
-'princess': PREUPB/SES
-'headed': HED/D
-'loaded': HROED/D
-'bringing': PWREUPBG/G
-'ringing': REUPBG/G
-'boldly': TKOLD/HREU
-'coldly': KOLD/HREU
-'cider': SAOEUD/*ER
-'rider': RAOEUD/*ER
-'actor': ABGT/O*R
-'Hector': HEBGT/O*R
-'relation': REL/AEUGS
-'elation': EL/AEUGS
-'anion': AN/KWROPB
-'cation': KAT/KWROPB
-'breakable': PWRAEBG/BL
-'fakable': TPAEBK/BL
-'fractal': TPRABGT/A*L
-'denial': TKEPB/KWRAL
-'vial': SR*/KWRAL
-'happiness': HAEP/PBS
-'sadness': SAD/PBS
+Lesson 6
+Prefix and Suffix Alternatives:
+'pup': PUP
+'puppy': PUP PEU or PUP KWREU
+'pi': PEU
+'pup pi pi': PUP TK-LS PEU PEU
+'over come': OEFR KOPL
+'overcome': OEFR TK-LS KOPL
+'fire place': TPAOEUR S-P PHRAEUS
+'fireplace': TPAOEUR PHRAEUS
+'light engage': HR* EU* TKPW* H* T* S-P *E TPH* TKPW* A* TKPW* *E
