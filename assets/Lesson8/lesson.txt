@@ -1,0 +1,73 @@
+Lesson 8 Exercise 1
+Numbers
+'1': #S
+'2': #T-
+'3': #P-
+'4': #H
+'5': #A
+'0': #O
+'6': #F
+'7': #-P
+'8': #L
+'9': #-T
+'25': #TA
+'07': #OP
+'49': #HT
+'52': #TAEU
+'70': #OEUP
+'94': #HEUT
+'11': #SD
+'22': #T-D
+'33': #P-D
+'44': #HD
+'55': #AD
+'00': #OD
+'66': #FD
+'77': #-PD
+'88': #LD
+'99': #-TD
+'1068': #SO/#FL or #S/#O/#F/#L or #SOFL
+'700039': #OEUP/#OD/#PT
+'81254583': #LS/#TA/#HA/#PEUL
+'100': #SZ
+'200': #T-Z
+'300': #P-Z
+'400': #HZ
+'500': #AZ
+'600': #FZ
+'700': #-PZ
+'800': #LZ
+'900': #-TZ
+'$100': #SDZ
+'$200': #T-DZ
+'$300': #P-DZ
+'$400': #HDZ
+'$500': #ADZ
+'$600': #FDZ
+'$700': #-PDZ
+'$800': #LDZ
+'$900': #-TDZ
+'1:00': #SK or #SBG
+'2:00': #TK or #TBG
+'3:00': #KP or #PBG
+'4:00': #KH or #HBG
+'5:00': #KA or #ABG
+'6:00': #KF or #FBG
+'7:00': #K-P or #-PBG
+'8:00': #KL or #BLG
+'9:00': #KT or #BGT
+'10:00': #SKO or #SOBG
+'11:00': #SKD or #SBGD
+'12:00': #STK or #STBG
+'13:00': #SKP- or #SP-BG
+'14:00': #SKH or #SHBG
+'15:00': #SKA or #SABG
+'16:00': #SKF or #SFBG
+'17:00': #SK-P or #S-PBG
+'18:00': #SKL or #SBLG
+'19:00': #SKT or #SBGT
+'20:00': #TKO or #TOBG
+'21:00': #STKEU or #STEUBG
+'22:00': #TKD or #TBGD
+'23:00': #TKP- or #T-PBG
+'24:00': #TKH or #THBG
