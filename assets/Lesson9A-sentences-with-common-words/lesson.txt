@@ -1,0 +1,35 @@
+Lesson 9 Exercise 1
+Sentences with common words
+'So is this working?': SO S TH WOG H-F
+'Take that!': TAEUBG THA SKHRAPL
+'In general, all are found.': TPH SKWREPBL KW-BG AUL R TPOUPBD TP-PL
+'Some new, or not, interest him.': SOPL TPHU KW-BG OR TPHOT KW-BG TR HEUPL TP-PL
+'Through time,': THRU TAOEUPL KW-BG
+'my days made years.': PHAOEU TKAEUS PHAED KWRAOERS TP-PL
+'There can be only one.': THR K -B OEPBL WUPB TP-PL
+'Most may make many more.': PHOEFT PHAEU PHAEUBG PHAEPB PHOR TP-PL
+'When will you?': WHEPB HR U H-F
+'If I, like he, were them,': TP EU KW-BG HRAOEUBG E KW-BG WR THEPL KW-BG
+'our people would now will well.': OUR PAOEPL WO TPHOU HR WEL TP-PL
+'On such a day, no other said.': OPB SUFP AEU TKAEU KW-BG TPHO OER SAEUD TP-PL
+'The great first country': -T TKPWRAET TPEURS KUPBT
+'was for her.': WAS TPOR HER TP-PL
+'Who other than she?': WHO OER THAPB SHAOE H-F
+'Being between out,': -BG TWAOEPB OUT KW-BG
+'over, under, and upon,': OEFR KW-BG TPH-PB KW-BG SKP POPB KW-BG
+'every good must last.': EFR TKPWAOD PHUFT HRAFT TP-PL
+'Where were we?': W-R WR WAOE H-F
+'What has been here before is his.': WHA HAS PW-PB HAOER PW-F S HEUS TP-PL
+'After all,': AF AUL KW-BG
+'it is about that': T S PW THA
+'which you are from.': WEU U R TPR TP-PL
+'What can they have': WHA K THE SR
+'from these today?': TPR THAOES TOED H-F
+'By and large,': PWEU SKP HRARPBLG KW-BG
+'it's made very well.': T-S PHAED SRE WEL TP-PL
+'Since they were up to it,': SEUPBS THE WR UP TO T KW-BG
+'their will was had.': THAEUR HR WAS H TP-PL
+'At its general time,': AT EUTS SKWREPBL TAOEUPL KW-BG
+'but still while they were here.': PWUT STEUL WHAOEUL THE WR HAOER TP-PL
+'Of which one is that?': -F WEU WUPB S THA H-F
+notice_spaces=true
