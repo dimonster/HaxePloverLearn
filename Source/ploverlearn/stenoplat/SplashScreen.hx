@@ -16,7 +16,7 @@ import openfl.text.TextFormatAlign;
 /**
  * ...
  * @author EN
- * 
+ *
  * SplashScreen: The intro screen
  */
 
@@ -32,14 +32,14 @@ class SplashScreen extends Sprite
 	private var metricsDark : Bitmap;
 	private var headerField : TextField;
 	private var onHide : Void->Void;
-	
+
 	private var screenHeight:Float = 0;
 	private var screenWidth:Float = 0;
-	
+
 	public function new(header : String, info : String, onHide : Void->Void)
 	{
 		super();
-		
+
 		this.header = header;
 		this.info = info;
 		this.onHide = onHide;
@@ -52,69 +52,71 @@ class SplashScreen extends Sprite
 			addEventListener(Event.ADDED_TO_STAGE, init);
 		}
 	}
-	
+
 	private function init(e : Event = null) : Void
 	{
 		initBackground();
-		
+
 		headerField = new NiceTextField(header, 45, 0xffffff, 0.9);
 		infoField = new NiceTextField(info, 25, 0xffffff, 0.8);
-		metricsField = new NiceTextField("A\nB\nC\nD\nE\n", 20, 0xffffff, 1.0, false, this.width/4, TextFormatAlign.LEFT);
-		metricsFieldValues = new NiceTextField("A\nB\nC\nD\nE\n", 20, 0xffffff, 1.0, false, this.width/4, TextFormatAlign.RIGHT);
-		
+		metricsField = new NiceTextField("A\nB\nC\nD\nE\n", 20, 0xffffff, 1.0, false, this.width/5, TextFormatAlign.LEFT);
+		metricsFieldValues = new NiceTextField("A\nB\nC\nD\nE\n", 20, 0xffffff, 1.0, false, this.width/5, TextFormatAlign.RIGHT);
+
 		metricsField.height = (20 * 6);
 		metricsFieldValues.height = metricsField.height;
-		
+
 		metricsDark = new Bitmap(new BitmapData(1, 1, true, 0x70000000));
-		
+
 		headerField.width = this.width;
 		headerField.height = 2 * headerField.textHeight + 10;
 		headerField.wordWrap = true;
 		headerField.x = 0;
 		headerField.y = height / 3;
-		
+
 		infoField.x = (width - infoField.width) / 2;
 		infoField.y = 3 * height / 4;
-		
+
 		screenHeight = height;
 		screenWidth = width;
-		
-		this.addChild(new Bitmap(Assets.getBitmapData("assets/plover.jpg")));
-		
+
+    var ploverBitmap = new Bitmap(Assets.getBitmapData("assets/plover.jpg"));
+    ploverBitmap.x = (screenWidth / 2) - (ploverBitmap.width / 2);
+		this.addChild(ploverBitmap);
+
 		this.addChild(infoField);
 		this.addChild(headerField);
 		this.addChild(metricsDark);
 		this.addChild(metricsField);
 		this.addChild(metricsFieldValues);
-		
-		metricsField.x = (width - metricsField.width);
+
+		metricsField.x = (width - metricsField.width) - ((width - ploverBitmap.width) / 2);
 		metricsField.y = (height - metricsField.textHeight);
-		
+
 		metricsFieldValues.x = metricsField.x;
 		metricsFieldValues.y = metricsField.y;
-		
+
 		metricsDark.width = metricsField.textWidth;
 		metricsDark.height = metricsField.textHeight;
 		metricsDark.x = metricsField.x;
 		metricsDark.y = metricsField.y;
-		
+
 		metricsField.text = metricsFieldValues.text = "";
-		
+
 		addEventListener(MouseEvent.CLICK, buttonClick);
-		
+
 		this.visible = false;
 	}
-	
+
 	private function buttonClick(e : Event)
 	{
 		hide();
 	}
-	
+
 	public function show(?m:Metrics)
 	{
 		this.visible = true;
 		stage.focus = this.infoField;
-		
+
 		if (m != null)
 		{
 			metricsField.text =  "TIME:";
@@ -122,19 +124,19 @@ class SplashScreen extends Sprite
 			metricsField.text += "\nMisstrokes:";
 			metricsField.text += "\nLast Streak:";
 			metricsField.text += "\nBest Streak:";
-			
+
 			metricsFieldValues.text =  m.seconds + " sec.";
 			metricsFieldValues.text += "\n"+m.wpm;
 			metricsFieldValues.text += "\n"+m.misstrokes;
 			metricsFieldValues.text += "\n"+m.streak;
 			metricsFieldValues.text += "\n"+m.bestStreak;
-			
+
 			metricsField.y = screenHeight - metricsField.textHeight - 5;
 			metricsFieldValues.y = metricsField.y;
-			
+
 			metricsDark.width = metricsField.width;
 			metricsDark.height = metricsField.textHeight + 10;
-			metricsDark.x = screenWidth - metricsDark.width;
+			metricsDark.x = metricsField.x;
 			metricsDark.y = metricsField.y;
 			metricsDark.visible = true;
 			metricsField.visible = true;
@@ -145,19 +147,19 @@ class SplashScreen extends Sprite
 			metricsDark.visible = false;
 		}
 	}
-	
+
 	public function hide()
 	{
 		this.visible = false;
 		onHide();
 	}
-	
+
 	private function initBackground()
 	{
-		graphics.beginFill(0xbbbbbb);
-		graphics.drawRoundRect(0, 0, stage.stageWidth - BUFFER, stage.stageHeight - BUFFER, 20);
+		graphics.beginFill(0x000000);
+		graphics.drawRect(0, 0, stage.stageWidth - BUFFER, stage.stageHeight - BUFFER);
 		graphics.endFill();
-		
+
 		this.x = BUFFER / 2;
 		this.y = BUFFER / 2;
 	}
