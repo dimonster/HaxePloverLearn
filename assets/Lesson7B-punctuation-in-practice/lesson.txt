@@ -1,11 +1,11 @@
 Punctuation in situ
 Lesson 7 Exercise 2
-'`cat`': KH-FG KAT KH-FG
-'x^y': KP* KR-RT SWR*
+'`cat`': KH-FG KAT TK-LS KH-FG
+'x ^ y': KP* KR-RT SWR*
 'x ~ y': KP* T*LD SWR*
-'x<y': KP* AEPBGT SWR*
-'x>y': KP* A*EPBGT SWR*
-'x=y': KP* KWA*LS SWR*
+'x < y': KP* AEPBGT SWR*
+'x > y': KP* A*EPBGT SWR*
+'x = y': KP* KWA*LS SWR*
 'ls -R | less': HR* S* S-P H-PB R*P S-P PAO*EUP S-P HRES
 'under_scores': UPBD/*ER R*UPBD SKORS or *UPBD R*UPBD SKORS
 'bit-coin': PWEUT H-PB KOEUPB
