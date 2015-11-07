@@ -1,5 +1,5 @@
-Lesson 3C Exercise 2
 Including Sounds from Previous Lessons
+Lesson 3C Exercise 2
 'noun': TPHOUPB
 'inhibit': TPHEUBT
 'nudge': TPHUPBLG

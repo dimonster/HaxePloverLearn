@@ -1,5 +1,5 @@
-Lesson 3A-3
 Dipthong Chords
+Lesson 3A-3
 'all': AUL
 'awful': AUFL
 'raw': RAU

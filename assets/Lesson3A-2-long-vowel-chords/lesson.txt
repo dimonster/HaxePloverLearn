@@ -1,5 +1,5 @@
-Lesson 3A-2
 Long Vowel Chords
+Lesson 3A-2
 'aids': AEUDZ
 'ace': AEUS
 'ate': AEUT
@@ -49,8 +49,8 @@ Long Vowel Chords
 'prize': PRAOEUZ
 'kite': KAOEUT
 'type': TAOEUP
-'spite': SPAOEUT
 'hope': HOEP
+'spite': SPAOEUT
 'spore': SPOER
 'post': POEFT
 'sold': SOELD

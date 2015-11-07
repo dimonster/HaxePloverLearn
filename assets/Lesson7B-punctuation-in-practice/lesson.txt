@@ -1,5 +1,5 @@
-Lesson 7 Exercise 2
 Punctuation in situ
+Lesson 7 Exercise 2
 '`cat`': KH-FG KAT KH-FG
 'x^y': KP* KR-RT SWR*
 'x ~ y': KP* T*LD SWR*

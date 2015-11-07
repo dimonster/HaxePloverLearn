@@ -1,5 +1,5 @@
-Lesson 3D Exercise 2
 Including Sounds from Previous Lessons
+Lesson 3D Exercise 2
 'thing': THEUPBG
 'thence': THEPBS
 'them': THEPL
