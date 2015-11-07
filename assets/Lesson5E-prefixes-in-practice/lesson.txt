@@ -1,6 +1,24 @@
 Lesson 5 Exercise 5
-Prefixes continued
-'be kind': -B KEUPBD
-'behind': PWE hEUPBD
-'be hindered': -B HEUPBD/ERD or -B HEUPBD/ER/-D -B HEUPB/TKER/-D
+Prefixes and suffixes continued
+'be kind': -B KAOEUPBD
+'behind': PWE HAOEUPBD or HEUPBD
+'be hind': -B HEUPBD
+'beside': PWE SAOEUD
+'be side': -B SAOEUD
+'impossible': EUPL/POB
+'improbable': EUPL/PROB
+'in probable': TPH/PROB
+'invisible': EUPB/SREUBL
+'urchin': *URPBLG/-PB
+'urchin disguise': *URPBLG/-PB/STKPWAOEUS
+'in disguise': TPH/STKPWAOEUS or TPH/TKEUS/TKPWAOEUS or TPH/TKEUS/TKPWAOEUZ
+'urchin in disguise': *URPBLG/-PB/TPH/STKPWAOEUS
+'superimpose': SAOUP/EUPL/POES
+'super neat': SAO*UP/TPHAOET
+'to reopen': TO/RE/O/PEPB
+'organ': AUR/TKPWAPB or ORG/A*PB
+'orchid': AUR/KEUD
+'emperor': EPL/PER/O*R
+'emperor orchid': EPL/PER/O*R AUR/KEUD
+'escalate orchid': ES/KA/HRAEUT/AUR/KEUD
 require_spaces=true
