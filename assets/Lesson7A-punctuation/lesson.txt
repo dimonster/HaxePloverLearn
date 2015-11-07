@@ -19,7 +19,7 @@ Punctuation
 '/': OEU
 '.': TP-PL
 '.': P-P
-'...' SKWR-RBGS
+'...': SKWR-RBGS
 ''': A*E
 ''': AE
 '"': KW-GS
@@ -31,7 +31,7 @@ Punctuation
 '{': TPR-BGT
 '}': TPR*BGT
 '@': KWRAT
-'$' TK-PL
+'$': TK-PL
 '*': STA*R
 '\': SPWHRAERB
 '&': SP-PBD
