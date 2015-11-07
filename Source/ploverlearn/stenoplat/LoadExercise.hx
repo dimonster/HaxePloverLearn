@@ -7,6 +7,7 @@ import flash.display.Sprite;
 import flash.display.LoaderInfo;
 import flash.display.Loader;
 import flash.errors.IOError;
+import openfl.Lib;
 import openfl.Assets;
 import openfl.events.ErrorEvent;
 import openfl.events.IOErrorEvent;
@@ -24,33 +25,35 @@ using StringTools;
 /**
  * ...
  * @author EN
- * 
- * Load an exercise from a file in the format of Learn Plover! exercise solutions 
+ *
+ * Load an exercise from a file in the format of Learn Plover! exercise solutions
  * (cut and pasted from Learn Plover! site into each lesson.txt)
  * into an Exercise object.
- * 
+ *
  */
 
 class LoadExercise extends Sprite
 {
 	private var onExerciseLoaded : Exercise->Void;
 	private var fileName : String;
-	
+	private var randomise : Bool;
+
 	public function new(fileName:String, onExerciseLoaded:Exercise->Void)
 	{
 		super();
-		
+
 		this.onExerciseLoaded = onExerciseLoaded;
 		this.fileName = fileName;
+		this.randomise = Lib.current.loaderInfo.parameters.random == "true";
 	}
-	
+
 	public function load()
 	{
 		#if flash
 			var loader : URLLoader = new URLLoader();
 			loader.addEventListener(Event.COMPLETE, myCompleteHandler);
 			loader.addEventListener(IOErrorEvent.IO_ERROR, onError);
-			
+
 			try
 			{
 				loader.load(new URLRequest(fileName));
@@ -74,7 +77,7 @@ class LoadExercise extends Sprite
 			}
 		#end
 	}
-	
+
 	private function onError(e : Event) : Void
 	{
 		if (Assets.exists("assets/" + fileName))
@@ -90,13 +93,13 @@ class LoadExercise extends Sprite
 			trace(e);
 		}
 	}
-	
+
 	private function myCompleteHandler(event : Event) : Void
 	{
 		var loader : URLLoader = cast (event.target);
 		onExerciseLoaded(parseFile(loader.data));
 	}
-	
+
 	private function parseFile(fileTxt : String) : Exercise
 	{
 		var lines : Array<String> = fileTxt.split("\n");
@@ -108,7 +111,7 @@ class LoadExercise extends Sprite
 		{
 			var line : String = noreturn(lines[i]);
 			var firstChar = line.charAt(0);
-			
+
 			if(firstChar == "'")
 			{
 				var wordAndHint : Array<String> = line.split("\': ");
@@ -125,10 +128,40 @@ class LoadExercise extends Sprite
 				settings.push( { name:name, value:value } );
 			}
 		}
-		
+
+	if(this.randomise) {
+		words = this.shuffleArray(words);
+	}
+
 		return new Exercise(lessonTitle, exerciseName, words, settings);
 	}
-	
+
+  /**
+   * Randomize array element order in-place.
+   * Using Durstenfeld shuffle algorithm.
+   * http://stackoverflow.com/questions/2450954/how-to-randomize-shuffle-a-javascript-array
+   */
+  private function shuffleArray(array : Array<WordAndHint>) {
+	var currentIndex = array.length, temporaryValue, randomIndex ;
+
+	// While there remain elements to shuffle...
+	while (0 != currentIndex) {
+
+		// Pick a remaining element...
+		randomIndex = Math.floor(Math.random() * currentIndex);
+		currentIndex -= 1;
+
+		// And swap it with the current element.
+		temporaryValue = array[currentIndex];
+		array[currentIndex] = array[randomIndex];
+		array[randomIndex] = temporaryValue;
+	}
+
+	return array;
+  }
+
+
+
 	private function noreturn(s : String) : String
 	{
 		return s.replace("\r","");
