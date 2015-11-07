@@ -25,7 +25,7 @@ Lesson 7 Exercise 2
 'I (love you) want some milk.': EU PREPB HROF U PR*EPB WAPBT SOPL PH*EULG TP-PL
 'I luv [sic] you.': EU HR* *U SR* PWR-BGT S*EUBG PWR*BGT U TP-PL
 '{x, y}': TPR-BGT KP* KW-BG SWR* TPR*BGT
-'example@example.com`: KP-PL KWRAT KP-PL P-P KR* O* PH*
+'example@example.com': KP-PL KWRAT KP-PL P-P KR* O* PH*
 'I got the $$$. You got the stuff?': EU TKPWOT -T TK-PL TK-PL TK-PL TP-PL U TKPWOT -T STUF H-F
 'x*y': KP* STA*R KWR*
 'C:\': KR*P KHR-PB SPWHRAERB
@@ -33,4 +33,4 @@ Lesson 7 Exercise 2
 'C#': KR* HAERB
 'What % is that?': WHA PERS S THA H-F
 'x+y': KP* PHR*US KWR*
-require_spaces=true
+notice_spaces=true
