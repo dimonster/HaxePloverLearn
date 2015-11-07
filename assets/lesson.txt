@@ -1,5 +1,6 @@
 Lesson 0.0
 Another Test
+'Just say 'hi' and see what happens!': SKWRUFT SAEU A*E HEU AE APBD SAOE WHA HAPS SKHRAPL
 'course': KORS
 'cover': KOFR
 'hover': HOFR
