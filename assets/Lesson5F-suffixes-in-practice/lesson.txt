@@ -1,5 +1,0 @@
-Lesson 5 Exercise 4
-Suffixes continued:
-'urchin': *URPBLG/-PB
-'princes': PREUPBS/S
-notice_spaces=true
