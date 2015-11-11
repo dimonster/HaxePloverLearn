@@ -96,10 +96,10 @@ class GUIMain extends Sprite
 		parent.addEventListener(KeyboardEvent.KEY_DOWN, keyListener);
 		parent.addEventListener(MouseEvent.CLICK, onClick);
 
-		endSplash = new SplashScreen(exercise.lessonTitle + "\nFinished!", "Click to re-start.", onHideSplash);
+		endSplash = new SplashScreen(exercise.lessonTitle, "Finished.", "Click to re-start.", onHideSplash);
 		addChild(endSplash);
 
-		startSplash = new SplashScreen(exercise.lessonTitle + ":\n" + exercise.exerciseName, "Click to start", onHideSplash);
+		startSplash = new SplashScreen(exercise.lessonTitle, exercise.exerciseName, "Click to start", onHideSplash);
 		addChild(startSplash);
 		startSplash.show();
 		nextWord();
@@ -447,7 +447,47 @@ class GUIMain extends Sprite
 	private function finish()
 	{
 		metrics.stopTime();
+		endSplash.setSubHeaderText(this.getEndSplashSubHeader());
 		endSplash.show(metrics);
+	}
+
+	private function getEndSplashSubHeader():String
+	{
+		var finishedMessage : String;
+		finishedMessage = "";
+
+		if (metrics.misstrokes == 0) {
+			finishedMessage = "Perfect accuracy! ";
+		}
+
+		if (metrics.wpm > 300) {
+			finishedMessage += "Faster than you can read!";
+		} else if (metrics.wpm > 250) {
+			finishedMessage += "As fast as an auctioneer!";
+		} else if (metrics.wpm > 225) {
+			finishedMessage += "Faster than a pro stenographer!";
+		} else if (metrics.wpm > 160) {
+			finishedMessage += "Faster than the average stenographer!";
+		} else if (metrics.wpm > 150) {
+			finishedMessage += "Faster than you can talk!";
+		} else if (metrics.wpm > 100) {
+			finishedMessage += "Faster than a stenotype student!";
+		} else if (metrics.wpm > 80) {
+			finishedMessage += "Faster than a pro typist!";
+		} else if (metrics.wpm > 60) {
+			finishedMessage += "Faster than a good QWERTY typist!";
+		} else if (metrics.wpm > 40) {
+			finishedMessage += "Faster than your average typist!";
+		} else if (metrics.wpm > 27) {
+			finishedMessage += "Faster than hunt and peck typists!";
+		} else if (metrics.wpm > 22) {
+			finishedMessage += "Faster than Morsecode!";
+		} else if (metrics.wpm > 20) {
+			finishedMessage += "Faster than handwriting!";
+		} else {
+			finishedMessage += "Finished!";
+		}
+		return finishedMessage;
 	}
 
 	private function onHideSplash()

@@ -23,6 +23,7 @@ import openfl.text.TextFormatAlign;
 class SplashScreen extends Sprite
 {
 	private var header : String;
+	private var subheader : String;
 	private var info : String;
 	private var button : Sprite;
 	private var BUFFER : Int = 50;
@@ -31,16 +32,18 @@ class SplashScreen extends Sprite
 	private var metricsFieldValues : TextField;
 	private var metricsDark : Bitmap;
 	private var headerField : TextField;
+	private var subheaderField : TextField;
 	private var onHide : Void->Void;
 
 	private var screenHeight:Float = 0;
 	private var screenWidth:Float = 0;
 
-	public function new(header : String, info : String, onHide : Void->Void)
+	public function new(header : String, subheader : String, info : String, onHide : Void->Void)
 	{
 		super();
 
 		this.header = header;
+		this.subheader = subheader;
 		this.info = info;
 		this.onHide = onHide;
 		if (stage != null)
@@ -58,6 +61,7 @@ class SplashScreen extends Sprite
 		initBackground();
 
 		headerField = new NiceTextField(header, 45, 0xffffff, 0.9);
+		subheaderField = new NiceTextField(subheader, 25, 0xffffff, 0.9);
 		infoField = new NiceTextField(info, 25, 0xffffff, 0.8);
 		metricsField = new NiceTextField("A\nB\nC\nD\nE\n", 20, 0xffffff, 1.0, false, this.width/5, TextFormatAlign.LEFT);
 		metricsFieldValues = new NiceTextField("A\nB\nC\nD\nE\n", 20, 0xffffff, 1.0, false, this.width/5, TextFormatAlign.RIGHT);
@@ -73,18 +77,25 @@ class SplashScreen extends Sprite
 		headerField.x = 0;
 		headerField.y = height / 3;
 
+		subheaderField.width = this.width;
+		subheaderField.height = 2 * subheaderField.textHeight + 10;
+		subheaderField.wordWrap = true;
+		subheaderField.x = 0;
+		subheaderField.y = (height / 3) + headerField.textHeight;
+
 		infoField.x = (width - infoField.width) / 2;
 		infoField.y = 3 * height / 4;
 
 		screenHeight = height;
 		screenWidth = width;
 
-    var ploverBitmap = new Bitmap(Assets.getBitmapData("assets/plover.jpg"));
-    ploverBitmap.x = (screenWidth / 2) - (ploverBitmap.width / 2);
+		var ploverBitmap = new Bitmap(Assets.getBitmapData("assets/plover.jpg"));
+		ploverBitmap.x = (screenWidth / 2) - (ploverBitmap.width / 2);
 		this.addChild(ploverBitmap);
 
 		this.addChild(infoField);
 		this.addChild(headerField);
+		this.addChild(subheaderField);
 		this.addChild(metricsDark);
 		this.addChild(metricsField);
 		this.addChild(metricsFieldValues);
@@ -105,6 +116,11 @@ class SplashScreen extends Sprite
 		addEventListener(MouseEvent.CLICK, buttonClick);
 
 		this.visible = false;
+	}
+
+	public function setSubHeaderText(s : String)
+	{
+		subheaderField.text = s;
 	}
 
 	private function buttonClick(e : Event)
