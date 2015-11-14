@@ -1,0 +1,12 @@
+.hide {
+  display: none;
+}
+
+.steno-stroke {
+  background-color: #666;
+  border: none;
+  color: #eee;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  white-space: nowrap;
+}
