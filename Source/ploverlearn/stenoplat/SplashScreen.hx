@@ -89,7 +89,7 @@ class SplashScreen extends Sprite
 		screenHeight = height;
 		screenWidth = width;
 
-		var ploverBitmap = new Bitmap(Assets.getBitmapData("assets/plover.jpg"));
+		var ploverBitmap = new Bitmap(Assets.getBitmapData("assets/images/plover.jpg"));
 		ploverBitmap.x = (screenWidth / 2) - (ploverBitmap.width / 2);
 		this.addChild(ploverBitmap);
 

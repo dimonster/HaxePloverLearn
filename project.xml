@@ -11,6 +11,6 @@
 	<haxelib name="openfl" />
 
 	<assets path="Assets" rename="assets" exclude="*.svg" />
-	<icon path="Assets/openfl.svg" />
+	<icon path="Assets/images/openfl.svg" />
 
 </project>

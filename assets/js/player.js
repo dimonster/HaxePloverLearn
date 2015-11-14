@@ -14,7 +14,7 @@ var flashvars = {
 };
 
 swfobject.embedSWF(
-  "../StenoPlatformer.swf",
+  "../../StenoPlatformer.swf",
   "fallbackContent", "960", "480", "10.0.0",
-  "../expressInstall.swf",
+  "../../expressInstall.swf",
   flashvars, params, attributes);
