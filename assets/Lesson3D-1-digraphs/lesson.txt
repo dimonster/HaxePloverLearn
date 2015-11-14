@@ -1,5 +1,5 @@
-Digraphs
 Lesson 3D Exercise 1
+Digraphs
 'thefts': THEFTS
 'thud': THUD
 'thus': THUS

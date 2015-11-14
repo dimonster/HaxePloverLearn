@@ -1,5 +1,5 @@
-Punctuation in practice
 Lesson 7 Exercise 2
+Punctuation in practice
 '`cat`': KH-FG KAT TK-LS KH-FG
 'x ^ y': KP* KR-RT SWR*
 'x ~ y': KP* T*LD SWR*

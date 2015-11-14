@@ -1,5 +1,5 @@
-Vowel Disambiguator Chords
 Lesson 3A-4
+Vowel Disambiguator Chords
 'wheel': WHAOEL
 'wheal': WHAEL
 'read': RAED
