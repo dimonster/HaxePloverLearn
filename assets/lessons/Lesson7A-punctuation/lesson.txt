@@ -11,7 +11,7 @@ Punctuation
 '-': H-PB
 '--': TK-RB
 ',': KW-BG
-';': SKWR*RBGS
+';': SKWR*RBGS or STPH*FPLT
 ':': STPH-FPLT
 ':': KHR-PB
 '!': SKHRAPL
