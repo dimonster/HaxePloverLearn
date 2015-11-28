@@ -71,3 +71,4 @@ Numbers
 '22:00': #TKD or #TBGD
 '23:00': #TKP- or #T-PBG
 '24:00': #TKH or #THBG
+'1000': #SO/#OD
