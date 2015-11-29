@@ -5,3 +5,4 @@ Inversion
 'twelve': TWEFL
 'credit': KRETD
 'portal': PORLT
+'self': SELF
