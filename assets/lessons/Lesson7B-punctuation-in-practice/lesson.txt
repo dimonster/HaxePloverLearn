@@ -1,36 +1,44 @@
 Lesson 7 Exercise 2
 Punctuation in practice
-'`cat`': KH-FG KAT TK-LS KH-FG
-'x ^ y': KP* KR-RT SWR*
-'x ~ y': KP* T*LD SWR*
-'x < y': KP* AEPBGT SWR*
-'x > y': KP* A*EPBGT SWR*
-'x = y': KP* KWA*LS SWR*
-'ls -R | less': HR* S* S-P H-PB R*P S-P PAO*EUP S-P HRES
-'under_scores': UPBD/*ER R*UPBD SKORS or *UPBD R*UPBD SKORS
-'bit-coin': PWEUT H-PB KOEUPB
-'Wait -- stop': WAEUT TK-RB STOP
-'Be good, and be kind': -B TKPWAOD KW-BG APBD -B KAOEUPBD
-'Be good; be kind': -B TKPWAOD SKWR*RBGS KAOEUPBD
-'Plover: The winnah': PHRO*FR STPH-FPLT W* EU* TPH* TPH* A* H*
-'x:y': KP* KHR-PB KWR*
-'Why? Because!': KWR H-F BWAUS SKHRAPL
-'Why? Why not?': KWR H-F KWR PHOT H-F
-'x/y': KP* OEU KWR*
-'There it is. Better': THR EUT S TP-PL PWET/ER
-'It's.here.for.you': T-S P-P HAOER P-P TPOR P-P U P-P
+'There it is. Better.': THR EUT S TP-PL PWET/ER TP-PL
+'A.K.A': A*P P-P K*P P-P A*P
 'No... Just no...': TPHO SKWR-RBGS SKWRUFT TPHO SKWR-RBGS
+'No... it did not': TPHO HR-PS -T TKEUD TPHOT
+'Why? Why not?': KWR H-F KWR PHOT H-F
+'Why? Because!': KWR H-F PBAUS SKHRAPL
 'Just say 'hi' and see what happens!': SKWRUFT SAEU A*E HEU AE APBD SAOE WHA HAPS SKHRAPL
 'I think "love" can be hard to say.': EU THEU KW-GS HROF KR-GS K -B HARD TO SAEU TP-PL
+'Be good, and be kind': -B TKPWAOD KW-BG APBD -B KAOEUPBD
+'Be good; be kind': -B TKPWAOD SKWR*RBGS (or STPH*FPLT) -B KAOEUPBD
+'Plover: The winnah': PHRO*FR STPH-FPLT -T W* EU* TPH* TPH* A* H*
+'x:y': KP* KHR-PB KWR*
+'bit-coin': PWEUT H-PB KOEUPB
+'Wait -- stop': WAEUT TK-RB STOP
+'x - y': XP* PH*PBS KWR*
+'x+y': KP* PHR*US KWR*
+'x=y': KP* KWA*LS KWR*
+'x = y': KP* KW-L KWR*
+'x*y': KP* STA*R KWR*
+'x<y': KP* AEPBGT KWR* or KP* AEPBG KWR*
+'x>y': KP* A*EPBGT KWR* or KP* A*EPBG KWR*
+'x < y': KP* HR*PB KWR*
+'x > y': KP* TKPWR*PB KWR*
+'x <link> y': KP* PWRABG HR*EUPBG PWRA*BG KWR*
 'I (love you) want some milk.': EU PREPB HROF U PR*EPB WAPBT SOPL PH*EULG TP-PL
 'I luv [sic] you.': EU HR* *U SR* PWR-BGT S*EUBG PWR*BGT U TP-PL
-'{x, y}': TPR-BGT KP* KW-BG SWR* TPR*BGT
-'example@example.com': KP-PL KWRAT KP-PL P-P KR* O* PH*
-'I got the $$$. You got the stuff?': EU TKPWOT -T TK-PL TK-PL TK-PL TP-PL U TKPWOT -T STUF H-F
-'x*y': KP* STA*R KWR*
+'{x, y}': TPR-BGT KP* KW-BG KWR* TPR*BGT
+'x/y': KP* OEU KWR*
 'C:\': KR*P KHR-PB SPWHRAERB
-'salt & pepper': SALT SP-PBD PAOERP
-'C#': KR* HAERB
+'x ~ y': KP* S-P T*LD KWR*
+'x~y': KP* T*LD TK-LS KWR* or KP* T*EULD KWR*
+'example@example.com': KP-PL KWRAT KP-PL P-P KR* O* PH*
+'C#': KR*P TK-LS HAERB
+'I got the $$$': EU TKPWOT -T TK-PL TK-PL TK-PL TP-PL
 'What % is that?': WHA PERS S THA H-F
-'x+y': KP* PHR*US KWR*
+'x^y': KP* KR-RT KWR*
+'now & then': TPHOU SP-PBD THEPB
+'snake_case': STPHAEUBG R*UPBD KAEUS
+'|x|': PAO*EUP XP* PAO*EUP
+'```shell': KH-FG KH-FG KH-FG SHEL
+'the `chop` method': -T TR-RL KHOP TR*RL PH*ETD
 notice_spaces=true

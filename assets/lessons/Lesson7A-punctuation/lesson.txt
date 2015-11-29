@@ -1,40 +1,36 @@
 Lesson 7 Exercise 1
 Punctuation
-'`': KH-FG
-'^': KR-RT
-'~': T*LD
-'<': AEPBGT
-'>': A*EPBGT
-'=': KWA*LS
-'|': PAO*EUP
-'_': R*UPBD
-'-': H-PB
-'--': TK-RB
+'.': TP-PL or P-P
+'...': SKWR-RBGS or HR-PS
+'?': H-F
+'!': SKHRAPL
+''': A*E or AE
+'"': KW-GS or KR-GS
 ',': KW-BG
 ';': SKWR*RBGS or STPH*FPLT
-':': STPH-FPLT
-':': KHR-PB
-'!': SKHRAPL
-'?': H-F
-'/': OEU
-'.': TP-PL
-'.': P-P
-'...': SKWR-RBGS
-''': A*E
-''': AE
-'"': KW-GS
-'"': KR-GS
+':': STPH-FPLT or KHR-PB
+'-': H-PB or PH*PBS
+'--': TK-RB
+'+': PHR*US
+'=': KWA*LS or KW-L
+'*': STA*R
+'<': AEPBGT or AEPBG
+'>': A*EPBGT or A*EPBG
 '(': PREPB
 ')': PR*EPB
 '[': PWR-BGT
 ']': PWR*BGT
 '{': TPR-BGT
 '}': TPR*BGT
-'@': KWRAT
-'$': TK-PL
-'*': STA*R
+'/': OEU
 '\': SPWHRAERB
-'&': SP-PBD
+'~': T*LD
+'@': KWRAT
 '#': HAERB
+'$': TK-PL
 '%': PERS
-'+': PHR*US
+'^': KR-RT
+'&': SP-PBD
+'_': R*UPBD
+'|': PAO*EUP
+'`': KH-FG or TR-RL or TR*RL

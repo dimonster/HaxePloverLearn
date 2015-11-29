@@ -5,6 +5,7 @@ Long Vowel Chords
 'ate': AEUT
 'able': AEUBL
 'ape': AEUP
+'case': KAEUS
 'raid': RAEUD
 'raise': RAEUZ
 'rail': RAEUL

@@ -42,6 +42,7 @@ Including Sounds from Previous Lessons
 'slouch': SHROUFP
 'smooch': SPHAOFP
 'splotch': SPHROFP
+'shell': SHEL
 'shim': SHEUPM
 'slime': SHRAOEUPL
 'shrewd': SHRAOUD
