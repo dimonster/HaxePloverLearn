@@ -1,0 +1,53 @@
+Lesson 8 Exercise 2
+Numbers in Practice
+'1 January': #S SKWRAPB
+'2 April': #T- PREUL
+'3 June': #P- SKWRAOUPB
+'4 November': #H TPHO*F
+'5 December': #A TKAO*ES
+'6 July': #F SKWRUL
+'7 September': #-P SEPT
+'8 October': #L OBGT
+'9 May': #-T PHA*EU
+'10 August': #SO AUG
+'11 March': #SD PHA*FRPB
+'12 February, 2015': #ST TP*EB KW-BG #TO #SA
+'0 pegs': #O PEGS
+'(25, 07)': PREPB #TA KW-BG #OP PR*EPB
+'4952': #HT #TAEU
+'709411': #OEUP #HEUT #SD
+'77,001': #-PD KW-BG TK-LS #OZ #S
+'33.44': #P-D P-P #HD
+'22/55': #T-D OEU #AD
+'99.00': #-TD P-P #OZ
+'1068': #SO/#FL or #S/#O/#F/#L or #SOFL
+'700039': #OEUP/#OZ/#PT
+'81254583': #LS/#TA/#HA/#PEUL
+'100g': #SZ TKPW*
+'200m': #T-Z PH*
+'300mm': #P-Z PH* PH*
+'400km': #HZ K* PH*
+'500s': #AZ S*
+'600cm': #FZ KR* PH*
+'700ml': #-PZ PH* HR*
+'800L': #LZ H*P R*P
+'900kg': #-T #OZ K* TKPW*
+'$100': #SDZ
+'$200.00': #T-DZ P-P #OZ
+'$300.66': #P-DZ P-P #OZ #FD
+'$400.09': #HDZ P-P #OT
+'$500.80': #ADZ P-P #OEUL
+'$6.00': TKPL #F P-P #OZ
+'$71.00': TKPL #SEUP P-P #OZ
+'$89.00': TKPL #LT P-P #OZ
+'1:00': #SK or #SBG
+'2:00': #TK or #TBG
+'3:4': #P KHR-PB #H
+'5:30': #A #POBG
+'6:00 a.m.': #KF A*PL or #FBG A*PL
+'7:00 p.m.': #K-P P*PL or #-PBG P*PL
+'8:20': #L #TOBG
+'9:15': #-T or #SABG
+'10:00': #SKO or #SOBG
+'24:00': #TKH or #THBG
+notice_spaces=true

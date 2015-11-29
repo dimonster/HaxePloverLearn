@@ -21,13 +21,13 @@ Numbers
 '33': #P-D
 '44': #HD
 '55': #AD
-'00': #OD
+'00': #OZ
 '66': #FD
 '77': #-PD
 '88': #LD
 '99': #-TD
 '1068': #SO/#FL or #S/#O/#F/#L or #SOFL
-'700039': #OEUP/#OD/#PT
+'700039': #OEUP/#OZ/#PT
 '81254583': #LS/#TA/#HA/#PEUL
 '100': #SZ
 '200': #T-Z
@@ -71,4 +71,4 @@ Numbers
 '22:00': #TKD or #TBGD
 '23:00': #TKP- or #T-PBG
 '24:00': #TKH or #THBG
-'1000': #SO/#OD
+'1000': #SO/#OZ
