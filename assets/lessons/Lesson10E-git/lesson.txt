@@ -1,0 +1,14 @@
+Lesson 10 Exercise 5
+Git
+'git add dict.JSON': TKPWEUT AD S-P TKEUBGT P-P SKWRO*FPB
+'status': ST*TS
+'diff --cached': TKEUF TK*RB KAERBD
+'commit -v': KPHEUT H*PB SR*
+'log -p': HROG H*PB P*
+'push origin master': PURB O*RPBLG PHAFRT
+'pull --rebase': PUL TK*RB RE/PWAEUS
+'checkout -b hotfix': KHEBG/O*UT H*PB PW* HOT TK-LS TPEUBGS
+'reset HEAD^': RE/SET KPA*E/HED KR-RT
+'reset --hard origin/master': RE/SET TK*RB HARD O*RPBLG OEU PHAFRT
+case_sensitive=true
+notice_spaces=true

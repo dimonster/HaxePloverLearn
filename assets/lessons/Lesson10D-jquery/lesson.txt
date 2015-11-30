@@ -1,5 +1,5 @@
 Lesson 10 Exercise 4
-Programming jQuery
+jQuery
 '$(document)': TK-PL TK-LS PREPB TKOBG/*PLT PR*EPB
 '.ready(': P-P RED/TKEU TK-LS PREPB
 'function(){': TPUBGS TK-LS PREPB PR*EPB TPR-BGT
