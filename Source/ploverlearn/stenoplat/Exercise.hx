@@ -15,51 +15,52 @@ class Exercise
 	public var words : Array<WordAndHint>;
 	public var wordIndex : Int = -1;
 	public var random : Bool = false;
-	
+
 	public var caseSensitive(default, null):Bool = false;
 	public var requireSpaces(default, null):Bool = false;
 	public var noticeSpaces(default, null):Bool = false;
 	public var ignoredChars(default, null):Array<String> = null;
-	
+	public var warningMessage(default, null):String = null;
+
 	public function new(lessonTitle:String, exerciseName:String, words:Array<WordAndHint>, ?settings:Array<Setting>)
 	{
 		this.lessonTitle = lessonTitle;
 		this.exerciseName = exerciseName;
 		this.words = words;
-		
+
 		_setSettings(settings);
-		
+
 		if (random)
 		{
 			randomize();
 		}
 	}
-	
+
 	public function toString() : String
 	{
 		return "Exercise:\n lessonTitle=\'" + lessonTitle + "\'\n exerciseName=\'" + exerciseName + "\'\n words=" + words;
 	}
-	
+
 	public function nextWord() : Void
 	{
 		wordIndex++;
 	}
-	
+
 	public function hasNextWord() : Bool
 	{
 		return wordIndex < words.length - 1;
 	}
-	
+
 	public function reset()
 	{
 		wordIndex = -1;
 	}
-	
+
 	public function word() : String
 	{
 		return words[wordIndex].word;
 	}
-	
+
 	public function peekWord(i:Int) : String
 	{
 		if (wordIndex + i < words.length && wordIndex + i >= 0)
@@ -68,17 +69,17 @@ class Exercise
 		}
 		return "";
 	}
-	
+
 	public function hint() : String
 	{
 		return words[wordIndex].hint;
 	}
-	
+
 	public function randomize()
 	{
 		words.sort(_randomize);
 	}
-	
+
 	private function _setSettings(settings:Array<Setting>):Void
 	{
 		for (setting in settings)
@@ -89,10 +90,11 @@ class Exercise
 				case "require_spaces": requireSpaces = boolify(setting.value);
 				case "notice_spaces": noticeSpaces = boolify(setting.value);
 				case "ignore_characters": ignoredChars = arrayify(setting.value);
+				case "warning_message": warningMessage = setting.value;
 			}
 		}
 	}
-	
+
 	private function arrayify(str:String):Array<String>
 	{
 		if (str == "" || str == null)
@@ -111,7 +113,7 @@ class Exercise
 		}
 		return ignoredChars;
 	}
-	
+
 	private function boolify(str:String):Bool
 	{
 		str = str.toLowerCase();
@@ -121,7 +123,7 @@ class Exercise
 		}
 		return false;
 	}
-	
+
 	private function _randomize(a : WordAndHint, b : WordAndHint) : Int
 	{
 		return ((Math.random() > .5)) ? 1 : -1;

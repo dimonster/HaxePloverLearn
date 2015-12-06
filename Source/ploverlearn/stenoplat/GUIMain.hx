@@ -164,6 +164,11 @@ class GUIMain extends Sprite
 			strs.push("IGNORING: (" + exercise.ignoredChars.join(",")+")");
 		}
 
+		if (exercise.warningMessage != null)
+		{
+			strs.push(exercise.warningMessage);
+		}
+
 		if (strs.length != 0)
 		{
 			settingsField.text = strs.join(", ");
