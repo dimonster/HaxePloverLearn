@@ -1,5 +1,5 @@
-Lesson 10 Exercise 2
 HTML
+
 '<!doctype html>': AEPBG SKHRAPL TK-LS TKO*BG TK-LS TAOEUP H*PLT A*EPBG
 '<html lang="en">': AEPBG H*PLT TPHRO*ER HRAPBG KWA*LS KW-GS *E TPH* KR-GS A*EPBG
 '<head>': AEPBG HED A*EPBG

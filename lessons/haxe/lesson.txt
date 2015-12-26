@@ -1,5 +1,5 @@
-Lesson 10 Exercise 1
 Haxe
+
 'package;': PAPBLG/SKHR*PB
 'import': EUPL/PORT
 'openfl.': OEP/TK-LS/TP*/HR*P-P

@@ -1,5 +1,5 @@
-Lesson 10 Exercise 5
 Git
+
 'git add dict.JSON': TKPWEUT AD S-P TKEUBGT P-P SKWRO*FPB
 'status': ST*TS
 'diff --cached': TKEUF TK*RB KAERBD

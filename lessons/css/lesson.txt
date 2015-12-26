@@ -1,5 +1,5 @@
-Lesson 10 Exercise 3
 CSS
+
 '/* the media object */': OEU STA*R S-P -T PHAOED/KWRA OB/SKWREBGT S-P STA*R OEU
 '.media {margin:10px;}': P-P PHAOED/KWRA TPR-BGT PHAR/SKWREUPB KHR-PB #SO P* KP* SKWR*RBGS TPR*BGT
 '.media, .bd {': P-P PHAOED/KWRA KW-BG S-P P-P PW* TK* TPR-BGT
