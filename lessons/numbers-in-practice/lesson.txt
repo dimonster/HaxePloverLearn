@@ -50,4 +50,12 @@ Numbers in Practice
 '9:15': #-T or #SABG
 '10:00': #SKO or #SOBG
 '24:00': #TKH or #THBG
+'1/2': HA*F or TPHA*F
+'1/3': TH*EURD or 130EU
+'1/4': KWA*RT or 140EU
+'2/3': 230EU
+'3/4': 340EU
+'1/8': 10EU8
+'3/8': 30EU8
+'5/8': 50EU8
 notice_spaces=true
