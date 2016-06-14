@@ -1,18 +1,9 @@
 More Suffixes
 
-'^'s': A*ES
-'^s': -S
-'^ed': D
-'-'d': *D
-'-'ll': AOEL
-'-tious': -RBS
-'-cious': -RBS
-'-xious': -RBS
 '^itious': EURBS
 '^aceous': AEURBS
 '^licious': HREURBS
 '^ticious': TEURBS
-'^tious': SHUS
 '^ious': KWROUS
 '^orious': OR/KWROUS
 '^uous': WOUS
@@ -22,15 +13,7 @@ More Suffixes
 '^inous': TPHOUS
 '^us': KWRUS
 '^ulus': HRUS
-'-th': *T
-'^th': *T
-'-st': FT (or *S in some theories)
-'-v': F (or *F in some theories)
-'-tion': GS
-'-cian': GS
-'-sion': GS
-'-gion': GS
-'-cean': GS
+'^th': *T (for -th endings too)
 '^ean': AO*EPB or KWRA*PB
 '^tion': SH*UPB
 '^ation': AEUGS
@@ -154,4 +137,4 @@ More Suffixes
 '^liness': HREUPBS or HR*EUPBS
 '^iveness': EUFPBS
 '^ary': AER
-ignore_characters='^-'
+ignore_characters='^'
