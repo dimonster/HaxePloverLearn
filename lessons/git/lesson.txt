@@ -18,7 +18,7 @@ Git
 'pull --rebase': PUL TK*RB RE/PWAEUS
 'checkout -b hotfix': KHEBG/SKWROUT H*PB PW* HOT TK-LS TPEUBGS
 'git checkout': TKPW*OUT
-'git checkout -b': TKPWR*OUT
+'git checkout -b': TKPW*OUT/WH*PB
 'reset HEAD^': RE/SET KPA*E/HED KR-RT
 'reset --hard origin/master': RE/SET TK*RB HARD O*RPBLG OEU PHAFRT
 'merge': PHERPBLG
