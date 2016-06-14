@@ -1,7 +1,9 @@
+# Common Words Part 36
+
 * misses `PHEUFZ`
 * mirror `PHROR`
 * headed `HED/-D`
-* minute `PHEUP`
+* minute `PHEUPB`
 * mining `PHAOEUPBG`
 * hearts `HARTS`
 * minded `PHAOEUPBD/-D`
@@ -40,11 +42,11 @@
 * hoping `HOEPG`
 * looked `HRAOBGD`
 * longed `HROPBG/-D`
-* longer `HRORPG`
+* longer `HRORPBG`
 * horses `HORS/-S`
 * locked `HROBGD`
 * locals `HROEL/-S`
 * hotter `HORT`
-* little `HREL`
+* little `HREUL`
 * hotels `HOE/TELS`
 * listen `HREUFPB`

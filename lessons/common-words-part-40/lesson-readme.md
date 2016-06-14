@@ -1,3 +1,5 @@
+# Common Words Part 40
+
 * whiting `WHAOEUT/-G`
 * makings `PHAEUBG/-GS`
 * hitting `HEUGT`
@@ -19,7 +21,7 @@
 * matters `PHAERTS`
 * student `STAUPB`
 * dinners `TKEUPB/ERS`
-* meaning `PHAOEPG`
+* meaning `PHAOEPBG`
 * herself `H*ERS`
 * attacks `A/TABGS`
 * willing `-LG`

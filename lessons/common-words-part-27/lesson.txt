@@ -11,7 +11,7 @@ Common Words Part 27
 'thirds': THEURDZ
 'blower': PWHROER
 'thinks': THEUS
-'things': THEUBGS
+'things': THEUPBGS
 'bluest': PWHRU/*ES
 'boards': PWORDZ
 'thanks': THAPBGS
@@ -37,7 +37,7 @@ Common Words Part 27
 'boxing': PWOBGS/-G
 'anyway': TPHAE
 'brains': PWRAEUPBS
-'branch': PWAFRPB
+'branch': PWRAFRPB
 'surest': SHUR/*ES
 'broken': PWROEPB
 'breaks': PWRAEBGS

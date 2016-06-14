@@ -20,7 +20,7 @@ Common Words Part 28
 'storms': STORPLS
 'stores': STORS
 'stored': STORD
-'cannot': KAPBLT
+'cannot': K/TPHOT
 'animal': PHAPBL
 'stones': STOEBS
 'caring': KARG
@@ -40,7 +40,7 @@ Common Words Part 28
 'stares': STAERS
 'stared': STAERD
 'chance': KHAPBS
-'change': KHAEUBG
+'change': KHAEUPBG
 'keeper': KAOEP/*ER
 'stands': STAPBDZ
 'cheeks': KHAOEBGS

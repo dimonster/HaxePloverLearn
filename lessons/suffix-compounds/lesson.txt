@@ -1,5 +1,5 @@
 Lesson 5 Exercise 4
-Suffix Compounds:
+Suffix Compounds
 'princes': PREUPBS/S
 'princess': PREUPB/SES
 'headed': HED/D

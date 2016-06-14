@@ -1,3 +1,5 @@
+# Common Words Part 35
+
 * groups `TKPRAOUPS`
 * opener `OEP/ER`
 * opened `OEPD`
@@ -43,7 +45,7 @@
 * mother `PHOER`
 * having `SR-G`
 * mostly `PHOFLT`
-* months `PHO*PTS`
+* months `PHO*PBTS`
 * monies `PHOPB/KWREU/-S`
 * moneys `PHUPB/-S`
 * moment `PHOEPLT`

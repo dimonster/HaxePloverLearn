@@ -1,3 +1,5 @@
+# Common Words Part 32
+
 * almost `HR-PL`
 * rubbed `RUBD`
 * evened `*EFPB/-D`
@@ -27,7 +29,7 @@
 * fading `TPAEUD/-G`
 * rested `REFT/-D`
 * failed `TPAEULD`
-* fallen `TPAL/-PB`
+* fallen `TPAUL/-PB`
 * family `TPAEPL`
 * repeat `RE/PAOET`
 * remove `RE/PHOF`
@@ -44,7 +46,7 @@
 * fought `TPAUT`
 * figure `TPEUG`
 * filled `TPEULD`
-* reason `R-P`
+* reason `R-PB`
 * finals `TPAOEUPBLS`
 * really `HROERL`
 * finder `TPAOEURPBD`

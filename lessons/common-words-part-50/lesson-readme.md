@@ -1,3 +1,5 @@
+# Common Words Part 50
+
 * clothing `KHRO*ET/-G`
 * believer `PWHREFR`
 * language `HRAPBL`
@@ -34,7 +36,7 @@
 * cleaning `KHRAOEPBG`
 * markings `PHARBG/-GS`
 * marriage `PHAERPBLG`
-* marrying `PHAEUR/EUG`
+* marrying `PHAR/REU/-G`
 * mattered `PHAERTD`
 * appeared `A/PAOERD`
 * meanings `PHAOEPBGS`

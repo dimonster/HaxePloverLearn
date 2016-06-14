@@ -1,3 +1,5 @@
+# Common Words Part 16
+
 * teeth `TAO*ET`
 * tooth `TAO*T`
 * every `EF`
@@ -19,7 +21,7 @@
 * extra `OEURBGS`
 * tires `TAOEURS`
 * tired `TAOEURD`
-* green `KWRAOEPB`
+* green `TKPWRAOEPB`
 * meant `PHEPBT`
 * timer `TAOEURPL`
 * order `ORD`
@@ -28,23 +30,23 @@
 * timed `TAOEUPLD`
 * times `TAOEUPLS`
 * tying `TAOEUG`
-* black `PWHABG`
+* black `PWHRABG`
 * river `REUFR`
 * group `TKPWRAUP`
 * roses `ROES/-S`
 * threw `THRAOU`
 * block `PWHROBG`
 * throw `THROE`
-* blood `PHRAOD`
+* blood `PWHRAOD`
 * rises `RAOEUZ/-Z`
-* three `THRE`
+* three `THRAOE`
 * risen `REUFPB`
 * those `THOZ`
-* means `PHAOEPS`
+* means `PHAOEPBS`
 * would `WO`
 * third `THEURD`
 * blown `PWHROEPB`
 * blows `PWHROES`
 * think `THEU`
 * rings `REUPBGS`
-* again `STPWEB`
+* again `TKPWEPB`

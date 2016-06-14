@@ -1,3 +1,5 @@
+# Common Words Part 54
+
 * farthest `TPA*RT/*ES`
 * suggests `SUGZ`
 * families `TPAEPLS`
@@ -14,7 +16,7 @@
 * brighter `PWRAOEURT`
 * bridging `PWREUPBLG/-G`
 * villages `SREULGS`
-* explains `SPHRAEUBS`
+* explains `SPHRAEUPBS`
 * breather `PWRAO*ET/ER`
 * expected `KP-PTD`
 * breathes `PWRAO*ETS`

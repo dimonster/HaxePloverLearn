@@ -1,12 +1,14 @@
+# Common Words Part 8
+
 * open `OEP`
 * onto `OEPBT`
 * bent `PWEPBT`
 * bend `PWEPBD`
 * runs `RUPS`
-* from `PR`
-* only `OPBL`
+* from `TPR`
+* only `OEPBL`
 * ones `WUPBZ`
-* best `PW*ES`
+* best `PWEFT`
 * toss `TO*S`
 * rubs `RUBS`
 * rows `RO*EZ`
@@ -16,7 +18,7 @@
 * hits `HEUTS`
 * wipe `WAOEUP`
 * tops `TOPS`
-* even `AOEP`
+* even `AOEPB`
 * pops `POPS`
 * fuck `TPUBG`
 * hate `HAEUT`

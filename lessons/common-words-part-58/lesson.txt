@@ -18,7 +18,7 @@ Common Words Part 58
 'realizing': RAELD/AOEUZ/-G
 'reasoning': R-PBG
 'receiving': SAOEFG
-'attention': A/TEPBG
+'attention': A/T-PBGS
 'recognize': REZ
 'suggested': SUGD
 'remaining': RE/PHAEPBG
@@ -34,7 +34,7 @@ Common Words Part 58
 'revealing': RAOE/SRAOELG
 'branching': PWRAPB/-FPG
 'surprises': SPRAOEUFS
-'surprised': SPROEUFD
+'surprised': SPRAOEUFD
 'direction': TKREBGS
 'explained': SPHRAEUPBD
 'expecting': EBGS/PEG

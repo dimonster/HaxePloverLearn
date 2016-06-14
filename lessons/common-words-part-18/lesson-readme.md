@@ -1,3 +1,5 @@
+# Common Words Part 18
+
 * falls `TPAULZ`
 * swung `SWUPBG`
 * swing `SWEUPBG`
@@ -12,7 +14,7 @@
 * highs `HAOEUS`
 * brain `PWRAEUPB`
 * guard `TKPWARD`
-* break `PRAEBG`
+* break `PWRAEBG`
 * broke `PWROEBG`
 * fears `TPAOERZ`
 * surer `SHUR/ER`
@@ -43,7 +45,7 @@
 * stuff `STUF`
 * study `STO*UD`
 * buses `PWUS/-S`
-* where `W*R`
+* where `W-R`
 * keeps `KAOEPS`
 * lasts `HRAFTS`
 * fills `TPEULS`

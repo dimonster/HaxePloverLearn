@@ -1,3 +1,5 @@
+# Common Words Part 52
+
 * plastics `PHRAFBGS`
 * centered `STR-D`
 * starting `STARGT`
@@ -20,7 +22,7 @@
 * powering `POURG`
 * prepared `PRAOEPD`
 * prepares `PRAOEPS`
-* becoming `P-BG/-G`
+* becoming `PW-BG/-G`
 * stealing `STAELG`
 * forwards `TPAORDZ`
 * stepping `STEPG`

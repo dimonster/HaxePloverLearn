@@ -8,7 +8,7 @@ Common Words Part 46
 'realize': RAEFL
 'anymore': TPHEUPL
 'finding': TPAOEPBGD
-'anybody': PHEUB
+'anybody': TPHEUB
 'finally': TPHRAOEUPBL
 'closing': KHROEFG
 'reasons': R-PBS
@@ -38,7 +38,7 @@ Common Words Part 46
 'cleared': KHRAOERD
 'remains': RE/PHAEUPBS
 'cleaner': KHRAOERPB
-'feeling': TPAO*EL
+'feeling': TPAOELG
 'worried': WOERD
 'village': SREULG
 'thanked': THAPBGD

@@ -1,3 +1,5 @@
+# Common Words Part 24
+
 * short `SHORT`
 * horse `HORS`
 * haves `SR-S`
@@ -29,11 +31,11 @@
 * sharp `SHARP`
 * month `PHO*PBT`
 * girls `TKPWEURLS`
-* wrong `WROPG`
-* given `TKPWEUFP`
+* wrong `WROPBG`
+* given `TKPWEUFPB`
 * share `SHAEUR`
 * drops `TKROPS`
-* money `PHUB`
+* money `PHUPB`
 * locks `HROBG/-S`
 * above `PWOF`
 * picks `PEUBGS`
@@ -41,7 +43,7 @@
 * photo `TPOET`
 * local `HROEL`
 * phone `TPOEPB`
-* gives `TPEUFS`
+* gives `TKPWEUFS`
 * aging `AEUPBG/-G`
 * shook `SHAOBG`
 * leads `HRAEDZ`

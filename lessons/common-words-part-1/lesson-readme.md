@@ -1,4 +1,6 @@
-* a `AEU`
+# Common Words Part 1
+
+* A `AEU`
 * I `EU`
 * an `APB`
 * be `-B`
@@ -10,7 +12,7 @@
 * to `TO`
 * up `UP`
 * am `*PL`
-* of `*F`
+* of `-F`
 * if `TP`
 * go `TKPW`
 * hi `HEU`

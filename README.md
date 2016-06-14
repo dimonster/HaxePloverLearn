@@ -1,9 +1,9 @@
 HaxePloverLearn
 ===========
 
-*a fork of [PloverLearn](https://github.com/larsiusprime/haxeploverlearn) by [Lars Doucet](https://github.com/larsiusprime)*
+*a fork of [PloverLearn](https://github.com/larsiusprime/haxeploverlearn)*
 
-Drills for the Learn Plover! book, part of the Open Steno Project.
+Drills for the [Learn Plover! book](https://sites.google.com/site/ploverdoc/home).
 
 Website: [di.id.au/plover/learn/](http://di.id.au/plover/learn/)
 
@@ -12,22 +12,32 @@ Website: [di.id.au/plover/learn/](http://di.id.au/plover/learn/)
 Building
 ========
 
-1. Download & install Haxe/OpenFL ([instructions](http://www.openfl.org/documentation/getting-started/installing-openfl/))
-2. Open a command line in the same directory as project.xml
-3. Execute ```lime build flash``` to build & run the flash swf
-4. Download & install Python ([site](https://www.python.org/downloads/))
-5. Execute ```py distribute_lessons.py``` to prepare the lesson folders
-6. Copy the contents of the "Assets" folder to your webserver to deploy the lessons
+1. Download & install [Haxe](http://haxe.org/download/):
+    - Mac users:
+      - Open the Installer.
+      - Run `haxelib setup`.
+        - Recommended Path: `/usr/local/lib/haxelib`.
+2. Download & install [OpenFL](http://www.openfl.org/documentation/getting-started/installing-openfl/):
+    - Run `haxelib install openfl`.
+    - Run `haxelib run openfl setup`.
+    - Run `openfl`.
+        - You may need to [install lime](https://github.com/openfl/lime) yourself.
+3. Open a command line in the project root directory containing `project.xml`.
+4. Execute `lime build flash` to build and run the flash swf.
+5. Download & install [Python](https://www.python.org/downloads/).
+6. Execute `py distribute_lessons.py` to prepare the lesson folders.
+7. Copy the `/assets` folder, the `/lessons` folder, and HTML files, including `index.html` to your webserver to deploy the lessons.
+    - Try running it using `python -m SimpleHTTPServer`
 
 
 
 Lessons
 =======
 
-1. Create a folder under `/assets`
-2. Create a `lesson.txt` file inside it
-3. Run `py distribute_lessons.py` to add an `index.html` file to all the lesson folders
-4. Use the correct format:
+1. Create a folder under `/lessons`, for example, `/lessons/numbers`.
+2. Create a `lesson.txt` file inside it containing the lesson word list.
+3. Run `py distribute_lessons.py` from the project root directory to copy the template `index.html` file to all the lesson folders.
+4. Use the expected format:
 
 ```
 Lesson X Exercise Y
@@ -47,7 +57,7 @@ Inversion
 'portal': PORLT
 ```
 
-You can also add settings to the lessons:
+You can add settings to the end of the lesson:
 
 ```
 Lesson 3F Exercise 1
@@ -64,7 +74,7 @@ Fingerspelling!
 case_sensitive=true
 ```
 
-You add settings by entering text of the format
+Settings are expected to be in this format:
 
 ```
 setting=value
@@ -81,7 +91,9 @@ The recognized settings are:
 
 
 
-Coming Soon
+Issues
 ===========
 
-HTML5
+* Replace with HTML5
+* Support "space before" or "space after" Plover users
+* Improve misstroke count to handle multi-stroke words where the first stroke doesn't match the first part of the word

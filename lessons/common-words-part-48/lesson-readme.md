@@ -1,3 +1,5 @@
+# Common Words Part 48
+
 * roofing `RAOFG`
 * excites `EBGS/SAOEUTS`
 * walking `WAUG`
@@ -10,7 +12,7 @@
 * angrier `APBG/REU/ER`
 * blocked `PWHROBGD`
 * changes `KHAEUPGS`
-* changed `KHAEPBGD`
+* changed `KHAEUPBGD`
 * rooming `RAOPL/-G`
 * starred `STARD`
 * rounded `ROUPBD/-D`

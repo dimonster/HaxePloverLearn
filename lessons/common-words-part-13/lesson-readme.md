@@ -1,16 +1,18 @@
+# Common Words Part 13
+
 * card `KARD`
 * lift `HREUFT`
 * gods `TKPWODZ`
 * fire `TPAOEUR`
-* love `HOF`
+* love `HR-F`
 * read `RAED`
 * hell `HEL`
 * path `PA*T`
 * care `KAEUR`
-* home `HAOPL`
+* home `HOEPL`
 * nods `TPHODZ`
 * past `PAFT`
-* your `KWOUR`
+* your `KWROUR`
 * help `HEP`
 * case `KAEUS`
 * loud `HROUD`
@@ -20,10 +22,10 @@
 * hang `HAPBG`
 * laid `HRAEUD`
 * wild `WAOEULD`
-* work `WORB`
+* work `WORBG`
 * cats `KATS`
 * rain `RAEUPB`
-* good `KPWAOD`
+* good `TKPWAOD`
 * stay `STAEU`
 * fish `TPEURB`
 * dust `TK*US`
@@ -40,9 +42,9 @@
 * goods `TKPAODZ`
 * waves `WAFS`
 * waved `WAFD`
-* won't `WOPT`
+* won't `WOEPBT`
 * water `WAUR`
-* about `P`
+* about `PW`
 * watch `WAFP`
 * edged `EPBLGD`
 * parts `PARTS`

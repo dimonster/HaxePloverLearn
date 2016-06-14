@@ -1,6 +1,6 @@
 Common Words Part 9
 
-'dark': TARBG
+'dark': TKARBG
 'time': TAOEUPL
 'arms': ARPLS
 'ties': TAOEUZ
@@ -37,7 +37,7 @@ Common Words Part 9
 'rung': RUPBG
 'made': PHAED
 'deep': TKAOEP
-'blue': PHRU
+'blue': PWHRU
 'thin': THEUPB
 'eyes': AO*EUS
 'sung': SUPBG
@@ -45,8 +45,8 @@ Common Words Part 9
 'face': TPAEUS
 'kill': KEUL
 'plea': PHRAE
-'then': THEB
+'then': THEPB
 'sang': SAPBG
 'gate': TKPWAET
 'they': THE
-'them': THEP
+'them': THEPL

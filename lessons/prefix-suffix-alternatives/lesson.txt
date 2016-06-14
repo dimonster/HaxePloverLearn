@@ -1,9 +1,9 @@
 Lesson 6
-Prefix and Suffix Alternatives:
+Prefix and Suffix Alternatives
 'pup': PUP
 'puppy': PUP PEU or PUP KWREU
 'pi': PEU
-'pup pi pi': PUP TK-LS PEU PEU
+'pup pi pi': PUP S-P PEU PEU
 'over come': OEFR KOPL
 'overcome': OEFR TK-LS KOPL
 'fire place': TPAOEUR S-P PHRAEUS

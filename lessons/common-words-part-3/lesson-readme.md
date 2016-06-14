@@ -1,3 +1,5 @@
+# Common Words Part 3
+
 * fit `TPEUT`
 * way `WAEU`
 * red `RED`
@@ -12,7 +14,7 @@
 * ran `RAPB`
 * sad `SAD`
 * say `SAEU`
-* end `EPD`
+* end `EPBD`
 * egg `EG`
 * sea `SAE`
 * won `WOPB`
@@ -34,17 +36,17 @@
 * sit `SEUT`
 * why `KWR`
 * six `SEUBGS`
-* day `TAEU`
+* day `TKAEU`
 * sky `SKAOEU`
 * dad `TKAD`
-* who `HO`
+* who `WHO`
 * cut `KUT`
 * cup `KUP`
 * cry `KRAOEU`
 * SOS `SO*S`
 * cop `KOP`
 * son `SOPB`
-* and `ABD`
+* and `SKP`
 * cat `KAT`
 * car `KAR`
 * can `K`

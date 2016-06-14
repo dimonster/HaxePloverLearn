@@ -20,7 +20,7 @@ Common Words Part 6
 'used': AOUFD
 'lays': HRAEUZ
 'upon': POPB
-'week': WAOEB
+'week': WAOEBG
 'page': PAEUPBLG
 'hurt': HURT
 'flew': TPHRAOU
@@ -32,7 +32,7 @@ Common Words Part 6
 'ends': EPDZ
 'owns': OEPBS
 'hats': HATS
-'over': OEF
+'over': OEFR
 'food': TPAOD
 'coat': KOET
 'yard': KWRARD
@@ -49,4 +49,4 @@ Common Words Part 6
 'sort': SORT
 'said': SAEUD
 'says': SEZ
-'been': PW-B
+'been': PW-PB

@@ -1,5 +1,5 @@
 $(function() {
-  $.get('../reference-panel.html',function(data){
+  $.get('/lessons/reference-panel.html',function(data){
     var path = location.pathname.toLowerCase().split('/');
     var lessonid = path[path.length-2];  // eg "punctuation-in-practice"
 

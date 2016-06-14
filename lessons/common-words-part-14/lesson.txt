@@ -7,10 +7,10 @@ Common Words Part 14
 'warms': WARPLS
 'jumps': SKWR*UPLS
 'backs': PWABGS
-'along': A/HROPG
+'along': A/HROPBG
 'heart': HART
 'eight': AET
-'wants': WABTS
+'wants': WAPBTS
 'worst': WO*RS
 'walls': WAULS
 'paper': PAEUP
@@ -29,7 +29,7 @@ Common Words Part 14
 'scene': SAEPB
 'voice': SROEUS
 'pales': PAEL/-S
-'visit': SREUT
+'visit': SREUFT
 'banks': PWA*PBGS
 'views': SRAOUS
 'metal': PH*ELT
@@ -45,7 +45,7 @@ Common Words Part 14
 'paint': PAEUPT
 'saver': SAFR
 'kicks': KEUBGS
-'under': *UPD
+'under': *UPBD
 'saved': SAFD
 'uncle': UPB/K-L
 'saves': SAFS

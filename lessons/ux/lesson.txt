@@ -1,0 +1,19 @@
+UX
+
+'UX': UBGS/UBGS
+'microcopy': PHAOEURBG/COEUP
+'microinteraction': PHAOEURBG/SPWRABGS
+'interactivity': EUPBT/TAEFT
+'graybox': TKPWRAEU/PWOBGS
+'unsubscribe': UPB/SUB/SKRAOEUB
+'nav': TPHA*F
+'dropdown': TKROP/TK-LS/TKOUPB
+'wireframe': WAOEUR/TPRAEUPL
+'workspace': WORBG/TK-LS/SPAEUS
+'mobile': PHOEBL
+'tablet': TABLT
+'desktop': TKEFBG/TOP
+'monochrome': PHOPB/KROEPL
+'en dash': EPB/TKARB
+'em dash': EPL/TKARB
+ignore_characters='^'

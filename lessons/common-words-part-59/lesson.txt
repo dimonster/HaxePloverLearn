@@ -1,6 +1,6 @@
 Common Words Part 59
 
-'shoulders': SHOURLDZ
+'shoulders': SHOULD/*ERZ
 'showering': SHOURG
 'doctoring': TKR-G
 'shrugging': SHR*UG/-G
@@ -9,11 +9,11 @@ Common Words Part 59
 'wrappings': WRAP/-GS
 'admitting': AD/PHEUGT
 'discovers': SKOFRS
-'disappear': TEUS/PAOER
+'disappear': TKEUS/PAOER
 'bettering': PWET/ER/-G
-'different': TEUFRPB
+'different': TKEUFRT
 'silvering': SEUL/SRER/-G
-'situation': SWAUGS
+'situation': SWAEUGS
 'belonging': PWAOE/HROPBG/-G
 'daughters': TKAURS
 'accepting': SEPG
@@ -25,9 +25,9 @@ Common Words Part 59
 'believing': PWHREFG
 'appearing': A/PAOERG
 'something': S-G
-'sometimes': SAOEUPLS
+'sometimes': STAOEUPLS
 'travelled': TRAFLD
-'beginning': STKPWEUPG
+'beginning': STKWEUPB/-G
 'apartment': ARPLT
 'traveling': TRAFLG
 'traveller': TRA*FL/ER
@@ -37,7 +37,7 @@ Common Words Part 59
 'considers': K-RS
 'confusing': KAOUFG
 'computers': KPAOURTS
-'beautiful': WAOUFL
+'beautiful': PWAOUFL
 'companies': K-PS
 'troubling': TRUBLG
 'somewhere': SWR
@@ -46,7 +46,7 @@ Common Words Part 59
 'interested': TR-D
 'whispering': WHEUS/PERG
 'apartments': APT/-PLTS
-'approached': A/ROEFP
+'approached': A/PROEFPD
 'mentioning': PHEPBGS/-G
 'happenings': HAPGS
 'approaches': A/PROEFPS

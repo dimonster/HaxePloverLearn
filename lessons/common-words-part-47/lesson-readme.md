@@ -1,3 +1,5 @@
+# Common Words Part 47
+
 * fearing `TPAOERG`
 * reminds `RAO*EUPBDZ`
 * visited `SREUFTD`
@@ -9,7 +11,7 @@
 * removed `RE/PHOFD`
 * another `TPHOER`
 * circles `SOEURBGS`
-* further `TPURS`
+* further `TPURT`
 * farther `TPA*RT`
 * visitor `SREUS/TOR`
 * repeats `RAOE/PAOETS`
@@ -44,7 +46,7 @@
 * waiting `WAEUGT`
 * thought `THAUT`
 * springs `SPREUPBGS`
-* explain `SPHRAEUB`
+* explain `SPHRAEUPB`
 * throats `THROETS`
 * expects `KP-PTS`
 * through `THRU`

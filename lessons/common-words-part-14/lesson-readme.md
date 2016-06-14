@@ -1,3 +1,5 @@
+# Common Words Part 14
+
 * grabs `TKPWRABS`
 * edges `EPBLGS`
 * might `PHAOEUT`
@@ -5,10 +7,10 @@
 * warms `WARPLS`
 * jumps `SKWR*UPLS`
 * backs `PWABGS`
-* along `A/HROPG`
+* along `A/HROPBG`
 * heart `HART`
 * eight `AET`
-* wants `WABTS`
+* wants `WAPBTS`
 * worst `WO*RS`
 * walls `WAULS`
 * paper `PAEUP`
@@ -27,7 +29,7 @@
 * scene `SAEPB`
 * voice `SROEUS`
 * pales `PAEL/-S`
-* visit `SREUT`
+* visit `SREUFT`
 * banks `PWA*PBGS`
 * views `SRAOUS`
 * metal `PH*ELT`
@@ -43,7 +45,7 @@
 * paint `PAEUPT`
 * saver `SAFR`
 * kicks `KEUBGS`
-* under `*UPD`
+* under `*UPBD`
 * saved `SAFD`
 * uncle `UPB/K-L`
 * saves `SAFS`

@@ -1,3 +1,5 @@
+# Common Words Part 27
+
 * timing `TAOEUPLG`
 * blocks `PWHROBGS`
 * throws `THROES`
@@ -9,7 +11,7 @@
 * thirds `THEURDZ`
 * blower `PWHROER`
 * thinks `THEUS`
-* things `THEUBGS`
+* things `THEUPBGS`
 * bluest `PWHRU/*ES`
 * boards `PWORDZ`
 * thanks `THAPBGS`
@@ -35,7 +37,7 @@
 * boxing `PWOBGS/-G`
 * anyway `TPHAE`
 * brains `PWRAEUPBS`
-* branch `PWAFRPB`
+* branch `PWRAFRPB`
 * surest `SHUR/*ES`
 * broken `PWROEPB`
 * breaks `PWRAEBGS`

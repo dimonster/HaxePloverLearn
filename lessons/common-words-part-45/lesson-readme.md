@@ -1,3 +1,5 @@
+# Common Words Part 45
+
 * promise `PROPLS`
 * bottoms `PWOT/OPLS`
 * comings `KOPL/-GS`
@@ -9,7 +11,7 @@
 * flowers `TPHRO*URS`
 * pushing `PURBG`
 * pushers `PURB/*ERS`
-* putting `P*UG`
+* putting `PUGT`
 * flights `TPHRAOEUTS`
 * sorting `SORT/-G`
 * turning `TURPBG`
@@ -24,7 +26,7 @@
 * sounder `SOUPB/TKER`
 * sounded `SOUPBD/-D`
 * quicker `KW*EURBG`
-* quickly `KWULG`
+* quickly `KWEULG`
 * quieter `KWAOEURT`
 * quieted `KWAOEU/ET/-D`
 * wrapped `WRAPD`
@@ -46,5 +48,5 @@
 * clouded `KHROUD/-D`
 * readers `RAERDZ`
 * speaker `SPAOERBG`
-* clothes `KHRO*ES`
+* clothes `KHRO*ETS`
 * teaches `TAOEFPS`

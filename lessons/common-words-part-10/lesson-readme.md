@@ -1,11 +1,13 @@
+# Common Words Part 10
+
 * kiss `KEUS`
 * what `WHA`
-* that `HA`
+* that `THA`
 * desk `TKEFBG`
 * guns `TKPW-PBS`
 * line `HRAOEUPB`
 * boat `PWOET`
-* than `THAB`
+* than `THAPB`
 * body `PWO*ED`
 * area `KWRA*ER`
 * tens `TEPBZ`
@@ -14,7 +16,7 @@
 * died `TKAOEUD`
 * play `PHRAEU`
 * told `TOLD`
-* make `PAEUBG`
+* make `PHAEUBG`
 * ride `RAOEUD`
 * joke `SKWROEBG`
 * bone `PWOEPB`
@@ -25,19 +27,19 @@
 * tore `TO*R`
 * tear `TAER`
 * main `PHAEUPB`
-* does `KOS`
+* does `TKOS`
 * team `TAEPL`
 * wood `WAOD`
-* book `PAOBG`
+* book `PWAOBG`
 * sign `SAOEUPB`
 * rich `REUFP`
 * wife `WAOEUF`
-* like `HAOEUBG`
+* like `HRAOEUBG`
 * boot `PWAOT`
-* fact `TPABT`
+* fact `TPABGT`
 * teas `TAES`
 * tall `TAUL`
-* done `TKOB`
+* done `TKOPB`
 * hold `HOLD`
 * bore `PWOR`
 * plan `PHRAPB`
@@ -45,6 +47,6 @@
 * talk `TAUBG`
 * held `HELD`
 * sigh `SAOEU`
-* side `SOEUD`
+* side `SAOEUD`
 * miss `PHEUS`
 * took `TAOBG`

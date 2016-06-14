@@ -1,25 +1,39 @@
 Lesson 5 Exercise 1
 Prefixes
-'un-': UPB
-'re-': RE
-'in-': EUPB
-'im-': EUPL
-'ir-': EUR
-'dis-': TKEUS
-'en-': EPB
-'em-': EPL
-'non-': TPHAUPB
-'over-': AUFR
-'mis-': PHEUZ
-'sub-': SAUB
-'pre-': PRE
-'inter-': EUPBT
-'fore-': TPOER
-'de-': TKE
-'trans-': TRAPBS
-'super-': SAOUP
-'semi-': SPHEU
-'anti-': A*EUPBT
-'mid-': PHEUD
-'under-': UPBD
-ignore_characters='-'
+'un^': UPB
+'in^': EUPB
+'im^': EUPL
+'ir^': EUR
+'re^': RE
+'dis^': TKEUS
+'de^': TKE
+'en^': EPB
+'em^': EPL
+'up^': AUP
+'co-^': KOE
+'con^': KAUPB
+'out^': AOUT
+'for^': TPAUR
+'fore^': TPOER
+'mis^': PHEUZ
+'pro^': PRO
+'pre-^': PRE or PR*E
+'sub^': SAUB
+'self-^': SEF
+'semi^': SPHEU
+'back^': PWAEBG
+'down^': KWROUPB
+'over^': AUFR
+'under^': UPBD
+'inter^': EUPBT
+'intro^': EURPBT
+'hyper^': HAOEURP
+'micro^': PHAOEURBG
+'super^': SAOUP
+'trans^': TRAPBS
+'anti^': APB/TEU
+'anti-^': A*EUPBT
+'mid^': PHEUD
+'mid-^': PH*EUD
+'non-^': TPHAUPB or TPHA*UPB
+ignore_characters='^'

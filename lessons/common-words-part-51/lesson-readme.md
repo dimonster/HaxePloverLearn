@@ -1,9 +1,11 @@
+# Common Words Part 51
+
 * headings `HED/-GS`
 * mirrored `PHEUR/ORD`
 * mornings `PHORPBGS`
 * accepted `SEPD`
 * mothered `PHOER/-D`
-* mountain `PHOUPB/TAPB`
+* mountain `PHOUPB/TAEUPB`
 * traveled `TRAFLD`
 * churches `KHUFRPBS`
 * spotting `SPOT/-G`
@@ -25,12 +27,12 @@
 * wheeling `WHAOELG`
 * guarding `TKPWARD/-G`
 * openings `OEPGS`
-* anything `TPHUG`
+* anything `TPHEUG`
 * ordering `ORD/-G`
 * grouping `TKPWROUPG`
 * greenest `TKPWRAOEPB/EFT`
 * greening `TKPWRAOEPBG`
-* greatest `TKPWRAEUT/EFT`
+* greatest `TKPWRAET/EFT`
 * painting `PAEUPBG`
 * standing `STAPBG`
 * bedrooms `PW-PLS`
@@ -41,7 +43,7 @@
 * partying `PAERT/-G`
 * changing `KHAPBG/-G`
 * perfects `P-FR/-S`
-* yourself `KWRURS`
+* yourself `KWRO*URS`
 * glancing `TKPWHRAPBS/-G`
 * personal `PERPBL`
 * traveler `TRA*FL/ER`

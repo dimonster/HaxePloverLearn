@@ -1,5 +1,7 @@
+# Common Words Part 55
+
 * washings `WARBGS`
-* settling `SET/*LG`
+* settling `SET/-LG`
 * surfaced `SUFD`
 * dropping `TROPG`
 * sheeting `SHAOET/-G`
@@ -15,7 +17,7 @@
 * dragging `TKRAG/-G`
 * surprise `SPRAOEUS`
 * shortest `SHORT/EFT`
-* shoulder `SHOLDZ`
+* shoulder `SHOURLD`
 * shouting `SHOUGT`
 * doorways `TKAOR/WAEUS`
 * showered `SHOURD`

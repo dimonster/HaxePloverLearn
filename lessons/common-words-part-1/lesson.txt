@@ -1,6 +1,6 @@
 Common Words Part 1
 
-'a': AEU
+'A': AEU
 'I': EU
 'an': APB
 'be': -B
@@ -12,7 +12,7 @@ Common Words Part 1
 'to': TO
 'up': UP
 'am': *PL
-'of': *F
+'of': -F
 'if': TP
 'go': TKPW
 'hi': HEU

@@ -1,3 +1,5 @@
+# Common Words Part 43
+
 * crazier `KRAEZ/KWRER`
 * covered `KOFRD`
 * perhaps `PRAPS`
@@ -16,7 +18,7 @@
 * pilings `PAOEULGS`
 * placing `PHRAEUFG`
 * planned `PHRAPBD`
-* getting `TKPEGT`
+* getting `TKPWEGT`
 * couples `KUPLS`
 * plastic `PHR-FBG`
 * bridged `PWREUPBLGD`

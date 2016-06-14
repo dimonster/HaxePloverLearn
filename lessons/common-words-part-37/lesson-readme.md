@@ -1,3 +1,5 @@
+# Common Words Part 37
+
 * acting `A*G`
 * housed `HOUFD`
 * lining `HRAOEUPBG`
@@ -29,7 +31,7 @@
 * inside `TPH-DZ`
 * landed `HRAPBD/-D`
 * ladies `HRA*EDZ`
-* itself `*EUTS`
+* itself `T/SEF`
 * knocks `TPHOBGS`
 * jacket `SKWRABGT`
 * knifed `TPHAOEUFD`

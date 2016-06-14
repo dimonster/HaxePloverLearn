@@ -1,3 +1,5 @@
+# Common Words Part 28
+
 * stupid `STAOUPD`
 * burned `PWURPBD`
 * stuffs `STUFS`
@@ -18,7 +20,7 @@
 * storms `STORPLS`
 * stores `STORS`
 * stored `STORD`
-* cannot `KAPBLT`
+* cannot `K/TPHOT`
 * animal `PHAPBL`
 * stones `STOEBS`
 * caring `KARG`
@@ -38,7 +40,7 @@
 * stares `STAERS`
 * stared `STAERD`
 * chance `KHAPBS`
-* change `KHAEUBG`
+* change `KHAEUPBG`
 * keeper `KAOEP/*ER`
 * stands `STAPBDZ`
 * cheeks `KHAOEBGS`

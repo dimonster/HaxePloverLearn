@@ -15,7 +15,7 @@ Common Words Part 30
 'decide': TK-DZ
 'single': SEUPBLG
 'deeper': TKAOERP
-'simply': SAO*EPL
+'simply': SAO*EPL or S*EUPL/HREU
 'simple': S*EUPL
 'widest': WAOEUD/*ES
 'silver': SEUL/SRER

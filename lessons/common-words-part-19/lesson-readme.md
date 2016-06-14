@@ -1,3 +1,5 @@
+# Common Words Part 19
+
 * admit `AD/PHEUT`
 * lifts `HREUFTS`
 * which `WEU`
@@ -31,7 +33,7 @@
 * cards `KARDZ`
 * fired `TPAOEURD`
 * cared `KAEURD`
-* still `STUL`
+* still `STEUL`
 * cares `KAEURS`
 * stick `STEUBG`
 * carry `KAER`

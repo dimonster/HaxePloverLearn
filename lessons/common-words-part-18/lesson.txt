@@ -14,7 +14,7 @@ Common Words Part 18
 'highs': HAOEUS
 'brain': PWRAEUPB
 'guard': TKPWARD
-'break': PRAEBG
+'break': PWRAEBG
 'broke': PWROEBG
 'fears': TPAOERZ
 'surer': SHUR/ER
@@ -45,7 +45,7 @@ Common Words Part 18
 'stuff': STUF
 'study': STO*UD
 'buses': PWUS/-S
-'where': W*R
+'where': W-R
 'keeps': KAOEPS
 'lasts': HRAFTS
 'fills': TPEULS

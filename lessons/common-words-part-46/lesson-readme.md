@@ -1,3 +1,5 @@
+# Common Words Part 46
+
 * fingers `TPEURPBGS`
 * readies `RAED/KWREU/-S`
 * readier `RED/KWRER`
@@ -6,7 +8,7 @@
 * realize `RAEFL`
 * anymore `TPHEUPL`
 * finding `TPAOEPBGD`
-* anybody `PHEUB`
+* anybody `TPHEUB`
 * finally `TPHRAOEUPBL`
 * closing `KHROEFG`
 * reasons `R-PBS`
@@ -36,7 +38,7 @@
 * cleared `KHRAOERD`
 * remains `RE/PHAEUPBS`
 * cleaner `KHRAOERPB`
-* feeling `TPAO*EL`
+* feeling `TPAOELG`
 * worried `WOERD`
 * village `SREULG`
 * thanked `THAPBGD`

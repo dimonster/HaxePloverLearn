@@ -30,6 +30,6 @@ Sentences with common words
 'Since they were up to it,': SEUPBS THE WR UP TO T KW-BG
 'their will was had.': THAEUR HR WAS H TP-PL
 'At its general time,': AT EUTS SKWREPBL TAOEUPL KW-BG
-'but still while they were here.': PWUT STEUL WHAOEUL THE WR HAOER TP-PL
+'but still while they were here.': PWUT STEUL WHAOEUL THE WR HAOEFRP
 'Of which one is that?': -F WEU WUPB S THA H-F
 notice_spaces=true

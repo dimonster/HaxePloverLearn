@@ -1,3 +1,5 @@
+# Common Words Part 57
+
 * wouldn't `WOPBT`
 * colorful `KHROR/-FL`
 * coloring `KHRORG`
@@ -18,7 +20,7 @@
 * histories `HOEUFRTS`
 * marriages `PHAEURPBLGS`
 * mattering `PHAT/ER/-G`
-* mentioned `PHEBGS/-D`
+* mentioned `PHEPBGS/-D`
 * mirroring `PHEUR/O*R/-G`
 * mothering `PHOER/-G`
 * mountains `PHOUPBT/APBS`

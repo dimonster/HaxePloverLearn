@@ -1,3 +1,5 @@
+# Common Words Part 26
+
 * waking `WAEUG`
 * bagger `PWAG/ER`
 * waited `WAEUTD`
@@ -7,24 +9,24 @@
 * visits `SREUFTS`
 * barely `PWAEURL`
 * viewed `SRAOUD`
-* unless `TP-LS`
+* unless `TPH-LS`
 * arrive `A/REUF`
-* wasn't `WAEPT`
+* wasn't `WAEPBT`
 * weight `WAET`
 * uncles `UPB/K-LS`
 * around `ARPBD`
 * twenty `TWEPBT`
 * turned `TURPBD`
-* trying `TRAO/-G`
+* trying `TRAOEUG`
 * trusts `TRUFTS`
 * aren't `R-PBT`
 * truest `TRAOU/*ES`
 * trucks `TRUBGS`
 * beaten `PWAOET/EPB`
-* become `P-BG`
+* become `PW-BG`
 * became `PWAEUPL`
 * before `PW-F`
-* begins `STKPWEUPBS`
+* begins `TKPWEUPBS`
 * behind `HEUPBD`
 * travel `TRAFL`
 * belief `PWHRAOEF`

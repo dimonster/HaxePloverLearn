@@ -1,3 +1,5 @@
+# Common Words Part 22
+
 * forms `TPORPLS`
 * crazy `KRAEZ`
 * snaps `STPHAPS`
@@ -11,7 +13,7 @@
 * lover `HROFR`
 * pours `PAOURS`
 * freer `TPRAOER`
-* smile `SHAOEUL`
+* smile `SPHAOEUL`
 * loves `HROFS`
 * nears `TPHAOER/-S`
 * white `WHAOEUT`
@@ -23,7 +25,7 @@
 * hates `HAEUTS`
 * loved `HROFD`
 * porch `POFRPB`
-* front `TPROPT`
+* front `TPROPBT`
 * slows `SHROES`
 * who's `WHO*S`
 * slips `SHREUPS`
@@ -47,4 +49,4 @@
 * whose `WHOZ`
 * loses `HRAOUFS`
 * wider `WAO*EURD`
-* death `T*ET`
+* death `TK*T`

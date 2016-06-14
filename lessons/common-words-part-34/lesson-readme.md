@@ -1,6 +1,8 @@
+# Common Words Part 34
+
 * fuller `TPUL/*ER`
 * wiping `WAOEUPG`
-* future `TPAURT`
+* future `TPAOURT`
 * pointy `POEUPBT/KWREU`
 * points `POEUPBTS`
 * pocket `POBGT`
@@ -18,21 +20,21 @@
 * gifted `TKPWEUFT/-D`
 * piling `PAOEULG`
 * pieces `PAOEFS`
-* giving `TKPWUFG`
+* giving `TKPWEUFG`
 * picked `PEUGD`
 * photos `TPOE/TOES`
 * phoned `TPOEPBD`
 * phones `TPOEPBS`
 * glance `TKPWHRAPBS`
 * wipers `WAOEUP/ERS`
-* people `PEPL`
+* people `PAOEPL`
 * person `PERPB`
 * paying `PAEUG`
 * paused `PAUS/-D`
 * pauses `PAUS/-S`
 * passes `PA*FS`
 * passed `PAFD`
-* parted `PART/-D`
+* parted `PARTD`
 * parent `PARPBT`
 * papers `PAEUPS`
 * palmed `PAUPL/-D`
@@ -46,5 +48,5 @@
 * outing `OUT/-G`
 * others `OERS`
 * orders `ORDZ`
-* ground `TKPWOUPBD`
+* ground `TKPWROUPBD`
 * within `W-PB`

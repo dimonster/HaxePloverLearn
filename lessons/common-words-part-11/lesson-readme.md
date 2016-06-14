@@ -1,3 +1,5 @@
+# Common Words Part 11
+
 * fade `TPAEUD`
 * fail `TPAEUL`
 * sick `SEUBG`
@@ -6,13 +8,13 @@
 * lean `HRAOEPB`
 * kick `KEUBG`
 * numb `TPH*UPL`
-* rest `R*ES`
+* rest `REFT`
 * hole `HOEL`
 * gift `TKPWEUFT`
 * shut `SHUT`
 * head `HED`
 * fell `TPEL`
-* fall `TPAL`
+* fall `TPAUL`
 * doer `TKO/ER`
 * kept `KEPT`
 * guys `TKPWEUS`
@@ -27,24 +29,24 @@
 * leaf `HRAOEF`
 * sure `SHUR`
 * fast `TPA*S`
-* door `TAOR`
+* door `TKAOR`
 * fear `TPAOER`
 * word `WORD`
 * able `ABL`
 * half `HAF`
 * fees `TPAOES`
-* when `WHE`
-* down `TKOUB`
+* when `WHEPB`
+* down `TKOUPB`
 * iced `AOEUS/-D`
 * feds `TPEDZ`
 * girl `TKPWEURL`
-* mine `PHAOEUP`
+* mine `PHAOEUPB`
 * feed `TPAOED`
 * hear `HAER`
 * drag `TKRAG`
 * suit `SAOUT`
 * wing `WEUPBG`
 * felt `TPELT`
-* give `KPWEUF`
+* give `TKPWEUF`
 * shop `SHOP`
 * draw `TKRAU`

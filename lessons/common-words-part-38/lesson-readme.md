@@ -1,3 +1,5 @@
+# Common Words Part 38
+
 * dressed `TKREFD`
 * keepers `KAOERPS`
 * kicking `KEUBG/-G`
@@ -18,11 +20,11 @@
 * knowing `TPHOEG`
 * shooter `SHAORT`
 * landing `HRAPBD/-G`
-* between `TWAOEB`
+* between `TWAOEPB`
 * stopped `STOPD`
 * shopped `SHOPD`
 * drawing `TKRAUG`
-* written `WR*EUP`
+* written `WREUPB`
 * instead `STPHED`
 * insides `TPH-DZ/-Z`
 * stopper `STORP`

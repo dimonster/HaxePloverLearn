@@ -1,6 +1,8 @@
+# Common Words Part 4
+
 * any `TPHEU`
 * buy `PWAOEU`
-* but `PWU`
+* but `PWUT`
 * bus `PWUS`
 * sun `SUPB`
 * boy `PWOEU`
@@ -42,7 +44,7 @@
 * East `AOEFT`
 * wore `WOR`
 * meet `PHAOET`
-* life `HRAEUF`
+* life `HRAOEUF`
 * worn `WORPB`
 * palm `PAPL`
 * aunt `AUPBT`

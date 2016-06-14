@@ -1,3 +1,5 @@
+# Common Words Part 39
+
 * leaders `HRAOERDZ`
 * leaning `HRAOEPBG`
 * learned `HRERPBD`
@@ -16,7 +18,7 @@
 * lifting `HREUFT/-G`
 * hurries `HUR/EUS`
 * hurried `HUR/EUD`
-* hundred `HUPB`
+* hundred `HUPBD`
 * calming `KAUPL/-G`
 * lighter `HRAOEURT`
 * lighted `HRAOEUT/-D`
@@ -26,7 +28,7 @@
 * linings `HRAOEUPBGS`
 * listens `HREUFPBS`
 * sighted `SAOEUT/-D`
-* strange `STRAEUPG`
+* strange `STRAEUPBG`
 * littler `HREUT/HRER`
 * hottest `HOT/*ES`
 * signing `SAOEUPBG`

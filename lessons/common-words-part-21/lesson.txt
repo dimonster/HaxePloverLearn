@@ -1,7 +1,7 @@
 Common Words Part 21
 
 'holes': HOELS
-'words': WOBDZ
+'words': WORDZ
 'spend': SPEBD
 'spent': SPEPBT
 'climb': KHRAOEUPL
@@ -24,17 +24,16 @@ Common Words Part 21
 'flown': TPHROEPB
 'sound': SOUPBD
 'colds': KOLDZ
-'flyer': TPHRAOEU/*ER
+'flier': TPHRAOEUR
 'newer': TPHUR
 'lower': HROER
 'souls': SOULS
 'sorts': SORTS
 'color': KROR
-'flier': TPHRAOEUR
 'sorry': SO*ER
 'comes': KOPLS
 'songs': SOPBGS
-'never': PHEFR
+'never': TPHEF
 'foods': TPAODZ
 'joked': SKWROEBGD
 'cools': KAOLS

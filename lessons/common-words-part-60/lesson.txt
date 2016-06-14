@@ -1,7 +1,7 @@
 Common Words Part 60
 
 'understood': *URPBD
-'understand': UPBS
+'understand': URPBD
 'perfecting': P-FR/-G
 'gatherings': TKPWAERGS
 'travellers': TRA*FL/ERS

@@ -1,3 +1,5 @@
+# Common Words Part 59
+
 * shoulders `SHOURLDZ`
 * showering `SHOURG`
 * doctoring `TKR-G`
@@ -7,11 +9,11 @@
 * wrappings `WRAP/-GS`
 * admitting `AD/PHEUGT`
 * discovers `SKOFRS`
-* disappear `TEUS/PAOER`
+* disappear `TKEUS/PAOER`
 * bettering `PWET/ER/-G`
-* different `TEUFRPB`
+* different `TKEUFRT`
 * silvering `SEUL/SRER/-G`
-* situation `SWAUGS`
+* situation `SWAEUGS`
 * belonging `PWAOE/HROPBG/-G`
 * daughters `TKAURS`
 * accepting `SEPG`
@@ -23,9 +25,9 @@
 * believing `PWHREFG`
 * appearing `A/PAOERG`
 * something `S-G`
-* sometimes `SAOEUPLS`
+* sometimes `STAOEUPLS`
 * travelled `TRAFLD`
-* beginning `STKPWEUPG`
+* beginning `STKWEUPB/-G`
 * apartment `ARPLT`
 * traveling `TRAFLG`
 * traveller `TRA*FL/ER`
@@ -35,7 +37,7 @@
 * considers `K-RS`
 * confusing `KAOUFG`
 * computers `KPAOURTS`
-* beautiful `WAOUFL`
+* beautiful `PWAOUFL`
 * companies `K-PS`
 * troubling `TRUBLG`
 * somewhere `SWR`
@@ -44,7 +46,7 @@
 * interested `TR-D`
 * whispering `WHEUS/PERG`
 * apartments `APT/-PLTS`
-* approached `A/ROEFP`
+* approached `A/PROEFPD`
 * mentioning `PHEPBGS/-G`
 * happenings `HAPGS`
 * approaches `A/PROEFPS`

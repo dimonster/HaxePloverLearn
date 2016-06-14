@@ -1,3 +1,5 @@
+# Common Words Part 31
+
 * shaped `SHAEUPD`
 * always `AULS`
 * shaker `SHAEUBG/ER`
@@ -20,8 +22,8 @@
 * eating `AOEGT`
 * seemed `SAOEPLD`
 * seeing `SAOEG`
-* second `SEBD`
-* seated `SAOET/-D`
+* second `SEBGD`
+* seated `SAOETD`
 * edging `EPBLG/-G`
 * search `SEFRPB`
 * effort `EFRT`

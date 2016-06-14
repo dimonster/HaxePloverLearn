@@ -3,7 +3,7 @@ Common Words Part 25
 'dryer': TKRAOEUR
 'dries': TKRAOEUS
 'drier': TKRAOEU/ER
-'going': KPW-G
+'going': TKPW-G
 'sexes': SPHEBGSZ
 'ideas': KWR-DZ
 'dried': TKRAOEUD
@@ -44,7 +44,7 @@ Common Words Part 25
 'warmed': WARPLD
 'backed': PWABGD
 'warred': WAR/-D
-'wanted': WAPTD
+'wanted': WAPBTD
 'asking': SK-G
 'walled': WAULD
 'walker': WAUBG/*ER

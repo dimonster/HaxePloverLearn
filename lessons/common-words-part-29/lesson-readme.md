@@ -1,10 +1,12 @@
+# Common Words Part 29
+
 * chosen `KHOEFPB`
 * spread `SPRED`
 * choose `KHAOS`
-* church `KHUFPB`
+* church `KHUFRPB`
 * circle `KOEURBG`
 * cities `STEUS`
-* spirit `PEURT`
+* spirit `SPEURT`
 * cleans `KHRAOEPBS`
 * clears `KHRAOERS`
 * climbs `KHRAOEUPLS`

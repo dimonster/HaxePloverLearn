@@ -1,7 +1,9 @@
+# Common Words Part 23
+
 * funny `TPAOUPB`
 * yells `KWRELS`
 * acted `ABGD`
-* point `POEUBT`
+* point `POEUPBT`
 * singe `SEUPB/*PBLG`
 * sings `SEUPBGS`
 * desks `TKEFBGS`
@@ -19,7 +21,7 @@
 * gates `TKPWAETS`
 * looks `HAOBGS`
 * sight `SAOEUT`
-* don't `TKOEBT`
+* don't `TKOEPBT`
 * sighs `SAOEU/-S`
 * sides `SAOEUDZ`
 * sided `SAOEUD/-D`
@@ -32,7 +34,7 @@
 * shrug `SH/RUG`
 * joins `SKWROEUPBS`
 * mouth `PHO*UT`
-* world `WORL`
+* world `WORLD`
 * plate `PHRAET`
 * wiped `WAOEUPD`
 * shows `SHOES`

@@ -1,4 +1,6 @@
-* dark `TARBG`
+# Common Words Part 9
+
+* dark `TKARBG`
 * time `TAOEUPL`
 * arms `ARPLS`
 * ties `TAOEUZ`
@@ -35,7 +37,7 @@
 * rung `RUPBG`
 * made `PHAED`
 * deep `TKAOEP`
-* blue `PHRU`
+* blue `PWHRU`
 * thin `THEUPB`
 * eyes `AO*EUS`
 * sung `SUPBG`
@@ -43,8 +45,8 @@
 * face `TPAEUS`
 * kill `KEUL`
 * plea `PHRAE`
-* then `THEB`
+* then `THEPB`
 * sang `SAPBG`
 * gate `TKPWAET`
 * they `THE`
-* them `THEP`
+* them `THEPL`

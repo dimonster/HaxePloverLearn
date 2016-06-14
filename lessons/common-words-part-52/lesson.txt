@@ -22,7 +22,7 @@ Common Words Part 52
 'powering': POURG
 'prepared': PRAOEPD
 'prepares': PRAOEPS
-'becoming': P-BG/-G
+'becoming': PW-BG/-G
 'stealing': STAELG
 'forwards': TPAORDZ
 'stepping': STEPG

@@ -1,3 +1,5 @@
+# Common Words Part 6
+
 * spin `SPEUPB`
 * bank `PWA*PBG`
 * lies `HRAO*EUS`
@@ -18,7 +20,7 @@
 * used `AOUFD`
 * lays `HRAEUZ`
 * upon `POPB`
-* week `WAOEB`
+* week `WAOEBG`
 * page `PAEUPBLG`
 * hurt `HURT`
 * flew `TPHRAOU`
@@ -30,7 +32,7 @@
 * ends `EPDZ`
 * owns `OEPBS`
 * hats `HATS`
-* over `OEF`
+* over `OEFR`
 * food `TPAOD`
 * coat `KOET`
 * yard `KWRARD`
@@ -47,4 +49,4 @@
 * sort `SORT`
 * said `SAEUD`
 * says `SEZ`
-* been `PW-B`
+* been `PW-PB`

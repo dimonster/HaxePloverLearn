@@ -11,7 +11,7 @@ Common Words Part 47
 'removed': RE/PHOFD
 'another': TPHOER
 'circles': SOEURBGS
-'further': TPURS
+'further': TPURT
 'farther': TPA*RT
 'visitor': SREUS/TOR
 'repeats': RAOE/PAOETS
@@ -46,7 +46,7 @@ Common Words Part 47
 'waiting': WAEUGT
 'thought': THAUT
 'springs': SPREUPBGS
-'explain': SPHRAEUB
+'explain': SPHRAEUPB
 'throats': THROETS
 'expects': KP-PTS
 'through': THRU

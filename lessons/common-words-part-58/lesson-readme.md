@@ -1,3 +1,5 @@
+# Common Words Part 58
+
 * forgotten `TPO*RGD`
 * stretches `STREFPS`
 * foreheads `TPOER/HEDZ`
@@ -16,7 +18,7 @@
 * realizing `RAELD/AOEUZ/-G`
 * reasoning `R-PBG`
 * receiving `SAOEFG`
-* attention `A/TEPBG`
+* attention `A/T-PBGS`
 * recognize `REZ`
 * suggested `SUGD`
 * remaining `RE/PHAEPBG`
@@ -32,7 +34,7 @@
 * revealing `RAOE/SRAOELG`
 * branching `PWRAPB/-FPG`
 * surprises `SPRAOEUFS`
-* surprised `SPROEUFD`
+* surprised `SPRAOEUFD`
 * direction `TKREBGS`
 * explained `SPHRAEUPBD`
 * expecting `EBGS/PEG`

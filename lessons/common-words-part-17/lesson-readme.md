@@ -1,9 +1,11 @@
-* thing `THEPBG`
+# Common Words Part 17
+
+* thing `THEUPBG`
 * grown `TKPWROEPB`
 * blues `PWHRUS`
 * thins `THEUPBS`
 * bluer `PWHRU/ER`
-* right `ROEUT`
+* right `RAOEUT`
 * board `PAORD`
 * after `AF`
 * rider `ROEURD`
@@ -11,8 +13,8 @@
 * these `THEZ`
 * there `THR`
 * boats `PWOETS`
-* their `THAER`
-* thank `THABG`
+* their `THAEUR`
+* thank `THAPBG`
 * grows `TKPWRO*ES`
 * rides `RAOEUDZ`
 * tells `TELS`

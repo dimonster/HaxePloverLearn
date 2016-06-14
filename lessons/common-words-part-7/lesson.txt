@@ -21,10 +21,10 @@ Common Words Part 7
 'lets': HR*ETS
 'trip': TREUP
 'cool': KAOL
-'year': WRAOER
+'year': KWRAOER
 'must': PHUFT
 'cops': KOPS
-'form': PHORPL
+'form': TPORPL
 'sand': SAPBD
 'same': SAEUPL
 'tree': TRAOE
@@ -34,7 +34,7 @@ Common Words Part 7
 'beer': PWAOER
 'join': SKWROEUPB
 'soft': SOFT
-'much': UFP
+'much': PHUFP
 'safe': SAEUF
 'keep': KAOEP
 'snow': STPHOE

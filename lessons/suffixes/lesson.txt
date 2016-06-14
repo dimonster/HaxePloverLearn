@@ -1,16 +1,19 @@
 Lesson 5 Exercise 2
 Suffixes
-'-s': -S
-'-ed': D
-'-ing': G
-'-ly': HREU
-'-er': *ER
-'-or': O*R
-'-tion': SH*UPB
-'-ation': AEUGS
-'-ion': KWROPB
-'-able': BL
-'-al': A*L
-'-ial': KWRAL
-'-ness': -PBS
-ignore_characters='-'
+'^s': TK-LS -S
+'^'s': TK-LS A*ES
+'^ed': TK-LS D
+'^'d': TK-LS *D
+'^ing': TK-LS G
+'^th': TK-LS *T
+'^ly': TK-LS HREU
+'^er': TK-LS *ER
+'^or': TK-LS O*R
+'^ion': TK-LS KWROPB
+'^tion': TK-LS SH*UPB
+'^ation': TK-LS AEUGS
+'^able': TK-LS BL
+'^al': TK-LS A*L
+'^ial': TK-LS KWRAL
+'^ness': TK-LS -PBS
+ignore_characters='^'

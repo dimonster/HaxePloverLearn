@@ -21,7 +21,7 @@ Common Words Part 40
 'matters': PHAERTS
 'student': STAUPB
 'dinners': TKEUPB/ERS
-'meaning': PHAOEPG
+'meaning': PHAOEPBG
 'herself': H*ERS
 'attacks': A/TABGS
 'willing': -LG

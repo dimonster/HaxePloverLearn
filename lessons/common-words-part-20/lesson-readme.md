@@ -1,7 +1,9 @@
+# Common Words Part 20
+
 * catch `KAFP`
 * raise `RAEUZ`
 * cause `KAUS`
-* large `HRARPBG`
+* large `HRARPBLG`
 * State `STA*ET`
 * notes `TPHOETS`
 * rains `RAEUPBS`
@@ -9,7 +11,7 @@
 * radio `ROEUD`
 * nosed `TPHOEFD`
 * chair `KHAEUR`
-* start `SART`
+* start `START`
 * quite `KWAOEUT`
 * noses `TPHO*EFS`
 * quiet `KWAO*EUT`
@@ -18,21 +20,21 @@
 * wrote `WRO`
 * north `TPHORT`
 * stars `STARS`
-* stand `STAPD`
+* stand `STAPBD`
 * fiver `TPAOEUFR`
 * check `KHEBG`
 * stood `STAOD`
-* quick `KWEUG`
+* quick `KWEUBG`
 * stair `STAEUR`
 * makes `PHAEUBGS`
-* hands `HAPDZ`
+* hands `HAPBDZ`
 * stage `STAEUPBLG`
 * mains `PHAEUPB/-S`
 * cheek `KHAOEBG`
 * chest `KH*ES`
 * fixes `TPEURBGS/-S`
 * fixed `TPEUFD`
-* child `KAOEULD`
+* child `KHAOEULD`
 * flash `TPHRARB`
 * chose `KHOES`
 * flats `TPHRATS`
@@ -46,5 +48,5 @@
 * clean `KHAOEPB`
 * spins `SPEUPBS`
 * lunch `HRUPBS`
-* clear `KAOER`
+* clear `KHRAOER`
 * hangs `HAPBGS`

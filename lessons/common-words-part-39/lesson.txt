@@ -18,7 +18,7 @@ Common Words Part 39
 'lifting': HREUFT/-G
 'hurries': HUR/EUS
 'hurried': HUR/EUD
-'hundred': HUPB
+'hundred': HUPBD
 'calming': KAUPL/-G
 'lighter': HRAOEURT
 'lighted': HRAOEUT/-D
@@ -28,7 +28,7 @@ Common Words Part 39
 'linings': HRAOEUPBGS
 'listens': HREUFPBS
 'sighted': SAOEUT/-D
-'strange': STRAEUPG
+'strange': STRAEUPBG
 'littler': HREUT/HRER
 'hottest': HOT/*ES
 'signing': SAOEUPBG

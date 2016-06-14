@@ -1,3 +1,5 @@
+# Common Words Part 30
+
 * smells `SPHELS`
 * slowly `SHROEL`
 * slowed `SHROED`
@@ -13,7 +15,7 @@
 * decide `TK-DZ`
 * single `SEUPBLG`
 * deeper `TKAOERP`
-* simply `SAO*EPL`
+* simply `SAO*EPL or S*EUPL/HREU`
 * simple `S*EUPL`
 * widest `WAOEUD/*ES`
 * silver `SEUL/SRER`

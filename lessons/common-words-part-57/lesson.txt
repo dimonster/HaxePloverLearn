@@ -20,7 +20,7 @@ Common Words Part 57
 'histories': HOEUFRTS
 'marriages': PHAEURPBLGS
 'mattering': PHAT/ER/-G
-'mentioned': PHEBGS/-D
+'mentioned': PHEPBGS/-D
 'mirroring': PHEUR/O*R/-G
 'mothering': PHOER/-G
 'mountains': PHOUPBT/APBS

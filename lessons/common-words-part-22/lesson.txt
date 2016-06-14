@@ -13,7 +13,7 @@ Common Words Part 22
 'lover': HROFR
 'pours': PAOURS
 'freer': TPRAOER
-'smile': SHAOEUL
+'smile': SPHAOEUL
 'loves': HROFS
 'nears': TPHAOER/-S
 'white': WHAOEUT
@@ -25,7 +25,7 @@ Common Words Part 22
 'hates': HAEUTS
 'loved': HROFD
 'porch': POFRPB
-'front': TPROPT
+'front': TPROPBT
 'slows': SHROES
 'who's': WHO*S
 'slips': SHREUPS
@@ -49,4 +49,4 @@ Common Words Part 22
 'whose': WHOZ
 'loses': HRAOUFS
 'wider': WAO*EURD
-'death': T*ET
+'death': TK*T

@@ -1,9 +1,11 @@
-* decided `STKAEUD/-D`
+# Common Words Part 41
+
+* decided `STKAOEUD/-D`
 * decides `TK-DZ/-Z`
 * missing `PHEUFG`
 * heading `HEGD`
 * moments `PHOEPLTS`
-* morning `PHORPG`
+* morning `PHORPBG`
 * winning `WA*EPBG`
 * singled `SEUPBG/-LD`
 * mothers `PHOERS`
@@ -12,7 +14,7 @@
 * sitting `SAO*EGT`
 * narrows `TPHAR/OES`
 * winding `WAOEUPBD/-G`
-* believe `PHREF`
+* believe `PWHREF`
 * burning `PWURPBG`
 * nearing `TPHAOERG`
 * hardest `HARD/EFT`
@@ -36,7 +38,7 @@
 * hallway `HAUL/WAEU`
 * writers `WREURS`
 * nothing `TPHOG`
-* noticed `TPH-TSD`
+* noticed `TPH-TS/-D`
 * wedding `WEGD`
 * sliding `SHRAOEUGD`
 * halving `HAF/-G`

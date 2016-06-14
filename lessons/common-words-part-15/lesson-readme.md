@@ -1,13 +1,15 @@
+# Common Words Part 15
+
 * heavy `HOEUF`
-* isn't `S-PT`
+* isn't `S-PBT`
 * turns `TURPS`
 * tries `TRAOEUS`
-* tried `TROEUD`
+* tried `TRAOEUD`
 * sands `SAPBDZ`
 * wells `WELS`
 * pains `PAEUPBS`
-* truth `TRAOUT`
-* trust `TRUF`
+* truth `TRAO*UT`
+* trust `TRUFT`
 * truer `TRAOUR`
 * safer `SAEUFR`
 * beach `PWAEFP`
@@ -16,7 +18,7 @@
 * enjoy `TPHOEUPBLG`
 * beats `PWAOETS`
 * hello `HEL/HRO`
-* alone `A/HROPB`
+* alone `A/HROEPB`
 * pages `PAEUPBLGS`
 * trips `TREUPS`
 * tripe `TRAOEUP`
@@ -25,7 +27,7 @@
 * kinds `KEUPBDZ`
 * beers `PWAOERS`
 * owner `OERPB`
-* begin `STKPEUPB`
+* begin `STKWEUPB`
 * began `TKPWAPB`
 * helps `HEPS`
 * begun `TKPWUPB`
@@ -35,7 +37,7 @@
 * owned `OEPBD`
 * track `TRABG`
 * below `PWHRO`
-* great `TKWRAET`
+* great `TKPWRAET`
 * winds `WEUPBDZ`
 * towns `TOUPBS`
 * windy `WEUPB/TKEU`

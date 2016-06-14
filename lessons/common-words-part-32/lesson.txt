@@ -29,7 +29,7 @@ Common Words Part 32
 'fading': TPAEUD/-G
 'rested': REFT/-D
 'failed': TPAEULD
-'fallen': TPAL/-PB
+'fallen': TPAUL/-PB
 'family': TPAEPL
 'repeat': RE/PAOET
 'remove': RE/PHOF
@@ -46,7 +46,7 @@ Common Words Part 32
 'fought': TPAUT
 'figure': TPEUG
 'filled': TPEULD
-'reason': R-P
+'reason': R-PB
 'finals': TPAOEUPBLS
 'really': HROERL
 'finder': TPAOEURPBD

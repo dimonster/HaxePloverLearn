@@ -1,3 +1,5 @@
+# Common Words Part 7
+
 * well `WEL`
 * name `TPHAEUPL`
 * outs `OUTS`
@@ -19,10 +21,10 @@
 * lets `HR*ETS`
 * trip `TREUP`
 * cool `KAOL`
-* year `WRAOER`
+* year `KWRAOER`
 * must `PHUFT`
 * cops `KOPS`
-* form `PHORPL`
+* form `TPORPL`
 * sand `SAPBD`
 * same `SAEUPL`
 * tree `TRAOE`
@@ -32,7 +34,7 @@
 * beer `PWAOER`
 * join `SKWROEUPB`
 * soft `SOFT`
-* much `UFP`
+* much `PHUFP`
 * safe `SAEUF`
 * keep `KAOEP`
 * snow `STPHOE`

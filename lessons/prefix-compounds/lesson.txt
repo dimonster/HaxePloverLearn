@@ -10,8 +10,8 @@ Prefix Compounds
 'improve': EUPL/PROF
 'irate': EUR/AEUT
 'iran': EUR/APB
-'disdain': TKEUZ/TKAEUPB
-'disease': TKEUZ/AOEZ
+'disdain': TKEUS/TKAEUPB
+'disease': TKEUS/AOES
 'entrust': EPB/TRUFT
 'enhance': EPB/HAPBS
 'embalm': EPL/PWAUPL
@@ -23,8 +23,8 @@ Prefix Compounds
 'misprint': PHEUZ/PREUPBT
 'subscribe': SAUB/SKRAOEUB
 'sublet': SAUB/HRET
-'preheat': PRE/HAOET
 'prevent': PRE/SREPBT
+'pre-emptive': PRE/EPL/TEUF
 'interject': EUPBT/SKWREBGT
 'interrogate': EUPBT/TKPWAEUT
 'foreground': TPOER/TKPWROUPBD
@@ -37,10 +37,13 @@ Prefix Compounds
 'superheat': SAOUP/HAOET
 'semisolid': SPHEU/SOLD
 'semicharmed': SPHEU/KHARPLD
-'antimatter': A*EUPBT/PHAERT
-'antipole': A*EUPBT/POEUL
-'mid-section': PHEUD/EBGS
-'mid-step': PHEUD/STEP
+'antimatter': APB/TEU/PHAERT
+'antipole': APB/TEU/POEUL
+'anti-inflammatory': A*EUPBT/EUPB/TPHRAPL/TOER
+'anti-aliasing': A*EUPBT/AEUL/KWRAS/-G
+'midnight': PHEUD/TPHAOEUT
+'midsummer': PHEUD/SAOURPL
+'mid-section': PH*EUD/EBGS
+'mid-step': PH*EUD/STEP
 'underdress': UPBD/TKRES
 'underwear': UPBD/WAER
-ignore_characters='-'
