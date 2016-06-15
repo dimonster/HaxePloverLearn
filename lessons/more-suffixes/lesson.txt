@@ -136,5 +136,8 @@ More Suffixes
 '^iness': *PBS or *EUPBS
 '^liness': HREUPBS or HR*EUPBS
 '^iveness': EUFPBS
+'^tive': TEUF
+'^ify': TPAOEU
 '^ary': AER
+'^ance': APBS
 ignore_characters='^'

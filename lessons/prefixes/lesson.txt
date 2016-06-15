@@ -36,4 +36,5 @@ Prefixes
 'mid^': PHEUD
 'mid-^': PH*EUD
 'non-^': TPHAUPB or TPHA*UPB
+'on^': AUPB
 ignore_characters='^'
