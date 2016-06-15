@@ -1,0 +1,2017 @@
+The Bell
+
+'People': PAOEPL
+'said': SAEUD
+'"The': KR-GS -T
+'Evening': AOEPG
+'Bell': PWEL
+'is': S
+'sounding,': SOUPBD/-G KW-BG
+'the': -T
+'sun': SUPB
+'is': S
+'setting."': SEGT TP-PL KR-GS
+'For': TPOR
+'a': AEU
+'strange': STRAEUPBG
+'wondrous': WOPBD/ROUS
+'tone': TOEPB
+'was': WA
+'heard': HERD
+'in': TPH
+'the': -T
+'narrow': TPHAR/OE
+'streets': STRAOETS
+'of': -F
+'a': AEU
+'large': HRARPBLG
+'town.': TOUPB TP-PL
+'It': T
+'was': WA
+'like': HRAOEUBG
+'the': -T
+'sound': SOUPBD
+'of': -F
+'a': AEU
+'church-bell:': KHUFRPB H-PB PWEL STPH-FPLT
+'but': PWUT
+'it': T
+'was': WA
+'only': OEPBL
+'heard': HERD
+'for': TPOR
+'a': AEU
+'moment,': PHOEPLT KW-BG
+'for': TPOR
+'the': -T
+'rolling': ROLG
+'of': -F
+'the': -T
+'carriages': KAEURPBLG/-S
+'and': SKP
+'the': -T
+'voices': SROEUFS
+'of': -F
+'the': -T
+'multitude': PHULD/TAOUD
+'made': PHAED
+'too': TAO
+'great': TKPWRAET
+'a': AEU
+'noise.': TPHOEUS TP-PL
+'Those': THOZ
+'persons': PERPBS
+'who': WHO
+'were': WR
+'walking': WAUG
+'outside': OUDZ
+'the': -T
+'town,': TOUPB KW-BG
+'where': W-R
+'the': -T
+'houses': HO*UFS
+'were': WR
+'farther': TPA*RT
+'apart,': A/PARD KW-BG
+'with': W
+'gardens': TKPWARD/-PBS
+'or': OR
+'little': HREUL
+'fields': TPAOELDZ
+'between': TWAOEPB
+'them,': THEPL KW-BG
+'could': KO
+'see': SAOE
+'the': -T
+'evening': AOEPG
+'sky': SKAOEU
+'still': STEUL
+'better,': PWOERT KW-BG
+'and': SKP
+'heard': HERD
+'the': -T
+'sound': SOUPBD
+'of': -F
+'the': -T
+'bell': PWEL
+'much': PHUFP
+'more': PHOR
+'distinctly.': TKEUS/TEUPBGT/HREU TP-PL
+'It': T
+'was': WA
+'as': AZ
+'if': TP
+'the': -T
+'tones': TOEPBS
+'came': KAEUPL
+'from': TPR
+'a': AEU
+'church': KHUFRPB
+'in': TPH
+'the': -T
+'still': STEUL
+'forest;': TPO*RS STPH*FPLT
+'people': PAOEPL
+'looked': HRAOBGD
+'thitherward,': XXX thitherward KW-BG
+'and': SKP
+'felt': TPELT
+'their': THAEUR
+'minds': PHAOEUPBDZ
+'attuned': XXX attuned
+'most': PHO*S
+'solemnly.': SOL/EPL/HREU TP-PL
+'A': AEU
+'long': HROPBG
+'time': TAOEUPL
+'passed,': PAFD KW-BG
+'and': SKP
+'people': PAOEPL
+'said': SAEUD
+'to': TO
+'each': AOEFP
+'other--"I': OER H-PB H-PB KR-GS EU
+'wonder': WOPBD
+'if': TP
+'there': THR
+'is': S
+'a': AEU
+'church': KHUFRPB
+'out': OUT
+'in': TPH
+'the': -T
+'wood?': WAOD H-F
+'The': -T
+'bell': PWEL
+'has': HAS
+'a': AEU
+'tone': TOEPB
+'that': THA
+'is': S
+'wondrous': WOPBD/ROUS
+'sweet;': SWAOET STPH*FPLT
+'let': HRET
+'us': US
+'stroll': STROL
+'thither,': TH*EURT KW-BG
+'and': SKP
+'examine': KP
+'the': -T
+'matter': PHAERT
+'nearer."': TPHAOER/*ER TP-PL KR-GS
+'And': SKP
+'the': -T
+'rich': REUFP
+'people': PAOEPL
+'drove': TKROEF
+'out,': OUT KW-BG
+'and': SKP
+'the': -T
+'poor': PAOR
+'walked,': WAUBGD KW-BG
+'but': PWUT
+'the': -T
+'way': WAEU
+'seemed': SAOEPLD
+'strangely': STRAEUPBG/HREU
+'long': HROPBG
+'to': TO
+'them;': THEPL STPH*FPLT
+'and': SKP
+'when': WHEPB
+'they': THE
+'came': KAEUPL
+'to': TO
+'a': AEU
+'clump': KHR*UPL
+'of': -F
+'willows': WEUL/HROE/-S
+'which': WEU
+'grew': TKPWRAOU
+'on': OPB
+'the': -T
+'skirts': SKEURTS
+'of': -F
+'the': -T
+'forest,': TPO*RS KW-BG
+'they': THE
+'sat': SAT
+'down,': TKOUPB KW-BG
+'and': SKP
+'looked': HRAOBGD
+'up': UP
+'at': AT
+'the': -T
+'long': HROPBG
+'branches,': PWRAFPBS KW-BG
+'and': SKP
+'fancied': XXX fancied
+'they': THE
+'were': WR
+'now': TPHOU
+'in': TPH
+'the': -T
+'depth': TK*EPT
+'of': -F
+'the': -T
+'green': TKPWRAOEPB
+'wood.': WAOD TP-PL
+'The': -T
+'confectioner': KAUPB/TPEBGS/*ER
+'of': -F
+'the': -T
+'town': TOUPB
+'came': KAEUPL
+'out,': OUT KW-BG
+'and': SKP
+'set': SET
+'up': UP
+'his': HEUS
+'booth': PWAO*T
+'there;': THR STPH*FPLT
+'and': SKP
+'soon': SAOPB
+'after': AF
+'came': KAEUPL
+'another': TPHOER
+'confectioner,': KAUPB/TPEBGS/*ER KW-BG
+'who': WHO
+'hung': HUPBG
+'a': AEU
+'bell': PWEL
+'over': OEFR
+'his': HEUS
+'stand,': STAPBD KW-BG
+'as': AZ
+'a': AEU
+'sign': SAOEUPB
+'or': OR
+'ornament,': ORPB/*PLT KW-BG
+'but': PWUT
+'it': T
+'had': H
+'no': TPHO
+'clapper,': KHRAP/ER KW-BG
+'and': SKP
+'it': T
+'was': WA
+'tarred': TARD
+'over': OEFR
+'to': TO
+'preserve': PREFRB
+'it': T
+'from': TPR
+'the': -T
+'rain.': RAEUPB TP-PL
+'When': WHEPB
+'all': AUL
+'the': -T
+'people': PAOEPL
+'returned': RURPBD
+'home,': HOEPL KW-BG
+'they': THE
+'said': SAEUD
+'it': T
+'had': H
+'been': PW-PB
+'very': SRE
+'romantic,': RO/PHAPB/TEUBG KW-BG
+'and': SKP
+'that': THA
+'it': T
+'was': WA
+'quite': KWAOEUT
+'a': AEU
+'different': TKEUFRT
+'sort': SORT
+'of': -F
+'thing': THEUPBG
+'to': TO
+'a': AEU
+'pic-nic': P*EUBG H-PB XXX nic
+'or': OR
+'tea-party.': TAE H-PB PAERT TP-PL
+'There': THR
+'were': WR
+'three': THRAOE
+'persons': PERPBS
+'who': WHO
+'asserted': A/SERT/-D
+'they': THE
+'had': H
+'penetrated': PEPB/TRAEUTD
+'to': TO
+'the': -T
+'end': EPBD
+'of': -F
+'the': -T
+'forest,': TPO*RS KW-BG
+'and': SKP
+'that': THA
+'they': THE
+'had': H
+'always': AULS
+'heard': HERD
+'the': -T
+'wonderful': WUFL
+'sounds': SOUPDZ
+'of': -F
+'the': -T
+'bell,': PWEL KW-BG
+'but': PWUT
+'it': T
+'had': H
+'seemed': SAOEPLD
+'to': TO
+'them': THEPL
+'as': AZ
+'if': TP
+'it': T
+'had': H
+'come': KOPL
+'from': TPR
+'the': -T
+'town.': TOUPB TP-PL
+'One': WUPB
+'wrote': WRO
+'a': AEU
+'whole': WHOEL
+'poem': POEPL
+'about': PW
+'it,': T KW-BG
+'and': SKP
+'said': SAEUD
+'the': -T
+'bell': PWEL
+'sounded': SOUPBD/-D
+'like': HRAOEUBG
+'the': -T
+'voice': SROEUS
+'of': -F
+'a': AEU
+'mother': PHOER
+'to': TO
+'a': AEU
+'good': TKPWAOD
+'dear': TKAER
+'child,': KHAOEULD KW-BG
+'and': SKP
+'that': THA
+'no': TPHO
+'melody': PHEL/TKEU
+'was': WA
+'sweeter': SWAOERT
+'than': THAPB
+'the': -T
+'tones': TOEPBS
+'of': -F
+'the': -T
+'bell.': PWEL TP-PL
+'The': -T
+'king': KEUPBG
+'of': -F
+'the': -T
+'country': KREU
+'was': WA
+'also': HR-S
+'observant': OEB/APBT
+'of': -F
+'it,': T KW-BG
+'and': SKP
+'vowed': SROUD
+'that': THA
+'he': E
+'who': WHO
+'could': KO
+'discover': SKOFR
+'whence': WHEPBS
+'the': -T
+'sounds': SOUPDZ
+'proceeded,': PROE/SAOED/-D KW-BG
+'should': SHO
+'have': SR
+'the': -T
+'title': TAOEULT
+'of': -F
+'"Universal': KR-GS AOUFRL
+'Bell-ringer,"': PWEL H-PB REUPB/TKPWER KW-BG KR-GS
+'even': AOEPB
+'if': TP
+'it': T
+'were': WR
+'not': TPHOT
+'really': HROERL
+'a': AEU
+'bell.': PWEL TP-PL
+'Many': PHAEPB
+'persons': PERPBS
+'now': TPHOU
+'went': WEPBT
+'to': TO
+'the': -T
+'wood,': WAOD KW-BG
+'for': TPOR
+'the': -T
+'sake': SAEUBG
+'of': -F
+'getting': TKPWEGT
+'the': -T
+'place,': PHRAEUS KW-BG
+'but': PWUT
+'one': WUPB
+'only': OEPBL
+'returned': RURPBD
+'with': W
+'a': AEU
+'sort': SORT
+'of': -F
+'explanation;': SHRAPBGS STPH*FPLT
+'for': TPOR
+'nobody': TPHOEB
+'went': WEPBT
+'far': TPAR
+'enough,': TPHUF KW-BG
+'that': THA
+'one': WUPB
+'not': TPHOT
+'further': TPURT
+'than': THAPB
+'the': -T
+'others.': OERS TP-PL
+'However,': HOUF KW-BG
+'he': E
+'said': SAEUD
+'that': THA
+'the': -T
+'sound': SOUPBD
+'proceeded': PROE/SAOED/-D
+'from': TPR
+'a': AEU
+'very': SRE
+'large': HRARPBLG
+'owl,': OUL KW-BG
+'in': TPH
+'a': AEU
+'hollow': HOL/OE
+'tree;': TRAOE STPH*FPLT
+'a': AEU
+'sort': SORT
+'of': -F
+'learned': HRERPBD
+'owl,': OUL KW-BG
+'that': THA
+'continually': TAEPBL
+'knocked': TPHOBGD
+'its': EUTS
+'head': HED
+'against': STPWEPBS
+'the': -T
+'branches.': PWRAFPBS TP-PL
+'But': PWUT
+'whether': WHR
+'the': -T
+'sound': SOUPBD
+'came': KAEUPL
+'from': TPR
+'his': HEUS
+'head': HED
+'or': OR
+'from': TPR
+'the': -T
+'hollow': HOL/OE
+'tree,': TRAOE KW-BG
+'that': THA
+'no': TPHO
+'one': WUPB
+'could': KO
+'say': SAEU
+'with': W
+'certainty.': SERPBT TP-PL
+'So': SO
+'now': TPHOU
+'he': E
+'got': TKPWOT
+'the': -T
+'place': PHRAEUS
+'of': -F
+'"Universal': KR-GS AOUFRL
+'Bell-ringer,"': PWEL H-PB REUPB/TKPWER KW-BG KR-GS
+'and': SKP
+'wrote': WRO
+'yearly': KWRAOERL
+'a': AEU
+'short': SHORT
+'treatise': TRAOE/TEUS
+'"On': KR-GS OPB
+'the': -T
+'Owl";': OUL KR-GS STPH*FPLT
+'but': PWUT
+'everybody': EFB
+'was': WA
+'just': SKWRUFT
+'as': AZ
+'wise': WAOEUS
+'as': AZ
+'before.': PW-F TP-PL
+'It': T
+'was': WA
+'the': -T
+'day': TKAEU
+'of': -F
+'confirmation.': K-FRPLGS TP-PL
+'The': -T
+'clergyman': KHRERPBLG/PHAPB
+'had': H
+'spoken': SPOEPB
+'so': SO
+'touchingly,': TUFPG/HREU KW-BG
+'the': -T
+'children': KHEURPB
+'who': WHO
+'were': WR
+'confirmed': K-FRPL/-D
+'had': H
+'been': PW-PB
+'greatly': TKPWRAELT
+'moved;': PHOFD STPH*FPLT
+'it': T
+'was': WA
+'an': APB
+'eventful': AOEPBT/-FL
+'day': TKAEU
+'for': TPOR
+'them;': THEPL STPH*FPLT
+'from': TPR
+'children': KHEURPB
+'they': THE
+'become': PW-BG
+'all': AUL
+'at': AT
+'once': WUPBS
+'grown-up-persons;': TKPWROEPB H-PB UP H-PB PERPBS STPH*FPLT
+'it': T
+'was': WA
+'as': AZ
+'if': TP
+'their': THAEUR
+'infant': EUPB/TPAPT
+'souls': SOULS
+'were': WR
+'now': TPHOU
+'to': TO
+'fly': TPHRAOEU
+'all': AUL
+'at': AT
+'once': WUPBS
+'into': TPHAO
+'persons': PERPBS
+'with': W
+'more': PHOR
+'understanding.': URPBGD TP-PL
+'The': -T
+'sun': SUPB
+'was': WA
+'shining': SHAOEUPBG
+'gloriously;': TKPWHRORS/HREU STPH*FPLT
+'the': -T
+'children': KHEURPB
+'that': THA
+'had': H
+'been': PW-PB
+'confirmed': K-FRPL/-D
+'went': WEPBT
+'out': OUT
+'of': -F
+'the': -T
+'town;': TOUPB STPH*FPLT
+'and': SKP
+'from': TPR
+'the': -T
+'wood': WAOD
+'was': WA
+'borne': PWO*RPB
+'towards': TORDZ
+'them': THEPL
+'the': -T
+'sounds': SOUPDZ
+'of': -F
+'the': -T
+'unknown': UPB/TPHOEPB
+'bell': PWEL
+'with': W
+'wonderful': WUFL
+'distinctness.': XXX distinctness TP-PL
+'They': THE
+'all': AUL
+'immediately': PHAOELD
+'felt': TPELT
+'a': AEU
+'wish': WEURB
+'to': TO
+'go': TKPW
+'thither;': TH*EURT STPH*FPLT
+'all': AUL
+'except': KPEPT
+'three.': THRAOE TP-PL
+'One': WUPB
+'of': -F
+'them': THEPL
+'had': H
+'to': TO
+'go': TKPW
+'home': HOEPL
+'to': TO
+'try': TREU
+'on': OPB
+'a': AEU
+'ball-dress;': PWAUL H-PB TKRES STPH*FPLT
+'for': TPOR
+'it': T
+'was': WA
+'just': SKWRUFT
+'the': -T
+'dress': TKRES
+'and': SKP
+'the': -T
+'ball': PWAUL
+'which': WEU
+'had': H
+'caused': KAUFD
+'her': HER
+'to': TO
+'be': -B
+'confirmed': K-FRPL/-D
+'this': TH
+'time,': TAOEUPL KW-BG
+'for': TPOR
+'otherwise': O*ERZ
+'she': SHE
+'would': WO
+'not': TPHOT
+'have': SR
+'come;': KOPL STPH*FPLT
+'the': -T
+'other': OER
+'was': WA
+'a': AEU
+'poor': PAOR
+'boy,': PWOEU KW-BG
+'who': WHO
+'had': H
+'borrowed': PWO*ERD
+'his': HEUS
+'coat': KOET
+'and': SKP
+'boots': PWAOTS
+'to': TO
+'be': -B
+'confirmed': K-FRPL/-D
+'in': TPH
+'from': TPR
+'the': -T
+'innkeeper's': *EUPB/KAOEP/ER AE S*/SP-S
+'son,': SOPB KW-BG
+'and': SKP
+'he': E
+'was': WA
+'to': TO
+'give': TKPWEUF
+'them': THEPL
+'back': PWABG
+'by': PWEU
+'a': AEU
+'certain': SERPB
+'hour;': HOUR STPH*FPLT
+'the': -T
+'third': THEURD
+'said': SAEUD
+'that': THA
+'he': E
+'never': TPHEF
+'went': WEPBT
+'to': TO
+'a': AEU
+'strange': STRAEUPBG
+'place': PHRAEUS
+'if': TP
+'his': HEUS
+'parents': PARPBTS
+'were': WR
+'not': TPHOT
+'with': W
+'him--that': HEUPL H-PB H-PB THA
+'he': E
+'had': H
+'always': AULS
+'been': PW-PB
+'a': AEU
+'good': TKPWAOD
+'boy': PWOEU
+'hitherto,': H*EUT/ER/TO KW-BG
+'and': SKP
+'would': WO
+'still': STEUL
+'be': -B
+'so': SO
+'now': TPHOU
+'that': THA
+'he': E
+'was': WA
+'confirmed,': K-FRPL/-D KW-BG
+'and': SKP
+'that': THA
+'one': WUPB
+'ought': OT
+'not': TPHOT
+'to': TO
+'laugh': HRAF
+'at': AT
+'him': HEUPL
+'for': TPOR
+'it:': T STPH-FPLT
+'the': -T
+'others,': OERS KW-BG
+'however,': HOUF KW-BG
+'did': TK
+'make': PHAEUBG
+'fun': TPUPB
+'of': -F
+'him,': HEUPL KW-BG
+'after': AF
+'all.': AUL TP-PL
+'There': THR
+'were': WR
+'three,': THRAOE KW-BG
+'therefore,': TH-FR KW-BG
+'that': THA
+'did': TK
+'not': TPHOT
+'go;': TKPW STPH*FPLT
+'the': -T
+'others': OERS
+'hastened': HAEUS/-PBD
+'on.': OPB TP-PL
+'The': -T
+'sun': SUPB
+'shone,': SHO*EPB KW-BG
+'the': -T
+'birds': PWEURDZ
+'sang,': SAPBG KW-BG
+'and': SKP
+'the': -T
+'children': KHEURPB
+'sang': SAPBG
+'too,': TAO KW-BG
+'and': SKP
+'each': AOEFP
+'held': HELD
+'the': -T
+'other': OER
+'by': PWEU
+'the': -T
+'hand;': HAPBD STPH*FPLT
+'for': TPOR
+'as': AZ
+'yet': KWRET
+'they': THE
+'had': H
+'none': TPHOPB
+'of': -F
+'them': THEPL
+'any': TPHEU
+'high': HAOEU
+'office,': OFS KW-BG
+'and': SKP
+'were': WR
+'all': AUL
+'of': -F
+'equal': KWAL
+'rank': RA*PBG
+'in': TPH
+'the': -T
+'eye': AOEU
+'of': -F
+'God.': TKPO*D TP-PL
+'But': PWUT
+'two': TWO
+'of': -F
+'the': -T
+'youngest': KWRUPBG/EFT
+'soon': SAOPB
+'grew': TKPWRAOU
+'tired,': TAOEURD KW-BG
+'and': SKP
+'both': PWO*T
+'returned': RURPBD
+'to': TO
+'town;': TOUPB STPH*FPLT
+'two': TWO
+'little': HREUL
+'girls': TKPWEURLS
+'sat': SAT
+'down,': TKOUPB KW-BG
+'and': SKP
+'twined': TWEUPB/-D
+'garlands,': TKPWAR/HRAPBDZ KW-BG
+'so': SO
+'they': THE
+'did': TK
+'not': TPHOT
+'go': TKPW
+'either;': AOERT STPH*FPLT
+'and': SKP
+'when': WHEPB
+'the': -T
+'others': OERS
+'reached': RAOEFPD
+'the': -T
+'willow-tree,': WEUL/HROE H-PB TRAOE KW-BG
+'where': W-R
+'the': -T
+'confectioner': KAUPB/TPEBGS/*ER
+'was,': WA KW-BG
+'they': THE
+'said,': SAEUD KW-BG
+'"Now': KR-GS TPHOU
+'we': WE
+'are': R
+'there!': THR SKHRAPL
+'In': TPH
+'reality': RAOELT
+'the': -T
+'bell': PWEL
+'does': TKOS
+'not': TPHOT
+'exist;': KP*EUS STPH*FPLT
+'it': T
+'is': S
+'only': OEPBL
+'a': AEU
+'fancy': TPAPB/SEU
+'that': THA
+'people': PAOEPL
+'have': SR
+'taken': TAEPB
+'into': TPHAO
+'their': THAEUR
+'heads!"': HEDZ SKHRAPL KR-GS
+'At': AT
+'the': -T
+'same': SAEUPL
+'moment': PHOEPLT
+'the': -T
+'bell': PWEL
+'sounded': SOUPBD/-D
+'deep': TKAOEP
+'in': TPH
+'the': -T
+'wood,': WAOD KW-BG
+'so': SO
+'clear': KHRAOER
+'and': SKP
+'solemnly': SOL/EPL/HREU
+'that': THA
+'five': TPEUF
+'or': OR
+'six': SEUBGS
+'determined': TKERPLD
+'to': TO
+'penetrate': PEPB/TRAEUT
+'somewhat': SWHA
+'further.': TPURT TP-PL
+'It': T
+'was': WA
+'so': SO
+'thick,': THEUBG KW-BG
+'and': SKP
+'the': -T
+'foliage': TPOEL/APBLG
+'so': SO
+'dense,': TKEPBS KW-BG
+'that': THA
+'it': T
+'was': WA
+'quite': KWAOEUT
+'fatiguing': TPA/TAOEG/-G
+'to': TO
+'proceed.': PROED TP-PL
+'Woodroof': XXX Woodroof
+'and': SKP
+'anemonies': XXX anemonies
+'grew': TKPWRAOU
+'almost': HR-PL
+'too': TAO
+'high;': HAOEU STPH*FPLT
+'blooming': PWHRAOPL/-G
+'convolvuluses': XXX convolvuluses
+'and': SKP
+'blackberry-bushes': PWHRABG/PWER/REU H-PB PWURBS
+'hung': HUPBG
+'in': TPH
+'long': HROPBG
+'garlands': TKPWAR/HRAPBDZ
+'from': TPR
+'tree': TRAOE
+'to': TO
+'tree,': TRAOE KW-BG
+'where': W-R
+'the': -T
+'nightingale': TPHAOEUT/-G/TKPWAEL
+'sang': SAPBG
+'and': SKP
+'the': -T
+'sunbeams': SUPB/PWAOEPL/-S
+'were': WR
+'playing:': PHRA*EUG STPH-FPLT
+'it': T
+'was': WA
+'very': SRE
+'beautiful,': PWAOUFL KW-BG
+'but': PWUT
+'it': T
+'was': WA
+'no': TPHO
+'place': PHRAEUS
+'for': TPOR
+'girls': TKPWEURLS
+'to': TO
+'go;': TKPW STPH*FPLT
+'their': THAEUR
+'clothes': KHRO*ETS
+'would': WO
+'get': TKPWET
+'so': SO
+'torn.': TORPB TP-PL
+'Large': HRARPBLG
+'blocks': PWHROBGS
+'of': -F
+'stone': STOEPB
+'lay': HRAEU
+'there,': THR KW-BG
+'overgrown': XXX overgrown
+'with': W
+'moss': PHOS
+'of': -F
+'every': EF
+'color;': KROR STPH*FPLT
+'the': -T
+'fresh': TPRERB
+'spring': SPREUPBG
+'bubbled': PWUBLD
+'forth,': TPO*RT KW-BG
+'and': SKP
+'made': PHAED
+'a': AEU
+'strange': STRAEUPBG
+'gurgling': TKPWURG/-LG
+'sound.': SOUPBD TP-PL
+'"That': KR-GS THA
+'surely': SHURL
+'cannot': K/TPHOT
+'be': -B
+'the': -T
+'bell,"': PWEL KW-BG KR-GS
+'said': SAEUD
+'one': WUPB
+'of': -F
+'the': -T
+'children,': KHEURPB KW-BG
+'lying': HRAOEUG
+'down': TKOUPB
+'and': SKP
+'listening.': HR-PBG TP-PL
+'"This': KR-GS TH
+'must': PHUFT
+'be': -B
+'looked': HRAOBGD
+'to."': TO TP-PL KR-GS
+'So': SO
+'he': E
+'remained,': RE/PHAEUPBD KW-BG
+'and': SKP
+'let': HRET
+'the': -T
+'others': OERS
+'go': TKPW
+'on': OPB
+'without': WOUT
+'him.': HEUPL TP-PL
+'They': THE
+'afterwards': A*FRDZ
+'came': KAEUPL
+'to': TO
+'a': AEU
+'little': HREUL
+'house,': HOUS KW-BG
+'made': PHAED
+'of': -F
+'branches': PWRAFPBS
+'and': SKP
+'the': -T
+'bark': PWARBG
+'of': -F
+'trees;': TRAOES STPH*FPLT
+'a': AEU
+'large': HRARPBLG
+'wild': WAOEULD
+'apple-tree': A*EPL H-PB TRAOE
+'bent': PWEPBT
+'over': OEFR
+'it,': T KW-BG
+'as': AZ
+'if': TP
+'it': T
+'would': WO
+'shower': SHOUR
+'down': TKOUPB
+'all': AUL
+'its': EUTS
+'blessings': PWHREFGS
+'on': OPB
+'the': -T
+'roof,': RAOF KW-BG
+'where': W-R
+'roses': ROES/-S
+'were': WR
+'blooming.': PWHRAOPL/-G TP-PL
+'The': -T
+'long': HROPBG
+'stems': STEPLS
+'twined': TWEUPB/-D
+'round': ROUPBD
+'the': -T
+'gable,': TKPWAEUBL KW-BG
+'on': OPB
+'which': WEU
+'there': THR
+'hung': HUPBG
+'a': AEU
+'small': SPAUL
+'bell.': PWEL TP-PL
+'Was': WA
+'it': T
+'that': THA
+'which': WEU
+'people': PAOEPL
+'had': H
+'heard?': HERD H-F
+'Yes,': KWRE KW-BG
+'everybody': EFB
+'was': WA
+'unanimous': TPHAPLS
+'on': OPB
+'the': -T
+'subject,': SUBT KW-BG
+'except': KPEPT
+'one,': WUPB KW-BG
+'who': WHO
+'said': SAEUD
+'that': THA
+'the': -T
+'bell': PWEL
+'was': WA
+'too': TAO
+'small': SPAUL
+'and': SKP
+'too': TAO
+'fine': TPAOEUPB
+'to': TO
+'be': -B
+'heard': HERD
+'at': AT
+'so': SO
+'great': TKPWRAET
+'a': AEU
+'distance,': STKAPBS KW-BG
+'and': SKP
+'besides': PW-DZ
+'it': T
+'was': WA
+'very': SRE
+'different': TKEUFRT
+'tones': TOEPBS
+'to': TO
+'those': THOZ
+'that': THA
+'could': KO
+'move': PHOF
+'a': AEU
+'human': HAOUPL
+'heart': HART
+'in': TPH
+'such': SUFP
+'a': AEU
+'manner.': PHAERPB TP-PL
+'It': T
+'was': WA
+'a': AEU
+'king's': KEUPBG AE S*/SP-S
+'son': SOPB
+'who': WHO
+'spoke;': SPOEBG STPH*FPLT
+'whereon': WROPB
+'the': -T
+'others': OERS
+'said,': SAEUD KW-BG
+'"Such': KR-GS SUFP
+'people': PAOEPL
+'always': AULS
+'want': WAPBT
+'to': TO
+'be': -B
+'wiser': WAOEUZ/ER
+'than': THAPB
+'everybody': EFB
+'else."': ELS TP-PL KR-GS
+'They': THE
+'now': TPHOU
+'let': HRET
+'him': HEUPL
+'go': TKPW
+'on': OPB
+'alone;': A/HROEPB STPH*FPLT
+'and': SKP
+'as': AZ
+'he': E
+'went,': WEPBT KW-BG
+'his': HEUS
+'breast': PWR*ES
+'was': WA
+'filled': TPEULD
+'more': PHOR
+'and': SKP
+'more': PHOR
+'with': W
+'the': -T
+'forest': TPO*RS
+'solitude;': SOL/TAOUD STPH*FPLT
+'but': PWUT
+'he': E
+'still': STEUL
+'heard': HERD
+'the': -T
+'little': HREUL
+'bell': PWEL
+'with': W
+'which': WEU
+'the': -T
+'others': OERS
+'were': WR
+'so': SO
+'satisfied,': SAED KW-BG
+'and': SKP
+'now': TPHOU
+'and': SKP
+'then,': THEPB KW-BG
+'when': WHEPB
+'the': -T
+'wind': WEUPBD
+'blew,': PWHRAOU KW-BG
+'he': E
+'could': KO
+'also': HR-S
+'hear': HAER
+'the': -T
+'people': PAOEPL
+'singing': SEUPBG/-G
+'who': WHO
+'were': WR
+'sitting': SAO*EGT
+'at': AT
+'tea': TAE
+'where': W-R
+'the': -T
+'confectioner': KAUPB/TPEBGS/*ER
+'had': H
+'his': HEUS
+'tent;': TEPBT STPH*FPLT
+'but': PWUT
+'the': -T
+'deep': TKAOEP
+'sound': SOUPBD
+'of': -F
+'the': -T
+'bell': PWEL
+'rose': ROES
+'louder;': HROURD STPH*FPLT
+'it': T
+'was': WA
+'almost': HR-PL
+'as': AZ
+'if': TP
+'an': APB
+'organ': O*RPBG
+'were': WR
+'accompanying': A/K-PG
+'it,': T KW-BG
+'and': SKP
+'the': -T
+'tones': TOEPBS
+'came': KAEUPL
+'from': TPR
+'the': -T
+'left': HREFT
+'hand,': HAPBD KW-BG
+'the': -T
+'side': SAOEUD
+'where': W-R
+'the': -T
+'heart': HART
+'is': S
+'placed.': PHRAEUFD TP-PL
+'A': AEU
+'rustling': RUS/-LG
+'was': WA
+'heard': HERD
+'in': TPH
+'the': -T
+'bushes,': PWURBS KW-BG
+'and': SKP
+'a': AEU
+'little': HREUL
+'boy': PWOEU
+'stood': STAOD
+'before': PW-F
+'the': -T
+'King's': KEUPBG AE S*/SP-S
+'Son,': SOPB KW-BG
+'a': AEU
+'boy': PWOEU
+'in': TPH
+'wooden': WAOD/EPB
+'shoes,': SHAOS KW-BG
+'and': SKP
+'with': W
+'so': SO
+'short': SHORT
+'a': AEU
+'jacket': SKWRABGT
+'that': THA
+'one': WUPB
+'could': KO
+'see': SAOE
+'what': WHA
+'long': HROPBG
+'wrists': WREUFTS
+'he': E
+'had.': H TP-PL
+'Both': PWO*T
+'knew': TPHAOU
+'each': AOEFP
+'other:': OER STPH-FPLT
+'the': -T
+'boy': PWOEU
+'was': WA
+'that': THA
+'one': WUPB
+'among': PHOPBG
+'the': -T
+'children': KHEURPB
+'who': WHO
+'could': KO
+'not': TPHOT
+'come': KOPL
+'because': PWAU
+'he': E
+'had': H
+'to': TO
+'go': TKPW
+'home': HOEPL
+'and': SKP
+'return': RURPB
+'his': HEUS
+'jacket': SKWRABGT
+'and': SKP
+'boots': PWAOTS
+'to': TO
+'the': -T
+'innkeeper's': *EUPB/KAOEP/ER AE S*/SP-S
+'son.': SOPB TP-PL
+'This': TH
+'he': E
+'had': H
+'done,': TKOPB KW-BG
+'and': SKP
+'was': WA
+'now': TPHOU
+'going': TKPW-G
+'on': OPB
+'in': TPH
+'wooden': WAOD/EPB
+'shoes': SHAOS
+'and': SKP
+'in': TPH
+'his': HEUS
+'humble': UPL/-BL
+'dress,': TKRES KW-BG
+'for': TPOR
+'the': -T
+'bell': PWEL
+'sounded': SOUPBD/-D
+'with': W
+'so': SO
+'deep': TKAOEP
+'a': AEU
+'tone,': TOEPB KW-BG
+'and': SKP
+'with': W
+'such': SUFP
+'strange': STRAEUPBG
+'power,': POUR KW-BG
+'that': THA
+'proceed': PROED
+'he': E
+'must.': PHUFT TP-PL
+'"Why,': KR-GS KWR KW-BG
+'then,': THEPB KW-BG
+'we': WE
+'can': K
+'go': TKPW
+'together,"': TOGT KW-BG KR-GS
+'said': SAEUD
+'the': -T
+'King's': KEUPBG AE S*/SP-S
+'Son.': SOPB TP-PL
+'But': PWUT
+'the': -T
+'poor': PAOR
+'child': KHAOEULD
+'that': THA
+'had': H
+'been': PW-PB
+'confirmed': K-FRPL/-D
+'was': WA
+'quite': KWAOEUT
+'ashamed;': A/SHAEUPLD STPH*FPLT
+'he': E
+'looked': HRAOBGD
+'at': AT
+'his': HEUS
+'wooden': WAOD/EPB
+'shoes,': SHAOS KW-BG
+'pulled': PULD
+'at': AT
+'the': -T
+'short': SHORT
+'sleeves': SHRAOEFS
+'of': -F
+'his': HEUS
+'jacket,': SKWRABGT KW-BG
+'and': SKP
+'said': SAEUD
+'that': THA
+'he': E
+'was': WA
+'afraid': A/TPRAEUD
+'he': E
+'could': KO
+'not': TPHOT
+'walk': WAUBG
+'so': SO
+'fast;': TPA*S STPH*FPLT
+'besides,': PW-DZ KW-BG
+'he': E
+'thought': THAUT
+'that': THA
+'the': -T
+'bell': PWEL
+'must': PHUFT
+'be': -B
+'looked': HRAOBGD
+'for': TPOR
+'to': TO
+'the': -T
+'right;': RAOEUT STPH*FPLT
+'for': TPOR
+'that': THA
+'was': WA
+'the': -T
+'place': PHRAEUS
+'where': W-R
+'all': AUL
+'sorts': SORTS
+'of': -F
+'beautiful': PWAOUFL
+'things': THEUPBGS
+'were': WR
+'to': TO
+'be': -B
+'found.': TPOUPBD TP-PL
+'"But': KR-GS PWUT
+'there': THR
+'we': WE
+'shall': SHAL
+'not': TPHOT
+'meet,"': PHAOET KW-BG KR-GS
+'said': SAEUD
+'the': -T
+'King's': KEUPBG AE S*/SP-S
+'Son,': SOPB KW-BG
+'nodding': TPHOD/-G
+'at': AT
+'the': -T
+'same': SAEUPL
+'time': TAOEUPL
+'to': TO
+'the': -T
+'poor': PAOR
+'boy,': PWOEU KW-BG
+'who': WHO
+'went': WEPBT
+'into': TPHAO
+'the': -T
+'darkest,': TKARBG/EFT KW-BG
+'thickest': THEUBG/EFT
+'part': PART
+'of': -F
+'the': -T
+'wood,': WAOD KW-BG
+'where': W-R
+'thorns': THORPB/-S
+'tore': TO*R
+'his': HEUS
+'humble': UPL/-BL
+'dress,': TKRES KW-BG
+'and': SKP
+'scratched': SKRAFPD
+'his': HEUS
+'face': TPAEUS
+'and': SKP
+'hands': HAPBDZ
+'and': SKP
+'feet': TPAOET
+'till': T*EUL
+'they': THE
+'bled.': PWHRED TP-PL
+'The': -T
+'King's': KEUPBG AE S*/SP-S
+'Son': SOPB
+'got': TKPWOT
+'some': SOPL
+'scratches': SKRAFPS
+'too;': TAO STPH*FPLT
+'but': PWUT
+'the': -T
+'sun': SUPB
+'shone': SHO*EPB
+'on': OPB
+'his': HEUS
+'path,': PA*T KW-BG
+'and': SKP
+'it': T
+'is': S
+'him': HEUPL
+'that': THA
+'we': WE
+'will': HR
+'follow,': TPOL KW-BG
+'for': TPOR
+'he': E
+'was': WA
+'an': APB
+'excellent': KPHREPBT
+'and': SKP
+'resolute': RES/HRAOUT
+'youth.': KWRAO*UT TP-PL
+'"I': KR-GS EU
+'must': PHUFT
+'and': SKP
+'will': HR
+'find': TPEUPBD
+'the': -T
+'bell,"': PWEL KW-BG KR-GS
+'said': SAEUD
+'he,': E KW-BG
+'"even': KR-GS *EFPB
+'if': TP
+'I': EU
+'am': *PL
+'obliged': OB/HRAOEUPBLG/-D
+'to': TO
+'go': TKPW
+'to': TO
+'the': -T
+'end': EPBD
+'of': -F
+'the': -T
+'world."': WORLD TP-PL KR-GS
+'The': -T
+'ugly': ULG
+'apes': AEUP/-S
+'sat': SAT
+'upon': POPB
+'the': -T
+'trees,': TRAOES KW-BG
+'and': SKP
+'grinned.': TKPWREUPB/-D TP-PL
+'"Shall': KR-GS SHAL
+'we': WE
+'thrash': THRARB
+'him?"': HEUPL H-F KR-GS
+'said': SAEUD
+'they.': THE TP-PL
+'"Shall': KR-GS SHAL
+'we': WE
+'thrash': THRARB
+'him?': HEUPL H-F
+'He': E
+'is': S
+'the': -T
+'son': SOPB
+'of': -F
+'a': AEU
+'king!"': KEUPBG SKHRAPL KR-GS
+'But': PWUT
+'on': OPB
+'he': E
+'went,': WEPBT KW-BG
+'without': WOUT
+'being': -BG
+'disheartened,': TKEUS/HART/*EPB/-D KW-BG
+'deeper': TKAOERP
+'and': SKP
+'deeper': TKAOERP
+'into': TPHAO
+'the': -T
+'wood,': WAOD KW-BG
+'where': W-R
+'the': -T
+'most': PHO*S
+'wonderful': WUFL
+'flowers': TPHRO*URS
+'were': WR
+'growing.': TKPWROEG TP-PL
+'There': THR
+'stood': STAOD
+'white': WHAOEUT
+'lilies': HREUL/KWREU/KWREU/-S
+'with': W
+'blood-red': PWHRAOD H-PB RED
+'stamina,': STAPL/TPHA KW-BG
+'skyblue': XXX skyblue
+'tulips,': TAOU/HREUPS KW-BG
+'which': WEU
+'shone': SHO*EPB
+'as': AZ
+'they': THE
+'waved': WAFD
+'in': TPH
+'the': -T
+'winds,': WEUPBDZ KW-BG
+'and': SKP
+'apple-trees,': A*EPL H-PB TRAOES KW-BG
+'the': -T
+'apples': APLS
+'of': -F
+'which': WEU
+'looked': HRAOBGD
+'exactly': ELG
+'like': HRAOEUBG
+'large': HRARPBLG
+'soapbubbles:': XXX soapbubbles STPH-FPLT
+'so': SO
+'only': OEPBL
+'think': THEU
+'how': HOU
+'the': -T
+'trees': TRAOES
+'must': PHUFT
+'have': SR
+'sparkled': SPAR/K-LD
+'in': TPH
+'the': -T
+'sunshine!': S*UPB/SHAOEUPB SKHRAPL
+'Around': ARPBD
+'the': -T
+'nicest': TPHAOEUS/*ES
+'green': TKPWRAOEPB
+'meads,': PHAO*EDZ KW-BG
+'where': W-R
+'the': -T
+'deer': TKAOER
+'were': WR
+'playing': PHRA*EUG
+'in': TPH
+'the': -T
+'grass,': TKPWRAS KW-BG
+'grew': TKPWRAOU
+'magnificent': PHAFPBT
+'oaks': OEBG/-S
+'and': SKP
+'beeches;': PWAOEFP/-S STPH*FPLT
+'and': SKP
+'if': TP
+'the': -T
+'bark': PWARBG
+'of': -F
+'one': WUPB
+'of': -F
+'the': -T
+'trees': TRAOES
+'was': WA
+'cracked,': KRABGD KW-BG
+'there': THR
+'grass': TKPWRAS
+'and': SKP
+'long': HROPBG
+'creeping': KRAOEPG
+'plants': PHRAPBTS
+'grew': TKPWRAOU
+'in': TPH
+'the': -T
+'crevices.': KREFS/-S TP-PL
+'And': SKP
+'there': THR
+'were': WR
+'large': HRARPBLG
+'calm': KAUPL
+'lakes': HRAEUBGS
+'there': THR
+'too,': TAO KW-BG
+'in': TPH
+'which': WEU
+'white': WHAOEUT
+'swans': SWAPBS
+'were': WR
+'swimming,': SWEUPLG KW-BG
+'and': SKP
+'beat': PWAET
+'the': -T
+'air': AEUR
+'with': W
+'their': THAEUR
+'wings.': WEUPBGS TP-PL
+'The': -T
+'King's': KEUPBG AE S*/SP-S
+'Son': SOPB
+'often': OFPB
+'stood': STAOD
+'still': STEUL
+'and': SKP
+'listened.': HR-PB/-D TP-PL
+'He': E
+'thought': THAUT
+'the': -T
+'bell': PWEL
+'sounded': SOUPBD/-D
+'from': TPR
+'the': -T
+'depths': TK*EPTS
+'of': -F
+'these': THEZ
+'still': STEUL
+'lakes;': HRAEUBGS STPH*FPLT
+'but': PWUT
+'then': THEPB
+'he': E
+'remarked': RARBGD
+'again': TKPWEPB
+'that': THA
+'the': -T
+'tone': TOEPB
+'proceeded': PROE/SAOED/-D
+'not': TPHOT
+'from': TPR
+'there,': THR KW-BG
+'but': PWUT
+'farther': TPA*RT
+'off,': OF KW-BG
+'from': TPR
+'out': OUT
+'the': -T
+'depths': TK*EPTS
+'of': -F
+'the': -T
+'forest.': TPO*RS TP-PL
+'The': -T
+'sun': SUPB
+'now': TPHOU
+'set:': SET STPH-FPLT
+'the': -T
+'atmosphere': ATS/TPAOER
+'glowed': TKPWHROE/-D
+'like': HRAOEUBG
+'fire.': TPAOEUR TP-PL
+'It': T
+'was': WA
+'still': STEUL
+'in': TPH
+'the': -T
+'woods,': WAODZ KW-BG
+'so': SO
+'very': SRE
+'still;': STEUL STPH*FPLT
+'and': SKP
+'he': E
+'fell': TPEL
+'on': OPB
+'his': HEUS
+'knees,': TPHAOEZ KW-BG
+'sung': SUPBG
+'his': HEUS
+'evening': AOEPG
+'hymn,': H*EUPL KW-BG
+'and': SKP
+'said:': SAEUD STPH-FPLT
+'"I': KR-GS EU
+'cannot': K/TPHOT
+'find': TPEUPBD
+'what': WHA
+'I': EU
+'seek;': SAOEBG STPH*FPLT
+'the': -T
+'sun': SUPB
+'is': S
+'going': TKPW-G
+'down,': TKOUPB KW-BG
+'and': SKP
+'night': TPHAOEUT
+'is': S
+'coming--the': KO*G H-PB H-PB -T
+'dark,': TKARBG KW-BG
+'dark': TKARBG
+'night.': TPHAOEUT TP-PL
+'Yet': KWRET
+'perhaps': PRAPS
+'I': EU
+'may': PHAE
+'be': -B
+'able': ABL
+'once': WUPBS
+'more': PHOR
+'to': TO
+'see': SAOE
+'the': -T
+'round': ROUPBD
+'red': RED
+'sun': SUPB
+'before': PW-F
+'he': E
+'entirely': SPWAOEURL
+'disappears.': TKEUS/PAOERS TP-PL
+'I': EU
+'will': HR
+'climb': KHRAOEUPL
+'up': UP
+'yonder': KWROPBD/ER
+'rock."': ROBG TP-PL KR-GS
+'And': SKP
+'he': E
+'seized': SAOEZ/-D
+'hold': HOLD
+'of': -F
+'the': -T
+'creeping-plants,': KRAOEPG H-PB PHRAPBTS KW-BG
+'and': SKP
+'the': -T
+'roots': RAOTS
+'of': -F
+'trees--climbed': TRAOES H-PB H-PB KHRAOEUPLD
+'up': UP
+'the': -T
+'moist': PHOEUFT
+'stones': STOEBS
+'where': W-R
+'the': -T
+'water-snakes': WAUR H-PB STPHAEUBGS
+'were': WR
+'writhing': WRAO*EUT/-G
+'and': SKP
+'the': -T
+'toads': TOEDZ
+'were': WR
+'croaking--and': KROEBG/-G H-PB H-PB SKP
+'he': E
+'gained': TKPWAEUPBD
+'the': -T
+'summit': SUPLT
+'before': PW-F
+'the': -T
+'sun': SUPB
+'had': H
+'quite': KWAOEUT
+'gone': TKWOPB
+'down.': TKOUPB TP-PL
+'How': HOU
+'magnificent': PHAFPBT
+'was': WA
+'the': -T
+'sight': SAOEUT
+'from': TPR
+'this': TH
+'height!': HAOEUT SKHRAPL
+'The': -T
+'sea--the': SAE H-PB H-PB -T
+'great,': TKPWRAET KW-BG
+'the': -T
+'glorious': TKPWHRORS
+'sea,': SAE KW-BG
+'that': THA
+'dashed': TKARBD
+'its': EUTS
+'long': HROPBG
+'waves': WAFS
+'against': STPWEPBS
+'the': -T
+'coast--was': KO*ES H-PB H-PB WA
+'stretched': STREFPD
+'out': OUT
+'before': PW-F
+'him.': HEUPL TP-PL
+'And': SKP
+'yonder,': KWROPBD/ER KW-BG
+'where': W-R
+'sea': SAE
+'and': SKP
+'sky': SKAOEU
+'meet,': PHAOET KW-BG
+'stood': STAOD
+'the': -T
+'sun,': SUPB KW-BG
+'like': HRAOEUBG
+'a': AEU
+'large': HRARPBLG
+'shining': SHAOEUPBG
+'altar,': AL/TAR KW-BG
+'all': AUL
+'melted': PHELT/-D
+'together': TOGT
+'in': TPH
+'the': -T
+'most': PHO*S
+'glowing': TKPWHROEG
+'colors.': KHRORS TP-PL
+'And': SKP
+'the': -T
+'wood': WAOD
+'and': SKP
+'the': -T
+'sea': SAE
+'sang': SAPBG
+'a': AEU
+'song': SOPBG
+'of': -F
+'rejoicing,': RE/SKWROEUFG KW-BG
+'and': SKP
+'his': HEUS
+'heart': HART
+'sang': SAPBG
+'with': W
+'the': -T
+'rest:': R*ES STPH-FPLT
+'all': AUL
+'nature': TPHAEUFP
+'was': WA
+'a': AEU
+'vast': SRA*S
+'holy': HOEUL
+'church,': KHUFRPB KW-BG
+'in': TPH
+'which': WEU
+'the': -T
+'trees': TRAOES
+'and': SKP
+'the': -T
+'buoyant': PWOEUPBT
+'clouds': KHROUDZ
+'were': WR
+'the': -T
+'pillars,': PEUL/AR/-S KW-BG
+'flowers': TPHRO*URS
+'and': SKP
+'grass': TKPWRAS
+'the': -T
+'velvet': SREL/SRET
+'carpeting,': KARPT/-G KW-BG
+'and': SKP
+'heaven': HEFPB
+'itself': T/SEF
+'the': -T
+'large': HRARPBLG
+'cupola.': KUP/HRA TP-PL
+'The': -T
+'red': RED
+'colors': KHRORS
+'above': PWOF
+'faded': TPAEUD/-D
+'away': A/WAEU
+'as': AZ
+'the': -T
+'sun': SUPB
+'vanished,': SRAPB/EURBD KW-BG
+'but': PWUT
+'a': AEU
+'million': PHOEUPB
+'stars': STARS
+'were': WR
+'lighted,': HRAOEUT/-D KW-BG
+'a': AEU
+'million': PHOEUPB
+'lamps': HRA*PLS
+'shone;': SHO*EPB STPH*FPLT
+'and': SKP
+'the': -T
+'King's': KEUPBG AE S*/SP-S
+'Son': SOPB
+'spread': SPRED
+'out': OUT
+'his': HEUS
+'arms': ARPLS
+'towards': TORDZ
+'heaven,': HEFPB KW-BG
+'and': SKP
+'wood,': WAOD KW-BG
+'and': SKP
+'sea;': SAE STPH*FPLT
+'when': WHEPB
+'at': AT
+'the': -T
+'same': SAEUPL
+'moment,': PHOEPLT KW-BG
+'coming': KO*G
+'by': PWEU
+'a': AEU
+'path': PA*T
+'to': TO
+'the': -T
+'right,': RAOEUT KW-BG
+'appeared,': A/PAOERD KW-BG
+'in': TPH
+'his': HEUS
+'wooden': WAOD/EPB
+'shoes': SHAOS
+'and': SKP
+'jacket,': SKWRABGT KW-BG
+'the': -T
+'poor': PAOR
+'boy': PWOEU
+'who': WHO
+'had': H
+'been': PW-PB
+'confirmed': K-FRPL/-D
+'with': W
+'him.': HEUPL TP-PL
+'He': E
+'had': H
+'followed': TPOLD
+'his': HEUS
+'own': OEPB
+'path,': PA*T KW-BG
+'and': SKP
+'had': H
+'reached': RAOEFPD
+'the': -T
+'spot': SPOT
+'just': SKWRUFT
+'as': AZ
+'soon': SAOPB
+'as': AZ
+'the': -T
+'son': SOPB
+'of': -F
+'the': -T
+'king': KEUPBG
+'had': H
+'done.': TKOPB TP-PL
+'They': THE
+'ran': RAPB
+'towards': TORDZ
+'each': AOEFP
+'other,': OER KW-BG
+'and': SKP
+'stood': STAOD
+'together': TOGT
+'hand': HAPBD
+'in': TPH
+'hand': HAPBD
+'in': TPH
+'the': -T
+'vast': SRA*S
+'church': KHUFRPB
+'of': -F
+'nature': TPHAEUFP
+'and': SKP
+'of': -F
+'poetry,': POEURT KW-BG
+'while': WHAOEUL
+'over': OEFR
+'them': THEPL
+'sounded': SOUPBD/-D
+'the': -T
+'invisible': EUPB/SREUBL
+'holy': HOEUL
+'bell:': PWEL STPH-FPLT
+'blessed': PWHR*EFD
+'spirits': SPEURTS
+'floated': TPHROET/-D
+'around': ARPBD
+'them,': THEPL KW-BG
+'and': SKP
+'lifted': HREUFTD
+'up': UP
+'their': THAEUR
+'voices': SROEUFS
+'in': TPH
+'a': AEU
+'rejoicing': RE/SKWROEUFG
+'hallelujah!': HAL/HRAOU/KWRA SKHRAPL

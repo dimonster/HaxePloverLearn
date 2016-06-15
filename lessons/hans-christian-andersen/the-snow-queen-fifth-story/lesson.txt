@@ -1,0 +1,1662 @@
+The Snow Queen Fifth Story
+
+'The': -T
+'Little': HREUL
+'Robber': ROB/ER
+'Maiden': PHAEUD/EPB
+'They': THE
+'drove': TKROEF
+'through': THRU
+'the': -T
+'dark': TKARBG
+'wood;': WAOD STPH*FPLT
+'but': PWUT
+'the': -T
+'carriage': KAEURPBLG
+'shone': SHO*EPB
+'like': HRAOEUBG
+'a': AEU
+'torch,': TOFRB KW-BG
+'and': SKP
+'it': T
+'dazzled': TKAZ/-LD
+'the': -T
+'eyes': AO*EUS
+'of': -F
+'the': -T
+'robbers,': RORBS KW-BG
+'so': SO
+'that': THA
+'they': THE
+'could': KO
+'not': TPHOT
+'bear': PWAER
+'to': TO
+'look': HRAOBG
+'at': AT
+'it.': T TP-PL
+'"'Tis': KR-GS AE XXX Tis
+'gold!': TKPWOELD SKHRAPL
+''Tis': AE XXX Tis
+'gold!"': TKPWOELD SKHRAPL KR-GS
+'they': THE
+'cried;': KRAOEUD STPH*FPLT
+'and': SKP
+'they': THE
+'rushed': RURBD
+'forward,': TPAORD KW-BG
+'seized': SAOEZ/-D
+'the': -T
+'horses,': HORS/-S KW-BG
+'knocked': TPHOBGD
+'down': TKOUPB
+'the': -T
+'little': HREUL
+'postilion,': XXX postilion KW-BG
+'the': -T
+'coachman,': KOEFP/PHAPB KW-BG
+'and': SKP
+'the': -T
+'servants,': SER/SRAPBTS KW-BG
+'and': SKP
+'pulled': PULD
+'little': HREUL
+'Gerda': XXX Gerda
+'out': OUT
+'of': -F
+'the': -T
+'carriage.': KAEURPBLG TP-PL
+'"How': KR-GS HOU
+'plump,': PHRUFRP KW-BG
+'how': HOU
+'beautiful': PWAOUFL
+'she': SHE
+'is!': S SKHRAPL
+'She': SHE
+'must': PHUFT
+'have': SR
+'been': PW-PB
+'fed': TPED
+'on': OPB
+'nut-kernels,"': TPHUT H-PB KERPBL/-S KW-BG KR-GS
+'said': SAEUD
+'the': -T
+'old': OLD
+'female': TPAEL
+'robber,': ROB/ER KW-BG
+'who': WHO
+'had': H
+'a': AEU
+'long,': HROPBG KW-BG
+'scrubby': SKRUB/PWEU
+'beard,': PWAERD KW-BG
+'and': SKP
+'bushy': PWURB/SHEU
+'eyebrows': AOEU/PWROUS
+'that': THA
+'hung': HUPBG
+'down': TKOUPB
+'over': OEFR
+'her': HER
+'eyes.': AO*EUS TP-PL
+'"She': KR-GS SHE
+'is': S
+'as': AZ
+'good': TKPWAOD
+'as': AZ
+'a': AEU
+'fatted': TPAT/-D
+'lamb!': HRAPL SKHRAPL
+'How': HOU
+'nice': TPHAOEUS
+'she': SHE
+'will': HR
+'be!"': -B SKHRAPL KR-GS
+'And': SKP
+'then': THEPB
+'she': SHE
+'drew': TKRAOU
+'out': OUT
+'a': AEU
+'knife,': TPHAOEUF KW-BG
+'the': -T
+'blade': PWHRAEUD
+'of': -F
+'which': WEU
+'shone': SHO*EPB
+'so': SO
+'that': THA
+'it': T
+'was': WA
+'quite': KWAOEUT
+'dreadful': TKRED/*FL
+'to': TO
+'behold.': XXX behold TP-PL
+'"Oh!"': KR-GS O*ERBGS SKHRAPL KR-GS
+'cried': KRAOEUD
+'the': -T
+'woman': WOPL
+'at': AT
+'the': -T
+'same': SAEUPL
+'moment.': PHOEPLT TP-PL
+'She': SHE
+'had': H
+'been': PW-PB
+'bitten': PWEUT/-PB
+'in': TPH
+'the': -T
+'ear': AOER
+'by': PWEU
+'her': HER
+'own': OEPB
+'little': HREUL
+'daughter,': TKAUR KW-BG
+'who': WHO
+'hung': HUPBG
+'at': AT
+'her': HER
+'back;': PWABG STPH*FPLT
+'and': SKP
+'who': WHO
+'was': WA
+'so': SO
+'wild': WAOEULD
+'and': SKP
+'unmanageable,': XXX unmanageable KW-BG
+'that': THA
+'it': T
+'was': WA
+'quite': KWAOEUT
+'amusing': A/PHAOUFG
+'to': TO
+'see': SAOE
+'her.': HER TP-PL
+'"You': KR-GS U
+'naughty': TPHAU/TEU
+'child!"': KHAOEULD SKHRAPL KR-GS
+'said': SAEUD
+'the': -T
+'mother:': PHOER STPH-FPLT
+'and': SKP
+'now': TPHOU
+'she': SHE
+'had': H
+'not': TPHOT
+'time': TAOEUPL
+'to': TO
+'kill': KEUL
+'Gerda.': XXX Gerda TP-PL
+'"She': KR-GS SHE
+'shall': SHAL
+'play': PHRAEU
+'with': W
+'me,"': PHE KW-BG KR-GS
+'said': SAEUD
+'the': -T
+'little': HREUL
+'robber': ROB/ER
+'child.': KHAOEULD TP-PL
+'"She': KR-GS SHE
+'shall': SHAL
+'give': TKPWEUF
+'me': PHE
+'her': HER
+'muff,': PHUF KW-BG
+'and': SKP
+'her': HER
+'pretty': PREUT
+'frock;': TPROBG STPH*FPLT
+'she': SHE
+'shall': SHAL
+'sleep': SHRAOEP
+'in': TPH
+'my': PHEU
+'bed!"': PWED SKHRAPL KR-GS
+'And': SKP
+'then': THEPB
+'she': SHE
+'gave': TKPWAEUF
+'her': HER
+'mother': PHOER
+'another': TPHOER
+'bite,': PWAOEUT KW-BG
+'so': SO
+'that': THA
+'she': SHE
+'jumped,': SKWR*UPLD KW-BG
+'and': SKP
+'ran': RAPB
+'round': ROUPBD
+'with': W
+'the': -T
+'pain;': PAEUPB STPH*FPLT
+'and': SKP
+'the': -T
+'Robbers': RORBS
+'laughed,': HRAFD KW-BG
+'and': SKP
+'said,': SAEUD KW-BG
+'"Look,': KR-GS HRAOBG KW-BG
+'how': HOU
+'she': SHE
+'is': S
+'dancing': TKAPBS/-G
+'with': W
+'the': -T
+'little': HREUL
+'one!"': WUPB SKHRAPL KR-GS
+'"I': KR-GS EU
+'will': HR
+'go': TKPW
+'into': TPHAO
+'the': -T
+'carriage,"': KAEURPBLG KW-BG KR-GS
+'said': SAEUD
+'the': -T
+'little': HREUL
+'robber': ROB/ER
+'maiden;': PHAEUD/EPB STPH*FPLT
+'and': SKP
+'she': SHE
+'would': WO
+'have': SR
+'her': HER
+'will,': HR KW-BG
+'for': TPOR
+'she': SHE
+'was': WA
+'very': SRE
+'spoiled': SPOEULD
+'and': SKP
+'very': SRE
+'headstrong.': HED/STROPBG TP-PL
+'She': SHE
+'and': SKP
+'Gerda': XXX Gerda
+'got': TKPWOT
+'in;': TPH STPH*FPLT
+'and': SKP
+'then': THEPB
+'away': A/WAEU
+'they': THE
+'drove': TKROEF
+'over': OEFR
+'the': -T
+'stumps': STUPL/*PS
+'of': -F
+'felled': TPEL/-D
+'trees,': TRAOES KW-BG
+'deeper': TKAOERP
+'and': SKP
+'deeper': TKAOERP
+'into': TPHAO
+'the': -T
+'woods.': WAODZ TP-PL
+'The': -T
+'little': HREUL
+'robber': ROB/ER
+'maiden': PHAEUD/EPB
+'was': WA
+'as': AZ
+'tall': TAUL
+'as': AZ
+'Gerda,': XXX Gerda KW-BG
+'but': PWUT
+'stronger,': STRORPBG KW-BG
+'broader-shouldered,': PWRAORD H-PB SHOULD/ER/-D KW-BG
+'and': SKP
+'of': -F
+'dark': TKARBG
+'complexion;': KPHR*EBGS STPH*FPLT
+'her': HER
+'eyes': AO*EUS
+'were': WR
+'quite': KWAOEUT
+'black;': PWHRABG STPH*FPLT
+'they': THE
+'looked': HRAOBGD
+'almost': HR-PL
+'melancholy.': PHEL/KOL/HREU TP-PL
+'She': SHE
+'embraced': EPL/PWRAEUFD
+'little': HREUL
+'Gerda,': XXX Gerda KW-BG
+'and': SKP
+'said,': SAEUD KW-BG
+'"They': KR-GS THE
+'shall': SHAL
+'not': TPHOT
+'kill': KEUL
+'you': U
+'as': AZ
+'long': HROPBG
+'as': AZ
+'I': EU
+'am': *PL
+'not': TPHOT
+'displeased': TKEUS/PHRAOES/-D
+'with': W
+'you.': U TP-PL
+'You': U
+'are,': R KW-BG
+'doubtless,': TKOUT/*LS KW-BG
+'a': AEU
+'Princess?"': PREUPB/ES H-F KR-GS
+'"No,"': KR-GS TPHO KW-BG KR-GS
+'said': SAEUD
+'little': HREUL
+'Gerda;': XXX Gerda STPH*FPLT
+'who': WHO
+'then': THEPB
+'related': RAELTD
+'all': AUL
+'that': THA
+'had': H
+'happened': HAPD
+'to': TO
+'her,': HER KW-BG
+'and': SKP
+'how': HOU
+'much': PHUFP
+'she': SHE
+'cared': KAEURD
+'about': PW
+'little': HREUL
+'Kay.': KAEU TP-PL
+'The': -T
+'little': HREUL
+'robber': ROB/ER
+'maiden': PHAEUD/EPB
+'looked': HRAOBGD
+'at': AT
+'her': HER
+'with': W
+'a': AEU
+'serious': SAOERS
+'air,': AEUR KW-BG
+'nodded': TPHOD/-D
+'her': HER
+'head': HED
+'slightly,': SHRAOEULT KW-BG
+'and': SKP
+'said,': SAEUD KW-BG
+'"They': KR-GS THE
+'shall': SHAL
+'not': TPHOT
+'kill': KEUL
+'you,': U KW-BG
+'even': AOEPB
+'if': TP
+'I': EU
+'am': *PL
+'angry': APBG/REU
+'with': W
+'you:': U STPH-FPLT
+'then': THEPB
+'I': EU
+'will': HR
+'do': TKO
+'it': T
+'myself";': PHAO*EUS KR-GS STPH*FPLT
+'and': SKP
+'she': SHE
+'dried': TKRAOEUD
+'Gerda's': XXX Gerda AE S*/SP-S
+'eyes,': AO*EUS KW-BG
+'and': SKP
+'put': PUT
+'both': PWO*T
+'her': HER
+'hands': HAPBDZ
+'in': TPH
+'the': -T
+'handsome': HAPBD/SOPL
+'muff,': PHUF KW-BG
+'which': WEU
+'was': WA
+'so': SO
+'soft': SOFT
+'and': SKP
+'warm.': WARPL TP-PL
+'At': AT
+'length': HREPBG
+'the': -T
+'carriage': KAEURPBLG
+'stopped.': STOPD TP-PL
+'They': THE
+'were': WR
+'in': TPH
+'the': -T
+'midst': PHEUDZ
+'of': -F
+'the': -T
+'court-yard': KORT H-PB KWRARD
+'of': -F
+'a': AEU
+'robber's': ROB/ER AE S*/SP-S
+'castle.': KAFL TP-PL
+'It': T
+'was': WA
+'full': TPUL
+'of': -F
+'cracks': KRABGZ
+'from': TPR
+'top': TOP
+'to': TO
+'bottom;': PWOPLT STPH*FPLT
+'and': SKP
+'out': OUT
+'of': -F
+'the': -T
+'openings': OEPGS
+'magpies': XXX magpies
+'and': SKP
+'rooks': RAOBGS
+'were': WR
+'flying;': TPHRAOEUG STPH*FPLT
+'and': SKP
+'the': -T
+'great': TKPWRAET
+'bull-dogs,': PWUL H-PB TKOGS KW-BG
+'each': AOEFP
+'of': -F
+'which': WEU
+'looked': HRAOBGD
+'as': AZ
+'if': TP
+'he': E
+'could': KO
+'swallow': SWAL/OE
+'a': AEU
+'man,': PHAPB KW-BG
+'jumped': SKWR*UPLD
+'up,': UP KW-BG
+'but': PWUT
+'they': THE
+'did': TK
+'not': TPHOT
+'bark,': PWARBG KW-BG
+'for': TPOR
+'that': THA
+'was': WA
+'forbidden.': TPAURBTD TP-PL
+'In': TPH
+'the': -T
+'midst': PHEUDZ
+'of': -F
+'the': -T
+'large,': HRARPBLG KW-BG
+'old,': OLD KW-BG
+'smoking': SPHOEG
+'hall': HA*L
+'burnt': PWURPBT
+'a': AEU
+'great': TKPWRAET
+'fire': TPAOEUR
+'on': OPB
+'the': -T
+'stone': STOEPB
+'floor.': TPHRAOR TP-PL
+'The': -T
+'smoke': SPHOEBG
+'disappeared': TKEUS/PAOERD
+'under': *UPBD
+'the': -T
+'stones,': STOEBS KW-BG
+'and': SKP
+'had': H
+'to': TO
+'seek': SAOEBG
+'its': EUTS
+'own': OEPB
+'egress.': E/TKPWRESZ TP-PL
+'In': TPH
+'an': APB
+'immense': EUPL/EPBS
+'caldron': KAULD/ROPB
+'soup': SOUP
+'was': WA
+'boiling;': PWOEULG STPH*FPLT
+'and': SKP
+'rabbits': RABTS
+'and': SKP
+'hares': HA*ER/-S
+'were': WR
+'being': -BG
+'roasted': ROEFT/-D
+'on': OPB
+'a': AEU
+'spit.': SPEUT TP-PL
+'"You': KR-GS U
+'shall': SHAL
+'sleep': SHRAOEP
+'with': W
+'me': PHE
+'to-night,': TO H-PB TPHAOEUT KW-BG
+'with': W
+'all': AUL
+'my': PHEU
+'animals,"': PHAPBLS KW-BG KR-GS
+'said': SAEUD
+'the': -T
+'little': HREUL
+'robber': ROB/ER
+'maiden.': PHAEUD/EPB TP-PL
+'They': THE
+'had': H
+'something': S-G
+'to': TO
+'eat': AOET
+'and': SKP
+'drink;': TKREU STPH*FPLT
+'and': SKP
+'then': THEPB
+'went': WEPBT
+'into': TPHAO
+'a': AEU
+'corner,': KRORPB KW-BG
+'where': W-R
+'straw': STRAU
+'and': SKP
+'carpets': KARPTS
+'were': WR
+'lying.': HRAOEUG TP-PL
+'Beside': PWE/SAOEUD
+'them,': THEPL KW-BG
+'on': OPB
+'laths': HRA*T/-S
+'and': SKP
+'perches,': PER/-FPS KW-BG
+'sat': SAT
+'nearly': TPHAOERL
+'a': AEU
+'hundred': HUPBD
+'pigeons,': PEUPBLG/-PBS KW-BG
+'all': AUL
+'asleep,': A/HRAOEP KW-BG
+'seemingly;': SAOEPLG/HREU STPH*FPLT
+'but': PWUT
+'yet': KWRET
+'they': THE
+'moved': PHOFD
+'a': AEU
+'little': HREUL
+'when': WHEPB
+'the': -T
+'robber': ROB/ER
+'maiden': PHAEUD/EPB
+'came.': KAEUPL TP-PL
+'"They': KR-GS THE
+'are': R
+'all': AUL
+'mine,"': PHAOEUPB KW-BG KR-GS
+'said': SAEUD
+'she,': SHE KW-BG
+'at': AT
+'the': -T
+'same': SAEUPL
+'time': TAOEUPL
+'seizing': SAOEZ/-G
+'one': WUPB
+'that': THA
+'was': WA
+'next': TPHEGT
+'to': TO
+'her': HER
+'by': PWEU
+'the': -T
+'legs': HREGS
+'and': SKP
+'shaking': SHAEUG
+'it': T
+'so': SO
+'that': THA
+'its': EUTS
+'wings': WEUPBGS
+'fluttered.': TPHRUT/ERD TP-PL
+'"Kiss': KR-GS KEUS
+'it,"': T KW-BG KR-GS
+'cried': KRAOEUD
+'the': -T
+'little': HREUL
+'girl,': TKPWEURL KW-BG
+'and': SKP
+'flung': TPHRUPBG
+'the': -T
+'pigeon': PEUGS
+'in': TPH
+'Gerda's': XXX Gerda AE S*/SP-S
+'face.': TPAEUS TP-PL
+'"Up': KR-GS UP
+'there': THR
+'is': S
+'the': -T
+'rabble': RABL
+'of': -F
+'the': -T
+'wood,"': WAOD KW-BG KR-GS
+'continued': T-PBD
+'she,': SHE KW-BG
+'pointing': POEUPBGT
+'to': TO
+'several': SEFRL
+'laths': HRA*T/-S
+'which': WEU
+'were': WR
+'fastened': TPAS/-PBD
+'before': PW-F
+'a': AEU
+'hole': HOEL
+'high': HAOEU
+'up': UP
+'in': TPH
+'the': -T
+'wall;': WAUL STPH*FPLT
+'"that's': KR-GS THA AE S*/SP-S
+'the': -T
+'rabble;': RABL STPH*FPLT
+'they': THE
+'would': WO
+'all': AUL
+'fly': TPHRAOEU
+'away': A/WAEU
+'immediately,': PHAOELD KW-BG
+'if': TP
+'they': THE
+'were': WR
+'not': TPHOT
+'well': WEL
+'fastened': TPAS/-PBD
+'in.': TPH TP-PL
+'And': SKP
+'here': HAOER
+'is': S
+'my': PHEU
+'dear': TKAER
+'old': OLD
+'Bac";': XXX Bac KR-GS STPH*FPLT
+'and': SKP
+'she': SHE
+'laid': HRAEUD
+'hold': HOLD
+'of': -F
+'the': -T
+'horns': HORPBS
+'of': -F
+'a': AEU
+'reindeer,': RAEPB/TKAOER KW-BG
+'that': THA
+'had': H
+'a': AEU
+'bright': PWRAOEUT
+'copper': KOP/ER
+'ring': REUPBG
+'round': ROUPBD
+'its': EUTS
+'neck,': TPHEBG KW-BG
+'and': SKP
+'was': WA
+'tethered': T*ET/*ER/-D
+'to': TO
+'the': -T
+'spot.': SPOT TP-PL
+'"We': KR-GS WE
+'are': R
+'obliged': OB/HRAOEUPBLG/-D
+'to': TO
+'lock': HROBG
+'this': TH
+'fellow': TPEL/OE
+'in': TPH
+'too,': TAO KW-BG
+'or': OR
+'he': E
+'would': WO
+'make': PHAEUBG
+'his': HEUS
+'escape.': E/SKAEUP TP-PL
+'Every': EF
+'evening': AOEPG
+'I': EU
+'tickle': TEUBG/*L
+'his': HEUS
+'neck': TPHEBG
+'with': W
+'my': PHEU
+'sharp': SHARP
+'knife;': TPHAOEUF STPH*FPLT
+'he': E
+'is': S
+'so': SO
+'frightened': TPRAOEUPBD
+'at': AT
+'it!"': T SKHRAPL KR-GS
+'and': SKP
+'the': -T
+'little': HREUL
+'girl': TKPWEURL
+'drew': TKRAOU
+'forth': TPO*RT
+'a': AEU
+'long': HROPBG
+'knife,': TPHAOEUF KW-BG
+'from': TPR
+'a': AEU
+'crack': KRABG
+'in': TPH
+'the': -T
+'wall,': WAUL KW-BG
+'and': SKP
+'let': HRET
+'it': T
+'glide': TKPWHRAOEUD
+'over': OEFR
+'the': -T
+'Reindeer's': RAEPB/TKAOER AE S*/SP-S
+'neck.': TPHEBG TP-PL
+'The': -T
+'poor': PAOR
+'animal': PHAPBL
+'kicked;': KEUBGD STPH*FPLT
+'the': -T
+'girl': TKPWEURL
+'laughed,': HRAFD KW-BG
+'and': SKP
+'pulled': PULD
+'Gerda': XXX Gerda
+'into': TPHAO
+'bed': PWED
+'with': W
+'her.': HER TP-PL
+'"Do': KR-GS TKO
+'you': U
+'intend': SPWEPBD
+'to': TO
+'keep': KAOEP
+'your': KWROUR
+'knife': TPHAOEUF
+'while': WHAOEUL
+'you': U
+'sleep?"': SHRAOEP H-F KR-GS
+'asked': SK-D
+'Gerda;': XXX Gerda STPH*FPLT
+'looking': HRAOG
+'at': AT
+'it': T
+'rather': RAER
+'fearfully.': TPAOER/TPHREU TP-PL
+'"I': KR-GS EU
+'always': AULS
+'sleep': SHRAOEP
+'with': W
+'the': -T
+'knife,"': TPHAOEUF KW-BG KR-GS
+'said': SAEUD
+'the': -T
+'little': HREUL
+'robber': ROB/ER
+'maiden.': PHAEUD/EPB TP-PL
+'"There': KR-GS THR
+'is': S
+'no': TPHO
+'knowing': TPHOEG
+'what': WHA
+'may': PHAE
+'happen.': HAP TP-PL
+'But': PWUT
+'tell': TEL
+'me': PHE
+'now,': TPHOU KW-BG
+'once': WUPBS
+'more,': PHOR KW-BG
+'all': AUL
+'about': PW
+'little': HREUL
+'Kay;': KAEU STPH*FPLT
+'and': SKP
+'why': KWR
+'you': U
+'have': SR
+'started': STARTD
+'off': OF
+'in': TPH
+'the': -T
+'wide': WAOEUD
+'world': WORLD
+'alone."': A/HROEPB TP-PL KR-GS
+'And': SKP
+'Gerda': XXX Gerda
+'related': RAELTD
+'all,': AUL KW-BG
+'from': TPR
+'the': -T
+'very': SRE
+'beginning:': STKWEUPB/-G STPH-FPLT
+'the': -T
+'Wood-pigeons': WAOD H-PB PEUPBLG/-PBS
+'cooed': KAO*/-D
+'above': PWOF
+'in': TPH
+'their': THAEUR
+'cage,': KAEUPBLG KW-BG
+'and': SKP
+'the': -T
+'others': OERS
+'slept.': SHREPD TP-PL
+'The': -T
+'little': HREUL
+'robber': ROB/ER
+'maiden': PHAEUD/EPB
+'wound': WOUPBD
+'her': HER
+'arm': ARPL
+'round': ROUPBD
+'Gerda's': XXX Gerda AE S*/SP-S
+'neck,': TPHEBG KW-BG
+'held': HELD
+'the': -T
+'knife': TPHAOEUF
+'in': TPH
+'the': -T
+'other': OER
+'hand,': HAPBD KW-BG
+'and': SKP
+'snored': STPHAUR/-D
+'so': SO
+'loud': HROUD
+'that': THA
+'everybody': EFB
+'could': KO
+'hear': HAER
+'her;': HER STPH*FPLT
+'but': PWUT
+'Gerda': XXX Gerda
+'could': KO
+'not': TPHOT
+'close': KHROES
+'her': HER
+'eyes,': AO*EUS KW-BG
+'for': TPOR
+'she': SHE
+'did': TK
+'not': TPHOT
+'know': TPHOE
+'whether': WHR
+'she': SHE
+'was': WA
+'to': TO
+'live': HREUF
+'or': OR
+'die.': TKAOEU TP-PL
+'The': -T
+'robbers': RORBS
+'sat': SAT
+'round': ROUPBD
+'the': -T
+'fire,': TPAOEUR KW-BG
+'sang': SAPBG
+'and': SKP
+'drank;': TKRAPBG STPH*FPLT
+'and': SKP
+'the': -T
+'old': OLD
+'female': TPAEL
+'robber': ROB/ER
+'jumped': SKWR*UPLD
+'about': PW
+'so,': SO KW-BG
+'that': THA
+'it': T
+'was': WA
+'quite': KWAOEUT
+'dreadful': TKRED/*FL
+'for': TPOR
+'Gerda': XXX Gerda
+'to': TO
+'see': SAOE
+'her.': HER TP-PL
+'Then': THEPB
+'the': -T
+'Wood-pigeons': WAOD H-PB PEUPBLG/-PBS
+'said,': SAEUD KW-BG
+'"Coo!': KR-GS KAO* SKHRAPL
+'Coo!': KAO* SKHRAPL
+'We': WE
+'have': SR
+'seen': SAOEPB
+'little': HREUL
+'Kay!': KAEU SKHRAPL
+'A': AEU
+'white': WHAOEUT
+'hen': HEPB
+'carries': KAERS
+'his': HEUS
+'sledge;': SHREPBLG STPH*FPLT
+'he': E
+'himself': H*EUPLS
+'sat': SAT
+'in': TPH
+'the': -T
+'carriage': KAEURPBLG
+'of': -F
+'the': -T
+'Snow': STPHOE
+'Queen,': KWAOEPB KW-BG
+'who': WHO
+'passed': PAFD
+'here,': HAOER KW-BG
+'down': TKOUPB
+'just': SKWRUFT
+'over': OEFR
+'the': -T
+'wood,': WAOD KW-BG
+'as': AZ
+'we': WE
+'lay': HRAEU
+'in': TPH
+'our': OUR
+'nest.': TPHEFT TP-PL
+'She': SHE
+'blew': PWHRAOU
+'upon': POPB
+'us': US
+'young': KWRUPBG
+'ones;': WUPBZ STPH*FPLT
+'and': SKP
+'all': AUL
+'died': TKAOEUD
+'except': KPEPT
+'we': WE
+'two.': TWO TP-PL
+'Coo!': KAO* SKHRAPL
+'Coo!"': KAO* SKHRAPL KR-GS
+'"What': KR-GS WHA
+'is': S
+'that': THA
+'you': U
+'say': SAEU
+'up': UP
+'there?"': THR H-F KR-GS
+'cried': KRAOEUD
+'little': HREUL
+'Gerda.': XXX Gerda TP-PL
+'"Where': KR-GS W-R
+'did': TK
+'the': -T
+'Snow': STPHOE
+'Queen': KWAOEPB
+'go': TKPW
+'to?': TO H-F
+'Do': TKO
+'you': U
+'know': TPHOE
+'anything': TPHEUG
+'about': PW
+'it?"': T H-F KR-GS
+'"She': KR-GS SHE
+'is': S
+'no': TPHO
+'doubt': TKOUT
+'gone': TKWOPB
+'to': TO
+'Lapland;': XXX Lapland STPH*FPLT
+'for': TPOR
+'there': THR
+'is': S
+'always': AULS
+'snow': STPHOE
+'and': SKP
+'ice': AOEUS
+'there.': THR TP-PL
+'Only': OEPBL
+'ask': SK
+'the': -T
+'Reindeer,': RAEPB/TKAOER KW-BG
+'who': WHO
+'is': S
+'tethered': T*ET/*ER/-D
+'there."': THR TP-PL KR-GS
+'"Ice': KR-GS AOEUS
+'and': SKP
+'snow': STPHOE
+'is': S
+'there!': THR SKHRAPL
+'There': THR
+'it': T
+'is,': S KW-BG
+'glorious': TKPWHRORS
+'and': SKP
+'beautiful!"': PWAOUFL SKHRAPL KR-GS
+'said': SAEUD
+'the': -T
+'Reindeer.': RAEPB/TKAOER TP-PL
+'"One': KR-GS WUPB
+'can': K
+'spring': SPREUPBG
+'about': PW
+'in': TPH
+'the': -T
+'large': HRARPBLG
+'shining': SHAOEUPBG
+'valleys!': SRAELS SKHRAPL
+'The': -T
+'Snow': STPHOE
+'Queen': KWAOEPB
+'has': HAS
+'her': HER
+'summer-tent': SAOURPL H-PB TEPBT
+'there;': THR STPH*FPLT
+'but': PWUT
+'her': HER
+'fixed': TPEUFD
+'abode': A/PWOED
+'is': S
+'high': HAOEU
+'up': UP
+'towards': TORDZ
+'the': -T
+'North': TPHORT
+'Pole,': POEL KW-BG
+'on': OPB
+'the': -T
+'Island': AOEULD
+'called': KAULD
+'Spitzbergen."': XXX Spitzbergen TP-PL KR-GS
+'"Oh,': KR-GS O*ERBGS KW-BG
+'Kay!': KAEU SKHRAPL
+'Poor': PAOR
+'little': HREUL
+'Kay!"': KAEU SKHRAPL KR-GS
+'sighed': SAOEU/-D
+'Gerda.': XXX Gerda TP-PL
+'"Do': KR-GS TKO
+'you': U
+'choose': KHAOS
+'to': TO
+'be': -B
+'quiet?"': KWAO*EUT H-F KR-GS
+'said': SAEUD
+'the': -T
+'robber': ROB/ER
+'maiden.': PHAEUD/EPB TP-PL
+'"If': KR-GS TP
+'you': U
+'don't,': TKO*PB AE T*/SP-S KW-BG
+'I': EU
+'shall': SHAL
+'make': PHAEUBG
+'you."': U TP-PL KR-GS
+'In': TPH
+'the': -T
+'morning': PHORPBG
+'Gerda': XXX Gerda
+'told': TOLD
+'her': HER
+'all': AUL
+'that': THA
+'the': -T
+'Wood-pigeons': WAOD H-PB PEUPBLG/-PBS
+'had': H
+'said;': SAEUD STPH*FPLT
+'and': SKP
+'the': -T
+'little': HREUL
+'maiden': PHAEUD/EPB
+'looked': HRAOBGD
+'very': SRE
+'serious,': SAOERS KW-BG
+'but': PWUT
+'she': SHE
+'nodded': TPHOD/-D
+'her': HER
+'head,': HED KW-BG
+'and': SKP
+'said,': SAEUD KW-BG
+'"That's': KR-GS THA AE S*/SP-S
+'no': TPHO
+'matter--that's': PHAERT H-PB H-PB THA AE S*/SP-S
+'no': TPHO
+'matter.': PHAERT TP-PL
+'Do': TKO
+'you': U
+'know': TPHOE
+'where': W-R
+'Lapland': XXX Lapland
+'lies!"': HRAO*EUS SKHRAPL KR-GS
+'she': SHE
+'asked': SK-D
+'of': -F
+'the': -T
+'Reindeer.': RAEPB/TKAOER TP-PL
+'"Who': KR-GS WHO
+'should': SHO
+'know': TPHOE
+'better': PWOERT
+'than': THAPB
+'I?"': EU H-F KR-GS
+'said': SAEUD
+'the': -T
+'animal;': PHAPBL STPH*FPLT
+'and': SKP
+'his': HEUS
+'eyes': AO*EUS
+'rolled': ROLD
+'in': TPH
+'his': HEUS
+'head.': HED TP-PL
+'"I': KR-GS EU
+'was': WA
+'born': PWORPB
+'and': SKP
+'bred': PWRED
+'there--there': THR H-PB H-PB THR
+'I': EU
+'leapt': HREPT
+'about': PW
+'on': OPB
+'the': -T
+'fields': TPAOELDZ
+'of': -F
+'snow."': STPHOE TP-PL KR-GS
+'"Listen,"': KR-GS HREUFPB KW-BG KR-GS
+'said': SAEUD
+'the': -T
+'robber': ROB/ER
+'maiden': PHAEUD/EPB
+'to': TO
+'Gerda.': XXX Gerda TP-PL
+'"You': KR-GS U
+'see': SAOE
+'that': THA
+'the': -T
+'men': PHEPB
+'are': R
+'gone;': TKWOPB STPH*FPLT
+'but': PWUT
+'my': PHEU
+'mother': PHOER
+'is': S
+'still': STEUL
+'here,': HAOER KW-BG
+'and': SKP
+'will': HR
+'remain.': RE/PHAUPB TP-PL
+'However,': HOUF KW-BG
+'towards': TORDZ
+'morning': PHORPBG
+'she': SHE
+'takes': TAEUBGS
+'a': AEU
+'draught': TRAFT
+'out': OUT
+'of': -F
+'the': -T
+'large': HRARPBLG
+'flask,': TPHRAFBG KW-BG
+'and': SKP
+'then': THEPB
+'she': SHE
+'sleeps': SHRAOEPS
+'a': AEU
+'little:': HREUL STPH-FPLT
+'then': THEPB
+'I': EU
+'will': HR
+'do': TKO
+'something': S-G
+'for': TPOR
+'you."': U TP-PL KR-GS
+'She': SHE
+'now': TPHOU
+'jumped': SKWR*UPLD
+'out': OUT
+'of': -F
+'bed,': PWED KW-BG
+'flew': TPHRAOU
+'to': TO
+'her': HER
+'mother;': PHOER STPH*FPLT
+'with': W
+'her': HER
+'arms': ARPLS
+'round': ROUPBD
+'her': HER
+'neck,': TPHEBG KW-BG
+'and': SKP
+'pulling': PULG
+'her': HER
+'by': PWEU
+'the': -T
+'beard,': PWAERD KW-BG
+'said,': SAEUD KW-BG
+'"Good': KR-GS TKPWAOD
+'morrow,': PHOR/ROE KW-BG
+'my': PHEU
+'own': OEPB
+'sweet': SWAOET
+'nanny-goat': TPHAPB/KWREU H-PB TKPWO*ET
+'of': -F
+'a': AEU
+'mother."': PHOER TP-PL KR-GS
+'And': SKP
+'her': HER
+'mother': PHOER
+'took': TAOBG
+'hold': HOLD
+'of': -F
+'her': HER
+'nose,': TPHOES KW-BG
+'and': SKP
+'pinched': PEUPB/-FPD
+'it': T
+'till': T*EUL
+'it': T
+'was': WA
+'red': RED
+'and': SKP
+'blue;': PWHRU STPH*FPLT
+'but': PWUT
+'this': TH
+'was': WA
+'all': AUL
+'done': TKOPB
+'out': OUT
+'of': -F
+'pure': PAOUR
+'love.': HR-F TP-PL
+'When': WHEPB
+'the': -T
+'mother': PHOER
+'had': H
+'taken': TAEPB
+'a': AEU
+'sup': SUP
+'at': AT
+'her': HER
+'flask,': TPHRAFBG KW-BG
+'and': SKP
+'was': WA
+'having': SR-G
+'a': AEU
+'nap,': TPHAP KW-BG
+'the': -T
+'little': HREUL
+'robber': ROB/ER
+'maiden': PHAEUD/EPB
+'went': WEPBT
+'to': TO
+'the': -T
+'Reindeer,': RAEPB/TKAOER KW-BG
+'and': SKP
+'said,': SAEUD KW-BG
+'"I': KR-GS EU
+'should': SHO
+'very': SRE
+'much': PHUFP
+'like': HRAOEUBG
+'to': TO
+'give': TKPWEUF
+'you': U
+'still': STEUL
+'many': PHAEPB
+'a': AEU
+'tickling': TEUBG/-LG
+'with': W
+'the': -T
+'sharp': SHARP
+'knife,': TPHAOEUF KW-BG
+'for': TPOR
+'then': THEPB
+'you': U
+'are': R
+'so': SO
+'amusing;': A/PHAOUFG STPH*FPLT
+'however,': HOUF KW-BG
+'I': EU
+'will': HR
+'untether': XXX untether
+'you,': U KW-BG
+'and': SKP
+'help': HEP
+'you': U
+'out,': OUT KW-BG
+'so': SO
+'that': THA
+'you': U
+'may': PHAE
+'go': TKPW
+'back': PWABG
+'to': TO
+'Lapland.': XXX Lapland TP-PL
+'But': PWUT
+'you': U
+'must': PHUFT
+'make': PHAEUBG
+'good': TKPWAOD
+'use': AOUS
+'of': -F
+'your': KWROUR
+'legs;': HREGS STPH*FPLT
+'and': SKP
+'take': TAEUBG
+'this': TH
+'little': HREUL
+'girl': TKPWEURL
+'for': TPOR
+'me': PHE
+'to': TO
+'the': -T
+'palace': PAL/AS
+'of': -F
+'the': -T
+'Snow': STPHOE
+'Queen,': KWAOEPB KW-BG
+'where': W-R
+'her': HER
+'playfellow': XXX playfellow
+'is.': S TP-PL
+'You': U
+'have': SR
+'heard,': HERD KW-BG
+'I': EU
+'suppose,': SPOS KW-BG
+'all': AUL
+'she': SHE
+'said;': SAEUD STPH*FPLT
+'for': TPOR
+'she': SHE
+'spoke': SPOEBG
+'loud': HROUD
+'enough,': TPHUF KW-BG
+'and': SKP
+'you': U
+'were': WR
+'listening."': HR-PBG TP-PL KR-GS
+'The': -T
+'Reindeer': RAEPB/TKAOER
+'gave': TKPWAEUF
+'a': AEU
+'bound': PWOUPBD
+'for': TPOR
+'joy.': SKWROEU TP-PL
+'The': -T
+'robber': ROB/ER
+'maiden': PHAEUD/EPB
+'lifted': HREUFTD
+'up': UP
+'little': HREUL
+'Gerda,': XXX Gerda KW-BG
+'and': SKP
+'took': TAOBG
+'the': -T
+'precaution': PRE/KAUGS
+'to': TO
+'bind': PWEUPBD
+'her': HER
+'fast': TPA*S
+'on': OPB
+'the': -T
+'Reindeer's': RAEPB/TKAOER AE S*/SP-S
+'back;': PWABG STPH*FPLT
+'she': SHE
+'even': AOEPB
+'gave': TKPWAEUF
+'her': HER
+'a': AEU
+'small': SPAUL
+'cushion': KUGS
+'to': TO
+'sit': SEUT
+'on.': OPB TP-PL
+'"Here': KR-GS HAOER
+'are': R
+'your': KWROUR
+'worsted': WORS/TED
+'leggins,': XXX leggins KW-BG
+'for': TPOR
+'it': T
+'will': HR
+'be': -B
+'cold;': KOELD STPH*FPLT
+'but': PWUT
+'the': -T
+'muff': PHUF
+'I': EU
+'shall': SHAL
+'keep': KAOEP
+'for': TPOR
+'myself,': PHAO*EUS KW-BG
+'for': TPOR
+'it': T
+'is': S
+'so': SO
+'very': SRE
+'pretty.': PREUT TP-PL
+'But': PWUT
+'I': EU
+'do': TKO
+'not': TPHOT
+'wish': WEURB
+'you': U
+'to': TO
+'be': -B
+'cold.': KOELD TP-PL
+'Here': HAOER
+'is': S
+'a': AEU
+'pair': PAEUR
+'of': -F
+'lined': HRAOEUPBD
+'gloves': TKPWHROFS
+'of': -F
+'my': PHEU
+'mother's;': PHOER AE S*/SP-S STPH*FPLT
+'they': THE
+'just': SKWRUFT
+'reach': RAOEFP
+'up': UP
+'to': TO
+'your': KWROUR
+'elbow.': EL/PWOE TP-PL
+'On': OPB
+'with': W
+'them!': THEPL SKHRAPL
+'Now': TPHOU
+'you': U
+'look': HRAOBG
+'about': PW
+'the': -T
+'hands': HAPBDZ
+'just': SKWRUFT
+'like': HRAOEUBG
+'my': PHEU
+'ugly': ULG
+'old': OLD
+'mother!"': PHOER SKHRAPL KR-GS
+'And': SKP
+'Gerda': XXX Gerda
+'wept': WEPT
+'for': TPOR
+'joy.': SKWROEU TP-PL
+'"I': KR-GS EU
+'can't': K-PBT
+'bear': PWAER
+'to': TO
+'see': SAOE
+'you': U
+'fretting,"': TPRET/-G KW-BG KR-GS
+'said': SAEUD
+'the': -T
+'little': HREUL
+'robber': ROB/ER
+'maiden.': PHAEUD/EPB TP-PL
+'"This': KR-GS TH
+'is': S
+'just': SKWRUFT
+'the': -T
+'time': TAOEUPL
+'when': WHEPB
+'you': U
+'ought': OT
+'to': TO
+'look': HRAOBG
+'pleased.': PHRAOEFD TP-PL
+'Here': HAOER
+'are': R
+'two': TWO
+'loaves': HROEFS
+'and': SKP
+'a': AEU
+'ham': HAPL
+'for': TPOR
+'you,': U KW-BG
+'so': SO
+'that': THA
+'you': U
+'won't': WOEPBT
+'starve."': STAFRB TP-PL KR-GS
+'The': -T
+'bread': PWRAED
+'and': SKP
+'the': -T
+'meat': PHAET
+'were': WR
+'fastened': TPAS/-PBD
+'to': TO
+'the': -T
+'Reindeer's': RAEPB/TKAOER AE S*/SP-S
+'back;': PWABG STPH*FPLT
+'the': -T
+'little': HREUL
+'maiden': PHAEUD/EPB
+'opened': OEPD
+'the': -T
+'door,': TKAOR KW-BG
+'called': KAULD
+'in': TPH
+'all': AUL
+'the': -T
+'dogs,': TKOGS KW-BG
+'and': SKP
+'then': THEPB
+'with': W
+'her': HER
+'knife': TPHAOEUF
+'cut': KUT
+'the': -T
+'rope': ROEP
+'that': THA
+'fastened': TPAS/-PBD
+'the': -T
+'animal,': PHAPBL KW-BG
+'and': SKP
+'said': SAEUD
+'to': TO
+'him,': HEUPL KW-BG
+'"Now,': KR-GS TPHOU KW-BG
+'off': OF
+'with': W
+'you;': U STPH*FPLT
+'but': PWUT
+'take': TAEUBG
+'good': TKPWAOD
+'care': KAEUR
+'of': -F
+'the': -T
+'little': HREUL
+'girl!"': TKPWEURL SKHRAPL KR-GS
+'And': SKP
+'Gerda': XXX Gerda
+'stretched': STREFPD
+'out': OUT
+'her': HER
+'hands': HAPBDZ
+'with': W
+'the': -T
+'large': HRARPBLG
+'wadded': WAD/-D
+'gloves': TKPWHROFS
+'towards': TORDZ
+'the': -T
+'robber': ROB/ER
+'maiden,': PHAEUD/EPB KW-BG
+'and': SKP
+'said,': SAEUD KW-BG
+'"Farewell!"': KR-GS TPAER/WEL SKHRAPL KR-GS
+'and': SKP
+'the': -T
+'Reindeer': RAEPB/TKAOER
+'flew': TPHRAOU
+'on': OPB
+'over': OEFR
+'bush': PWURB
+'and': SKP
+'bramble': PWRAPL/-BL
+'through': THRU
+'the': -T
+'great': TKPWRAET
+'wood,': WAOD KW-BG
+'over': OEFR
+'moor': PHO*R
+'and': SKP
+'heath,': HAO*ET KW-BG
+'as': AZ
+'fast': TPA*S
+'as': AZ
+'he': E
+'could': KO
+'go.': TKPW TP-PL
+'"Ddsa!': KR-GS XXX Ddsa SKHRAPL
+'Ddsa!"': XXX Ddsa SKHRAPL KR-GS
+'was': WA
+'heard': HERD
+'in': TPH
+'the': -T
+'sky.': SKAOEU TP-PL
+'It': T
+'was': WA
+'just': SKWRUFT
+'as': AZ
+'if': TP
+'somebody': S-B
+'was': WA
+'sneezing.': STPHAOEZ/-G TP-PL
+'"These': KR-GS THEZ
+'are': R
+'my': PHEU
+'old': OLD
+'northern-lights,"': TPHORPB H-PB HRAOEUTS KW-BG KR-GS
+'said': SAEUD
+'the': -T
+'Reindeer,': RAEPB/TKAOER KW-BG
+'"look': KR-GS HRAOBG
+'how': HOU
+'they': THE
+'gleam!"': TKPWHRAOEPL SKHRAPL KR-GS
+'And': SKP
+'on': OPB
+'he': E
+'now': TPHOU
+'sped': SPED
+'still': STEUL
+'quicker--day': KW*EURBG H-PB H-PB TKAEU
+'and': SKP
+'night': TPHAOEUT
+'on': OPB
+'he': E
+'went:': WEPBT STPH-FPLT
+'the': -T
+'loaves': HROEFS
+'were': WR
+'consumed,': KAOUPLD KW-BG
+'and': SKP
+'the': -T
+'ham': HAPL
+'too;': TAO STPH*FPLT
+'and': SKP
+'now': TPHOU
+'they': THE
+'were': WR
+'in': TPH
+'Lapland.': XXX Lapland TP-PL

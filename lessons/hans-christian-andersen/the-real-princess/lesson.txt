@@ -1,0 +1,413 @@
+The Real Princess
+
+'There': THR
+'was': WA
+'once': WUPBS
+'a': AEU
+'Prince': PREUPBS
+'who': WHO
+'wished': WEURBD
+'to': TO
+'marry': PHAER
+'a': AEU
+'Princess;': PREUPB/ES STPH*FPLT
+'but': PWUT
+'then': THEPB
+'she': SHE
+'must': PHUFT
+'be': -B
+'a': AEU
+'real': RAEL
+'Princess.': PREUPB/ES TP-PL
+'He': E
+'travelled': TRAFLD
+'all': AUL
+'over': OEFR
+'the': -T
+'world': WORLD
+'in': TPH
+'hopes': HOEPS
+'of': -F
+'finding': TPAOEPBGD
+'such': SUFP
+'a': AEU
+'lady;': HRA*ED STPH*FPLT
+'but': PWUT
+'there': THR
+'was': WA
+'always': AULS
+'something': S-G
+'wrong.': WROPBG TP-PL
+'Princesses': PREUPB/ES/-S
+'he': E
+'found': TPOUPBD
+'in': TPH
+'plenty;': PHREPBT STPH*FPLT
+'but': PWUT
+'whether': WHR
+'they': THE
+'were': WR
+'real': RAEL
+'Princesses': PREUPB/ES/-S
+'it': T
+'was': WA
+'impossible': EUPL/POB
+'for': TPOR
+'him': HEUPL
+'to': TO
+'decide,': TK-DZ KW-BG
+'for': TPOR
+'now': TPHOU
+'one': WUPB
+'thing,': THEUPBG KW-BG
+'now': TPHOU
+'another,': TPHOER KW-BG
+'seemed': SAOEPLD
+'to': TO
+'him': HEUPL
+'not': TPHOT
+'quite': KWAOEUT
+'right': RAOEUT
+'about': PW
+'the': -T
+'ladies.': HRA*EDZ TP-PL
+'At': AT
+'last': HRAFT
+'he': E
+'returned': RURPBD
+'to': TO
+'his': HEUS
+'palace': PAL/AS
+'quite': KWAOEUT
+'cast': KA*S
+'down,': TKOUPB KW-BG
+'because': PWAU
+'he': E
+'wished': WEURBD
+'so': SO
+'much': PHUFP
+'to': TO
+'have': SR
+'a': AEU
+'real': RAEL
+'Princess': PREUPB/ES
+'for': TPOR
+'his': HEUS
+'wife.': WAOEUF TP-PL
+'One': WUPB
+'evening': AOEPG
+'a': AEU
+'fearful': TPAOER/-FL
+'tempest': TEFRP/*ES
+'arose,': A/ROES KW-BG
+'it': T
+'thundered': THUPBD/ERD
+'and': SKP
+'lightened,': HRAOEUT/EPB/-D KW-BG
+'and': SKP
+'the': -T
+'rain': RAEUPB
+'poured': PORD
+'down': TKOUPB
+'from': TPR
+'the': -T
+'sky': SKAOEU
+'in': TPH
+'torrents:': TORPBT/-S STPH-FPLT
+'besides,': PW-DZ KW-BG
+'it': T
+'was': WA
+'as': AZ
+'dark': TKARBG
+'as': AZ
+'pitch.': PEUFP TP-PL
+'All': AUL
+'at': AT
+'once': WUPBS
+'there': THR
+'was': WA
+'heard': HERD
+'a': AEU
+'violent': SROEUPBLT
+'knocking': TPHOBG/-G
+'at': AT
+'the': -T
+'door,': TKAOR KW-BG
+'and': SKP
+'the': -T
+'old': OLD
+'King,': KEUPBG KW-BG
+'the': -T
+'Prince's': PREUPBS AE S*/SP-S
+'father,': TPAER KW-BG
+'went': WEPBT
+'out': OUT
+'himself': H*EUPLS
+'to': TO
+'open': OEP
+'it.': T TP-PL
+'It': T
+'was': WA
+'a': AEU
+'Princess': PREUPB/ES
+'who': WHO
+'was': WA
+'standing': STAPBG
+'outside': OUDZ
+'the': -T
+'door.': TKAOR TP-PL
+'What': WHA
+'with': W
+'the': -T
+'rain': RAEUPB
+'and': SKP
+'the': -T
+'wind,': WEUPBD KW-BG
+'she': SHE
+'was': WA
+'in': TPH
+'a': AEU
+'sad': SAD
+'condition;': K-PB STPH*FPLT
+'the': -T
+'water': WAUR
+'trickled': TREUBG/-LD
+'down': TKOUPB
+'from': TPR
+'her': HER
+'hair,': HAEUR KW-BG
+'and': SKP
+'her': HER
+'clothes': KHRO*ETS
+'clung': KHRUPBG
+'to': TO
+'her': HER
+'body.': PWO*ED TP-PL
+'She': SHE
+'said': SAEUD
+'she': SHE
+'was': WA
+'a': AEU
+'real': RAEL
+'Princess.': PREUPB/ES TP-PL
+'"Ah!': KR-GS HA*E SKHRAPL
+'we': WE
+'shall': SHAL
+'soon': SAOPB
+'see': SAOE
+'that!"': THA SKHRAPL KR-GS
+'thought': THAUT
+'the': -T
+'old': OLD
+'Queen-mother;': KWAOEPB H-PB PHOER STPH*FPLT
+'however,': HOUF KW-BG
+'she': SHE
+'said': SAEUD
+'not': TPHOT
+'a': AEU
+'word': WORD
+'of': -F
+'what': WHA
+'she': SHE
+'was': WA
+'going': TKPW-G
+'to': TO
+'do;': TKO STPH*FPLT
+'but': PWUT
+'went': WEPBT
+'quietly': KWAO*EULT
+'into': TPHAO
+'the': -T
+'bedroom,': PW-PL KW-BG
+'took': TAOBG
+'all': AUL
+'the': -T
+'bed-clothes': PWED H-PB KHRO*ETS
+'off': OF
+'the': -T
+'bed,': PWED KW-BG
+'and': SKP
+'put': PUT
+'three': THRAOE
+'little': HREUL
+'peas': PAOEZ
+'on': OPB
+'the': -T
+'bedstead.': XXX bedstead TP-PL
+'She': SHE
+'then': THEPB
+'laid': HRAEUD
+'twenty': TWEPBT
+'mattresses': PHAT/TRES/-S
+'one': WUPB
+'upon': POPB
+'another': TPHOER
+'over': OEFR
+'the': -T
+'three': THRAOE
+'peas,': PAOEZ KW-BG
+'and': SKP
+'put': PUT
+'twenty': TWEPBT
+'feather': TP*ET
+'beds': PWEDZ
+'over': OEFR
+'the': -T
+'mattresses.': PHAT/TRES/-S TP-PL
+'Upon': POPB
+'this': TH
+'bed': PWED
+'the': -T
+'Princess': PREUPB/ES
+'was': WA
+'to': TO
+'pass': PAS
+'the': -T
+'night.': TPHAOEUT TP-PL
+'The': -T
+'next': TPHEGT
+'morning': PHORPBG
+'she': SHE
+'was': WA
+'asked': SK-D
+'how': HOU
+'she': SHE
+'had': H
+'slept.': SHREPD TP-PL
+'"Oh,': KR-GS O*ERBGS KW-BG
+'very': SRE
+'badly': PWAD/HREU
+'indeed!"': TPHAOEPBD SKHRAPL KR-GS
+'she': SHE
+'replied.': RE/PHRAOEUD TP-PL
+'"I': KR-GS EU
+'have': SR
+'scarcely': SKAEURS/HREU
+'closed': KHROEFD
+'my': PHEU
+'eyes': AO*EUS
+'the': -T
+'whole': WHOEL
+'night': TPHAOEUT
+'through.': THRU TP-PL
+'I': EU
+'do': TKO
+'not': TPHOT
+'know': TPHOE
+'what': WHA
+'was': WA
+'in': TPH
+'my': PHEU
+'bed,': PWED KW-BG
+'but': PWUT
+'I': EU
+'had': H
+'something': S-G
+'hard': HARD
+'under': *UPBD
+'me,': PHE KW-BG
+'and': SKP
+'am': *PL
+'all': AUL
+'over': OEFR
+'black': PWHRABG
+'and': SKP
+'blue.': PWHRU TP-PL
+'It': T
+'has': HAS
+'hurt': HURT
+'me': PHE
+'so': SO
+'much!"': PHUFP SKHRAPL KR-GS
+'Now': TPHOU
+'it': T
+'was': WA
+'plain': PHRAEUPB
+'that': THA
+'the': -T
+'lady': HRA*ED
+'must': PHUFT
+'be': -B
+'a': AEU
+'real': RAEL
+'Princess,': PREUPB/ES KW-BG
+'since': SEUPBS
+'she': SHE
+'had': H
+'been': PW-PB
+'able': ABL
+'to': TO
+'feel': TPAOEL
+'the': -T
+'three': THRAOE
+'little': HREUL
+'peas': PAOEZ
+'through': THRU
+'the': -T
+'twenty': TWEPBT
+'mattresses': PHAT/TRES/-S
+'and': SKP
+'twenty': TWEPBT
+'feather': TP*ET
+'beds.': PWEDZ TP-PL
+'None': TPHOPB
+'but': PWUT
+'a': AEU
+'real': RAEL
+'Princess': PREUPB/ES
+'could': KO
+'have': SR
+'had': H
+'such': SUFP
+'a': AEU
+'delicate': TKEL/KAT
+'sense': SEPBS
+'of': -F
+'feeling.': TPAOELG TP-PL
+'The': -T
+'Prince': PREUPBS
+'accordingly': A/KORD/-G/HREU
+'made': PHAED
+'her': HER
+'his': HEUS
+'wife;': WAOEUF STPH*FPLT
+'being': -BG
+'now': TPHOU
+'convinced': KWEUPBS/-D
+'that': THA
+'he': E
+'had': H
+'found': TPOUPBD
+'a': AEU
+'real': RAEL
+'Princess.': PREUPB/ES TP-PL
+'The': -T
+'three': THRAOE
+'peas': PAOEZ
+'were': WR
+'however': HOUF
+'put': PUT
+'into': TPHAO
+'the': -T
+'cabinet': KABT
+'of': -F
+'curiosities,': KAOURS/TEUS KW-BG
+'where': W-R
+'they': THE
+'are': R
+'still': STEUL
+'to': TO
+'be': -B
+'seen,': SAOEPB KW-BG
+'provided': PROE/SRAOUD/-D
+'they': THE
+'are': R
+'not': TPHOT
+'lost.': HRO*S TP-PL
+'Wasn't': XXX Wasn AE T*/SP-S
+'this': TH
+'a': AEU
+'lady': HRA*ED
+'of': -F
+'real': RAEL
+'delicacy?': TKEL/KAES H-F

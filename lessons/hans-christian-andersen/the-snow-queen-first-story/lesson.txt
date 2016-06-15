@@ -1,0 +1,514 @@
+The Snow Queen First Story
+
+'Which': WEU
+'Treats': TRAOETS
+'of': -F
+'a': AEU
+'Mirror': PHROR
+'and': SKP
+'of': -F
+'the': -T
+'Splinters': SPHREURPBTS
+'Now': TPHOU
+'then,': THEPB KW-BG
+'let': HRET
+'us': US
+'begin.': STKWEUPB TP-PL
+'When': WHEPB
+'we': WE
+'are': R
+'at': AT
+'the': -T
+'end': EPBD
+'of': -F
+'the': -T
+'story,': STOER KW-BG
+'we': WE
+'shall': SHAL
+'know': TPHOE
+'more': PHOR
+'than': THAPB
+'we': WE
+'know': TPHOE
+'now:': TPHOU STPH-FPLT
+'but': PWUT
+'to': TO
+'begin.': STKWEUPB TP-PL
+'Once': WUPBS
+'upon': POPB
+'a': AEU
+'time': TAOEUPL
+'there': THR
+'was': WA
+'a': AEU
+'wicked': WEUBGD
+'sprite,': SPRAOEUT KW-BG
+'indeed': TPHAOEPBD
+'he': E
+'was': WA
+'the': -T
+'most': PHO*S
+'mischievous': PHEUS/KHEF/OUS
+'of': -F
+'all': AUL
+'sprites.': SPRAOEUT/-S TP-PL
+'One': WUPB
+'day': TKAEU
+'he': E
+'was': WA
+'in': TPH
+'a': AEU
+'very': SRE
+'good': TKPWAOD
+'humor,': HAOURPL KW-BG
+'for': TPOR
+'he': E
+'had': H
+'made': PHAED
+'a': AEU
+'mirror': PHROR
+'with': W
+'the': -T
+'power': POUR
+'of': -F
+'causing': KAUFG
+'all': AUL
+'that': THA
+'was': WA
+'good': TKPWAOD
+'and': SKP
+'beautiful': PWAOUFL
+'when': WHEPB
+'it': T
+'was': WA
+'reflected': TPHREBGTD
+'therein,': THR-PB KW-BG
+'to': TO
+'look': HRAOBG
+'poor': PAOR
+'and': SKP
+'mean;': PHAOEPB STPH*FPLT
+'but': PWUT
+'that': THA
+'which': WEU
+'was': WA
+'good-for-nothing': TKPWAOD H-PB TPOR H-PB TPHOG
+'and': SKP
+'looked': HRAOBGD
+'ugly': ULG
+'was': WA
+'shown': SHOEPB
+'magnified': PHAG/TPAOEUD
+'and': SKP
+'increased': EUPB/KRAOES/-D
+'in': TPH
+'ugliness.': UG/HREU/*PBS TP-PL
+'In': TPH
+'this': TH
+'mirror': PHROR
+'the': -T
+'most': PHO*S
+'beautiful': PWAOUFL
+'landscapes': HRAPBD/SKAEUPS
+'looked': HRAOBGD
+'like': HRAOEUBG
+'boiled': PWOEULD
+'spinach,': SPEUPB/AFP KW-BG
+'and': SKP
+'the': -T
+'best': PWEFT
+'persons': PERPBS
+'were': WR
+'turned': TURPBD
+'into': TPHAO
+'frights,': TPRAOEUT/-S KW-BG
+'or': OR
+'appeared': A/PAOERD
+'to': TO
+'stand': STAPBD
+'on': OPB
+'their': THAEUR
+'heads;': HEDZ STPH*FPLT
+'their': THAEUR
+'faces': TPAEUFS
+'were': WR
+'so': SO
+'distorted': STKORTD
+'that': THA
+'they': THE
+'were': WR
+'not': TPHOT
+'to': TO
+'be': -B
+'recognised;': REFD STPH*FPLT
+'and': SKP
+'if': TP
+'anyone': TPHEUPB
+'had': H
+'a': AEU
+'mole,': PHOEL KW-BG
+'you': U
+'might': PHAOEUT
+'be': -B
+'sure': SHUR
+'that': THA
+'it': T
+'would': WO
+'be': -B
+'magnified': PHAG/TPAOEUD
+'and': SKP
+'spread': SPRED
+'over': OEFR
+'both': PWO*T
+'nose': TPHOES
+'and': SKP
+'mouth.': PHO*UT TP-PL
+'"That's': KR-GS THA AE S*/SP-S
+'glorious': TKPWHRORS
+'fun!"': TPUPB SKHRAPL KR-GS
+'said': SAEUD
+'the': -T
+'sprite.': SPRAOEUT TP-PL
+'If': TP
+'a': AEU
+'good': TKPWAOD
+'thought': THAUT
+'passed': PAFD
+'through': THRU
+'a': AEU
+'man's': PHAPB AE S*/SP-S
+'mind,': PHAOEUPBD KW-BG
+'then': THEPB
+'a': AEU
+'grin': TKPWREUPB
+'was': WA
+'seen': SAOEPB
+'in': TPH
+'the': -T
+'mirror,': PHROR KW-BG
+'and': SKP
+'the': -T
+'sprite': SPRAOEUT
+'laughed': HRAFD
+'heartily': HART/HREU
+'at': AT
+'his': HEUS
+'clever': KHREFR
+'discovery.': SKOEFR TP-PL
+'All': AUL
+'the': -T
+'little': HREUL
+'sprites': SPRAOEUT/-S
+'who': WHO
+'went': WEPBT
+'to': TO
+'his': HEUS
+'school--for': SKAOL H-PB H-PB TPOR
+'he': E
+'kept': KEPT
+'a': AEU
+'sprite': SPRAOEUT
+'school--told': SKAOL H-PB H-PB TOLD
+'each': AOEFP
+'other': OER
+'that': THA
+'a': AEU
+'miracle': PHEUR/K-L
+'had': H
+'happened;': HAPD STPH*FPLT
+'and': SKP
+'that': THA
+'now': TPHOU
+'only,': OEPBL KW-BG
+'as': AZ
+'they': THE
+'thought,': THAUT KW-BG
+'it': T
+'would': WO
+'be': -B
+'possible': POB
+'to': TO
+'see': SAOE
+'how': HOU
+'the': -T
+'world': WORLD
+'really': HROERL
+'looked.': HRAOBGD TP-PL
+'They': THE
+'ran': RAPB
+'about': PW
+'with': W
+'the': -T
+'mirror;': PHROR STPH*FPLT
+'and': SKP
+'at': AT
+'last': HRAFT
+'there': THR
+'was': WA
+'not': TPHOT
+'a': AEU
+'land': HRAPBD
+'or': OR
+'a': AEU
+'person': PERPB
+'who': WHO
+'was': WA
+'not': TPHOT
+'represented': REPD
+'distorted': STKORTD
+'in': TPH
+'the': -T
+'mirror.': PHROR TP-PL
+'So': SO
+'then': THEPB
+'they': THE
+'thought': THAUT
+'they': THE
+'would': WO
+'fly': TPHRAOEU
+'up': UP
+'to': TO
+'the': -T
+'sky,': SKAOEU KW-BG
+'and': SKP
+'have': SR
+'a': AEU
+'joke': SKWROEBG
+'there.': THR TP-PL
+'The': -T
+'higher': HAOEUR
+'they': THE
+'flew': TPHRAOU
+'with': W
+'the': -T
+'mirror,': PHROR KW-BG
+'the': -T
+'more': PHOR
+'terribly': TER/PWHREU
+'it': T
+'grinned:': TKPWREUPB/-D STPH-FPLT
+'they': THE
+'could': KO
+'hardly': HA*RLD
+'hold': HOLD
+'it': T
+'fast.': TPA*S TP-PL
+'Higher': HAOEUR
+'and': SKP
+'higher': HAOEUR
+'still': STEUL
+'they': THE
+'flew,': TPHRAOU KW-BG
+'nearer': TPHAOER/*ER
+'and': SKP
+'nearer': TPHAOER/*ER
+'to': TO
+'the': -T
+'stars,': STARS KW-BG
+'when': WHEPB
+'suddenly': SULD
+'the': -T
+'mirror': PHROR
+'shook': SHAOBG
+'so': SO
+'terribly': TER/PWHREU
+'with': W
+'grinning,': TKPWREUPB/-G KW-BG
+'that': THA
+'it': T
+'flew': TPHRAOU
+'out': OUT
+'of': -F
+'their': THAEUR
+'hands': HAPBDZ
+'and': SKP
+'fell': TPEL
+'to': TO
+'the': -T
+'earth,': *ERT KW-BG
+'where': W-R
+'it': T
+'was': WA
+'dashed': TKARBD
+'in': TPH
+'a': AEU
+'hundred': HUPBD
+'million': PHOEUPB
+'and': SKP
+'more': PHOR
+'pieces.': PAOEFS TP-PL
+'And': SKP
+'now': TPHOU
+'it': T
+'worked': WORBGD
+'much': PHUFP
+'more': PHOR
+'evil': AOEFL
+'than': THAPB
+'before;': PW-F STPH*FPLT
+'for': TPOR
+'some': SOPL
+'of': -F
+'these': THEZ
+'pieces': PAOEFS
+'were': WR
+'hardly': HA*RLD
+'so': SO
+'large': HRARPBLG
+'as': AZ
+'a': AEU
+'grain': TKPWRAEUPB
+'of': -F
+'sand,': SAPBD KW-BG
+'and': SKP
+'they': THE
+'flew': TPHRAOU
+'about': PW
+'in': TPH
+'the': -T
+'wide': WAOEUD
+'world,': WORLD KW-BG
+'and': SKP
+'when': WHEPB
+'they': THE
+'got': TKPWOT
+'into': TPHAO
+'people's': PAOEPL AE S*/SP-S
+'eyes,': AO*EUS KW-BG
+'there': THR
+'they': THE
+'stayed;': STAEUD STPH*FPLT
+'and': SKP
+'then': THEPB
+'people': PAOEPL
+'saw': SAU
+'everything': EFG
+'perverted,': PEFRB/ERT/-D KW-BG
+'or': OR
+'only': OEPBL
+'had': H
+'an': APB
+'eye': AOEU
+'for': TPOR
+'that': THA
+'which': WEU
+'was': WA
+'evil.': AOEFL TP-PL
+'This': TH
+'happened': HAPD
+'because': PWAU
+'the': -T
+'very': SRE
+'smallest': SPHAUL/EFT
+'bit': PWEUT
+'had': H
+'the': -T
+'same': SAEUPL
+'power': POUR
+'which': WEU
+'the': -T
+'whole': WHOEL
+'mirror': PHROR
+'had': H
+'possessed.': POS/ES/-D TP-PL
+'Some': SOPL
+'persons': PERPBS
+'even': AOEPB
+'got': TKPWOT
+'a': AEU
+'splinter': SPHREUPB/TER
+'in': TPH
+'their': THAEUR
+'heart,': HART KW-BG
+'and': SKP
+'then': THEPB
+'it': T
+'made': PHAED
+'one': WUPB
+'shudder,': SHUD/ER KW-BG
+'for': TPOR
+'their': THAEUR
+'heart': HART
+'became': PWAEUPL
+'like': HRAOEUBG
+'a': AEU
+'lump': HR*UPL
+'of': -F
+'ice.': AOEUS TP-PL
+'Some': SOPL
+'of': -F
+'the': -T
+'broken': PWROEPB
+'pieces': PAOEFS
+'were': WR
+'so': SO
+'large': HRARPBLG
+'that': THA
+'they': THE
+'were': WR
+'used': AOUFD
+'for': TPOR
+'windowpanes,': WEUPB/TKOE/PAEPB/-S KW-BG
+'through': THRU
+'which': WEU
+'one': WUPB
+'could': KO
+'not': TPHOT
+'see': SAOE
+'one's': W*UPBS
+'friends.': TPREPBDZ TP-PL
+'Other': OER
+'pieces': PAOEFS
+'were': WR
+'put': PUT
+'in': TPH
+'spectacles;': SPEBGT/K-LS STPH*FPLT
+'and': SKP
+'that': THA
+'was': WA
+'a': AEU
+'sad': SAD
+'affair': A/TPAEUR
+'when': WHEPB
+'people': PAOEPL
+'put': PUT
+'on': OPB
+'their': THAEUR
+'glasses': TKPWHRAFS
+'to': TO
+'see': SAOE
+'well': WEL
+'and': SKP
+'rightly.': RAOEULT TP-PL
+'Then': THEPB
+'the': -T
+'wicked': WEUBGD
+'sprite': SPRAOEUT
+'laughed': HRAFD
+'till': T*EUL
+'he': E
+'almost': HR-PL
+'choked,': KHOEBGD KW-BG
+'for': TPOR
+'all': AUL
+'this': TH
+'tickled': TEUBG/*LD
+'his': HEUS
+'fancy.': TPAPB/SEU TP-PL
+'The': -T
+'fine': TPAOEUPB
+'splinters': SPHREURPBTS
+'still': STEUL
+'flew': TPHRAOU
+'about': PW
+'in': TPH
+'the': -T
+'air:': AEUR STPH-FPLT
+'and': SKP
+'now': TPHOU
+'we': WE
+'shall': SHAL
+'hear': HAER
+'what': WHA
+'happened': HAPD
+'next.': TPHEGT TP-PL

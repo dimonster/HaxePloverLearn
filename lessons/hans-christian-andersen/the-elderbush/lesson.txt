@@ -1,0 +1,2985 @@
+The Elderbush
+
+'Once': WUPBS
+'upon': POPB
+'a': AEU
+'time': TAOEUPL
+'there': THR
+'was': WA
+'a': AEU
+'little': HREUL
+'boy': PWOEU
+'who': WHO
+'had': H
+'taken': TAEPB
+'cold.': KOELD TP-PL
+'He': E
+'had': H
+'gone': TKWOPB
+'out': OUT
+'and': SKP
+'got': TKPWOT
+'his': HEUS
+'feet': TPAOET
+'wet;': WET STPH*FPLT
+'though': THOE
+'nobody': TPHOEB
+'could': KO
+'imagine': PHAPBLG
+'how': HOU
+'it': T
+'had': H
+'happened,': HAPD KW-BG
+'for': TPOR
+'it': T
+'was': WA
+'quite': KWAOEUT
+'dry': TKRAOEU
+'weather.': WHR* TP-PL
+'So': SO
+'his': HEUS
+'mother': PHOER
+'undressed': UPB/TKRES/-D
+'him,': HEUPL KW-BG
+'put': PUT
+'him': HEUPL
+'to': TO
+'bed,': PWED KW-BG
+'and': SKP
+'had': H
+'the': -T
+'tea-pot': TAE H-PB POT
+'brought': PWRAUT
+'in,': TPH KW-BG
+'to': TO
+'make': PHAEUBG
+'him': HEUPL
+'a': AEU
+'good': TKPWAOD
+'cup': KUP
+'of': -F
+'Elderflower': XXX Elderflower
+'tea.': TAE TP-PL
+'Just': SKWRUFT
+'at': AT
+'that': THA
+'moment': PHOEPLT
+'the': -T
+'merry': PHER/REU
+'old': OLD
+'man': PHAPB
+'came': KAEUPL
+'in': TPH
+'who': WHO
+'lived': HREUFD
+'up': UP
+'a-top': AEU H-PB TOP
+'of': -F
+'the': -T
+'house': HOUS
+'all': AUL
+'alone;': A/HROEPB STPH*FPLT
+'for': TPOR
+'he': E
+'had': H
+'neither': TPHAOERT
+'wife': WAOEUF
+'nor': TPH-R
+'children--but': KHEURPB H-PB H-PB PWUT
+'he': E
+'liked': HRAOEUBGD
+'children': KHEURPB
+'very': SRE
+'much,': PHUFP KW-BG
+'and': SKP
+'knew': TPHAOU
+'so': SO
+'many': PHAEPB
+'fairy': TPAEUR/REU
+'tales,': TAELS KW-BG
+'that': THA
+'it': T
+'was': WA
+'quite': KWAOEUT
+'delightful.': TKHRAOEUT/-FL TP-PL
+'"Now': KR-GS TPHOU
+'drink': TKREU
+'your': KWROUR
+'tea,"': TAE KW-BG KR-GS
+'said': SAEUD
+'the': -T
+'boy's': PWOEU AE S*/SP-S
+'mother;': PHOER STPH*FPLT
+'"then,': KR-GS THEPB KW-BG
+'perhaps,': PRAPS KW-BG
+'you': U
+'may': PHAE
+'hear': HAER
+'a': AEU
+'fairy': TPAEUR/REU
+'tale."': TAEL TP-PL KR-GS
+'"If': KR-GS TP
+'I': EU
+'had': H
+'but': PWUT
+'something': S-G
+'new': TPHU
+'to': TO
+'tell,"': TEL KW-BG KR-GS
+'said': SAEUD
+'the': -T
+'old': OLD
+'man.': PHAPB TP-PL
+'"But': KR-GS PWUT
+'how': HOU
+'did': TK
+'the': -T
+'child': KHAOEULD
+'get': TKPWET
+'his': HEUS
+'feet': TPAOET
+'wet?"': WET H-F KR-GS
+'"That': KR-GS THA
+'is': S
+'the': -T
+'very': SRE
+'thing': THEUPBG
+'that': THA
+'nobody': TPHOEB
+'can': K
+'make': PHAEUBG
+'out,"': OUT KW-BG KR-GS
+'said': SAEUD
+'his': HEUS
+'mother.': PHOER TP-PL
+'"Am': KR-GS *PL
+'I': EU
+'to': TO
+'hear': HAER
+'a': AEU
+'fairy': TPAEUR/REU
+'tale?"': TAEL H-F KR-GS
+'asked': SK-D
+'the': -T
+'little': HREUL
+'boy.': PWOEU TP-PL
+'"Yes,': KR-GS KWRE KW-BG
+'if': TP
+'you': U
+'can': K
+'tell': TEL
+'me': PHE
+'exactly--for': ELG H-PB H-PB TPOR
+'I': EU
+'must': PHUFT
+'know': TPHOE
+'that': THA
+'first--how': TPEURS H-PB H-PB HOU
+'deep': TKAOEP
+'the': -T
+'gutter': TKPWOURT
+'is': S
+'in': TPH
+'the': -T
+'little': HREUL
+'street': STRAOET
+'opposite,': OP/SEUT KW-BG
+'that': THA
+'you': U
+'pass': PAS
+'through': THRU
+'in': TPH
+'going': TKPW-G
+'to': TO
+'school."': SKAOL TP-PL KR-GS
+'"Just': KR-GS SKWRUFT
+'up': UP
+'to': TO
+'the': -T
+'middle': PH*EULD
+'of': -F
+'my': PHEU
+'boot,"': PWAOT KW-BG KR-GS
+'said': SAEUD
+'the': -T
+'child;': KHAOEULD STPH*FPLT
+'"but': KR-GS PWUT
+'then': THEPB
+'I': EU
+'must': PHUFT
+'go': TKPW
+'into': TPHAO
+'the': -T
+'deep': TKAOEP
+'hole."': HOEL TP-PL KR-GS
+'"Ah,': KR-GS HA*E KW-BG
+'ah!': HA*E SKHRAPL
+'That's': THA AE S*/SP-S
+'where': W-R
+'the': -T
+'wet': WET
+'feet': TPAOET
+'came': KAEUPL
+'from,"': TPR KW-BG KR-GS
+'said': SAEUD
+'the': -T
+'old': OLD
+'man.': PHAPB TP-PL
+'"I': KR-GS EU
+'ought': OT
+'now': TPHOU
+'to': TO
+'tell': TEL
+'you': U
+'a': AEU
+'story;': STOER STPH*FPLT
+'but': PWUT
+'I': EU
+'don't': TKOEPBT
+'know': TPHOE
+'any': TPHEU
+'more."': PHOR TP-PL KR-GS
+'"You': KR-GS U
+'can': K
+'make': PHAEUBG
+'one': WUPB
+'in': TPH
+'a': AEU
+'moment,"': PHOEPLT KW-BG KR-GS
+'said': SAEUD
+'the': -T
+'little': HREUL
+'boy.': PWOEU TP-PL
+'"My': KR-GS PHEU
+'mother': PHOER
+'says': SEZ
+'that': THA
+'all': AUL
+'you': U
+'look': HRAOBG
+'at': AT
+'can': K
+'be': -B
+'turned': TURPBD
+'into': TPHAO
+'a': AEU
+'fairy': TPAEUR/REU
+'tale:': TAEL STPH-FPLT
+'and': SKP
+'that': THA
+'you': U
+'can': K
+'find': TPEUPBD
+'a': AEU
+'story': STOER
+'in': TPH
+'everything."': EFG TP-PL KR-GS
+'"Yes,': KR-GS KWRE KW-BG
+'but': PWUT
+'such': SUFP
+'tales': TAELS
+'and': SKP
+'stories': STOERS
+'are': R
+'good': TKPWAOD
+'for': TPOR
+'nothing.': TPHOG TP-PL
+'The': -T
+'right': RAOEUT
+'sort': SORT
+'come': KOPL
+'of': -F
+'themselves;': TH*EPLS STPH*FPLT
+'they': THE
+'tap': TAP
+'at': AT
+'my': PHEU
+'forehead': TPOER/HED
+'and': SKP
+'say,': SAEU KW-BG
+''Here': AE HAOER
+'we': WE
+'are.'"': R TP-PL AE KR-GS
+'"Won't': KR-GS WOPB AE T*/SP-S
+'there': THR
+'be': -B
+'a': AEU
+'tap': TAP
+'soon?"': SAOPB H-F KR-GS
+'asked': SK-D
+'the': -T
+'little': HREUL
+'boy.': PWOEU TP-PL
+'And': SKP
+'his': HEUS
+'mother': PHOER
+'laughed,': HRAFD KW-BG
+'put': PUT
+'some': SOPL
+'Elder-flowers': ELD/ER H-PB TPHRO*URS
+'in': TPH
+'the': -T
+'tea-pot,': TAE H-PB POT KW-BG
+'and': SKP
+'poured': PORD
+'boiling': PWOEULG
+'water': WAUR
+'upon': POPB
+'them.': THEPL TP-PL
+'"Do': KR-GS TKO
+'tell': TEL
+'me': PHE
+'something!': S-G SKHRAPL
+'Pray': PRAEU
+'do!"': TKO SKHRAPL KR-GS
+'"Yes,': KR-GS KWRE KW-BG
+'if': TP
+'a': AEU
+'fairy': TPAEUR/REU
+'tale': TAEL
+'would': WO
+'come': KOPL
+'of': -F
+'its': EUTS
+'own': OEPB
+'accord;': A/KORD STPH*FPLT
+'but': PWUT
+'they': THE
+'are': R
+'proud': PROUD
+'and': SKP
+'haughty,': HAU/TEU KW-BG
+'and': SKP
+'come': KOPL
+'only': OEPBL
+'when': WHEPB
+'they': THE
+'choose.': KHAOS TP-PL
+'Stop!"': STOP SKHRAPL KR-GS
+'said': SAEUD
+'he,': E KW-BG
+'all': AUL
+'on': OPB
+'a': AEU
+'sudden.': SUD TP-PL
+'"I': KR-GS EU
+'have': SR
+'it!': T SKHRAPL
+'Pay': PAEU
+'attention!': A/T-PBGS SKHRAPL
+'There': THR
+'is': S
+'one': WUPB
+'in': TPH
+'the': -T
+'tea-pot!"': TAE H-PB POT SKHRAPL KR-GS
+'And': SKP
+'the': -T
+'little': HREUL
+'boy': PWOEU
+'looked': HRAOBGD
+'at': AT
+'the': -T
+'tea-pot.': TAE H-PB POT TP-PL
+'The': -T
+'cover': KOFR
+'rose': ROES
+'more': PHOR
+'and': SKP
+'more;': PHOR STPH*FPLT
+'and': SKP
+'the': -T
+'Elder-flowers': ELD/ER H-PB TPHRO*URS
+'came': KAEUPL
+'forth': TPO*RT
+'so': SO
+'fresh': TPRERB
+'and': SKP
+'white,': WHAOEUT KW-BG
+'and': SKP
+'shot': SHOT
+'up': UP
+'long': HROPBG
+'branches.': PWRAFPBS TP-PL
+'Out': OUT
+'of': -F
+'the': -T
+'spout': SPOUT
+'even': AOEPB
+'did': TK
+'they': THE
+'spread': SPRED
+'themselves': TH*EPLS
+'on': OPB
+'all': AUL
+'sides,': SAOEUDZ KW-BG
+'and': SKP
+'grew': TKPWRAOU
+'larger': HRARPBG/*ER
+'and': SKP
+'larger;': HRARPBG/*ER STPH*FPLT
+'it': T
+'was': WA
+'a': AEU
+'splendid': SPHREPBD/EUD
+'Elderbush,': XXX Elderbush KW-BG
+'a': AEU
+'whole': WHOEL
+'tree;': TRAOE STPH*FPLT
+'and': SKP
+'it': T
+'reached': RAOEFPD
+'into': TPHAO
+'the': -T
+'very': SRE
+'bed,': PWED KW-BG
+'and': SKP
+'pushed': PURBD
+'the': -T
+'curtains': KUR/TEUPBS
+'aside.': A/SAOEUD TP-PL
+'How': HOU
+'it': T
+'bloomed!': PHRAOPL/-D SKHRAPL
+'And': SKP
+'what': WHA
+'an': APB
+'odour!': O*EURD SKHRAPL
+'In': TPH
+'the': -T
+'middle': PH*EULD
+'of': -F
+'the': -T
+'bush': PWURB
+'sat': SAT
+'a': AEU
+'friendly-looking': TPREPBLD H-PB HRAOG
+'old': OLD
+'woman': WOPL
+'in': TPH
+'a': AEU
+'most': PHO*S
+'strange': STRAEUPBG
+'dress.': TKRES TP-PL
+'It': T
+'was': WA
+'quite': KWAOEUT
+'green,': TKPWRAOEPB KW-BG
+'like': HRAOEUBG
+'the': -T
+'leaves': HREFS
+'of': -F
+'the': -T
+'elder,': ELD/ER KW-BG
+'and': SKP
+'was': WA
+'trimmed': TREUPLD
+'with': W
+'large': HRARPBLG
+'white': WHAOEUT
+'Elder-flowers;': ELD/ER H-PB TPHRO*URS STPH*FPLT
+'so': SO
+'that': THA
+'at': AT
+'first': TPEURS
+'one': WUPB
+'could': KO
+'not': TPHOT
+'tell': TEL
+'whether': WHR
+'it': T
+'was': WA
+'a': AEU
+'stuff,': STUF KW-BG
+'or': OR
+'a': AEU
+'natural': TPHARL
+'green': TKPWRAOEPB
+'and': SKP
+'real': RAEL
+'flowers.': TPHRO*URS TP-PL
+'"What's': KR-GS WHA AE S*/SP-S
+'that': THA
+'woman's': WOPL AE S*/SP-S
+'name?"': TPHAEUPL H-F KR-GS
+'asked': SK-D
+'the': -T
+'little': HREUL
+'boy.': PWOEU TP-PL
+'"The': KR-GS -T
+'Greeks': TKPWRAOEBGS
+'and': SKP
+'Romans,"': RO*EPBS KW-BG KR-GS
+'said': SAEUD
+'the': -T
+'old': OLD
+'man,': PHAPB KW-BG
+'"called': KR-GS KAULD
+'her': HER
+'a': AEU
+'Dryad;': XXX Dryad STPH*FPLT
+'but': PWUT
+'that': THA
+'we': WE
+'do': TKO
+'not': TPHOT
+'understand.': URPBD TP-PL
+'The': -T
+'people': PAOEPL
+'who': WHO
+'live': HREUF
+'in': TPH
+'the': -T
+'New': TPHU
+'Booths': PWAO*TS
+'have': SR
+'a': AEU
+'much': PHUFP
+'better': PWOERT
+'name': TPHAEUPL
+'for': TPOR
+'her;': HER STPH*FPLT
+'they': THE
+'call': KAUL
+'her': HER
+''old': AE OLD
+'Granny'--and': TKPWRAPB/KWREU AE H-PB H-PB SKP
+'she': SHE
+'it': T
+'is': S
+'to': TO
+'whom': WHOPL
+'you': U
+'are': R
+'to': TO
+'pay': PAEU
+'attention.': A/T-PBGS TP-PL
+'Now': TPHOU
+'listen,': HREUFPB KW-BG
+'and': SKP
+'look': HRAOBG
+'at': AT
+'the': -T
+'beautiful': PWAOUFL
+'Elderbush.': XXX Elderbush TP-PL
+'"Just': KR-GS SKWRUFT
+'such': SUFP
+'another': TPHOER
+'large': HRARPBLG
+'blooming': PWHRAOPL/-G
+'Elder': ELD/ER
+'Tree': TRAOE
+'stands': STAPBDZ
+'near': TPHAOER
+'the': -T
+'New': TPHU
+'Booths.': PWAO*TS TP-PL
+'It': T
+'grew': TKPWRAOU
+'there': THR
+'in': TPH
+'the': -T
+'corner': KRORPB
+'of': -F
+'a': AEU
+'little': HREUL
+'miserable': PHEUZ/-BL
+'court-yard;': KORT H-PB KWRARD STPH*FPLT
+'and': SKP
+'under': *UPBD
+'it': T
+'sat,': SAT KW-BG
+'of': -F
+'an': APB
+'afternoon,': AFPB KW-BG
+'in': TPH
+'the': -T
+'most': PHO*S
+'splendid': SPHREPBD/EUD
+'sunshine,': S*UPB/SHAOEUPB KW-BG
+'two': TWO
+'old': OLD
+'people;': PAOEPL STPH*FPLT
+'an': APB
+'old,': OLD KW-BG
+'old': OLD
+'seaman,': SAE/PHAPB KW-BG
+'and': SKP
+'his': HEUS
+'old,': OLD KW-BG
+'old': OLD
+'wife.': WAOEUF TP-PL
+'They': THE
+'had': H
+'great-grand-children,': TKPWRAET H-PB TKPWRAPBD H-PB KHEURPB KW-BG
+'and': SKP
+'were': WR
+'soon': SAOPB
+'to': TO
+'celebrate': SEL/PWRAEUT
+'the': -T
+'fiftieth': TPEUFT/KWR*ET
+'anniversary': APB/SRERS/REU
+'of': -F
+'their': THAEUR
+'marriage;': PHAERPBLG STPH*FPLT
+'but': PWUT
+'they': THE
+'could': KO
+'not': TPHOT
+'exactly': ELG
+'recollect': REBGT
+'the': -T
+'date:': TKAEUT STPH-FPLT
+'and': SKP
+'old': OLD
+'Granny': TKPWRAPB/KWREU
+'sat': SAT
+'in': TPH
+'the': -T
+'tree,': TRAOE KW-BG
+'and': SKP
+'looked': HRAOBGD
+'as': AZ
+'pleased': PHRAOEFD
+'as': AZ
+'now.': TPHOU TP-PL
+''I': AE EU
+'know': TPHOE
+'the': -T
+'date,'': TKAEUT KW-BG AE
+'said': SAEUD
+'she;': SHE STPH*FPLT
+'but': PWUT
+'those': THOZ
+'below': PWHRO
+'did': TK
+'not': TPHOT
+'hear': HAER
+'her,': HER KW-BG
+'for': TPOR
+'they': THE
+'were': WR
+'talking': TAUG
+'about': PW
+'old': OLD
+'times.': TAOEUPLS TP-PL
+'"'Yes,': KR-GS AE KWRE KW-BG
+'can't': K-PBT
+'you': U
+'remember': REB
+'when': WHEPB
+'we': WE
+'were': WR
+'very': SRE
+'little,'': HREUL KW-BG AE
+'said': SAEUD
+'the': -T
+'old': OLD
+'seaman,': SAE/PHAPB KW-BG
+''and': AE SKP
+'ran': RAPB
+'and': SKP
+'played': PHRAEUD
+'about?': PW H-F
+'It': T
+'was': WA
+'the': -T
+'very': SRE
+'same': SAEUPL
+'court-yard': KORT H-PB KWRARD
+'where': W-R
+'we': WE
+'now': TPHOU
+'are,': R KW-BG
+'and': SKP
+'we': WE
+'stuck': STUBG
+'slips': SHREUPS
+'in': TPH
+'the': -T
+'ground,': TKPWROUPBD KW-BG
+'and': SKP
+'made': PHAED
+'a': AEU
+'garden.'': TKPWA*RPB TP-PL AE
+'"'I': KR-GS AE EU
+'remember': REB
+'it': T
+'well,'': WEL KW-BG AE
+'said': SAEUD
+'the': -T
+'old': OLD
+'woman;': WOPL STPH*FPLT
+''I': AE EU
+'remember': REB
+'it': T
+'quite': KWAOEUT
+'well.': WEL TP-PL
+'We': WE
+'watered': WAURD
+'the': -T
+'slips,': SHREUPS KW-BG
+'and': SKP
+'one': WUPB
+'of': -F
+'them': THEPL
+'was': WA
+'an': APB
+'Elderbush.': XXX Elderbush TP-PL
+'It': T
+'took': TAOBG
+'root,': RAOT KW-BG
+'put': PUT
+'forth': TPO*RT
+'green': TKPWRAOEPB
+'shoots,': SHAOTS KW-BG
+'and': SKP
+'grew': TKPWRAOU
+'up': UP
+'to': TO
+'be': -B
+'the': -T
+'large': HRARPBLG
+'tree': TRAOE
+'under': *UPBD
+'which': WEU
+'we': WE
+'old': OLD
+'folks': TPOBG
+'are': R
+'now': TPHOU
+'sitting.'': SAO*EGT TP-PL AE
+'"'To': KR-GS AE TO
+'be': -B
+'sure,'': SHUR KW-BG AE
+'said': SAEUD
+'he.': E TP-PL
+''And': AE SKP
+'there': THR
+'in': TPH
+'the': -T
+'corner': KRORPB
+'stood': STAOD
+'a': AEU
+'waterpail,': XXX waterpail KW-BG
+'where': W-R
+'I': EU
+'used': AOUFD
+'to': TO
+'swim': SWEUPL
+'my': PHEU
+'boats.'': PWOETS TP-PL AE
+'"'True;': KR-GS AE TRAOU STPH*FPLT
+'but': PWUT
+'first': TPEURS
+'we': WE
+'went': WEPBT
+'to': TO
+'school': SKAOL
+'to': TO
+'learn': HRERPB
+'somewhat,'': SWHA KW-BG AE
+'said': SAEUD
+'she;': SHE STPH*FPLT
+''and': AE SKP
+'then': THEPB
+'we': WE
+'were': WR
+'confirmed.': K-FRPL/-D TP-PL
+'We': WE
+'both': PWO*T
+'cried;': KRAOEUD STPH*FPLT
+'but': PWUT
+'in': TPH
+'the': -T
+'afternoon': AFPB
+'we': WE
+'went': WEPBT
+'up': UP
+'the': -T
+'Round': ROUPBD
+'Tower,': TOUR KW-BG
+'and': SKP
+'looked': HRAOBGD
+'down': TKOUPB
+'on': OPB
+'Copenhagen,': KOEP/*EPB/HAG KW-BG
+'and': SKP
+'far,': TPAR KW-BG
+'far': TPAR
+'away': A/WAEU
+'over': OEFR
+'the': -T
+'water;': WAUR STPH*FPLT
+'then': THEPB
+'we': WE
+'went': WEPBT
+'to': TO
+'Friedericksberg,': XXX Friedericksberg KW-BG
+'where': W-R
+'the': -T
+'King': KEUPBG
+'and': SKP
+'the': -T
+'Queen': KWAOEPB
+'were': WR
+'sailing': SAEULG
+'about': PW
+'in': TPH
+'their': THAEUR
+'splendid': SPHREPBD/EUD
+'barges.'': PWARPBLG/-S TP-PL AE
+'"'But': KR-GS AE PWUT
+'I': EU
+'had': H
+'a': AEU
+'different': TKEUFRT
+'sort': SORT
+'of': -F
+'sailing': SAEULG
+'to': TO
+'that,': THA KW-BG
+'later;': HRAEURT STPH*FPLT
+'and': SKP
+'that,': THA KW-BG
+'too,': TAO KW-BG
+'for': TPOR
+'many': PHAEPB
+'a': AEU
+'year;': KWRAOER STPH*FPLT
+'a': AEU
+'long': HROPBG
+'way': WAEU
+'off,': OF KW-BG
+'on': OPB
+'great': TKPWRAET
+'voyages.'': SROEUPBLGS TP-PL AE
+'"'Yes,': KR-GS AE KWRE KW-BG
+'many': PHAEPB
+'a': AEU
+'time': TAOEUPL
+'have': SR
+'I': EU
+'wept': WEPT
+'for': TPOR
+'your': KWROUR
+'sake,'': SAEUBG KW-BG AE
+'said': SAEUD
+'she.': SHE TP-PL
+''I': AE EU
+'thought': THAUT
+'you': U
+'were': WR
+'dead': TKED
+'and': SKP
+'gone,': TKWOPB KW-BG
+'and': SKP
+'lying': HRAOEUG
+'down': TKOUPB
+'in': TPH
+'the': -T
+'deep': TKAOEP
+'waters.': WAURS TP-PL
+'Many': PHAEPB
+'a': AEU
+'night': TPHAOEUT
+'have': SR
+'I': EU
+'got': TKPWOT
+'up': UP
+'to': TO
+'see': SAOE
+'if': TP
+'the': -T
+'wind': WEUPBD
+'had': H
+'not': TPHOT
+'changed:': KHAEUPBGD STPH-FPLT
+'and': SKP
+'changed': KHAEUPBGD
+'it': T
+'had,': H KW-BG
+'sure': SHUR
+'enough;': TPHUF STPH*FPLT
+'but': PWUT
+'you': U
+'never': TPHEF
+'came.': KAEUPL TP-PL
+'I': EU
+'remember': REB
+'so': SO
+'well': WEL
+'one': WUPB
+'day,': TKAEU KW-BG
+'when': WHEPB
+'the': -T
+'rain': RAEUPB
+'was': WA
+'pouring': PORG
+'down': TKOUPB
+'in': TPH
+'torrents,': TORPBT/-S KW-BG
+'the': -T
+'scavengers': SKAF/SKWRER/-S
+'were': WR
+'before': PW-F
+'the': -T
+'house': HOUS
+'where': W-R
+'I': EU
+'was': WA
+'in': TPH
+'service,': S*FS KW-BG
+'and': SKP
+'I': EU
+'had': H
+'come': KOPL
+'up': UP
+'with': W
+'the': -T
+'dust,': TK*US KW-BG
+'and': SKP
+'remained': RE/PHAEUPBD
+'standing': STAPBG
+'at': AT
+'the': -T
+'door--it': TKAOR H-PB H-PB T
+'was': WA
+'dreadful': TKRED/*FL
+'weather--when': WHR* H-PB H-PB WHEPB
+'just': SKWRUFT
+'as': AZ
+'I': EU
+'was': WA
+'there,': THR KW-BG
+'the': -T
+'postman': PO*ES/PHAPB
+'came': KAEUPL
+'and': SKP
+'gave': TKPWAEUF
+'me': PHE
+'a': AEU
+'letter.': HRERT TP-PL
+'It': T
+'was': WA
+'from': TPR
+'you!': U SKHRAPL
+'What': WHA
+'a': AEU
+'tour': TOR
+'that': THA
+'letter': HRERT
+'had': H
+'made!': PHAED SKHRAPL
+'I': EU
+'opened': OEPD
+'it': T
+'instantly': EUPB/STAPBT/HREU
+'and': SKP
+'read:': RAED STPH-FPLT
+'I': EU
+'laughed': HRAFD
+'and': SKP
+'wept.': WEPT TP-PL
+'I': EU
+'was': WA
+'so': SO
+'happy.': HAEP TP-PL
+'In': TPH
+'it': T
+'I': EU
+'read': RAED
+'that': THA
+'you': U
+'were': WR
+'in': TPH
+'warm': WARPL
+'lands': HRAPBDZ
+'where': W-R
+'the': -T
+'coffee-tree': KOF/AOE H-PB TRAOE
+'grows.': TKPWRO*ES TP-PL
+'What': WHA
+'a': AEU
+'blessed': PWHR*EFD
+'land': HRAPBD
+'that': THA
+'must': PHUFT
+'be!': -B SKHRAPL
+'You': U
+'related': RAELTD
+'so': SO
+'much,': PHUFP KW-BG
+'and': SKP
+'I': EU
+'saw': SAU
+'it': T
+'all': AUL
+'the': -T
+'while': WHAOEUL
+'the': -T
+'rain': RAEUPB
+'was': WA
+'pouring': PORG
+'down,': TKOUPB KW-BG
+'and': SKP
+'I': EU
+'standing': STAPBG
+'there': THR
+'with': W
+'the': -T
+'dust-box.': TK*US H-PB PWOBGS TP-PL
+'At': AT
+'the': -T
+'same': SAEUPL
+'moment': PHOEPLT
+'came': KAEUPL
+'someone': SWUPB
+'who': WHO
+'embraced': EPL/PWRAEUFD
+'me.'': PHE TP-PL AE
+'"'Yes;': KR-GS AE KWRE STPH*FPLT
+'but': PWUT
+'you': U
+'gave': TKPWAEUF
+'him': HEUPL
+'a': AEU
+'good': TKPWAOD
+'box': PWOBGS
+'on': OPB
+'his': HEUS
+'ear': AOER
+'that': THA
+'made': PHAED
+'it': T
+'tingle!'': TEUPBG/*L SKHRAPL AE
+'"'But': KR-GS AE PWUT
+'I': EU
+'did': TK
+'not': TPHOT
+'know': TPHOE
+'it': T
+'was': WA
+'you.': U TP-PL
+'You': U
+'arrived': A/REUFD
+'as': AZ
+'soon': SAOPB
+'as': AZ
+'your': KWROUR
+'letter,': HRERT KW-BG
+'and': SKP
+'you': U
+'were': WR
+'so': SO
+'handsome--that': HAPBD/SOPL H-PB H-PB THA
+'you': U
+'still': STEUL
+'are--and': R H-PB H-PB SKP
+'had': H
+'a': AEU
+'long': HROPBG
+'yellow': KWREL/OE
+'silk': S*EULG
+'handkerchief': HAPB/KER/KHEF
+'round': ROUPBD
+'your': KWROUR
+'neck,': TPHEBG KW-BG
+'and': SKP
+'a': AEU
+'bran': PWRAPB
+'new': TPHU
+'hat': HAT
+'on;': OPB STPH*FPLT
+'oh,': O*ERBGS KW-BG
+'you': U
+'were': WR
+'so': SO
+'dashing!': TKARB/-G SKHRAPL
+'Good': TKPWAOD
+'heavens!': HEFPBS SKHRAPL
+'What': WHA
+'weather': WHR*
+'it': T
+'was,': WA KW-BG
+'and': SKP
+'what': WHA
+'a': AEU
+'state': STA*ET
+'the': -T
+'street': STRAOET
+'was': WA
+'in!'': TPH SKHRAPL AE
+'"'And': KR-GS AE SKP
+'then': THEPB
+'we': WE
+'married,'': PHAERD KW-BG AE
+'said': SAEUD
+'he.': E TP-PL
+''Don't': AE TKO*PB AE T*/SP-S
+'you': U
+'remember?': REB H-F
+'And': SKP
+'then': THEPB
+'we': WE
+'had': H
+'our': OUR
+'first': TPEURS
+'little': HREUL
+'boy,': PWOEU KW-BG
+'and': SKP
+'then': THEPB
+'Mary,': PHA*ER KW-BG
+'and': SKP
+'Nicholas,': TPHEUBG/HRAS KW-BG
+'and': SKP
+'Peter,': PAOERT KW-BG
+'and': SKP
+'Christian.'': KREUGS TP-PL AE
+'"'Yes,': KR-GS AE KWRE KW-BG
+'and': SKP
+'how': HOU
+'they': THE
+'all': AUL
+'grew': TKPWRAOU
+'up': UP
+'to': TO
+'be': -B
+'honest': HO*PBS
+'people,': PAOEPL KW-BG
+'and': SKP
+'were': WR
+'beloved': PWHROFD
+'by': PWEU
+'everybody.'': EFB TP-PL AE
+'"'And': KR-GS AE SKP
+'their': THAEUR
+'children': KHEURPB
+'also': HR-S
+'have': SR
+'children,'': KHEURPB KW-BG AE
+'said': SAEUD
+'the': -T
+'old': OLD
+'sailor;': SAEU/HROR STPH*FPLT
+''yes,': AE KWRE KW-BG
+'those': THOZ
+'are': R
+'our': OUR
+'grand-children,': TKPWRAPBD H-PB KHEURPB KW-BG
+'full': TPUL
+'of': -F
+'strength': STREPG
+'and': SKP
+'vigor.': SREUG/O*R TP-PL
+'It': T
+'was,': WA KW-BG
+'methinks': XXX methinks
+'about': PW
+'this': TH
+'season': S-PB
+'that': THA
+'we': WE
+'had': H
+'our': OUR
+'wedding.'': WEGD TP-PL AE
+'"'Yes,': KR-GS AE KWRE KW-BG
+'this': TH
+'very': SRE
+'day': TKAEU
+'is': S
+'the': -T
+'fiftieth': TPEUFT/KWR*ET
+'anniversary': APB/SRERS/REU
+'of': -F
+'the': -T
+'marriage,'': PHAERPBLG KW-BG AE
+'said': SAEUD
+'old': OLD
+'Granny,': TKPWRAPB/KWREU KW-BG
+'sticking': STEUG
+'her': HER
+'head': HED
+'between': TWAOEPB
+'the': -T
+'two': TWO
+'old': OLD
+'people;': PAOEPL STPH*FPLT
+'who': WHO
+'thought': THAUT
+'it': T
+'was': WA
+'their': THAEUR
+'neighbor': TPHAEUB
+'who': WHO
+'nodded': TPHOD/-D
+'to': TO
+'them.': THEPL TP-PL
+'They': THE
+'looked': HRAOBGD
+'at': AT
+'each': AOEFP
+'other': OER
+'and': SKP
+'held': HELD
+'one': WUPB
+'another': TPHOER
+'by': PWEU
+'the': -T
+'hand.': HAPBD TP-PL
+'Soon': SAOPB
+'after': AF
+'came': KAEUPL
+'their': THAEUR
+'children,': KHEURPB KW-BG
+'and': SKP
+'their': THAEUR
+'grand-children;': TKPWRAPBD H-PB KHEURPB STPH*FPLT
+'for': TPOR
+'they': THE
+'knew': TPHAOU
+'well': WEL
+'enough': TPHUF
+'that': THA
+'it': T
+'was': WA
+'the': -T
+'day': TKAEU
+'of': -F
+'the': -T
+'fiftieth': TPEUFT/KWR*ET
+'anniversary,': APB/SRERS/REU KW-BG
+'and': SKP
+'had': H
+'come': KOPL
+'with': W
+'their': THAEUR
+'gratulations': XXX gratulations
+'that': THA
+'very': SRE
+'morning;': PHORPBG STPH*FPLT
+'but': PWUT
+'the': -T
+'old': OLD
+'people': PAOEPL
+'had': H
+'forgotten': TPO*RGD
+'it,': T KW-BG
+'although': HR*T
+'they': THE
+'were': WR
+'able': ABL
+'to': TO
+'remember': REB
+'all': AUL
+'that': THA
+'had': H
+'happened': HAPD
+'many': PHAEPB
+'years': KWRAOERS
+'ago.': AG TP-PL
+'And': SKP
+'the': -T
+'Elderbush': XXX Elderbush
+'sent': SEPBT
+'forth': TPO*RT
+'a': AEU
+'strong': STROPBG
+'odour': O*EURD
+'in': TPH
+'the': -T
+'sun,': SUPB KW-BG
+'that': THA
+'was': WA
+'just': SKWRUFT
+'about': PW
+'to': TO
+'set,': SET KW-BG
+'and': SKP
+'shone': SHO*EPB
+'right': RAOEUT
+'in': TPH
+'the': -T
+'old': OLD
+'people's': PAOEPL AE S*/SP-S
+'faces.': TPAEUFS TP-PL
+'They': THE
+'both': PWO*T
+'looked': HRAOBGD
+'so': SO
+'rosy-cheeked;': ROE/S*EU H-PB KHAOEBG/-D STPH*FPLT
+'and': SKP
+'the': -T
+'youngest': KWRUPBG/EFT
+'of': -F
+'the': -T
+'grandchildren': TKPWR-PB
+'danced': TKAPBS/-D
+'around': ARPBD
+'them,': THEPL KW-BG
+'and': SKP
+'called': KAULD
+'out': OUT
+'quite': KWAOEUT
+'delighted,': TKHRAOEUTD KW-BG
+'that': THA
+'there': THR
+'was': WA
+'to': TO
+'be': -B
+'something': S-G
+'very': SRE
+'splendid': SPHREPBD/EUD
+'that': THA
+'evening--they': AOEPG H-PB H-PB THE
+'were': WR
+'all': AUL
+'to': TO
+'have': SR
+'hot': HOT
+'potatoes.': POE/TAEUT/-S TP-PL
+'And': SKP
+'old': OLD
+'Nanny': TPHAPB/KWREU
+'nodded': TPHOD/-D
+'in': TPH
+'the': -T
+'bush,': PWURB KW-BG
+'and': SKP
+'shouted': SHOUT/-D
+''hurrah!'': AE HUR/RA SKHRAPL AE
+'with': W
+'the': -T
+'rest."': R*ES TP-PL KR-GS
+'"But': KR-GS PWUT
+'that': THA
+'is': S
+'no': TPHO
+'fairy': TPAEUR/REU
+'tale,"': TAEL KW-BG KR-GS
+'said': SAEUD
+'the': -T
+'little': HREUL
+'boy,': PWOEU KW-BG
+'who': WHO
+'was': WA
+'listening': HR-PBG
+'to': TO
+'the': -T
+'story.': STOER TP-PL
+'"The': KR-GS -T
+'thing': THEUPBG
+'is,': S KW-BG
+'you': U
+'must': PHUFT
+'understand': URPBD
+'it,"': T KW-BG KR-GS
+'said': SAEUD
+'the': -T
+'narrator;': PHAEUR/A*T/O*R STPH*FPLT
+'"let': KR-GS HRET
+'us': US
+'ask': SK
+'old': OLD
+'Nanny."': TPHAPB/KWREU TP-PL KR-GS
+'"That': KR-GS THA
+'was': WA
+'no': TPHO
+'fairy': TPAEUR/REU
+'tale,': TAEL KW-BG
+''tis': TEUS
+'true,"': TRAOU KW-BG KR-GS
+'said': SAEUD
+'old': OLD
+'Nanny;': TPHAPB/KWREU STPH*FPLT
+'"but': KR-GS PWUT
+'now': TPHOU
+'it's': T*S
+'coming.': KO*G TP-PL
+'The': -T
+'most': PHO*S
+'wonderful': WUFL
+'fairy': TPAEUR/REU
+'tales': TAELS
+'grow': TKPWROE
+'out': OUT
+'of': -F
+'that': THA
+'which': WEU
+'is': S
+'reality;': RAOELT STPH*FPLT
+'were': WR
+'that': THA
+'not': TPHOT
+'the': -T
+'case,': KAEUS KW-BG
+'you': U
+'know,': TPHOE KW-BG
+'my': PHEU
+'magnificent': PHAFPBT
+'Elderbush': XXX Elderbush
+'could': KO
+'not': TPHOT
+'have': SR
+'grown': TKPWROEPB
+'out': OUT
+'of': -F
+'the': -T
+'tea-pot."': TAE H-PB POT TP-PL KR-GS
+'And': SKP
+'then': THEPB
+'she': SHE
+'took': TAOBG
+'the': -T
+'little': HREUL
+'boy': PWOEU
+'out': OUT
+'of': -F
+'bed,': PWED KW-BG
+'laid': HRAEUD
+'him': HEUPL
+'on': OPB
+'her': HER
+'bosom,': PWOS/OPL KW-BG
+'and': SKP
+'the': -T
+'branches': PWRAFPBS
+'of': -F
+'the': -T
+'Elder': ELD/ER
+'Tree,': TRAOE KW-BG
+'full': TPUL
+'of': -F
+'flowers,': TPHRO*URS KW-BG
+'closed': KHROEFD
+'around': ARPBD
+'her.': HER TP-PL
+'They': THE
+'sat': SAT
+'in': TPH
+'an': APB
+'aerial': AER/KWRAL
+'dwelling,': TKWELG KW-BG
+'and': SKP
+'it': T
+'flew': TPHRAOU
+'with': W
+'them': THEPL
+'through': THRU
+'the': -T
+'air.': AEUR TP-PL
+'Oh,': O*ERBGS KW-BG
+'it': T
+'was': WA
+'wondrous': WOPBD/ROUS
+'beautiful!': PWAOUFL SKHRAPL
+'Old': OLD
+'Nanny': TPHAPB/KWREU
+'had': H
+'grown': TKPWROEPB
+'all': AUL
+'of': -F
+'a': AEU
+'sudden': SUD
+'a': AEU
+'young': KWRUPBG
+'and': SKP
+'pretty': PREUT
+'maiden;': PHAEUD/EPB STPH*FPLT
+'but': PWUT
+'her': HER
+'robe': ROEB
+'was': WA
+'still': STEUL
+'the': -T
+'same': SAEUPL
+'green': TKPWRAOEPB
+'stuff': STUF
+'with': W
+'white': WHAOEUT
+'flowers,': TPHRO*URS KW-BG
+'which': WEU
+'she': SHE
+'had': H
+'worn': WORPB
+'before.': PW-F TP-PL
+'On': OPB
+'her': HER
+'bosom': PWOS/OPL
+'she': SHE
+'had': H
+'a': AEU
+'real': RAEL
+'Elderflower,': XXX Elderflower KW-BG
+'and': SKP
+'in': TPH
+'her': HER
+'yellow': KWREL/OE
+'waving': WAFG
+'hair': HAEUR
+'a': AEU
+'wreath': WRAO*ET
+'of': -F
+'the': -T
+'flowers;': TPHRO*URS STPH*FPLT
+'her': HER
+'eyes': AO*EUS
+'were': WR
+'so': SO
+'large': HRARPBLG
+'and': SKP
+'blue': PWHRU
+'that': THA
+'it': T
+'was': WA
+'a': AEU
+'pleasure': PHRERB
+'to': TO
+'look': HRAOBG
+'at': AT
+'them;': THEPL STPH*FPLT
+'she': SHE
+'kissed': K*EUFD
+'the': -T
+'boy,': PWOEU KW-BG
+'and': SKP
+'now': TPHOU
+'they': THE
+'were': WR
+'of': -F
+'the': -T
+'same': SAEUPL
+'age': AEUPBLG
+'and': SKP
+'felt': TPELT
+'alike.': A/HRAOEUBG TP-PL
+'Hand': HAPBD
+'in': TPH
+'hand': HAPBD
+'they': THE
+'went': WEPBT
+'out': OUT
+'of': -F
+'the': -T
+'bower,': PWOUR KW-BG
+'and': SKP
+'they': THE
+'were': WR
+'standing': STAPBG
+'in': TPH
+'the': -T
+'beautiful': PWAOUFL
+'garden': TKPWA*RPB
+'of': -F
+'their': THAEUR
+'home.': HOEPL TP-PL
+'Near': TPHAOER
+'the': -T
+'green': TKPWRAOEPB
+'lawn': HRAUPB
+'papa's': PA/PA AE S*/SP-S
+'walking-stick': WAUG H-PB STEUBG
+'was': WA
+'tied,': TAO*EUD KW-BG
+'and': SKP
+'for': TPOR
+'the': -T
+'little': HREUL
+'ones': WUPBZ
+'it': T
+'seemed': SAOEPLD
+'to': TO
+'be': -B
+'endowed': EPB/TKOU/-D
+'with': W
+'life;': HRAOEUF STPH*FPLT
+'for': TPOR
+'as': AZ
+'soon': SAOPB
+'as': AZ
+'they': THE
+'got': TKPWOT
+'astride': AS/TRAOEUD
+'it,': T KW-BG
+'the': -T
+'round': ROUPBD
+'polished': POL/EURBD
+'knob': TPHOB
+'was': WA
+'turned': TURPBD
+'into': TPHAO
+'a': AEU
+'magnificent': PHAFPBT
+'neighing': TPHAEUG/-G
+'head,': HED KW-BG
+'a': AEU
+'long': HROPBG
+'black': PWHRABG
+'mane': XXX mane
+'fluttered': TPHRUT/ERD
+'in': TPH
+'the': -T
+'breeze,': PWRAOEZ KW-BG
+'and': SKP
+'four': TPOUR
+'slender': SHRERPBD
+'yet': KWRET
+'strong': STROPBG
+'legs': HREGS
+'shot': SHOT
+'out.': OUT TP-PL
+'The': -T
+'animal': PHAPBL
+'was': WA
+'strong': STROPBG
+'and': SKP
+'handsome,': HAPBD/SOPL KW-BG
+'and': SKP
+'away': A/WAEU
+'they': THE
+'went': WEPBT
+'at': AT
+'full': TPUL
+'gallop': TKPWAL/OP
+'round': ROUPBD
+'the': -T
+'lawn.': HRAUPB TP-PL
+'"Huzza!': KR-GS XXX Huzza SKHRAPL
+'Now': TPHOU
+'we': WE
+'are': R
+'riding': RAOEUD/-G
+'miles': PHAOEULS
+'off,"': OF KW-BG KR-GS
+'said': SAEUD
+'the': -T
+'boy.': PWOEU TP-PL
+'"We': KR-GS WE
+'are': R
+'riding': RAOEUD/-G
+'away': A/WAEU
+'to': TO
+'the': -T
+'castle': KAFL
+'where': W-R
+'we': WE
+'were': WR
+'last': HRAFT
+'year!"': KWRAOER SKHRAPL KR-GS
+'And': SKP
+'on': OPB
+'they': THE
+'rode': ROED
+'round': ROUPBD
+'the': -T
+'grass-plot;': TKPWRAS H-PB PHROT STPH*FPLT
+'and': SKP
+'the': -T
+'little': HREUL
+'maiden,': PHAEUD/EPB KW-BG
+'who,': WHO KW-BG
+'we': WE
+'know,': TPHOE KW-BG
+'was': WA
+'no': TPHO
+'one': WUPB
+'else': ELS
+'but': PWUT
+'old': OLD
+'Nanny,': TPHAPB/KWREU KW-BG
+'kept': KEPT
+'on': OPB
+'crying': KRAOEUG
+'out,': OUT KW-BG
+'"Now': KR-GS TPHOU
+'we': WE
+'are': R
+'in': TPH
+'the': -T
+'country!': KREU SKHRAPL
+'Don't': TKO*PB AE T*/SP-S
+'you': U
+'see': SAOE
+'the': -T
+'farm-house': TPARPL H-PB HOUS
+'yonder?': KWROPBD/ER H-F
+'And': SKP
+'there': THR
+'is': S
+'an': APB
+'Elder': ELD/ER
+'Tree': TRAOE
+'standing': STAPBG
+'beside': PWE/SAOEUD
+'it;': T STPH*FPLT
+'and': SKP
+'the': -T
+'cock': KOBG
+'is': S
+'scraping': SKRAEUPG
+'away': A/WAEU
+'the': -T
+'earth': *ERT
+'for': TPOR
+'the': -T
+'hens,': HEPB/-S KW-BG
+'look,': HRAOBG KW-BG
+'how': HOU
+'he': E
+'struts!': STRUTS SKHRAPL
+'And': SKP
+'now': TPHOU
+'we': WE
+'are': R
+'close': KHROES
+'to': TO
+'the': -T
+'church.': KHUFRPB TP-PL
+'It': T
+'lies': HRAO*EUS
+'high': HAOEU
+'upon': POPB
+'the': -T
+'hill,': HEUL KW-BG
+'between': TWAOEPB
+'the': -T
+'large': HRARPBLG
+'oak-trees,': OEBG H-PB TRAOES KW-BG
+'one': WUPB
+'of': -F
+'which': WEU
+'is': S
+'half': HAF
+'decayed.': TKAOE/KAEUD TP-PL
+'And': SKP
+'now': TPHOU
+'we': WE
+'are': R
+'by': PWEU
+'the': -T
+'smithy,': SPH*EUT/KWREU KW-BG
+'where': W-R
+'the': -T
+'fire': TPAOEUR
+'is': S
+'blazing,': PWHRAEUZ/-G KW-BG
+'and': SKP
+'where': W-R
+'the': -T
+'half-naked': HAF H-PB TPHAEUBGD
+'men': PHEPB
+'are': R
+'banging': PWAPBG/-G
+'with': W
+'their': THAEUR
+'hammers': HAPL/ERS
+'till': T*EUL
+'the': -T
+'sparks': SPARBGS
+'fly': TPHRAOEU
+'about.': PW TP-PL
+'Away!': A/WAEU SKHRAPL
+'away!': A/WAEU SKHRAPL
+'To': TO
+'the': -T
+'beautiful': PWAOUFL
+'country-seat!"': KREU H-PB SAOET SKHRAPL KR-GS
+'And': SKP
+'all': AUL
+'that': THA
+'the': -T
+'little': HREUL
+'maiden,': PHAEUD/EPB KW-BG
+'who': WHO
+'sat': SAT
+'behind': HEUPBD
+'on': OPB
+'the': -T
+'stick,': STEUBG KW-BG
+'spoke': SPOEBG
+'of,': -F KW-BG
+'flew': TPHRAOU
+'by': PWEU
+'in': TPH
+'reality.': RAOELT TP-PL
+'The': -T
+'boy': PWOEU
+'saw': SAU
+'it': T
+'all,': AUL KW-BG
+'and': SKP
+'yet': KWRET
+'they': THE
+'were': WR
+'only': OEPBL
+'going': TKPW-G
+'round': ROUPBD
+'the': -T
+'grass-plot.': TKPWRAS H-PB PHROT TP-PL
+'Then': THEPB
+'they': THE
+'played': PHRAEUD
+'in': TPH
+'a': AEU
+'side': SAOEUD
+'avenue,': AEF KW-BG
+'and': SKP
+'marked': PHARBGD
+'out': OUT
+'a': AEU
+'little': HREUL
+'garden': TKPWA*RPB
+'on': OPB
+'the': -T
+'earth;': *ERT STPH*FPLT
+'and': SKP
+'they': THE
+'took': TAOBG
+'Elder-blossoms': ELD/ER H-PB PWROS/SOPL/-S
+'from': TPR
+'their': THAEUR
+'hair,': HAEUR KW-BG
+'planted': PHRAPBT/-D
+'them,': THEPL KW-BG
+'and': SKP
+'they': THE
+'grew': TKPWRAOU
+'just': SKWRUFT
+'like': HRAOEUBG
+'those': THOZ
+'the': -T
+'old': OLD
+'people': PAOEPL
+'planted': PHRAPBT/-D
+'when': WHEPB
+'they': THE
+'were': WR
+'children,': KHEURPB KW-BG
+'as': AZ
+'related': RAELTD
+'before.': PW-F TP-PL
+'They': THE
+'went': WEPBT
+'hand': HAPBD
+'in': TPH
+'hand,': HAPBD KW-BG
+'as': AZ
+'the': -T
+'old': OLD
+'people': PAOEPL
+'had': H
+'done': TKOPB
+'when': WHEPB
+'they': THE
+'were': WR
+'children;': KHEURPB STPH*FPLT
+'but': PWUT
+'not': TPHOT
+'to': TO
+'the': -T
+'Round': ROUPBD
+'Tower,': TOUR KW-BG
+'or': OR
+'to': TO
+'Friedericksberg;': XXX Friedericksberg STPH*FPLT
+'no,': TPHO KW-BG
+'the': -T
+'little': HREUL
+'damsel': TKAPL/SEL
+'wound': WOUPBD
+'her': HER
+'arms': ARPLS
+'round': ROUPBD
+'the': -T
+'boy,': PWOEU KW-BG
+'and': SKP
+'then': THEPB
+'they': THE
+'flew': TPHRAOU
+'far': TPAR
+'away': A/WAEU
+'through': THRU
+'all': AUL
+'Denmark.': TKEPB/PHARBG TP-PL
+'And': SKP
+'spring': SPREUPBG
+'came,': KAEUPL KW-BG
+'and': SKP
+'summer;': SAOURPL STPH*FPLT
+'and': SKP
+'then': THEPB
+'it': T
+'was': WA
+'autumn,': AU/UPL KW-BG
+'and': SKP
+'then': THEPB
+'winter;': WEURPBT STPH*FPLT
+'and': SKP
+'a': AEU
+'thousand': THOUZ
+'pictures': P*EUFPS
+'were': WR
+'reflected': TPHREBGTD
+'in': TPH
+'the': -T
+'eye': AOEU
+'and': SKP
+'in': TPH
+'the': -T
+'heart': HART
+'of': -F
+'the': -T
+'boy;': PWOEU STPH*FPLT
+'and': SKP
+'the': -T
+'little': HREUL
+'girl': TKPWEURL
+'always': AULS
+'sang': SAPBG
+'to': TO
+'him,': HEUPL KW-BG
+'"This': KR-GS TH
+'you': U
+'will': HR
+'never': TPHEF
+'forget."': TPERGT TP-PL KR-GS
+'And': SKP
+'during': TKURG
+'their': THAEUR
+'whole': WHOEL
+'flight': TPHRAOEUT
+'the': -T
+'Elder': ELD/ER
+'Tree': TRAOE
+'smelt': SPHELT
+'so': SO
+'sweet': SWAOET
+'and': SKP
+'odorous;': O/TKROUS STPH*FPLT
+'he': E
+'remarked': RARBGD
+'the': -T
+'roses': ROES/-S
+'and': SKP
+'the': -T
+'fresh': TPRERB
+'beeches,': PWAOEFP/-S KW-BG
+'but': PWUT
+'the': -T
+'Elder': ELD/ER
+'Tree': TRAOE
+'had': H
+'a': AEU
+'more': PHOR
+'wondrous': WOPBD/ROUS
+'fragrance,': TPRAEUG/RAPBS KW-BG
+'for': TPOR
+'its': EUTS
+'flowers': TPHRO*URS
+'hung': HUPBG
+'on': OPB
+'the': -T
+'breast': PWR*ES
+'of': -F
+'the': -T
+'little': HREUL
+'maiden;': PHAEUD/EPB STPH*FPLT
+'and': SKP
+'there,': THR KW-BG
+'too,': TAO KW-BG
+'did': TK
+'he': E
+'often': OFPB
+'lay': HRAEU
+'his': HEUS
+'head': HED
+'during': TKURG
+'the': -T
+'flight.': TPHRAOEUT TP-PL
+'"It': KR-GS T
+'is': S
+'lovely': HROFL
+'here': HAOER
+'in': TPH
+'spring!"': SPREUPBG SKHRAPL KR-GS
+'said': SAEUD
+'the': -T
+'young': KWRUPBG
+'maiden.': PHAEUD/EPB TP-PL
+'And': SKP
+'they': THE
+'stood': STAOD
+'in': TPH
+'a': AEU
+'beech-wood': PWAOEFP H-PB WAOD
+'that': THA
+'had': H
+'just': SKWRUFT
+'put': PUT
+'on': OPB
+'its': EUTS
+'first': TPEURS
+'green,': TKPWRAOEPB KW-BG
+'where': W-R
+'the': -T
+'woodroof': XXX woodroof
+'at': AT
+'their': THAEUR
+'feet': TPAOET
+'sent': SEPBT
+'forth': TPO*RT
+'its': EUTS
+'fragrance,': TPRAEUG/RAPBS KW-BG
+'and': SKP
+'the': -T
+'pale-red': PAEL H-PB RED
+'anemony': XXX anemony
+'looked': HRAOBGD
+'so': SO
+'pretty': PREUT
+'among': PHOPBG
+'the': -T
+'verdure.': XXX verdure TP-PL
+'"Oh,': KR-GS O*ERBGS KW-BG
+'would': WO
+'it': T
+'were': WR
+'always': AULS
+'spring': SPREUPBG
+'in': TPH
+'the': -T
+'sweetly-smelling': SWAOET/HREU H-PB SPHELG
+'Danish': TKAEUPB/EURB
+'beech-forests!"': PWAOEFP H-PB TPO*RS/-S SKHRAPL KR-GS
+'"It': KR-GS T
+'is': S
+'lovely': HROFL
+'here': HAOER
+'in': TPH
+'summer!"': SAOURPL SKHRAPL KR-GS
+'said': SAEUD
+'she.': SHE TP-PL
+'And': SKP
+'she': SHE
+'flew': TPHRAOU
+'past': PAFT
+'old': OLD
+'castles': KAS/-LS
+'of': -F
+'by-gone': PWEU H-PB TKWOPB
+'days': TKAEUS
+'of': -F
+'chivalry,': KHEUFL/REU KW-BG
+'where': W-R
+'the': -T
+'red': RED
+'walls': WAULS
+'and': SKP
+'the': -T
+'embattled': XXX embattled
+'gables': TKPWAEUBL/-S
+'were': WR
+'mirrored': PHEUR/ORD
+'in': TPH
+'the': -T
+'canal,': KAPBL KW-BG
+'where': W-R
+'the': -T
+'swans': SWAPBS
+'were': WR
+'swimming,': SWEUPLG KW-BG
+'and': SKP
+'peered': PAOER/-D
+'up': UP
+'into': TPHAO
+'the': -T
+'old': OLD
+'cool': KAOL
+'avenues.': AEFS TP-PL
+'In': TPH
+'the': -T
+'fields': TPAOELDZ
+'the': -T
+'corn': KORPB
+'was': WA
+'waving': WAFG
+'like': HRAOEUBG
+'the': -T
+'sea;': SAE STPH*FPLT
+'in': TPH
+'the': -T
+'ditches': TKEUFPS
+'red': RED
+'and': SKP
+'yellow': KWREL/OE
+'flowers': TPHRO*URS
+'were': WR
+'growing;': TKPWROEG STPH*FPLT
+'while': WHAOEUL
+'wild-drone': WAOEULD H-PB TKROEPB
+'flowers,': TPHRO*URS KW-BG
+'and': SKP
+'blooming': PWHRAOPL/-G
+'convolvuluses': XXX convolvuluses
+'were': WR
+'creeping': KRAOEPG
+'in': TPH
+'the': -T
+'hedges;': HEPBL/-S STPH*FPLT
+'and': SKP
+'towards': TORDZ
+'evening': AOEPG
+'the': -T
+'moon': PHAOPB
+'rose': ROES
+'round': ROUPBD
+'and': SKP
+'large,': HRARPBLG KW-BG
+'and': SKP
+'the': -T
+'haycocks': XXX haycocks
+'in': TPH
+'the': -T
+'meadows': PHED/OES
+'smelt': SPHELT
+'so': SO
+'sweetly.': SWAOET/HREU TP-PL
+'"This': KR-GS TH
+'one': WUPB
+'never': TPHEF
+'forgets!"': TPORGTS SKHRAPL KR-GS
+'"It': KR-GS T
+'is': S
+'lovely': HROFL
+'here': HAOER
+'in': TPH
+'autumn!"': AU/UPL SKHRAPL KR-GS
+'said': SAEUD
+'the': -T
+'little': HREUL
+'maiden.': PHAEUD/EPB TP-PL
+'And': SKP
+'suddenly': SULD
+'the': -T
+'atmosphere': ATS/TPAOER
+'grew': TKPWRAOU
+'as': AZ
+'blue': PWHRU
+'again': TKPWEPB
+'as': AZ
+'before;': PW-F STPH*FPLT
+'the': -T
+'forest': TPO*RS
+'grew': TKPWRAOU
+'red,': RED KW-BG
+'and': SKP
+'green,': TKPWRAOEPB KW-BG
+'and': SKP
+'yellow-colored.': KWREL/OE H-PB KHRORD TP-PL
+'The': -T
+'dogs': TKOGS
+'came': KAEUPL
+'leaping': HRAOEPG
+'along,': A/HROPBG KW-BG
+'and': SKP
+'whole': WHOEL
+'flocks': TPHROBGS
+'of': -F
+'wild-fowl': WAOEULD H-PB TPO*UL
+'flew': TPHRAOU
+'over': OEFR
+'the': -T
+'cairn,': KA*EURPB KW-BG
+'where': W-R
+'blackberry-bushes': PWHRABG/PWER/REU H-PB PWURBS
+'were': WR
+'hanging': HAPBG/-G
+'round': ROUPBD
+'the': -T
+'old': OLD
+'stones.': STOEBS TP-PL
+'The': -T
+'sea': SAE
+'was': WA
+'dark': TKARBG
+'blue,': PWHRU KW-BG
+'covered': KOFRD
+'with': W
+'ships': SHEUPS
+'full': TPUL
+'of': -F
+'white': WHAOEUT
+'sails;': SAEULS STPH*FPLT
+'and': SKP
+'in': TPH
+'the': -T
+'barn': PWARPB
+'old': OLD
+'women,': WEUPL KW-BG
+'maidens,': PHAEUD/EPB/-S KW-BG
+'and': SKP
+'children': KHEURPB
+'were': WR
+'sitting': SAO*EGT
+'picking': P*EUG
+'hops': HOPS
+'into': TPHAO
+'a': AEU
+'large': HRARPBLG
+'cask;': KAFBG STPH*FPLT
+'the': -T
+'young': KWRUPBG
+'sang': SAPBG
+'songs,': SOPBGS KW-BG
+'but': PWUT
+'the': -T
+'old': OLD
+'told': TOLD
+'fairy': TPAEUR/REU
+'tales': TAELS
+'of': -F
+'mountain-sprites': PHOUPB/TAEUPB H-PB SPRAOEUT/-S
+'and': SKP
+'soothsayers.': SAO*T/SAEUR/-S TP-PL
+'Nothing': TPHOG
+'could': KO
+'be': -B
+'more': PHOR
+'charming.': KHARPL/-G TP-PL
+'"It': KR-GS T
+'is': S
+'delightful': TKHRAOEUT/-FL
+'here': HAOER
+'in': TPH
+'winter!"': WEURPBT SKHRAPL KR-GS
+'said': SAEUD
+'the': -T
+'little': HREUL
+'maiden.': PHAEUD/EPB TP-PL
+'And': SKP
+'all': AUL
+'the': -T
+'trees': TRAOES
+'were': WR
+'covered': KOFRD
+'with': W
+'hoar-frost;': HAOR H-PB TPROS STPH*FPLT
+'they': THE
+'looked': HRAOBGD
+'like': HRAOEUBG
+'white': WHAOEUT
+'corals;': KORL/-S STPH*FPLT
+'the': -T
+'snow': STPHOE
+'crackled': KRABG/-LD
+'under': *UPBD
+'foot,': TPAOT KW-BG
+'as': AZ
+'if': TP
+'one': WUPB
+'had': H
+'new': TPHU
+'boots': PWAOTS
+'on;': OPB STPH*FPLT
+'and': SKP
+'one': WUPB
+'falling': TPAULG
+'star': STAR
+'after': AF
+'the': -T
+'other': OER
+'was': WA
+'seen': SAOEPB
+'in': TPH
+'the': -T
+'sky.': SKAOEU TP-PL
+'The': -T
+'Christmas-tree': KREUS/PHAS H-PB TRAOE
+'was': WA
+'lighted': HRAOEUT/-D
+'in': TPH
+'the': -T
+'room;': RAOPL STPH*FPLT
+'presents': PREPBTS
+'were': WR
+'there,': THR KW-BG
+'and': SKP
+'good-humor': TKPWAOD H-PB HAOURPL
+'reigned.': RAEPB/-D TP-PL
+'In': TPH
+'the': -T
+'country': KREU
+'the': -T
+'violin': SRO*EUPBL
+'sounded': SOUPBD/-D
+'in': TPH
+'the': -T
+'room': RAOPL
+'of': -F
+'the': -T
+'peasant;': PEFPBT STPH*FPLT
+'the': -T
+'newly-baked': TPHAOUL H-PB PWAEUBGD
+'cakes': KAEUBG/-S
+'were': WR
+'attacked;': A/TABGD STPH*FPLT
+'even': AOEPB
+'the': -T
+'poorest': PAOR/EFT
+'child': KHAOEULD
+'said,': SAEUD KW-BG
+'"It': KR-GS T
+'is': S
+'really': HROERL
+'delightful': TKHRAOEUT/-FL
+'here': HAOER
+'in': TPH
+'winter!"': WEURPBT SKHRAPL KR-GS
+'Yes,': KWRE KW-BG
+'it': T
+'was': WA
+'delightful;': TKHRAOEUT/-FL STPH*FPLT
+'and': SKP
+'the': -T
+'little': HREUL
+'maiden': PHAEUD/EPB
+'showed': SHOED
+'the': -T
+'boy': PWOEU
+'everything;': EFG STPH*FPLT
+'and': SKP
+'the': -T
+'Elder': ELD/ER
+'Tree': TRAOE
+'still': STEUL
+'was': WA
+'fragrant,': TPRAEUG/RAPBT KW-BG
+'and': SKP
+'the': -T
+'red': RED
+'flag,': TPHRAG KW-BG
+'with': W
+'the': -T
+'white': WHAOEUT
+'cross,': KROS KW-BG
+'was': WA
+'still': STEUL
+'waving:': WAFG STPH-FPLT
+'the': -T
+'flag': TPHRAG
+'under': *UPBD
+'which': WEU
+'the': -T
+'old': OLD
+'seaman': SAE/PHAPB
+'in': TPH
+'the': -T
+'New': TPHU
+'Booths': PWAO*TS
+'had': H
+'sailed.': SAEULD TP-PL
+'And': SKP
+'the': -T
+'boy': PWOEU
+'grew': TKPWRAOU
+'up': UP
+'to': TO
+'be': -B
+'a': AEU
+'lad,': HRAD KW-BG
+'and': SKP
+'was': WA
+'to': TO
+'go': TKPW
+'forth': TPO*RT
+'in': TPH
+'the': -T
+'wide': WAOEUD
+'world-far,': WORLD H-PB TPAR KW-BG
+'far': TPAR
+'away': A/WAEU
+'to': TO
+'warm': WARPL
+'lands,': HRAPBDZ KW-BG
+'where': W-R
+'the': -T
+'coffee-tree': KOF/AOE H-PB TRAOE
+'grows;': TKPWRO*ES STPH*FPLT
+'but': PWUT
+'at': AT
+'his': HEUS
+'departure': TKPAR/KHUR
+'the': -T
+'little': HREUL
+'maiden': PHAEUD/EPB
+'took': TAOBG
+'an': APB
+'Elder-blossom': ELD/ER H-PB PWHROFPL
+'from': TPR
+'her': HER
+'bosom,': PWOS/OPL KW-BG
+'and': SKP
+'gave': TKPWAEUF
+'it': T
+'him': HEUPL
+'to': TO
+'keep;': KAOEP STPH*FPLT
+'and': SKP
+'it': T
+'was': WA
+'placed': PHRAEUFD
+'between': TWAOEPB
+'the': -T
+'leaves': HREFS
+'of': -F
+'his': HEUS
+'Prayer-Book;': PRAEUR H-PB PWAOBG STPH*FPLT
+'and': SKP
+'when': WHEPB
+'in': TPH
+'foreign': TPOERP
+'lands': HRAPBDZ
+'he': E
+'opened': OEPD
+'the': -T
+'book,': PWAOBG KW-BG
+'it': T
+'was': WA
+'always': AULS
+'at': AT
+'the': -T
+'place': PHRAEUS
+'where': W-R
+'the': -T
+'keepsake-flower': KAOEP/SAEUBG H-PB TPHRO*UR
+'lay;': HRAEU STPH*FPLT
+'and': SKP
+'the': -T
+'more': PHOR
+'he': E
+'looked': HRAOBGD
+'at': AT
+'it,': T KW-BG
+'the': -T
+'fresher': TPRERB/*ER
+'it': T
+'became;': PWAEUPL STPH*FPLT
+'he': E
+'felt': TPELT
+'as': AZ
+'it': T
+'were,': WR KW-BG
+'the': -T
+'fragrance': TPRAEUG/RAPBS
+'of': -F
+'the': -T
+'Danish': TKAEUPB/EURB
+'groves;': TKPWROEFS STPH*FPLT
+'and': SKP
+'from': TPR
+'among': PHOPBG
+'the': -T
+'leaves': HREFS
+'of': -F
+'the': -T
+'flowers': TPHRO*URS
+'he': E
+'could': KO
+'distinctly': TKEUS/TEUPBGT/HREU
+'see': SAOE
+'the': -T
+'little': HREUL
+'maiden,': PHAEUD/EPB KW-BG
+'peeping': PAOEPG
+'forth': TPO*RT
+'with': W
+'her': HER
+'bright': PWRAOEUT
+'blue': PWHRU
+'eyes--and': AO*EUS H-PB H-PB SKP
+'then': THEPB
+'she': SHE
+'whispered,': WHEUS/PERD KW-BG
+'"It': KR-GS T
+'is': S
+'delightful': TKHRAOEUT/-FL
+'here': HAOER
+'in': TPH
+'Spring,': SPREUPBG KW-BG
+'Summer,': SAOURPL KW-BG
+'Autumn,': AU/UPL KW-BG
+'and': SKP
+'Winter";': WEURPBT KR-GS STPH*FPLT
+'and': SKP
+'a': AEU
+'hundred': HUPBD
+'visions': SREUGS/-S
+'glided': TKPWHRAOEUD/-D
+'before': PW-F
+'his': HEUS
+'mind.': PHAOEUPBD TP-PL
+'Thus': THUS
+'passed': PAFD
+'many': PHAEPB
+'years,': KWRAOERS KW-BG
+'and': SKP
+'he': E
+'was': WA
+'now': TPHOU
+'an': APB
+'old': OLD
+'man,': PHAPB KW-BG
+'and': SKP
+'sat': SAT
+'with': W
+'his': HEUS
+'old': OLD
+'wife': WAOEUF
+'under': *UPBD
+'the': -T
+'blooming': PWHRAOPL/-G
+'tree.': TRAOE TP-PL
+'They': THE
+'held': HELD
+'each': AOEFP
+'other': OER
+'by': PWEU
+'the': -T
+'hand,': HAPBD KW-BG
+'as': AZ
+'the': -T
+'old': OLD
+'grand-father': TKPWRAPBD H-PB TPAER
+'and': SKP
+'grand-mother': TKPWRAPBD H-PB PHOER
+'yonder': KWROPBD/ER
+'in': TPH
+'the': -T
+'New': TPHU
+'Booths': PWAO*TS
+'did,': TK KW-BG
+'and': SKP
+'they': THE
+'talked': TAUBGD
+'exactly': ELG
+'like': HRAOEUBG
+'them': THEPL
+'of': -F
+'old': OLD
+'times,': TAOEUPLS KW-BG
+'and': SKP
+'of': -F
+'the': -T
+'fiftieth': TPEUFT/KWR*ET
+'anniversary': APB/SRERS/REU
+'of': -F
+'their': THAEUR
+'wedding.': WEGD TP-PL
+'The': -T
+'little': HREUL
+'maiden,': PHAEUD/EPB KW-BG
+'with': W
+'the': -T
+'blue': PWHRU
+'eyes,': AO*EUS KW-BG
+'and': SKP
+'with': W
+'Elder-blossoms': ELD/ER H-PB PWROS/SOPL/-S
+'in': TPH
+'her': HER
+'hair,': HAEUR KW-BG
+'sat': SAT
+'in': TPH
+'the': -T
+'tree,': TRAOE KW-BG
+'nodded': TPHOD/-D
+'to': TO
+'both': PWO*T
+'of': -F
+'them,': THEPL KW-BG
+'and': SKP
+'said,': SAEUD KW-BG
+'"To-day': KR-GS TO H-PB TKAEU
+'is': S
+'the': -T
+'fiftieth': TPEUFT/KWR*ET
+'anniversary!"': APB/SRERS/REU SKHRAPL KR-GS
+'And': SKP
+'then': THEPB
+'she': SHE
+'took': TAOBG
+'two': TWO
+'flowers': TPHRO*URS
+'out': OUT
+'of': -F
+'her': HER
+'hair,': HAEUR KW-BG
+'and': SKP
+'kissed': K*EUFD
+'them.': THEPL TP-PL
+'First,': TPEURS KW-BG
+'they': THE
+'shone': SHO*EPB
+'like': HRAOEUBG
+'silver,': SEUL/SRER KW-BG
+'then': THEPB
+'like': HRAOEUBG
+'gold;': TKPWOELD STPH*FPLT
+'and': SKP
+'when': WHEPB
+'they': THE
+'laid': HRAEUD
+'them': THEPL
+'on': OPB
+'the': -T
+'heads': HEDZ
+'of': -F
+'the': -T
+'old': OLD
+'people,': PAOEPL KW-BG
+'each': AOEFP
+'flower': TPHRO*UR
+'became': PWAEUPL
+'a': AEU
+'golden': TKOELD/*EPB
+'crown.': KROUPB TP-PL
+'So': SO
+'there': THR
+'they': THE
+'both': PWO*T
+'sat,': SAT KW-BG
+'like': HRAOEUBG
+'a': AEU
+'king': KEUPBG
+'and': SKP
+'a': AEU
+'queen,': KWAOEPB KW-BG
+'under': *UPBD
+'the': -T
+'fragrant': TPRAEUG/RAPBT
+'tree,': TRAOE KW-BG
+'that': THA
+'looked': HRAOBGD
+'exactly': ELG
+'like': HRAOEUBG
+'an': APB
+'elder:': ELD/ER STPH-FPLT
+'the': -T
+'old': OLD
+'man': PHAPB
+'told': TOLD
+'his': HEUS
+'wife': WAOEUF
+'the': -T
+'story': STOER
+'of': -F
+'"Old': KR-GS OLD
+'Nanny,"': TPHAPB/KWREU KW-BG KR-GS
+'as': AZ
+'it': T
+'had': H
+'been': PW-PB
+'told': TOLD
+'him': HEUPL
+'when': WHEPB
+'a': AEU
+'boy.': PWOEU TP-PL
+'And': SKP
+'it': T
+'seemed': SAOEPLD
+'to': TO
+'both': PWO*T
+'of': -F
+'them': THEPL
+'it': T
+'contained': TAEUPBD
+'much': PHUFP
+'that': THA
+'resembled': RE/SEPL/-BLD
+'their': THAEUR
+'own': OEPB
+'history;': HEUFRT STPH*FPLT
+'and': SKP
+'those': THOZ
+'parts': PARTS
+'that': THA
+'were': WR
+'like': HRAOEUBG
+'it': T
+'pleased': PHRAOEFD
+'them': THEPL
+'best.': PW*ES TP-PL
+'"Thus': KR-GS THUS
+'it': T
+'is,"': S KW-BG KR-GS
+'said': SAEUD
+'the': -T
+'little': HREUL
+'maiden': PHAEUD/EPB
+'in': TPH
+'the': -T
+'tree,': TRAOE KW-BG
+'"some': KR-GS SOPL
+'call': KAUL
+'me': PHE
+''Old': AE OLD
+'Nanny,'': TPHAPB/KWREU KW-BG AE
+'others': OERS
+'a': AEU
+''Dryad,'': AE XXX Dryad KW-BG AE
+'but,': PWUT KW-BG
+'in': TPH
+'reality,': RAOELT KW-BG
+'my': PHEU
+'name': TPHAEUPL
+'is': S
+''Remembrance';': AE RERPBS AE STPH*FPLT
+''tis': TEUS
+'I': EU
+'who': WHO
+'sit': SEUT
+'in': TPH
+'the': -T
+'tree': TRAOE
+'that': THA
+'grows': TKPWRO*ES
+'and': SKP
+'grows!': TKPWRO*ES SKHRAPL
+'I': EU
+'can': K
+'remember;': REB STPH*FPLT
+'I': EU
+'can': K
+'tell': TEL
+'things!': THEUPBGS SKHRAPL
+'Let': HRET
+'me': PHE
+'see': SAOE
+'if': TP
+'you': U
+'have': SR
+'my': PHEU
+'flower': TPHRO*UR
+'still?"': STEUL H-F KR-GS
+'And': SKP
+'the': -T
+'old': OLD
+'man': PHAPB
+'opened': OEPD
+'his': HEUS
+'Prayer-Book.': PRAEUR H-PB PWAOBG TP-PL
+'There': THR
+'lay': HRAEU
+'the': -T
+'Elder-blossom,': ELD/ER H-PB PWHROFPL KW-BG
+'as': AZ
+'fresh': TPRERB
+'as': AZ
+'if': TP
+'it': T
+'had': H
+'been': PW-PB
+'placed': PHRAEUFD
+'there': THR
+'but': PWUT
+'a': AEU
+'short': SHORT
+'time': TAOEUPL
+'before;': PW-F STPH*FPLT
+'and': SKP
+'Remembrance': RERPBS
+'nodded,': TPHOD/-D KW-BG
+'and': SKP
+'the': -T
+'old': OLD
+'people,': PAOEPL KW-BG
+'decked': TKEBG/-D
+'with': W
+'crowns': KROUPBS
+'of': -F
+'gold,': TKPWOELD KW-BG
+'sat': SAT
+'in': TPH
+'the': -T
+'flush': TPHRURB
+'of': -F
+'the': -T
+'evening': AOEPG
+'sun.': SUPB TP-PL
+'They': THE
+'closed': KHROEFD
+'their': THAEUR
+'eyes,': AO*EUS KW-BG
+'and--and--!': SKP H-PB H-PB SKP H-PB H-PB SKHRAPL
+'Yes,': KWRE KW-BG
+'that's': TH-TS
+'the': -T
+'end': EPBD
+'of': -F
+'the': -T
+'story!': STOER SKHRAPL
+'The': -T
+'little': HREUL
+'boy': PWOEU
+'lay': HRAEU
+'in': TPH
+'his': HEUS
+'bed;': PWED STPH*FPLT
+'he': E
+'did': TK
+'not': TPHOT
+'know': TPHOE
+'if': TP
+'he': E
+'had': H
+'dreamed': TKREPLD
+'or': OR
+'not,': TPHOT KW-BG
+'or': OR
+'if': TP
+'he': E
+'had': H
+'been': PW-PB
+'listening': HR-PBG
+'while': WHAOEUL
+'someone': SWUPB
+'told': TOLD
+'him': HEUPL
+'the': -T
+'story.': STOER TP-PL
+'The': -T
+'tea-pot': TAE H-PB POT
+'was': WA
+'standing': STAPBG
+'on': OPB
+'the': -T
+'table,': TAEUBL KW-BG
+'but': PWUT
+'no': TPHO
+'Elder': ELD/ER
+'Tree': TRAOE
+'was': WA
+'growing': TKPWROEG
+'out': OUT
+'of': -F
+'it!': T SKHRAPL
+'And': SKP
+'the': -T
+'old': OLD
+'man,': PHAPB KW-BG
+'who': WHO
+'had': H
+'been': PW-PB
+'talking,': TAUG KW-BG
+'was': WA
+'just': SKWRUFT
+'on': OPB
+'the': -T
+'point': POEUPBT
+'of': -F
+'going': TKPW-G
+'out': OUT
+'at': AT
+'the': -T
+'door,': TKAOR KW-BG
+'and': SKP
+'he': E
+'did': TK
+'go.': TKPW TP-PL
+'"How': KR-GS HOU
+'splendid': SPHREPBD/EUD
+'that': THA
+'was!"': WA SKHRAPL KR-GS
+'said': SAEUD
+'the': -T
+'little': HREUL
+'boy.': PWOEU TP-PL
+'"Mother,': KR-GS PHOER KW-BG
+'I': EU
+'have': SR
+'been': PW-PB
+'to': TO
+'warm': WARPL
+'countries."': KUPBTS TP-PL KR-GS
+'"So': KR-GS SO
+'I': EU
+'should': SHO
+'think,"': THEU KW-BG KR-GS
+'said': SAEUD
+'his': HEUS
+'mother.': PHOER TP-PL
+'"When': KR-GS WHEPB
+'one': WUPB
+'has': HAS
+'drunk': TKRUPBG
+'two': TWO
+'good': TKPWAOD
+'cupfuls': XXX cupfuls
+'of': -F
+'Elder-flower': ELD/ER H-PB TPHRO*UR
+'tea,': TAE KW-BG
+''tis': TEUS
+'likely': HREULG
+'enough': TPHUF
+'one': WUPB
+'goes': TKPW-S
+'into': TPHAO
+'warm': WARPL
+'climates";': KHRAOEUPLTS KR-GS STPH*FPLT
+'and': SKP
+'she': SHE
+'tucked': TUBGD
+'him': HEUPL
+'up': UP
+'nicely,': TPHAOEULS KW-BG
+'least': HRAO*ES
+'he': E
+'should': SHO
+'take': TAEUBG
+'cold.': KOELD TP-PL
+'"You': KR-GS U
+'have': SR
+'had': H
+'a': AEU
+'good': TKPWAOD
+'sleep': SHRAOEP
+'while': WHAOEUL
+'I': EU
+'have': SR
+'been': PW-PB
+'sitting': SAO*EGT
+'here,': HAOER KW-BG
+'and': SKP
+'arguing': ARG/-G
+'with': W
+'him': HEUPL
+'whether': WHR
+'it': T
+'was': WA
+'a': AEU
+'story': STOER
+'or': OR
+'a': AEU
+'fairy': TPAEUR/REU
+'tale."': TAEL TP-PL KR-GS
+'"And': KR-GS SKP
+'where': W-R
+'is': S
+'old': OLD
+'Nanny?"': TPHAPB/KWREU H-F KR-GS
+'asked': SK-D
+'the': -T
+'little': HREUL
+'boy.': PWOEU TP-PL
+'"In': KR-GS TPH
+'the': -T
+'tea-pot,"': TAE H-PB POT KW-BG KR-GS
+'said': SAEUD
+'his': HEUS
+'mother;': PHOER STPH*FPLT
+'"and': KR-GS SKP
+'there': THR
+'she': SHE
+'may': PHAE
+'remain."': RE/PHAUPB TP-PL KR-GS
