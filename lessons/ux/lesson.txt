@@ -16,4 +16,4 @@ UX
 'monochrome': PHOPB/KROEPL
 'en dash': EPB/TKARB
 'em dash': EPL/TKARB
-ignore_characters='^'
+notice_spaces=true
