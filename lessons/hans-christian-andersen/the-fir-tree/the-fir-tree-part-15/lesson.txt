@@ -1,126 +1,202 @@
 The Fir Tree Part 15
 
-'out': OUT
 'and': SKP
-'thrown--rather': THROEPB H-PB H-PB RAER
-'hard,': HARD KW-BG
-'It': T
-'is': S
-'true--down': TRAOU H-PB H-PB TKOUPB
-'on': OPB
+'taken': TAEPB
+'into': TPHAO
 'the': -T
-'floor,': TPHRAOR KW-BG
-'but': PWUT
-'a': AEU
-'man': PHAPB
-'drew': TKRAOU
-'him': HEUPL
-'towards': TORDZ
-'stairs,': STAEURS KW-BG
-'where': W-R
-'daylight': TKAEULT
-'shone.': SHO*EPB TP-PL
-'"Now': KR-GS TPHOU
-'merry': PHER/REU
-'life': HRAOEUF
-'will': HR
-'begin': STKWEUPB
-'again,"': TKPWEPB KW-BG KR-GS
-'thought': THAUT
-'Tree.': TRAOE TP-PL
-'he': E
-'felt': TPELT
-'fresh': TPRERB
-'air,': AEUR KW-BG
-'first': TPEURS
-'sunbeam--and': SUPB/PWAOEPL H-PB H-PB SKP
-'now': TPHOU
-'was': WA
-'In': TPH
-'courtyard.': KORT/KWRARD TP-PL
-'all': AUL
-'passed': PAFD
+'courtyard': KORT/KWRARD
 'so': SO
 'quickly,': KWEULG KW-BG
-'there': THR
-'much': PHUFP
-'going': TKPW-G
-'around': ARPBD
-'him,': HEUPL KW-BG
-'Tree': TRAOE
-'quite': KWAOEUT
+'that': THA
+'it': T
 'forgot': TPAURGT
 'to': TO
+'think': THEU
+'of': -F
+'itself,': T/SEF KW-BG
+'and': SKP
+'could': KO
+'only': OEPBL
 'look': HRAOBG
-'himself.': H*EUPLS TP-PL
+'about,': PW KW-BG
+'there': THR
+'was': WA
+'so': SO
+'much': PHUFP
+'to': TO
+'be': -B
+'seen.': SAOEPB TP-PL
+'The': -T
 'court': KORT
-'adjoined': A/SKWROEUPBD
+'was': WA
+'close': KHROES
+'to': TO
+'a': AEU
 'garden,': TKPWA*RPB KW-BG
-'flower;': TPHRO*UR STPH*FPLT
+'where': W-R
+'everything': EFG
+'looked': HRAOBGD
+'blooming.': PWHRAOPL/-G TP-PL
+'Fresh': TPRERB
+'and': SKP
+'fragrant': TPRAEUG/RAPBT
 'roses': ROES/-S
 'hung': HUPBG
-'odorous': O/TKROUS
 'over': OEFR
-'balustrade,': PWAL/12R5D KW-BG
-'lindens': XXX lindens
+'the': -T
+'little': HREUL
+'palings.': XXX palings TP-PL
+'The': -T
+'linden-trees': XXX linden H-PB TRAOES
 'were': WR
-'blossom,': PWHROFPL KW-BG
-'Swallows': SWAL/OES
+'in': TPH
+'blossom;': PWHROFPL STPH*FPLT
+'while': WHAOEUL
+'the': -T
+'swallows': SWAL/OES
 'flew': TPHRAOU
-'by,': PWEU KW-BG
-'said,': SAEUD KW-BG
-'"Quirre-vit!': KR-GS XXX Quirre H-PB SR*EUT SKHRAPL
-'My': PHEU
-'husband': HUS
-'come!"': KOPL SKHRAPL KR-GS
+'here': HAOER
+'and': SKP
+'there,': THR KW-BG
+'crying,': KRAOEUG KW-BG
+'"Twit,': KR-GS TWEUT KW-BG
+'twit,': TWEUT KW-BG
+'twit,': TWEUT KW-BG
+'my': PHEU
+'mate': PHAEUT
+'is': S
+'coming,"—but': KO*G KW-BG KR-GS EPL/TKA*RB PWUT
+'it': T
+'was': WA
 'not': TPHOT
-'Fir': TPEUR
-'that': THA
+'the': -T
+'fir-tree': TPEUR H-PB TRAOE
 'they': THE
 'meant.': PHEPBT TP-PL
-'"Now,': KR-GS TPHOU KW-BG
-'then,': THEPB KW-BG
+'"Now': KR-GS TPHOU
 'I': EU
 'shall': SHAL
-'really': HROERL
-'enjoy': TPHOEUPBLG
-'life,"': HRAOEUF KW-BG KR-GS
-'said': SAEUD
-'exultingly,': XXX exultingly KW-BG
-'spread': SPRED
-'his': HEUS
+'live,"': HREUF KW-BG KR-GS
+'cried': KRAOEUD
+'the': -T
+'tree,': TRAOE KW-BG
+'joyfully': SKWROEUFL/HREU
+'spreading': SPREGD
+'out': OUT
+'its': EUTS
 'branches;': PWRAFPBS STPH*FPLT
-'but,': PWUT KW-BG
-'alas,': A/HRAS KW-BG
-'withered': W*EUT/ER/-D
-'yellow!': KWREL/OE SKHRAPL
+'but': PWUT
+'alas!': A/HRAS SKHRAPL
+'they': THE
+'were': WR
+'all': AUL
+'withered': WEU/THER/-D
+'and': SKP
+'yellow,': KWREL/OE KW-BG
+'and': SKP
+'it': T
+'lay': HRAEU
+'in': TPH
+'a': AEU
 'corner': KRORPB
-'lay,': HRAEU KW-BG
-'among': PHOPBG
+'amongst': PHOPBGS
 'weeds': WAOEDZ
+'and': SKP
 'nettles.': TPHET/-LS TP-PL
-'golden': TKOELD/*EPB
+'The': -T
 'star': STAR
 'of': -F
-'tinsel': TEUPB/SEL
+'gold': TKPWOELD
+'paper': PAEUP
 'still': STEUL
+'stuck': STUBG
+'in': TPH
+'the': -T
 'top': TOP
-'Tree,': TRAOE KW-BG
+'of': -F
+'the': -T
+'tree': TRAOE
+'and': SKP
 'glittered': TKPWHREUT/ERD
+'in': TPH
+'the': -T
 'sunshine.': S*UPB/SHAOEUPB TP-PL
-'court-yard': KORT H-PB KWRARD
-'some': SOPL
+'In': TPH
+'the': -T
+'same': SAEUPL
+'courtyard': KORT/KWRARD
+'two': TWO
+'of': -F
+'the': -T
+'merry': PHER/REU
 'children': KHEURPB
+'were': WR
 'playing': PHRA*EUG
 'who': WHO
 'had': H
 'danced': TKAPBS/-D
-'at': AT
-'Christmas': KREUS/PHAS
 'round': ROUPBD
-'glad': TKPWHRAD
-'sight': SAOEUT
-'him.': HEUPL TP-PL
-'One': WUPB
+'the': -T
+'tree': TRAOE
+'at': AT
+'Christmas,': KREUS/PHAS KW-BG
+'and': SKP
+'had': H
+'been': PW-PB
+'so': SO
+'happy.': HAEP TP-PL
+'The': -T
 'youngest': KWRUPBG/EFT
+'saw': SAU
+'the': -T
+'gilded': TKPWEULD/-D
+'star,': STAR KW-BG
+'and': SKP
 'ran': RAPB
+'and': SKP
+'pulled': PULD
+'it': T
+'off': OF
+'the': -T
+'tree.': TRAOE TP-PL
+'"Look': KR-GS HRAOBG
+'what': WHA
+'is': S
+'sticking': STEUG
+'to': TO
+'the': -T
+'ugly': ULG
+'old': OLD
+'fir-tree,"': TPEUR H-PB TRAOE KW-BG KR-GS
+'said': SAEUD
+'the': -T
+'child,': KHAOEULD KW-BG
+'treading': TRAOED/-G
+'on': OPB
+'the': -T
+'branches': PWRAFPBS
+'till': T*EUL
+'they': THE
+'crackled': KRABG/-LD
+'under': *UPBD
+'his': HEUS
+'boots.': PWAOTS TP-PL
+'And': SKP
+'the': -T
+'tree': TRAOE
+'saw': SAU
+'all': AUL
+'the': -T
+'fresh': TPRERB
+'bright': PWRAOEUT
+'flowers': TPHRO*URS
+'in': TPH
+'the': -T
+'garden,': TKPWA*RPB KW-BG
+'and': SKP
+'then': THEPB
+'looked': HRAOBGD
+'at': AT
+'itself,': T/SEF KW-BG
+'and': SKP
+'wished': WEURBD

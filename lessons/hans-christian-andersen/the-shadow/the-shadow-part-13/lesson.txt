@@ -1,118 +1,202 @@
 The Shadow Part 13
 
+'temple?': TEFRPL H-F
+'Were': WR
+'the': -T
+'chambers': KHAEURPLS
+'like': HRAOEUBG
+'a': AEU
+'starry': STAR/REU
+'sky': SKAOEU
+'seen': SAOEPB
+'from': TPR
+'the': -T
+'top': TOP
+'of': -F
+'a': AEU
+'high': HAOEU
+'mountain?"': PHOUPB/TAEUPB H-F KR-GS
+'"It': KR-GS T
+'was': WA
+'all': AUL
+'that': THA
+'you': U
+'describe,"': SKREU KW-BG KR-GS
+'said': SAEUD
+'the': -T
+'shadow;': SHO*EUD STPH*FPLT
+'"but': KR-GS PWUT
+'I': EU
+'did': TK
+'not': TPHOT
+'go': TKPW
+'quite': KWAOEUT
+'in—I': TPH EPL/TKA*RB EU
+'remained': RE/PHAEUPBD
+'in': TPH
+'the': -T
+'twilight': TWAOEULGT
+'of': -F
+'the': -T
+'ante-room—but': APB/TAOE H-PB RAOPL EPL/TKA*RB PWUT
+'I': EU
+'was': WA
+'in': TPH
+'a': AEU
+'very': SRE
+'good': TKPWAOD
+'position,—I': POGS KW-BG EPL/TKA*RB EU
+'could': KO
+'see': SAOE
+'and': SKP
+'hear': HAER
+'all': AUL
+'that': THA
+'was': WA
+'going': TKPW-G
+'on': OPB
+'in': TPH
+'the': -T
+'court': KORT
+'of': -F
+'poetry."': POEURT TP-PL KR-GS
+'"But': KR-GS PWUT
+'what': WHA
+'did': TK
+'you': U
+'see?': SAOE H-F
+'Did': TK
+'the': -T
+'gods': TKPWODZ
+'of': -F
+'ancient': AEURBT
+'times': TAOEUPLS
+'pass': PAS
+'through': THRU
+'the': -T
+'rooms?': RAOPLS H-F
+'Did': TK
+'old': OLD
+'heroes': HOEURS
+'fight': TPAOEUT
+'their': THAEUR
+'battles': PWAT/-LS
+'over': OEFR
+'again?': TKPWEPB H-F
+'Were': WR
+'there': THR
+'lovely': HROFL
+'children': KHEURPB
+'at': AT
+'play,': PHRAEU KW-BG
+'who': WHO
+'related': RAELTD
+'their': THAEUR
+'dreams?"': TKRAOEPLS H-F KR-GS
+'"I': KR-GS EU
+'tell': TEL
+'you': U
+'I': EU
+'have': SR
+'been': PW-PB
+'there,': THR KW-BG
+'and': SKP
+'therefore': TH-FR
+'you': U
+'may': PHAE
+'be': -B
+'sure': SHUR
+'that': THA
+'I': EU
+'saw': SAU
+'everything': EFG
+'that': THA
+'was': WA
+'to': TO
+'be': -B
+'seen.': SAOEPB TP-PL
+'If': TP
+'you': U
+'had': H
+'gone': TKWOPB
+'there,': THR KW-BG
+'you': U
+'would': WO
+'not': TPHOT
+'have': SR
+'remained': RE/PHAEUPBD
+'a': AEU
+'human': HAOUPL
+'being,': -BG KW-BG
+'whereas': WRAZ
 'I': EU
 'became': PWAEUPL
-'so!': SO SKHRAPL
+'one;': WUPB STPH*FPLT
 'and': SKP
-'besides,': PW-DZ KW-BG
-'learned': HRERPBD
-'to': TO
-'know': TPHOE
-'my': PHEU
-'inward': EUPB/WARD
-'nature,': TPHAEUFP KW-BG
-'innate': EUPB/TPHAEUT
-'qualities,': KWALTS KW-BG
-'the': -T
-'relationship': R*EUP
-'had': H
-'with': W
-'Poesy.': XXX Poesy TP-PL
 'at': AT
-'time': TAOEUPL
-'was': WA
-'you,': U KW-BG
-'thought': THAUT
-'not': TPHOT
+'the': -T
+'same': SAEUPL
+'moment': PHOEPLT
+'I': EU
+'became': PWAEUPL
+'aware': A/WAEUR
 'of': -F
-'that,': THA KW-BG
-'but': PWUT
-'always--you': AULS H-PB H-PB U
-'it': T
-'well--when': WEL H-PB H-PB WHEPB
-'sun': SUPB
-'rose,': ROES KW-BG
-'when': WHEPB
-'went': WEPBT
-'down,': TKOUPB KW-BG
-'so': SO
-'strangely': STRAEUPBG/HREU
-'great;': TKPWRAET STPH*FPLT
-'in': TPH
-'moonlight': PHAOLGT
-'very': SRE
-'near': TPHAOER
-'being': -BG
-'more': PHOR
-'distinct': STKEUPBG
-'than': THAPB
-'yourself;': KWRO*URS STPH*FPLT
-'that': THA
+'my': PHEU
+'inner': EURPB
+'being,': -BG KW-BG
+'my': PHEU
+'inborn': XXX inborn
+'affinity': A/TPEUPBT
+'to': TO
+'the': -T
+'nature': TPHAEURT
+'of': -F
+'poetry.': POEURT TP-PL
+'It': T
+'is': S
+'true': TRAOU
+'I': EU
 'did': TK
-'understand': URPBD
-'nature;': TPHAEUFP STPH*FPLT
-'revealed': RE/SRAOELD
-'me': PHE
-'antechamber!': AEPBT/KHAEUPL/PWER SKHRAPL
-'a': AEU
-'man!': PHAPB SKHRAPL
-'came': KAEUPL
-'out': OUT
-'matured;': PHA/KHURD STPH*FPLT
-'you': U
-'were': WR
-'no': TPHO
-'longer': HRORPBG
-'warm': WARPL
-'lands;': HRAPBDZ STPH*FPLT
-'as': AZ
-'man': PHAPB
-'ashamed': A/SHAEUPLD
-'go': TKPW
-'did.': TK TP-PL
-'want': WAPBT
-'boots,': PWAOTS KW-BG
-'clothes,': KHRO*ETS KW-BG
-'whole': WHOEL
-'human': HAOUPL
-'varnish': SRARPB/EURB
-'makes': PHAEUBGS
-'perceptible.': PER/SEPT/-BL TP-PL
-'took': TAOBG
-'way--I': WAEU H-PB H-PB EU
-'tell': TEL
-'will': HR
-'put': PUT
-'any': TPHEU
-'book--I': PWAOBG H-PB H-PB EU
-'way': WAEU
-'cake': KAEUBG
-'woman--I': WOPL H-PB H-PB EU
-'hid': HEUD
-'myself': PHAO*EUS
-'behind': HEUPBD
-'her;': HER STPH*FPLT
-'woman': WOPL
-'didn't': TK-PBT
+'not': TPHOT
 'think': THEU
-'how': HOU
 'much': PHUFP
-'she': SHE
-'concealed.': KAUPB/SAOELD TP-PL
-'first': TPEURS
-'evening;': AOEPG STPH*FPLT
-'ran': RAPB
 'about': PW
-'streets': STRAOETS
-'moonlight;': PHAOLGT STPH*FPLT
-'made': PHAED
-'long': HROPBG
-'up': UP
-'walls--it': WAULS H-PB H-PB T
-'tickles': TEUBG/-LS
-'back': PWABG
-'delightfully!': TKHRAOEUT/-FL/HREU SKHRAPL
-'up,': UP KW-BG
-'peeped': PAOEPD
-'into': TPHAO
-'highest': HAOEU/EFT
+'it': T
+'while': WHAOEUL
+'I': EU
+'was': WA
+'with': W
+'you,': U KW-BG
+'but': PWUT
+'you': U
+'will': HR
+'remember': REB
+'that': THA
+'I': EU
+'was': WA
+'always': AULZ
+'much': PHUFP
+'larger': HRARPBLG/ER
+'at': AT
+'sunrise': SUPB/RAOEUZ
+'and': SKP
+'sunset,': SAUPB/SET KW-BG
+'and': SKP
+'in': TPH
+'the': -T
+'moonlight': PHAOLGT
+'even': AOEPB
+'more': PHOR
+'visible': SREUBL
+'than': THAPB
+'yourself,': KWRO*URS KW-BG
+'but': PWUT
+'I': EU
+'did': TK
+'not': TPHOT
+'then': THEPB
+'understand': URPBD
+'my': PHEU
+'inner': EURPB
+'existence.': KPEUFS TP-PL
+'In': TPH

@@ -1,118 +1,120 @@
 # The Bell Part 2
 
-* at `AT`
+* trees `TRAOES`
+* on `OPB`
 * the `-T`
-* long `HROPBG`
-* branches, `PWRAFPBS KW-BG`
-* and `SKP`
-* fancied `XXX fancied`
+* border `PWRORD`
+* of `-F`
+* wood `WAOD`
 * they `THE`
+* sat `SAT`
+* down, `TKOUPB KW-BG`
+* looked `HRAOBGD`
+* up `UP`
+* into `TPHAO`
+* great `TKPWRAET`
+* branches `PWRAFPBS`
+* and `SKP`
+* thought `THAUT`
 * were `WR`
 * now `TPHOU`
+* really `HROERL`
 * in `TPH`
-* depth `TK*EPT`
-* of `-F`
-* green `TKPWRAOEPB`
 * wood. `WAOD TP-PL`
+* a `AEU`
 * confectioner `KAUPB/TPEBGS/*ER`
+* from `TPR`
 * town `TOUPB`
+* also `HR-S`
 * came `KAEUPL`
-* out, `OUT KW-BG`
-* set `SET`
-* up `UP`
-* his `HEUS`
-* booth `PWAO*T`
+* out `OUT`
+* put `PUT`
+* stall `STAUL`
 * there; `THR STPH*FPLT`
-* soon `SAOPB`
-* after `AF`
+* then `THEPB`
 * another `TPHOER`
-* confectioner, `KAUPB/TPEBGS/*ER KW-BG`
 * who `WHO`
 * hung `HUPBG`
-* a `AEU`
 * bell `PWEL`
 * over `OEFR`
-* stand, `STAPBD KW-BG`
-* as `AZ`
-* sign `SAOEUPB`
-* or `OR`
-* ornament, `ORPB/*PLT KW-BG`
-* but `PWUT`
-* it `T`
-* had `H`
-* no `TPHO`
-* clapper, `KHRAP/ER KW-BG`
+* his `HEUS`
+* stall, `STAUL KW-BG`
+* which `WEU`
 * was `WA`
-* tarred `TARD`
+* covered `KOFRD`
+* with `W`
+* pitch `PEUFP`
 * to `TO`
-* preserve `PREFRB`
-* from `TPR`
-* rain. `RAEUPB TP-PL`
+* protect `PREBGT`
+* it `T`
+* rain, `RAEUPB KW-BG`
+* but `PWUT`
+* clapper `KHRAP/ER`
+* wanting. `WAPBGT TP-PL`
 * When `WHEPB`
-* all `AUL`
 * people `PAOEPL`
-* returned `RURPBD`
-* home, `HOEPL KW-BG`
-* said `SAEUD`
+* home `HOEPL`
+* used `AOUFD`
+* say `SAEU`
+* that `THA`
+* had `H`
 * been `PW-PB`
 * very `SRE`
-* romantic, `RO/PHAPB/TEUBG KW-BG`
-* that `THA`
-* quite `KWAOEUT`
-* different `TKEUFRT`
-* sort `SORT`
-* thing `THEUPBG`
-* pic-nic `P*EUBG H-PB XXX nic`
-* tea-party. `TAE H-PB PAERT TP-PL`
-* There `THR`
-* three `THRAOE`
-* persons `PERPBS`
-* asserted `A/SERT/-D`
-* penetrated `PEPB/TRAEUTD`
+* romantic, `ROE/PHAPBT/EUG KW-BG`
+* means `PHAOEPBS`
+* something `S-G`
+* else `ELS`
+* than `THAPB`
+* merely `PHAOERL`
+* taking `TAEUG`
+* tea. `TAE TP-PL`
+* Three `THRAOE`
+* persons `PERPBZ`
+* declared `TKE/KHRAEURD`
+* gone `TKWOPB`
+* as `AZ`
+* far `TPAR`
 * end `EPBD`
-* forest, `TPO*RS KW-BG`
-* always `AULS`
+* wood; `WAOD STPH*FPLT`
+* always `AULZ`
 * heard `HERD`
-* wonderful `WUFL`
-* sounds `SOUPDZ`
-* bell, `PWEL KW-BG`
+* strange `STRAEUPBG`
+* sound, `SOUPBD KW-BG`
+* there `THR`
 * seemed `SAOEPLD`
 * them `THEPL`
 * if `TP`
-* come `KOPL`
 * town. `TOUPB TP-PL`
 * One `WUPB`
 * wrote `WRO`
-* whole `WHOEL`
-* poem `POEPL`
+* verses `SRERSZ`
 * about `PW`
-* it, `T KW-BG`
-* sounded `SOUPBD/-D`
+* bell, `PWEL KW-BG`
+* said `SAEUD`
 * like `HRAOEUBG`
 * voice `SROEUS`
 * mother `PHOER`
-* good `TKPWAOD`
-* dear `TKAER`
-* child, `KHAOEULD KW-BG`
-* melody `PHEL/TKEU`
-* sweeter `SWAOERT`
-* than `THAPB`
-* tones `TOEPBS`
-* bell. `PWEL TP-PL`
-* king `KEUPBG`
-* country `KREU`
-* also `HR-S`
-* observant `OEB/APBT`
-* vowed `SROUD`
+* speaking `SPAOEG`
+* an `APB`
+* intelligent `SPWEPBLGT`
+* beloved `PWHROFD`
+* child; `KHAOEULD STPH*FPLT`
+* no `TPHO`
+* tune, `TAOUPB KW-BG`
 * he `E`
-* could `KO`
-* discover `SKOFR`
-* whence `WHEPBS`
-* proceeded, `PROE/SAOED/-D KW-BG`
+* said, `SAEUD KW-BG`
+* sweeter `SWAOERT`
+* sound `SOUPBD`
+* bell. `PWEL TP-PL`
+* emperor `EPL/ROR`
+* country `KREU`
+* it, `T KW-BG`
+* would `WO`
+* find `TPEUPBD`
+* where `W-R`
 * should `SHO`
-* have `SR`
+* receive `SAOEF`
 * title `TAOEULT`
-* "Universal `KR-GS AOUFRL`
-* Bell-ringer," `PWEL H-PB REUPB/TKPWER KW-BG KR-GS`
+* "Bellringer `KR-GS XXX Bellringer`
+* World," `WORLD KW-BG KR-GS`
 * even `AOEPB`
-* not `TPHOT`

@@ -1,134 +1,137 @@
 # The Old House Part 7
 
-* come! `KOPL SKHRAPL`
-* I `EU`
-* am `*PL`
+* by `PWEU`
+* memory; `PHOEURPL STPH*FPLT`
+* and `SKP`
+* now `TPHOU`
+* you `U`
+* are `R`
+* come `KOPL`
+* to `TO`
+* visit `SREUFT`
+* me, `PHE KW-BG`
+* that `THA`
+* is `S`
 * very `SRE`
-* well `WEL`
-* off!" `OF SKHRAPL KR-GS`
-* Then `THEPB`
+* pleasant." `PHREFPBT TP-PL KR-GS`
+* then `THEPB`
 * he `E`
 * took `TAOBG`
-* a `AEU`
-* book `PWAOBG`
-* with `W`
-* pictures `P*EUFPS`
-* in `TPH`
-* it `T`
-* down `TKOUPB`
 * from `TPR`
 * the `-T`
-* shelf; `SHEFL STPH*FPLT`
-* there `THR`
-* were `WR`
-* whole `WHOEL`
+* book-case, `PWAOBG H-PB KAEUS KW-BG`
+* a `AEU`
+* book `PWAOBG`
+* full `TPUL`
+* of `-F`
+* pictures `P*EUFPS`
+* representing `REPG`
 * long `HROPBG`
 * processions `PRO/SEGS/-S`
-* and `SKP`
-* pageants, `PA/SKWREPBT/-S KW-BG`
-* strangest `STRAEUPBG/*ES`
-* characters, `KRARS KW-BG`
-* which `WEU`
-* one `WUPB`
+* wonderful `WUFL`
+* coaches, `KOEFPS KW-BG`
+* such `SUFP`
+* as `AZ`
 * never `TPHEF`
-* sees `SAO*ES`
-* now-a-days; `TPHOU H-PB AEU H-PB TKAEUS STPH*FPLT`
-* soldiers `SHRERPBLGS`
+* seen `SAOEPB`
+* at `AT`
+* present `PREPBT`
+* time. `TAOEUPL TP-PL`
+* Soldiers `SHRERPBLGS`
 * like `HRAOEUBG`
 * knave `TPHA*EUF`
-* of `-F`
 * clubs, `KHRUBS KW-BG`
 * citizens `SEUT/SEPBS`
+* with `W`
 * waving `WAFG`
-* flags: `TPHRAGS STPH-FPLT`
+* banners. `PWAPB/ERS TP-PL`
 * tailors `TAEUL/ORS`
 * had `H`
-* theirs, `THAEURS KW-BG`
+* flag `TPHRAG`
 * pair `PAEUR`
-* shears `SHAERS`
-* held `HELD`
-* by `PWEU`
+* scissors `SEUS/ORS`
+* supported `SPORD`
 * two `TWO`
-* lions--and `HRAOEU/O*PBS H-PB H-PB SKP`
-* shoemakers `XXX shoemakers`
-* without `WOUT`
+* lions, `HRAOEU/O*PBS KW-BG`
+* on `OPB`
+* shoemakers' `XXX shoemakers AE`
+* there `THR`
+* were `WR`
+* not `TPHOT`
 * boots, `PWAOTS KW-BG`
-* But `PWUT`
+* but `PWUT`
 * an `APB`
-* eagle `AOEG/*L`
-* that `THA`
+* eagle `AOEG/-L`
 * heads, `HEDZ KW-BG`
 * for `TPOR`
+* shoemakers `XXX shoemakers`
 * must `PHUFT`
 * have `SR`
 * everything `EFG`
+* arranged `ARPBG/-D`
 * so `SO`
 * they `THE`
 * can `K`
 * say, `SAEU KW-BG`
-* is `S`
-* pair! `PAEUR SKHRAPL`
-* Yes, `KWRE KW-BG`
-* was `WA`
-* picture `P*EUFP`
-* book! `PWAOBG SKHRAPL`
+* "This `KR-GS TH`
+* pair." `PAEUR TP-PL KR-GS`
+* What `WHA`
+* picture-book `P*EUFP H-PB PWAOBG`
+* it `T`
+* was; `WA STPH*FPLT`
 * old `OLD`
 * man `PHAPB`
-* now `TPHOU`
 * went `WEPBT`
 * into `TPHAO`
-* other `OER`
+* another `TPHOER`
 * room `RAOPL`
-* to `TO`
 * fetch `TPEFP`
-* preserves, `PRE/SER/*FS KW-BG`
-* apples, `APLS KW-BG`
-* nuts--yes, `TPHUTS H-PB H-PB KWRE KW-BG`
-* delightful `TKHRAOEUT/-FL`
-* over `OEFR`
+* apples `APLS`
+* nuts. `TPHUTS TP-PL`
+* was `WA`
+* pleasant, `PHREFPBT KW-BG`
+* certainly, `SERPBL KW-BG`
+* be `-B`
+* in `TPH`
 * house. `HOUS TP-PL`
 * "I `KR-GS EU`
 * cannot `K/TPHOT`
-* bear `PWAER`
-* any `TPHEU`
-* longer!" `HRORPBG SKHRAPL KR-GS`
+* endure `EPB/TKAOUR`
+* it," `T KW-BG KR-GS`
 * said `SAEUD`
-* pewter `PAOU/TER`
+* tin `TEUPB`
 * soldier, `SHRERPBL KW-BG`
 * who `WHO`
-* sat `SAT`
-* on `OPB`
-* drawers. `TKRAURS TP-PL`
-* "It `KR-GS T`
+* stood `STAOD`
+* shelf, `SHEFL KW-BG`
+* "it `KR-GS T`
 * lonely `HROPBL`
-* melancholy `PHEL/KOL/HREU`
-* here! `HAOER SKHRAPL`
-* when `WHEPB`
-* has `HAS`
+* dull `TKUL`
+* here. `HAOER TP-PL`
+* I `EU`
 * been `PW-PB`
-* family `TPAEPL`
-* circle `KOEURBG`
-* accustom `A/KUS/TOPL`
-* oneself `XXX oneself`
+* accustomed `A/KUFPD`
+* live `HREUF`
+* family, `TPAEPL KW-BG`
+* get `TKPWET`
+* used `AOUFD`
 * this `TH`
-* life! `HRAOEUF SKHRAPL`
-* longer! `HRORPBG SKHRAPL`
+* life. `HRAOEUF TP-PL`
+* bear `PWAER`
+* it. `T TP-PL`
+* whole `WHOEL`
 * day `TKAEU`
-* long, `HROPBG KW-BG`
-* evenings `AOEPBGS`
-* are `R`
-* still `STEUL`
-* Here `HAOER`
-* not `TPHOT`
-* at `AT`
-* all `AUL`
-* as `AZ`
-* way `WAEU`
+* enough, `TPHUF KW-BG`
+* evening `AOEPG`
+* longer. `HRORPBG TP-PL`
+* here `HAOER`
 * your `KWROUR`
-* home, `HOEPL KW-BG`
-* where `W-R`
+* house `HOUS`
+* opposite, `OP/SEUT KW-BG`
+* when `WHEPB`
 * father `TPAER`
 * mother `PHOER`
-* spoke `SPOEBG`
-* pleasantly, `PHRES/APBT/HREU KW-BG`
-* you `U`
+* talked `TAUBGD`
+* cheerfully `KHAOER/TPHREU`
+* together, `TOGT KW-BG`
+* while `WHAOEUL`

@@ -1,134 +1,139 @@
 # The Fir Tree Part 5
 
-* "I `KR-GS EU`
-* would `WO`
-* fain `TPA*EUPB`
-* know `TPHOE`
-* if `TP`
-* I `EU`
-* am `*PL`
-* destined `TKES/TEUPBD`
-* for `TPOR`
-* so `SO`
-* glorious `TKPWHRORS`
-* a `AEU`
-* career," `KRAOER KW-BG KR-GS`
-* cried `KRAOEUD`
-* the `-T`
-* Tree, `TRAOE KW-BG`
-* rejoicing. `RE/SKWROEUFG TP-PL`
-* "That `KR-GS THA`
-* is `S`
-* still `STEUL`
-* better `PWOERT`
-* than `THAPB`
-* to `TO`
-* cross `KROS`
-* sea! `SAE SKHRAPL`
-* what `WHA`
-* longing `HROPBG/-G`
-* do `TKO`
-* suffer! `SUFR SKHRAPL`
-* Were `WR`
-* Christmas `KREUS/PHAS`
-* But `PWUT`
-* come! `KOPL SKHRAPL`
-* now `TPHOU`
-* tall, `TAUL KW-BG`
-* and `SKP`
-* my `PHEU`
-* branches `PWRAFPBS`
-* spread `SPRED`
-* like `HRAOEUBG`
-* others `OERS`
-* that `THA`
-* carried `KAERD`
-* off `OF`
-* last `HRAFT`
-* year! `KWRAOER SKHRAPL`
 * Oh! `O*ERBGS SKHRAPL`
-* already `HR-R`
+* that `THA`
+* I `EU`
+* were `WR`
+* now `TPHOU`
+* laid `HRAEUD`
 * on `OPB`
-* cart! `KART SKHRAPL`
+* the `-T`
+* wagon, `WAG/OPB KW-BG`
+* or `OR`
+* standing `STAPBG`
 * in `TPH`
 * warm `WARPL`
-* room `RAOPL`
+* room, `RAOPL KW-BG`
 * with `W`
 * all `AUL`
+* brightness `XXX brightness`
+* and `SKP`
 * splendor `SHREPBD/O*R`
-* magnificence! `PHAFPBS SKHRAPL`
-* Yes; `KWRE STPH*FPLT`
-* then `THEPB`
-* something `S-G`
-* better, `PWOERT KW-BG`
-* grander, `TKPWRAPBD/*ER KW-BG`
-* will `HR`
-* surely `SHURL`
-* follow, `TPOL KW-BG`
-* or `OR`
-* wherefore `W-R/TPOR`
-* should `SHO`
-* they `THE`
-* thus `THUS`
-* ornament `ORPB/*PLT`
-* me? `PHE H-F`
-* grander `TKPWRAPBD/*ER`
-* must `PHUFT`
-* follow--but `TPOL H-PB H-PB PWUT`
-* what? `WHA H-F`
-* Oh, `O*ERBGS KW-BG`
-* how `HOU`
-* long, `HROPBG KW-BG`
+* around `ARPBD`
+* me! `PHE SKHRAPL`
+* Something `S-G`
+* better `PWOERT`
+* more `PHOR`
+* beautiful `PWAOUFL`
+* is `S`
+* to `TO`
+* come `KOPL`
+* after, `AF KW-BG`
+* trees `TRAOES`
+* would `WO`
 * not `TPHOT`
-* myself `PHAO*EUS`
-* matter `PHAERT`
-* me!" `PHE SKHRAPL KR-GS`
+* be `-B`
+* so `SO`
+* decked `TKEBG/-D`
+* out. `OUT TP-PL`
+* Yes, `KWRE KW-BG`
+* What `WHA`
+* follows `TPOLS`
+* will `HR`
+* grander `TKPWRAPBD/*ER`
+* splendid. `SPHREPBD/EUD TP-PL`
+* can `K`
+* it `T`
+* be? `-B H-F`
+* am `APL`
+* weary `WAOE/REU`
+* longing. `HROPBG/-G TP-PL`
+* scarcely `SKAEURS/HREU`
+* know `TPHOE`
+* how `HOU`
+* feel." `TPAOEL TP-PL KR-GS`
 * "Rejoice `KR-GS RE/SKWROEUS`
-* our `OUR`
-* presence!" `PREPBS SKHRAPL KR-GS`
+* us," `US KW-BG KR-GS`
 * said `SAEUD`
-* Air `AEUR`
-* Sunlight. `SULGT TP-PL`
-* thy `THAO*EU`
+* air `AEUR`
+* sunlight. `SULGT TP-PL`
+* "Enjoy `KR-GS TPHOEUPBLG`
+* thine `THAOEUPB`
 * own `OEPB`
+* bright `PWRAOEUT`
+* life `HRAOEUF`
 * fresh `TPRERB`
-* youth!" `KWRAO*UT SKHRAPL KR-GS`
-* Tree `TRAOE`
-* did `TK`
-* rejoice `RE/SKWROEUS`
-* at `AT`
-* all; `AUL STPH*FPLT`
-* he `E`
+* air." `AEUR TP-PL KR-GS`
+* But `PWUT`
+* tree `TRAOE`
+* rejoice, `RE/SKWROEUS KW-BG`
+* though `THOE`
 * grew `TKPWRAOU`
-* grew, `TKPWRAOU KW-BG`
-* was `WA`
-* green `TKPWRAOEPB`
-* both `PWO*T`
+* taller `TAURL`
+* every `EF`
+* day; `TKAEU STPH*FPLT`
+* and, `SKP KW-BG`
 * winter `WEURPBT`
-* summer. `SAOURPL TP-PL`
-* People `PAOEPL`
-* saw `SAU`
-* him `HEUPL`
-* said, `SAEUD KW-BG`
+* summer, `SAOURPL KW-BG`
+* its `EUTS`
+* dark-green `TKARBG H-PB TKPWRAOEPB`
+* foliage `TPOEL/APBLG`
+* might `PHAOEUT`
+* seen `SAOEPB`
+* forest, `TPOEFRT KW-BG`
+* while `WHAOEUL`
+* passers `PASZ/ERS`
+* by `PWEU`
+* say, `SAEU KW-BG`
 * "What `KR-GS WHA`
-* fine `TPAOEUPB`
+* a `AEU`
 * tree!" `TRAOE SKHRAPL KR-GS`
-* towards `TORDZ`
-* one `WUPB`
-* of `-F`
+* short `SHORT`
+* time `TAOEUPL`
+* before `PW-F`
+* Christmas, `KREUS/PHAS KW-BG`
+* discontented `TKEUS/KOPB/TEPBT/-D`
+* fir-tree `TPEUR H-PB TRAOE`
+* was `WA`
 * first `TPEURS`
-* cut `KUT`
-* down. `TKOUPB TP-PL`
+* fall. `TPAL TP-PL`
+* As `AZ`
 * axe `ABGS`
-* struck `STRUBG`
-* deep `TKAOEP`
-* into `TPHAO`
-* very `SRE`
-* pith; `P*EUT STPH*FPLT`
+* cut `KUT`
+* through `THRU`
+* stem, `STEPL KW-BG`
+* divided `TKWAOEUTD`
+* pith, `P*EUT KW-BG`
 * fell `TPEL`
-* earth `*ERT`
-* sigh; `SAOEU STPH*FPLT`
-* felt `TPELT`
-* pang--it `PAPBG H-PB H-PB T`
-* swoon; `SWAOPB STPH*FPLT`
-* could `KO`
+* groan `TKPWRAOPB`
+* earth, `*ERT KW-BG`
+* conscious `K-RBS`
+* of `-F`
+* pain `PAEUPB`
+* faintness, `XXX faintness KW-BG`
+* forgetting `TPERGT/-G`
+* anticipations `SPAEUGS/-S`
+* happiness, `HAEP/-PBS KW-BG`
+* sorrow `SROE`
+* at `AT`
+* leaving `HREFG`
+* home `HOEPL`
+* forest. `TPOEFRT TP-PL`
+* knew `TPHAOU`
+* should `SHO`
+* never `TPHEF`
+* again `TKPWEPB`
+* see `SAOE`
+* dear `TKAER`
+* old `OLD`
+* companions, `KPAPB/KWROPBS KW-BG`
+* trees, `TRAOES KW-BG`
+* nor `TPH-R`
+* little `HREUL`
+* bushes `PWURBS`
+* many-colored `PHAEPB H-PB KHRORD`
+* flowers `TPHRO*URS`
+* had `H`
+* grown `TKPWROEPB`
+* side; `SAOEUD STPH*FPLT`
+* perhaps `PRAPS`

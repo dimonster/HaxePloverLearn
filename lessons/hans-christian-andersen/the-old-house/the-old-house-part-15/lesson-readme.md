@@ -1,115 +1,123 @@
 # The Old House Part 15
 
-* I `EU`
-* had `H`
-* when `WHEPB`
-* was `WA`
-* a `AEU`
-* little `HREUL`
-* boy!" `PWOEU SKHRAPL KR-GS`
+* fine `TPAOEUPB`
+* pocket-handkerchief, `POBGT H-PB HAPB/KER/KHEF KW-BG`
+* that `THA`
+* smelt `SPHELT`
+* of `-F`
+* such `SUFP`
+* beautiful `PWAOUFL`
+* perfume. `PER/TPAOUPL TP-PL`
 * and `SKP`
-* then `THEPB`
+* the `-T`
+* tin `TEUPB`
+* soldier `SHRERPBL`
+* felt `TPELT`
+* as `AZ`
+* if `TP`
 * he `E`
-* told `TOLD`
+* was `WA`
+* recovering `ROFRG`
+* from `TPR`
+* a `AEU`
+* fainting `TPAEUPBT/-G`
+* fit. `TPEUT TP-PL`
+* "Let `KR-GS HRET`
+* me `PHE`
+* see `SAOE`
+* him," `HEUPL KW-BG KR-GS`
+* said `SAEUD`
+* young `KWRUPBG`
+* man, `PHAPB KW-BG`
+* then `THEPB`
+* smiled `SPHAOEULD`
+* shook `SHAOBG`
 * his `HEUS`
+* head, `HED KW-BG`
+* said, `SAEUD KW-BG`
+* "It `KR-GS T`
+* can `K`
+* scarcely `SKAEURS/HREU`
+* be `-B`
+* same, `SAEUPL KW-BG`
+* but `PWUT`
+* it `T`
+* reminds `RAO*EUPBDZ`
+* something `S-G`
+* happened `HAPD`
+* to `TO`
+* one `WUPB`
+* my `PHEU`
+* soldiers `SHRERPBLGS`
+* when `WHEPB`
+* I `EU`
+* little `HREUL`
+* boy." `PWOEU TP-PL KR-GS`
+* told `TOLD`
 * wife `WAOEUF`
 * about `PW`
-* the `-T`
 * old `OLD`
-* house, `HOUS KW-BG`
-* man, `PHAPB KW-BG`
-* pewter `PAOU/TER`
-* soldier `SHRERPBL`
-* that `THA`
+* house `HOUS`
+* which `WEU`
+* had `H`
 * sent `SEPBT`
-* over `OEFR`
-* to `TO`
-* him `HEUPL`
+* across, `A/KROS KW-BG`
 * because `PWAU`
-* so `SO`
-* very, `SRE KW-BG`
-* very `SRE`
+* thought `THAUT`
+* man `PHAPB`
 * lonely; `HROPBL STPH*FPLT`
-* it `T`
-* as `AZ`
-* correctly `KREBT/HREU`
-* really `HROERL`
-* been, `PW-PB KW-BG`
+* related `RAELTD`
+* story `STOER`
+* so `SO`
+* clearly `KAOERL`
 * tears `TAERS`
 * came `KAEUPL`
 * into `TPHAO`
 * eyes `AO*EUS`
-* of `-F`
-* young `KWRUPBG`
-* wife, `WAOEUF KW-BG`
-* on `OPB`
-* account `K-T`
-* house `HOUS`
+* for `TPOR`
 * man. `PHAPB TP-PL`
-* "It `KR-GS T`
-* may `PHAE`
-* possibly `POBL`
-* be, `-B KW-BG`
-* however, `HOUF KW-BG`
 * is `S`
+* very `SRE`
+* likely `HREULG`
+* this `TH`
+* really `HROERL`
 * same `SAEUPL`
-* soldier!" `SHRERPBL SKHRAPL KR-GS`
-* said `SAEUD`
-* she. `SHE TP-PL`
-* "I `KR-GS EU`
+* soldier," `SHRERPBL KW-BG KR-GS`
+* she, `SHE KW-BG`
+* "and `KR-GS SKP`
 * will `HR`
 * take `TAEUBG`
 * care `KAEUR`
-* it, `T KW-BG`
+* him, `HEUPL KW-BG`
+* always `AULZ`
 * remember `REB`
-* all `AUL`
+* what `WHA`
 * you `U`
 * have `SR`
 * me; `PHE STPH*FPLT`
-* but `PWUT`
+* some `SOPL`
+* day `TKAEU`
 * must `PHUFT`
 * show `SHOE`
-* me `PHE`
 * man's `PHAPB AE S*/SP-S`
-* grave!" `TKPWRAEUF SKHRAPL KR-GS`
-* "But `KR-GS PWUT`
-* do `TKO`
-* not `TPHOT`
+* grave." `TKPWRAEUF TP-PL KR-GS`
+* "I `KR-GS EU`
+* don't `TKOEPBT`
 * know `TPHOE`
-* it," `T KW-BG KR-GS`
-* he, `E KW-BG`
-* "and `KR-GS SKP`
-* no `TPHO`
-* one `WUPB`
-* knows `TPHOEZ`
-* it! `T SKHRAPL`
+* where `W-R`
+* is," `S KW-BG KR-GS`
+* replied; `RE/PHRAOEUD STPH*FPLT`
+* "no `KR-GS TPHO`
+* knows. `TPHOEZ TP-PL`
+* All `AUL`
 * friends `TPREPBDZ`
-* were `WR`
-* dead, `TKED KW-BG`
+* are `R`
+* dead; `TKED STPH*FPLT`
+* no `TPHO`
 * took `TAOBG`
-* "How `KR-GS HOU`
+* only `OEPBL`
+* "Oh, `KR-GS O*ERBGS KW-BG`
+* how `HOU`
+* dreadfully `TKRED/-FL/KWREU`
 * lonely `HROPBL`
-* been!" `PW-PB SKHRAPL KR-GS`
-* "Very, `KR-GS SRE KW-BG`
-* lonely!" `HROPBL SKHRAPL KR-GS`
-* soldier. `SHRERPBL TP-PL`
-* delightful `TKHRAOEUT/-FL`
-* be `-B`
-* forgotten!" `TPO*RGD SKHRAPL KR-GS`
-* "Delightful!" `KR-GS TKHRAOEUT/-FL SKHRAPL KR-GS`
-* shouted `SHOUT/-D`
-* something `S-G`
-* close `KHROES`
-* by; `PWEU STPH*FPLT`
-* one, `WUPB KW-BG`
-* except `KPEPT`
-* soldier, `SHRERPBL KW-BG`
-* saw `SAU`
-* piece `PAOES`
-* hog's-leather `HOG AE S*/SP-S H-PB HR*ET/ER`
-* hangings; `HAPBG/-G/-S STPH*FPLT`
-* lost `HRO*S`
-* its `EUTS`
-* gilding, `TKPW*EULD/-G KW-BG`
-* looked `HRAOBGD`
-* like `HRAOEUBG`
+* been," `PW-PB KW-BG KR-GS`

@@ -1,6 +1,5 @@
 # The Happy Family Part 1
 
-* Really, `HROERL KW-BG`
 * the `-T`
 * largest `HRARPBL/EFT`
 * green `TKPWRAOEPB`
@@ -9,113 +8,119 @@
 * this `TH`
 * country `KREU`
 * is `S`
-* a `AEU`
-* dock-leaf; `TKOBG H-PB HRAOEF STPH*FPLT`
+* certainly `SERPBL`
+* burdock-leaf. `XXX burdock H-PB HRAOEF TP-PL`
 * if `TP`
-* one `WUPB`
-* holds `HOLDZ`
-* it `T`
-* before `PW-F`
-* one, `WUPB KW-BG`
-* like `HRAOEUBG`
-* whole `WHOEL`
-* apron, `AEUP/ROPB KW-BG`
+* you `U`
+* hold `HOLD`
+* It `T`
+* front `TPROPBT`
+* of `-F`
+* you, `U KW-BG`
+* large `HRARPBLG`
+* enough `TPHUF`
+* for `TPOR`
+* an `APB`
+* apron; `AEUP/ROPB STPH*FPLT`
 * and `SKP`
 * over `OEFR`
-* one's `W*UPBS`
-* head `HED`
-* rainy `RAEU/TPH*EU`
-* weather, `WHR* KW-BG`
+* your `KWROUR`
+* head, `HED KW-BG`
 * almost `HR-PL`
 * as `AZ`
 * good `TKPWAOD`
-* an `APB`
 * umbrella, `UPL/PWHRAEL KW-BG`
-* for `TPOR`
 * so `SO`
-* immensely `EUPL/PHEPBS/HREU`
+* wonderfully `WOPBD/TPHREU`
 * large. `HRARPBLG TP-PL`
+* a `AEU`
 * burdock `XXX burdock`
 * never `TPHEF`
 * grows `TKPWRO*ES`
-* alone, `A/HROEPB KW-BG`
-* but `PWUT`
+* alone; `A/HROEPB STPH*FPLT`
 * where `W-R`
+* grows, `TKPWRO*ES KW-BG`
 * there `THR`
-* always `AULS`
-* grow `TKPWROE`
-* several: `SEFRL STPH-FPLT`
-* great `TKPWRAET`
-* delight, `TKHRAOEUT KW-BG`
+* are `R`
+* many `PHAEPB`
+* more, `PHOR KW-BG`
+* splendid `SPHREPBD/EUD`
+* sight; `SAOEUT STPH*FPLT`
 * all `AUL`
-* delightfulness `XXX delightfulness`
-* snails' `STPHAEUL/-S AE`
-* food. `TPAOD TP-PL`
+* splendor `SHREPBD/O*R`
+* snails. `STPHAEUL/-S TP-PL`
+* great `TKPWRAET`
 * white `WHAOEUT`
-* snails `STPHAEUL/-S`
-* which `WEU`
-* persons `PERPBS`
-* of `-F`
-* quality `KWALT`
-* former `TPORPL/*ER`
-* times `TAOEUPLS`
-* made `PHAED`
-* fricassees `XXX fricassees`
-* of, `-F KW-BG`
-* ate, `AEUT KW-BG`
-* said, `SAEUD KW-BG`
-* "Hem, `KR-GS HEPL KW-BG`
-* hem! `HEPL SKHRAPL`
-* how `HOU`
-* delicious!" `TKHREUGS SKHRAPL KR-GS`
-* they `THE`
-* thought `THAUT`
-* tasted `TAEUFT/-D`
-* delicate--lived `TKEL/KAT H-PB H-PB HREUFD`
-* on `OPB`
-* dock-leaves, `TKOBG H-PB HREFS KW-BG`
-* therefore `TH-FR`
-* seeds `SAOEDZ`
-* were `WR`
-* sown. `SOEPB TP-PL`
-* Now, `TPHOU KW-BG`
-* was `WA`
-* old `OLD`
-* manor-house, `PHA/TPHOR H-PB HOUS KW-BG`
-* no `TPHO`
-* longer `HRORPBG`
-* ate `AEUT`
 * snails, `STPHAEUL/-S KW-BG`
-* quite `KWAOEUT`
-* extinct; `EBGS/TEUPBG STPH*FPLT`
-* burdocks `XXX burdocks`
-* not `TPHOT`
-* extinct, `EBGS/TEUPBG KW-BG`
+* which `WEU`
+* grand `TKPWRAPBD`
+* people `PAOEPL`
+* olden `XXX olden`
+* times `TAOEUPLS`
+* used `AOUFD`
+* to `TO`
+* have `SR`
+* made `PHAED`
+* into `TPHAO`
+* fricassees; `XXX fricassees STPH*FPLT`
+* when `WHEPB`
+* they `THE`
+* had `H`
+* eaten `AOET/EPB`
+* them, `THEPL KW-BG`
+* would `WO`
+* say, `SAEU KW-BG`
+* "O, `KR-GS O*/SP-S KW-BG`
+* what `WHA`
+* delicious `TKHREUGS`
+* dish!" `TKEURB SKHRAPL KR-GS`
+* these `THEZ`
+* really `HROERL`
+* thought `THAUT`
+* them `THEPL`
+* good; `TKPWAOD STPH*FPLT`
+* snails `STPHAEUL/-S`
+* lived `HREUFD`
+* on `OPB`
+* burdock-leaves, `XXX burdock H-PB HREFS KW-BG`
+* was `WA`
+* planted. `PHRAPBT/-D TP-PL`
+* once `WUPBS`
+* old `OLD`
+* estate `ES/TAEUT`
+* no `TPHO`
+* one `WUPB`
+* now `TPHOU`
+* require `RAOEUR`
+* snails; `STPHAEUL/-S STPH*FPLT`
+* indeed, `TPHAOEPBD KW-BG`
+* owners `OERPBS`
+* died `TKAOEUD`
+* out, `OUT KW-BG`
+* but `PWUT`
+* still `STEUL`
+* flourished; `TPHROR/EURB/-D STPH*FPLT`
 * grew `TKPWRAOU`
+* beds `PWEDZ`
 * walks `WAUBGS`
-* beds; `PWEDZ STPH*FPLT`
-* could `KO`
-* get `TKPWET`
-* mastery `PHA*S/REU`
-* them--it `THEPL H-PB H-PB T`
-* forest `TPO*RS`
+* garden—its `TKPWA*RPB EPL/TKA*RB EUTS`
+* growth `TKPWRO*UT`
+* check—till `KHEBG EPL/TKA*RB T*EUL`
+* became `PWAEUPL`
+* at `AT`
+* last `HRAFT`
+* quite `KWAOEUT`
+* forest `TPOEFRT`
 * burdocks. `XXX burdocks TP-PL`
 * Here `HAOER`
 * stood `STAOD`
 * apple `A*EPL`
-* plum-tree, `PHR*UPL H-PB TRAOE KW-BG`
 * or `OR`
-* else `ELS`
-* would `WO`
-* have `SR`
-* that `THA`
-* garden; `TKPWA*RPB STPH*FPLT`
-* burdocks, `XXX burdocks KW-BG`
-* lived `HREUFD`
-* two `TWO`
-* last `HRAFT`
-* venerable `SREPB/-BL`
-* snails. `STPHAEUL/-S TP-PL`
-* themselves `TH*EPLS`
-* knew `TPHAOU`
-* were, `WR KW-BG`
+* plum-tree; `PHR*UPL H-PB TRAOE STPH*FPLT`
+* this, `TH KW-BG`
+* nobody `TPHOEB`
+* place `PHRAEUS`
+* ever `-FR`
+* been `PW-PB`
+* garden. `TKPWA*RPB TP-PL`
+* from `TPR`

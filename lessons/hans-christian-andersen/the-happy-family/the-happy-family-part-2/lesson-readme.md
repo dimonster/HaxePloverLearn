@@ -1,106 +1,121 @@
 # The Happy Family Part 2
 
+* one `WUPB`
+* end `EPBD`
+* to `TO`
+* The `-T`
+* other; `OER STPH*FPLT`
+* and `SKP`
+* here `HAOER`
+* lived `HREUFD`
+* last `HRAFT`
+* two `TWO`
+* surviving `SUR/SRAOEUFG`
+* snails. `STPHAEUL/-S TP-PL`
 * they `THE`
+* knew `TPHAOU`
+* not `TPHOT`
+* themselves `TH*EPLS`
+* how `HOU`
+* old `OLD`
+* were; `WR STPH*FPLT`
+* but `PWUT`
 * could `KO`
 * remember `REB`
-* very `SRE`
-* well `WEL`
-* that `THA`
+* time `TAOEUPL`
+* when `WHEPB`
 * there `THR`
-* had `H`
-* been `PW-PB`
-* many `PHAEPB`
-* more; `PHOR STPH*FPLT`
 * were `WR`
-* of `-F`
 * a `AEU`
-* family `TPAEPL`
+* great `TKPWRAET`
+* many `PHAEPB`
+* more `PHOR`
+* of `-F`
+* them, `THEPL KW-BG`
+* that `THA`
+* descended `TKAOE/SEPBD/-D`
 * from `TPR`
+* family `TPAEPL`
+* which `WEU`
+* came `KAEUPL`
 * foreign `TPOERP`
 * lands, `HRAPBDZ KW-BG`
-* and `SKP`
+* whole `WHOEL`
+* forest `TPOEFRT`
+* had `H`
+* been `PW-PB`
+* planted `PHRAPBT/-D`
 * for `TPOR`
 * them `THEPL`
-* theirs `THAEURS`
-* the `-T`
-* whole `WHOEL`
-* forest `TPO*RS`
-* was `WA`
-* planted. `PHRAPBT/-D TP-PL`
+* theirs. `THAEURS TP-PL`
 * never `TPHEF`
-* outside `OUDZ`
-* it, `T KW-BG`
-* but `PWUT`
-* knew `TPHAOU`
-* still `STEUL`
-* something `S-G`
-* more `PHOR`
+* away `A/WAEU`
+* garden; `TKPWA*RPB STPH*FPLT`
+* another `TPHOER`
+* place `PHRAEUS`
+* once `WUPBS`
+* existed `KPEUFT/-D`
 * in `TPH`
 * world, `WORLD KW-BG`
-* which `WEU`
 * called `KAULD`
-* manor-house, `PHA/TPHOR H-PB HOUS KW-BG`
-* boiled, `PWOEULD KW-BG`
-* then `THEPB`
+* Duke's `TKAOUBG AE S*/SP-S`
+* Palace `PAL/AS`
+* Castle, `KAFL KW-BG`
+* some `SOPL`
+* their `THAEUR`
+* relations `RAOELGS/-S`
+* boiled `PWOEULD`
+* till `T*EUL`
 * became `PWAEUPL`
 * black, `PWHRABG KW-BG`
-* placed `PHRAEUFD`
+* then `THEPB`
+* laid `HRAEUD`
 * on `OPB`
 * silver `SEUL/SRER`
 * dish; `TKEURB STPH*FPLT`
 * what `WHA`
-* happened `HAPD`
-* further `TPURT`
-* not; `TPHOT STPH*FPLT`
-* or, `OR KW-BG`
-* fact, `TPABGT KW-BG`
+* was `WA`
+* done `TKOPB`
+* afterwards `A*FRDZ`
+* did `TK`
+* know. `TPHOE TP-PL`
+* Besides, `PW-DZ KW-BG`
+* imagine `PHAPBLG`
+* exactly `ELG`
 * it `T`
-* to `TO`
+* felt `TPELT`
 * be `-B`
-* lie `HRAOEU`
-* dish, `TKEURB KW-BG`
-* not `TPHOT`
-* possibly `POBL`
-* imagine; `PHAPBLG STPH*FPLT`
-* said `SAEUD`
-* delightful, `TKHRAOEUT/-FL KW-BG`
-* particularly `PHRARL`
+* placed `PHRAEUFD`
+* no `TPHO`
+* doubt `TKOUT`
+* something `S-G`
+* very `SRE`
+* fine `TPAOEUPB`
+* highly `HAOEUL`
 * genteel. `SKWREPB/TAOEL TP-PL`
 * Neither `TPHAOERT`
-* chafers, `XXX chafers KW-BG`
-* toads, `TOEDZ KW-BG`
+* cockchafer, `XXX cockchafer KW-BG`
 * nor `TPH-R`
-* earth-worms, `*ERT H-PB WORPLS KW-BG`
+* toad, `TAOD KW-BG`
+* earth-worm, `*ERT H-PB WORPL KW-BG`
 * whom `WHOPL`
-* asked `SK-D`
+* questioned `KWED`
 * about `PW`
+* it, `T KW-BG`
+* would `WO`
 * give `TKPWEUF`
-* any `TPHEU`
-* information--none `TP-FGS H-PB H-PB TPHOPB`
-* boiled `PWOEULD`
+* least `HRAOEFT`
+* information; `TP-FGS STPH*FPLT`
+* none `TPHOPB`
+* ever `-FR`
+* cooked `KAOBGD`
 * or `OR`
-* laid `HRAEUD`
+* served `SEFRBD`
 * dish. `TKEURB TP-PL`
-* old `OLD`
 * white `WHAOEUT`
 * snails `STPHAEUL/-S`
-* first `TPEURS`
-* persons `PERPBS`
-* distinction `STKEUPBGS`
-* knew; `TPHAOU STPH*FPLT`
-* planted `PHRAPBT/-D`
-* their `THAEUR`
-* sake, `SAEUBG KW-BG`
-* manor-house `PHA/TPHOR H-PB HOUS`
-* might `PHAOEUT`
-* Now `TPHOU`
-* lived `HREUFD`
-* lonely `HROPBL`
-* happy `HAEP`
-* life; `HRAOEUF STPH*FPLT`
-* as `AZ`
-* no `TPHO`
-* children `KHEURPB`
-* themselves, `TH*EPLS KW-BG`
-* adopted `A/TKOPTD`
-* little `HREUL`
+* most `PHOFT`
+* aristocratic `A/REUFT/KRAT/EUBG`
+* race `RAEUS`
+* world,—they `WORLD KW-BG EPL/TKA*RB THE`
+* that. `THA TP-PL`

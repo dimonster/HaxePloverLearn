@@ -1,137 +1,144 @@
 # The Story Of A Mother Part 7
 
+* her `HER`
+* beautiful `PWAOUFL`
+* hair, `HAEUR KW-BG`
+* and `SKP`
+* received `SAOEFD`
+* in `TPH`
+* return `RURPB`
+* the `-T`
+* white `WHAOEUT`
+* locks `HROBG/-S`
+* of `-F`
+* old `OLD`
+* woman. `WOPL TP-PL`
+* Then `THEPB`
+* they `THE`
+* went `WEPBT`
+* into `TPHAO`
+* Death's `TK*T AE S*/SP-S`
+* vast `SRAFT`
+* hothouse, `XXX hothouse KW-BG`
+* where `W-R`
+* flowers `TPHRO*URS`
+* trees `TRAOES`
+* grew `TKPWRAOU`
+* together `TOGT`
+* wonderful `WUFL`
+* profusion. `PRO/TPAOUGS TP-PL`
+* Blooming `PWHRAOPL/-G`
+* hyacinths, `HAOEU/S*EUPBT/-S KW-BG`
+* under `*UPBD`
+* glass `TKPWHRAS`
+* bells, `PWELS KW-BG`
+* peonies, `PE/KWRO/TPHAOES KW-BG`
+* like `HRAOEUBG`
+* strong `STROPBG`
+* trees. `TRAOES TP-PL`
+* There `THR`
+* water-plants, `WAUR H-PB PHRAPBTS KW-BG`
+* Some `SOPL`
+* quite `KWAOEUT`
+* fresh, `TPRERB KW-BG`
+* others `OERS`
+* looking `HRAOG`
+* sickly, `SEUBG/HREU KW-BG`
+* which `WEU`
+* had `H`
+* water-snakes `WAUR H-PB STPHAEUBGS`
+* twining `TWEUPB/-G`
+* round `ROUPBD`
+* them, `THEPL KW-BG`
+* black `PWHRABG`
+* crabs `KRAB/-S`
+* clinging `KHREUPBG/-G`
+* to `TO`
+* their `THAEUR`
+* stems. `STEPLS TP-PL`
+* stood `STAOD`
+* noble `TPHOEBL`
+* palm-trees, `PAPL H-PB TRAOES KW-BG`
+* oaks, `OEBG/-S KW-BG`
+* plantains, `PHRAPB/TAEUPB/-S KW-BG`
+* beneath `TPHAO*ET`
 * them `THEPL`
-* was `WA`
+* bloomed `PHRAOPL/-D`
+* thyme `THAOEUPL`
+* parsley. `PARS/HREU TP-PL`
+* each `AOEFP`
+* tree `TRAOE`
+* flower `TPHRO*UR`
 * a `AEU`
+* name; `TPHAEUPL STPH*FPLT`
+* represented `REPD`
 * human `HAOUPL`
 * life, `HRAOEUF KW-BG`
-* the `-T`
-* frame `TPRAEUPL`
+* belonged `PWHROPBGD`
+* men `PHEPB`
 * still `STEUL`
-* lived--one `HREUFD H-PB H-PB WUPB`
-* in `TPH`
-* China, `KHAOEUPB/A KW-BG`
-* and `SKP`
-* another `TPHOER`
-* Greenland--round `TKPWRAO*EPB/HRAPBD H-PB H-PB ROUPBD`
-* about `PW`
+* living, `HREUFG KW-BG`
+* China, `KWHRAOEUPB KW-BG`
+* Greenland, `TKPWRAO*EPB/HRAPBD KW-BG`
+* all `AUL`
+* parts `PARTS`
 * world. `WORLD TP-PL`
-* there `THR`
-* were `WR`
 * large `HRARPBLG`
-* trees `TRAOES`
-* small `SPAUL`
+* been `PW-PB`
+* planted `PHRAPBT/-D`
+* little `HREUL`
 * pots, `POTS KW-BG`
 * so `SO`
 * that `THA`
-* they `THE`
-* stood `STAOD`
-* stunted `STUPBT/-D`
-* growth, `TKPWRO*ET KW-BG`
-* ready `R*ED`
-* to `TO`
-* burst `PW*URS`
-* pots; `POTS STPH*FPLT`
-* other `OER`
-* places, `PHRAEUFS KW-BG`
-* little `HREUL`
-* dull `TKUL`
-* flower `TPHRO*UR`
+* were `WR`
+* cramped `KRAPL/-PD`
+* for `TPOR`
+* room, `RAOPL KW-BG`
+* seemed `SAOEPLD`
+* about `PW`
+* burst `PWUFRT`
+* pot `POT`
+* pieces; `PAOEFS STPH*FPLT`
+* while `WHAOEUL`
+* many `PHAEPB`
+* weak `WAEBG`
+* growing `TKPWROEG`
 * rich `REUFP`
-* mould, `PHOELD KW-BG`
+* soil, `SOEUL KW-BG`
 * with `W`
 * moss `PHOS`
-* round `ROUPBD`
-* it, `T KW-BG`
-* it `T`
-* petted `PET/-D`
-* nursed. `TPHURS/-D TP-PL`
-* but `PWUT`
-* distressed `STKREFD`
+* around `ARPBD`
+* carefully `KA*EUFL`
+* tended `TEPBD/-D`
+* cared `KAEURD`
+* for. `TPOR TP-PL`
+* sorrowing `SROE/-G`
 * mother `PHOER`
 * bent `PWEPBT`
-* down `TKOUPB`
 * over `OEFR`
-* All `AUL`
-* smallest `SPHAUL/EFT`
 * plants, `PHRAPBTS KW-BG`
 * heard `HERD`
-* within `W-PB`
-* how `HOU`
 * heart `HART`
-* beat; `PWAET STPH*FPLT`
-* amongst `PHOPBGS`
+* beating `PWAEGT`
+* each, `AOEFP KW-BG`
+* recognised `REFD`
+* beatings `PWAEGT/-S`
+* child's `KHAOEULD AE S*/SP-S`
+* among `PHOPBG`
 * millions `PH-LS`
-* she `SHE`
-* knew `TPHAOU`
-* her `HER`
-* child's. `KHAOEULD AE S*/SP-S TP-PL`
-* "There `KR-GS THR`
-* is!" `S SKHRAPL KR-GS`
-* cried `KRAOEUD`
-* she, `SHE KW-BG`
-* stretched `STREFPD`
-* hands `HAPBDZ`
-* out `OUT`
-* blue `PWHRU`
-* crocus, `KROE/KUS KW-BG`
-* hung `HUPBG`
-* quite `KWAOEUT`
-* sickly `SEUBG/HREU`
-* on `OPB`
-* one `WUPB`
-* side. `SAOEUD TP-PL`
-* "Don't `KR-GS TKO*PB AE T*/SP-S`
-* touch `TUFP`
-* flower!" `TPHRO*UR SKHRAPL KR-GS`
-* said `SAEUD`
-* old `OLD`
-* woman. `WOPL TP-PL`
-* "But `KR-GS PWUT`
-* place `PHRAEUS`
-* yourself `KWRO*URS`
-* here, `HAOER KW-BG`
-* when `WHEPB`
-* Death `TK*T`
-* comes--I `KOPLS H-PB H-PB EU`
-* expect `KP-PT`
-* him `HEUPL`
-* every `EF`
-* moment--do `PHOEPLT H-PB H-PB TKO`
-* not `TPHOT`
-* let `HRET`
-* pluck `PHRUBG`
-* up, `UP KW-BG`
-* threaten `THREFPB`
-* you `U`
-* will `HR`
-* do `TKO`
-* same `SAEUPL`
 * others. `OERS TP-PL`
-* Then `THEPB`
-* HE `E`
-* be `-B`
-* afraid! `A/TPRAEUD SKHRAPL`
+* "That `KR-GS THA`
 * is `S`
-* responsible `SPOP`
-* for `TPOR`
-* OUR `OUR`
-* LORD, `HRORD KW-BG`
-* no `TPHO`
-* dares `TKAEURS`
-* up `UP`
-* before `PW-F`
-* gives `TKPWEUFS`
-* leave." `HREF TP-PL KR-GS`
-* at `AT`
-* once `WUPBS`
-* an `APB`
-* icy `AOEU/SEU`
-* cold `KOELD`
-* rushed `RURBD`
-* through `THRU`
-* great `TKPWRAET`
-* hall, `HA*L KW-BG`
-* blind `PWHRAOEUPBD`
-* could `KO`
-* feel `TPAOEL`
+* it," `T KW-BG KR-GS`
+* she `SHE`
+* cried, `KRAOEUD KW-BG`
+* stretching `STREFPG`
+* out `OUT`
+* hand `HAPBD`
+* towards `TORDZ`
+* crocus-flower `KROE/KUS H-PB TPHRO*UR`
+* hung `HUPBG`
+* down `TKOUPB`
+* its `EUTS`
+* sickly `SEUBG/HREU`
+* head. `HED TP-PL`

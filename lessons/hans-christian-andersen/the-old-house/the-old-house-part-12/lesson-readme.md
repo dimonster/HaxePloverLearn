@@ -1,112 +1,109 @@
 # The Old House Part 12
 
-* went `WEPBT`
-* home, `HOEPL KW-BG`
+* A `AEU`
+* crack `KRABG`
+* between `TWAOEPB`
+* the `-T`
+* boards, `PWORDZ KW-BG`
 * and `SKP`
-* that `THA`
+* lay `HRAEU`
+* there `THR`
+* now `TPHOU`
+* in `TPH`
+* an `APB`
+* open `OEP`
+* grave. `TKPWRAEUF TP-PL`
+* day `TKAEU`
+* went `WEPBT`
+* by, `PWEU KW-BG`
+* little `HREUL`
+* boy `PWOEU`
+* returned `RURPBD`
+* home; `HOEPL STPH*FPLT`
 * week `WAOEBG`
 * passed, `PAFD KW-BG`
-* several `SEFRL`
-* weeks `WAOEBGS`
-* too. `TAO TP-PL`
-* the `-T`
+* many `PHAEPB`
+* more `PHOR`
+* weeks. `WAOEBGS TP-PL`
+* It `T`
+* was `WA`
+* winter, `WEURPBT KW-BG`
 * windows `WO*EUPBDZ`
 * were `WR`
 * quite `KWAOEUT`
 * frozen, `TPROEFPB KW-BG`
-* little `HREUL`
-* boy `PWOEU`
-* was `WA`
-* obliged `OB/HRAOEUPBLG/-D`
+* so `SO`
+* obliged `OE/PWHRAOEUPBLGD`
 * to `TO`
-* sit `SEUT`
 * breathe `PWRAO*ET`
 * on `OPB`
-* them `THEPL`
-* get `TKPWET`
-* a `AEU`
-* peep-hole `PAOEP H-PB HOEL`
-* over `OEFR`
+* panes, `PAEPBS KW-BG`
+* rub `RUB`
+* hole `HOEL`
+* peep `PAOEP`
+* through `THRU`
+* at `AT`
 * old `OLD`
-* house, `HOUS KW-BG`
-* there `THR`
+* house. `HOUS TP-PL`
 * snow `STPHOE`
-* had `H`
-* been `PW-PB`
-* blown `PWHROEPB`
-* into `TPHAO`
+* drifts `TKREUFTS`
+* lying `HRAOEUG`
 * all `AUL`
-* carved `KAFRBD`
-* work `WORBG`
-* inscriptions; `EUPB/KREUPGS/-S STPH*FPLT`
-* it `T`
-* lay `HRAEU`
-* up `UP`
-* steps, `STEPS KW-BG`
-* just `SKWRUFT`
+* scrolls `SKROLS`
+* inscriptions, `EUPB/KREUPGS/-S KW-BG`
+* steps `STEPS`
+* covered `KOFRD`
+* with `W`
 * as `AZ`
 * if `TP`
 * no `TPHO`
 * one `WUPB`
-* at `AT`
-* home--nor `HOEPL H-PB H-PB TPH-R`
-* any `TPHEU`
-* home--the `HOEPL H-PB H-PB -T`
+* home. `HOEPL TP-PL`
+* indeed `TPHAOEPBD`
+* nobody `TPHOEB`
+* home, `HOEPL KW-BG`
+* for `TPOR`
 * man `PHAPB`
-* dead! `TKED SKHRAPL`
-* in `TPH`
-* evening `AOEPG`
+* dead. `TKED TP-PL`
+* evening, `AOEPG KW-BG`
 * hearse `HA*ERS`
-* seen `SAOEPB`
-* before `PW-F`
+* stopped `STOPD`
 * door, `TKAOR KW-BG`
-* He `E`
-* borne `PWO*RPB`
 * his `HEUS`
-* coffin: `KOFPB STPH-FPLT`
-* now `TPHOU`
-* go `TKPW`
-* out `OUT`
-* country, `KREU KW-BG`
-* lie `HRAOEU`
-* grave. `TKPWRAEUF TP-PL`
-* driven `TKREUFPB`
-* there, `THR KW-BG`
-* but `PWUT`
-* followed; `TPOLD STPH*FPLT`
-* friends `TPREPBDZ`
-* dead, `TKED KW-BG`
-* kissed `K*EUFD`
-* hand `HAPBD`
 * coffin `KOFPB`
-* away. `A/WAEU TP-PL`
-* Some `SOPL`
-* days `TKAEUS`
-* afterwards `A*FRDZ`
-* an `APB`
-* auction `AUBGS`
-* saw `SAU`
-* from `TPR`
-* window `WOEUPBD`
-* how `HOU`
+* placed `PHRAEUFD`
+* it. `T TP-PL`
+* He `E`
+* be `-B`
+* taken `TAEPB`
+* country `KREU`
+* buried `PWUR/EUD`
+* own `OEPB`
+* grave; `TKPWRAEUF STPH*FPLT`
 * they `THE`
 * carried `KAERD`
-* knights `TPHAO*EUT/-S`
-* ladies `HRA*EDZ`
-* away, `A/WAEU KW-BG`
-* flower-pots `TPHRO*UR H-PB POTS`
-* with `W`
-* long `HROPBG`
-* ears, `AOERS KW-BG`
-* chairs, `KHAEURS KW-BG`
-* clothes-presses. `KHRO*ETS H-PB PRES/-S TP-PL`
-* something `S-G`
-* came `KAEUPL`
-* here, `HAOER KW-BG`
-* there; `THR STPH*FPLT`
-* portrait `POR/TRAT`
+* him `HEUPL`
+* away; `A/WAEU STPH*FPLT`
+* followed `TPOLD`
+* him, `HEUPL KW-BG`
+* friends `TPREPBDZ`
+* dead; `TKED STPH*FPLT`
+* kissed `K*EUFD`
+* hand `HAPBD`
+* moved `PHOFD`
+* away `A/WAEU`
+* few `TPAOU`
+* days `TKAEUS`
+* after, `AF KW-BG`
+* auction `AUBGS`
+* house, `HOUS KW-BG`
+* from `TPR`
+* window `WOEUPBD`
+* saw `SAU`
+* people `PAOEPL`
+* carrying `KAERG`
+* pictures `P*EUFPS`
 * of `-F`
-* her `HER`
-* who `WHO`
-* found `TPOUPBD`
-* broker's `PWROERBG AE S*/SP-S`
+* knights `TPHAO*EUT/-S`
+* ladies, `HRAEUDZ KW-BG`
+* flower-pots `TPHRO*UR H-PB POTS`

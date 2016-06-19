@@ -1,126 +1,131 @@
 # The Fir Tree Part 15
 
-* out `OUT`
 * and `SKP`
-* thrown--rather `THROEPB H-PB H-PB RAER`
-* hard, `HARD KW-BG`
-* It `T`
-* is `S`
-* true--down `TRAOU H-PB H-PB TKOUPB`
-* on `OPB`
+* taken `TAEPB`
+* into `TPHAO`
 * the `-T`
-* floor, `TPHRAOR KW-BG`
-* but `PWUT`
-* a `AEU`
-* man `PHAPB`
-* drew `TKRAOU`
-* him `HEUPL`
-* towards `TORDZ`
-* stairs, `STAEURS KW-BG`
-* where `W-R`
-* daylight `TKAEULT`
-* shone. `SHO*EPB TP-PL`
-* "Now `KR-GS TPHOU`
-* merry `PHER/REU`
-* life `HRAOEUF`
-* will `HR`
-* begin `STKWEUPB`
-* again," `TKPWEPB KW-BG KR-GS`
-* thought `THAUT`
-* Tree. `TRAOE TP-PL`
-* he `E`
-* felt `TPELT`
-* fresh `TPRERB`
-* air, `AEUR KW-BG`
-* first `TPEURS`
-* sunbeam--and `SUPB/PWAOEPL H-PB H-PB SKP`
-* now `TPHOU`
-* was `WA`
-* In `TPH`
-* courtyard. `KORT/KWRARD TP-PL`
-* all `AUL`
-* passed `PAFD`
+* courtyard `KORT/KWRARD`
 * so `SO`
 * quickly, `KWEULG KW-BG`
-* there `THR`
-* much `PHUFP`
-* going `TKPW-G`
-* around `ARPBD`
-* him, `HEUPL KW-BG`
-* Tree `TRAOE`
-* quite `KWAOEUT`
+* that `THA`
+* it `T`
 * forgot `TPAURGT`
 * to `TO`
+* think `THEU`
+* of `-F`
+* itself, `T/SEF KW-BG`
+* could `KO`
+* only `OEPBL`
 * look `HRAOBG`
-* himself. `H*EUPLS TP-PL`
+* about, `PW KW-BG`
+* there `THR`
+* was `WA`
+* much `PHUFP`
+* be `-B`
+* seen. `SAOEPB TP-PL`
 * court `KORT`
-* adjoined `A/SKWROEUPBD`
+* close `KHROES`
+* a `AEU`
 * garden, `TKPWA*RPB KW-BG`
-* flower; `TPHRO*UR STPH*FPLT`
+* where `W-R`
+* everything `EFG`
+* looked `HRAOBGD`
+* blooming. `PWHRAOPL/-G TP-PL`
+* fresh `TPRERB`
+* fragrant `TPRAEUG/RAPBT`
 * roses `ROES/-S`
 * hung `HUPBG`
-* odorous `O/TKROUS`
 * over `OEFR`
-* balustrade, `PWAL/12R5D KW-BG`
-* lindens `XXX lindens`
+* little `HREUL`
+* palings. `XXX palings TP-PL`
+* linden-trees `XXX linden H-PB TRAOES`
 * were `WR`
-* blossom, `PWHROFPL KW-BG`
-* Swallows `SWAL/OES`
+* in `TPH`
+* blossom; `PWHROFPL STPH*FPLT`
+* while `WHAOEUL`
+* swallows `SWAL/OES`
 * flew `TPHRAOU`
-* by, `PWEU KW-BG`
-* said, `SAEUD KW-BG`
-* "Quirre-vit! `KR-GS XXX Quirre H-PB SR*EUT SKHRAPL`
-* My `PHEU`
-* husband `HUS`
-* come!" `KOPL SKHRAPL KR-GS`
+* here `HAOER`
+* there, `THR KW-BG`
+* crying, `KRAOEUG KW-BG`
+* "Twit, `KR-GS TWEUT KW-BG`
+* twit, `TWEUT KW-BG`
+* my `PHEU`
+* mate `PHAEUT`
+* is `S`
+* coming,"—but `KO*G KW-BG KR-GS EPL/TKA*RB PWUT`
 * not `TPHOT`
-* Fir `TPEUR`
-* that `THA`
+* fir-tree `TPEUR H-PB TRAOE`
 * they `THE`
 * meant. `PHEPBT TP-PL`
-* "Now, `KR-GS TPHOU KW-BG`
-* then, `THEPB KW-BG`
+* "Now `KR-GS TPHOU`
 * I `EU`
 * shall `SHAL`
-* really `HROERL`
-* enjoy `TPHOEUPBLG`
-* life," `HRAOEUF KW-BG KR-GS`
-* said `SAEUD`
-* exultingly, `XXX exultingly KW-BG`
-* spread `SPRED`
-* his `HEUS`
+* live," `HREUF KW-BG KR-GS`
+* cried `KRAOEUD`
+* tree, `TRAOE KW-BG`
+* joyfully `SKWROEUFL/HREU`
+* spreading `SPREGD`
+* out `OUT`
+* its `EUTS`
 * branches; `PWRAFPBS STPH*FPLT`
-* but, `PWUT KW-BG`
-* alas, `A/HRAS KW-BG`
-* withered `W*EUT/ER/-D`
-* yellow! `KWREL/OE SKHRAPL`
+* but `PWUT`
+* alas! `A/HRAS SKHRAPL`
+* all `AUL`
+* withered `WEU/THER/-D`
+* yellow, `KWREL/OE KW-BG`
+* lay `HRAEU`
 * corner `KRORPB`
-* lay, `HRAEU KW-BG`
-* among `PHOPBG`
+* amongst `PHOPBGS`
 * weeds `WAOEDZ`
 * nettles. `TPHET/-LS TP-PL`
-* golden `TKOELD/*EPB`
 * star `STAR`
-* of `-F`
-* tinsel `TEUPB/SEL`
+* gold `TKPWOELD`
+* paper `PAEUP`
 * still `STEUL`
+* stuck `STUBG`
 * top `TOP`
-* Tree, `TRAOE KW-BG`
+* tree `TRAOE`
 * glittered `TKPWHREUT/ERD`
 * sunshine. `S*UPB/SHAOEUPB TP-PL`
-* court-yard `KORT H-PB KWRARD`
-* some `SOPL`
+* same `SAEUPL`
+* two `TWO`
+* merry `PHER/REU`
 * children `KHEURPB`
 * playing `PHRA*EUG`
 * who `WHO`
 * had `H`
 * danced `TKAPBS/-D`
-* at `AT`
-* Christmas `KREUS/PHAS`
 * round `ROUPBD`
-* glad `TKPWHRAD`
-* sight `SAOEUT`
-* him. `HEUPL TP-PL`
-* One `WUPB`
+* at `AT`
+* Christmas, `KREUS/PHAS KW-BG`
+* been `PW-PB`
+* happy. `HAEP TP-PL`
 * youngest `KWRUPBG/EFT`
+* saw `SAU`
+* gilded `TKPWEULD/-D`
+* star, `STAR KW-BG`
 * ran `RAPB`
+* pulled `PULD`
+* off `OF`
+* tree. `TRAOE TP-PL`
+* "Look `KR-GS HRAOBG`
+* what `WHA`
+* sticking `STEUG`
+* ugly `ULG`
+* old `OLD`
+* fir-tree," `TPEUR H-PB TRAOE KW-BG KR-GS`
+* said `SAEUD`
+* child, `KHAOEULD KW-BG`
+* treading `TRAOED/-G`
+* on `OPB`
+* branches `PWRAFPBS`
+* till `T*EUL`
+* crackled `KRABG/-LD`
+* under `*UPBD`
+* his `HEUS`
+* boots. `PWAOTS TP-PL`
+* bright `PWRAOEUT`
+* flowers `TPHRO*URS`
+* then `THEPB`
+* wished `WEURBD`

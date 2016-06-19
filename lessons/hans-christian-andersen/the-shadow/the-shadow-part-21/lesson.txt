@@ -1,119 +1,202 @@
 The Shadow Part 21
 
-'indeed': TPHAOEPBD
-'be': -B
-'marvellous!"': PHAFLS SKHRAPL KR-GS
-'"I': KR-GS EU
-'will': HR
-'not': TPHOT
-'say': SAEU
-'for': TPOR
-'a': AEU
-'certainty': SERPBT
-'that': THA
+'had': H
+'seen': SAOEPB
+'many': PHAEPB
+'things,': THEUPBGS KW-BG
+'and': SKP
+'could': KO
+'therefore': TH-FR
+'answer': AEPBS
+'the': -T
+'princess,': PREUPB/ES KW-BG
+'and': SKP
+'make': PHAEUBG
+'allusions': A/HRAOUGS/-S
+'which': WEU
+'quite': KWAOEUT
+'astonished': A/STOPB/EURBD
+'her.': HER TP-PL
+'She': SHE
+'thought': THAUT
 'he': E
-'can,"': K KW-BG KR-GS
+'must': PHUFT
+'be': -B
+'the': -T
+'cleverest': KHR*EFR/*ES
+'man': PHAPB
+'in': TPH
+'all': AUL
+'the': -T
+'world,': WORLD KW-BG
+'and': SKP
+'felt': TPELT
+'the': -T
+'greatest': TKPWRAET/EFT
+'respect': R-PT
+'for': TPOR
+'his': HEUS
+'knowledge.': TPHOPBLG TP-PL
+'When': WHEPB
+'she': SHE
+'danced': TKAPBS/-D
+'with': W
+'him': HEUPL
+'again': TKPWEPB
+'she': SHE
+'fell': TPEL
+'in': TPH
+'love': HRUF
+'with': W
+'him,': HEUPL KW-BG
+'which': WEU
+'the': -T
+'shadow': SHO*EUD
+'quickly': KWEULG
+'discovered,': SKOFD KW-BG
+'for': TPOR
+'she': SHE
+'had': H
+'with': W
+'her': HER
+'eyes': AO*EUS
+'looked': HRAOBGD
+'him': HEUPL
+'through': THRU
+'and': SKP
+'through.': THRU TP-PL
+'They': THE
+'danced': TKAPBS/-D
+'once': WUPBS
+'more,': PHOR KW-BG
+'and': SKP
+'she': SHE
+'was': WA
+'nearly': TPHAOERL
+'telling': TELG
+'him,': HEUPL KW-BG
+'but': PWUT
+'she': SHE
+'had': H
+'some': SOPL
+'discretion;': SKREGS STPH*FPLT
+'she': SHE
+'thought': THAUT
+'of': -F
+'her': HER
+'country,': KREU KW-BG
+'her': HER
+'kingdom,': KEUPBG/TKOPL KW-BG
+'and': SKP
+'the': -T
+'number': TPHUPL
+'of': -F
+'people': PAOEPL
+'over': OEFR
+'whom': WHOPL
+'she': SHE
+'would': WO
+'one': WUPB
+'day': TKAEU
+'have': SR
+'to': TO
+'rule.': RAOUL TP-PL
+'"He': KR-GS E
+'is': S
+'a': AEU
+'clever': KHREFR
+'man,"': PHAPB KW-BG KR-GS
+'she': SHE
+'thought': THAUT
+'to': TO
+'herself,': H*ERS KW-BG
+'"which': KR-GS WEU
+'is': S
+'a': AEU
+'good': TKPWAOD
+'thing,': THEUPBG KW-BG
+'and': SKP
+'he': E
+'dances': TKAPBS/-S
+'admirably,': AD/PHEUR/PWHREU KW-BG
+'which': WEU
+'is': S
+'also': HR-S
+'good.': TKPWAOD TP-PL
+'But': PWUT
+'has': HAS
+'he': E
+'well-grounded': WEL H-PB TKPWROUPBD/-D
+'knowledge?': TPHOPBLG H-F
+'that': THA
+'is': S
+'an': APB
+'important': PORPB
+'question,': KWE KW-BG
+'and': SKP
+'I': EU
+'must': PHUFT
+'try': TREU
+'him."': HEUPL TP-PL KR-GS
+'Then': THEPB
+'she': SHE
+'asked': SK-D
+'him': HEUPL
+'a': AEU
+'most': PHOFT
+'difficult': TKEUFL
+'question,': KWE KW-BG
+'she': SHE
+'herself': H*ERS
+'could': KO
+'not': TPHOT
+'have': SR
+'answered': APBSD
+'it,': T KW-BG
+'and': SKP
+'the': -T
+'shadow': SHO*EUD
+'made': PHAED
+'a': AEU
+'most': PHOFT
+'unaccountable': UPB/K-T/-BL
+'grimace.': TKPWREUPL/AS TP-PL
+'"You': KR-GS U
+'cannot': K/TPHOT
+'answer': AEPBS
+'that,"': THA KW-BG KR-GS
 'said': SAEUD
 'the': -T
-'shadow,': SHAD/OE KW-BG
-'"but': KR-GS PWUT
-'I': EU
-'think': THEU
-'so;': SO STPH*FPLT
-'has': HAS
-'now': TPHOU
-'followed': TPOLD
-'me': PHE
-'so': SO
-'many': PHAEPB
-'years,': KWRAOERS KW-BG
-'and': SKP
-'listened': HR-PB/-D
-'to': TO
-'my': PHEU
-'conversation--I': K-FRGS H-PB H-PB EU
-'should': SHO
-'it': T
-'possible.': POB TP-PL
-'but': PWUT
-'your': KWROUR
-'royal': ROEUL
-'highness': HAOEU/-PBS
-'permit': PERPLT
-'observe,': OEB KW-BG
-'is': S
-'proud': PROUD
-'of': -F
-'passing': PAFG
-'himself': H*EUPLS
-'off': OF
-'man,': PHAPB KW-BG
-'when': WHEPB
-'in': TPH
-'proper': PROR
-'humor--and': HAOURPL H-PB H-PB SKP
-'must': PHUFT
-'answer': AEPBS
-'well--he': WEL H-PB H-PB E
-'treated': TRAETD
-'quite': KWAOEUT
-'like': HRAOEUBG
-'man."': PHAPB TP-PL KR-GS
-'"Oh!': KR-GS O*ERBGS SKHRAPL
-'that!"': THA SKHRAPL KR-GS
 'princess.': PREUPB/ES TP-PL
-'she': SHE
-'went': WEPBT
-'learned': HRERPBD
-'man': PHAPB
-'by': PWEU
-'door,': TKAOR KW-BG
-'spoke': SPOEBG
-'him': HEUPL
+'"I': KR-GS EU
+'learnt': HRERPBT
+'something': S-G
 'about': PW
-'sun': SUPB
-'moon,': PHAOPB KW-BG
-'persons': PERPBS
-'out': OUT
-'world,': WORLD KW-BG
-'answered': APBSD
-'with': W
-'wisdom': WEUS/TKOPL
-'prudence.': PRAOUPBS TP-PL
-'"What': KR-GS WHA
-'who': WHO
-'wise': WAOEUS
-'shadow!"': SHAD/OE SKHRAPL KR-GS
-'thought': THAUT
-'she.': SHE TP-PL
-'"It': KR-GS T
-'real': RAEL
-'blessing': PWHR*EFG
-'people': PAOEPL
-'kingdom': KEUPBG/TKOPL
-'if': TP
-'choose': KHAOS
-'consort--I': KOPB/SORT H-PB H-PB EU
-'do': TKO
-'it!"': T SKHRAPL KR-GS
-'They': THE
-'were': WR
-'soon': SAOPB
-'agreed,': TKPWRAED KW-BG
-'both': PWO*T
-'princess': PREUPB/ES
-'shadow;': SHAD/OE STPH*FPLT
-'no': TPHO
-'one': WUPB
-'was': WA
-'know': TPHOE
-'before': PW-F
-'arrived': A/REUFD
-'her': HER
-'own': OEPB
-'kingdom.': KEUPBG/TKOPL TP-PL
-'"No': KR-GS TPHO
-'one--not': WUPB H-PB H-PB TPHOT
+'it': T
+'in': TPH
+'my': PHEU
+'childhood,"': KHAOEULD/H*D KW-BG KR-GS
+'he': E
+'replied;': RE/PHRAOEUD STPH*FPLT
+'"and': KR-GS SKP
+'believe': PWHREF
+'that': THA
 'even': AOEPB
-'had': H
-'his': HEUS
+'my': PHEU
+'very': SRE
+'shadow,': SHO*EUD KW-BG
+'standing': STAPBG
+'over': OEFR
+'there': THR
+'by': PWEU
+'the': -T
+'door,': TKAOR KW-BG
+'could': KO
+'answer': AEPBS
+'it."': T TP-PL KR-GS
+'"Your': KR-GS KWROUR
+'shadow,"': SHO*EUD KW-BG KR-GS
+'said': SAEUD
+'the': -T
+'princess;': PREUPB/ES STPH*FPLT
+'"indeed': KR-GS TPHAOEPBD

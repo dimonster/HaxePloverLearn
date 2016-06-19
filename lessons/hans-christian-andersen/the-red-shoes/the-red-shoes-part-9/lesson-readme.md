@@ -1,18 +1,34 @@
 # The Red Shoes Part 9
 
-* entire `SPWAOEUR`
-* sin, `SEUPB KW-BG`
-* And `SKP`
-* the `-T`
-* executioner `EBGS/KAOUGS/*ER`
-* struck `STRUBG`
+* my `PHEU`
+* head!" `HED SKHRAPL KR-GS`
+* said `SAEUD`
+* Karen, `KAEURPB KW-BG`
+* "for `KR-GS TPOR`
+* then `THEPB`
+* I `EU`
+* could `KO`
+* not `TPHOT`
+* repent `XXX repent`
+* of `-F`
+* sin. `SEUPB TP-PL`
+* but `PWUT`
+* cut `KUT`
 * off `OF`
-* her `HER`
 * feet `TPAOET`
 * with `W`
+* the `-T`
 * red `RED`
-* shoes, `SHAOS KW-BG`
-* but `PWUT`
+* shoes." `SHAOS TP-PL KR-GS`
+* And `SKP`
+* she `SHE`
+* confessed `KAUPB/TPES/-D`
+* all `AUL`
+* her `HER`
+* sin, `SEUPB KW-BG`
+* executioner `EBGS/KAOUGS/*ER`
+* struck `STRUBG`
+* shoes; `SHAOS STPH*FPLT`
 * shoes `SHAOS`
 * danced `TKAPBS/-D`
 * away `A/WAEU`
@@ -21,99 +37,91 @@
 * field `TPAOELD`
 * into `TPHAO`
 * deep `TKAOEP`
-* wood. `WAOD TP-PL`
+* forest. `TPOEFRT TP-PL`
 * he `E`
 * carved `KAFRBD`
-* out `OUT`
+* a `AEU`
+* pair `PAEUR`
 * wooden `WAOD/EPB`
-* for `TPOR`
-* her, `HER KW-BG`
+* some `SOPL`
 * crutches, `KRUFPS KW-BG`
 * taught `TAUT`
 * psalm `SAUPL`
-* criminals `KR-LS`
-* always `AULS`
-* sing; `SEUPBG STPH*FPLT`
-* she `SHE`
+* which `WEU`
+* is `S`
+* always `AULZ`
+* sung `SUPBG`
+* by `PWEU`
+* sinners; `SEURPBS STPH*FPLT`
 * kissed `K*EUFD`
 * hand `HAPBD`
-* which `WEU`
-* had `H`
-* wielded `WAOELD/-D`
+* that `THA`
+* guided `TKPWAOEUD/-D`
 * axe, `ABGS KW-BG`
 * went `WEPBT`
 * over `OEFR`
 * heath. `HAO*ET TP-PL`
-* "Now `KR-GS TPHOU`
-* I `EU`
+* "Now, `KR-GS TPHOU KW-BG`
 * have `SR`
 * suffered `SUFRD`
 * enough `TPHUF`
-* shoes!" `SHAOS SKHRAPL KR-GS`
-* said `SAEUD`
-* she. `SHE TP-PL`
+* for `TPOR`
+* shoes," `SHAOS KW-BG KR-GS`
+* said; `SAEUD STPH*FPLT`
+* "I `KR-GS EU`
 * will `HR`
 * go `TKPW`
-* church `KHUFRPB`
-* that `THA`
+* to `TO`
+* church, `KHUFRPB KW-BG`
+* so `SO`
 * people `PAOEPL`
-* may `PHAE`
+* can `K`
 * see `SAOE`
-* me!" `PHE SKHRAPL KR-GS`
-* hastened `HAEUS/-PBD`
-* towards `TORDZ`
-* door: `TKAOR STPH-FPLT`
+* me." `PHE TP-PL KR-GS`
+* quickly `KWEULG`
+* up `UP`
+* church-door; `KHUFRPB H-PB TKAOR STPH*FPLT`
 * when `WHEPB`
-* was `WA`
-* near `TPHAOER`
-* it, `T KW-BG`
+* came `KAEUPL`
+* there, `THR KW-BG`
+* were `WR`
+* dancing `TKAPBS/-G`
 * before `PW-F`
-* terrified, `TER/TPAOEUD KW-BG`
+* her, `HER KW-BG`
+* was `WA`
+* frightened, `TPRAOEUPBD KW-BG`
 * turned `TURPBD`
-* round. `ROUPBD TP-PL`
+* back. `PWABG TP-PL`
+* During `TKURG`
 * whole `WHOEL`
 * week `WAOEBG`
-* unhappy, `UPB/HAEP KW-BG`
+* sad `SAD`
 * wept `WEPT`
 * many `PHAEPB`
 * bitter `PWEURT`
-* tears; `TAERS STPH*FPLT`
+* tears, `TAERS KW-BG`
 * Sunday `SUPBD`
-* returned, `RURPBD KW-BG`
-* said, `SAEUD KW-BG`
-* "Well, `KR-GS WEL KW-BG`
-* now `TPHOU`
-* struggled `STRULGD`
-* enough! `TPHUF SKHRAPL`
-* really `HROERL`
+* again `TKPWEPB`
+* said: `SAEUD STPH-FPLT`
+* "Now `KR-GS TPHOU`
+* striven `XXX striven`
+* enough. `TPHUF TP-PL`
 * believe `PWHREF`
-* am `*PL`
+* am `APL`
+* quite `KWAOEUT`
 * as `AZ`
 * good `TKPWAOD`
-* a `AEU`
-* one `WUPB`
+* those `THOZ`
 * who `WHO`
-* sits `SEUTS`
+* sit `SEUT`
 * in `TPH`
-* church, `KHUFRPB KW-BG`
-* holds `HOLDZ`
-* head `HED`
-* so `SO`
-* high!" `HAOEU SKHRAPL KR-GS`
-* boldly; `PWOLD/HREU STPH*FPLT`
-* not `TPHOT`
+* church `KHUFRPB`
+* give `TKPWEUF`
+* themselves `TH*EPLS`
+* airs." `AEUR/-S TP-PL KR-GS`
+* boldly `PWOLD/HREU`
+* on; `OPB STPH*FPLT`
+* had `H`
 * got `TKPWOT`
 * farther `TPA*RT`
 * than `THAPB`
-* churchyard `KHUR/-FP/KWRARD`
-* gate `TKPWAET`
-* saw `SAU`
-* dancing `TKAPBS/-G`
-* her; `HER STPH*FPLT`
-* frightened, `TPRAOEUPBD KW-BG`
-* back, `PWABG KW-BG`
-* repented `XXX repented`
-* of `-F`
-* sin `SEUPB`
-* from `TPR`
-* heart. `HART TP-PL`

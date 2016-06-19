@@ -1,139 +1,135 @@
 # The Fir Tree Part 2
 
-* I `EU`
-* should `SHO`
-* be `-B`
-* able `ABL`
-* to `TO`
-* spread `SPRED`
-* out `OUT`
 * my `PHEU`
-* branches, `PWRAFPBS KW-BG`
-* and `SKP`
-* with `W`
-* the `-T`
-* tops `TOPS`
-* look `HRAOBG`
-* into `TPHAO`
-* wide `WAOEUD`
-* world! `WORLD SKHRAPL`
-* Then `THEPB`
-* would `WO`
-* birds `PWEURDZ`
-* build `PEULD`
-* nests `TPHEFT/-S`
-* among `PHOPBG`
-* branches: `PWRAFPBS STPH-FPLT`
-* when `WHEPB`
-* there `THR`
+* tall `TAUL`
+* companions." `KPAPB/KWROPBS TP-PL KR-GS`
+* The `-T`
+* tree `TRAOE`
 * was `WA`
-* a `AEU`
-* breeze, `PWRAOEZ KW-BG`
-* could `KO`
-* bend `PWEPBD`
-* as `AZ`
-* much `PHUFP`
-* stateliness `XXX stateliness`
-* others!" `OERS SKHRAPL KR-GS`
-* Neither `TPHAOERT`
-* sunbeams, `SUPB/PWAOEPL/-S KW-BG`
-* nor `TPH-R`
-* birds, `PWEURDZ KW-BG`
-* red `RED`
-* clouds `KHROUDZ`
-* which `WEU`
-* morning `PHORPBG`
-* evening `AOEPG`
-* sailed `SAEULD`
-* above `PWOF`
-* him, `HEUPL KW-BG`
-* gave `TKPWAEUF`
-* little `HREUL`
-* Tree `TRAOE`
-* any `TPHEU`
-* pleasure. `PHRERB TP-PL`
+* so `SO`
+* discontented, `TKEUS/KOPB/TEPBT/-D KW-BG`
+* that `THA`
+* it `T`
+* took `TAOBG`
+* no `TPHO`
+* pleasure `PHRERB`
 * In `TPH`
+* warm `WARPL`
+* sunshine, `S*UPB/SHAOEUPB KW-BG`
+* birds, `PWEURDZ KW-BG`
+* or `OR`
+* rosy `ROEZ/SEU`
+* clouds `KHROUDZ`
+* floated `TPHROET/-D`
+* over `OEFR`
+* morning `PHORPBG`
+* and `SKP`
+* evening. `AOEPG TP-PL`
+* Sometimes, `STAOEUPLS KW-BG`
 * winter, `WEURPBT KW-BG`
+* when `WHEPB`
 * snow `STPHOE`
 * lay `HRAEU`
+* white `WHAOEUT`
 * glittering `TKPWHREUT/ERG`
 * on `OPB`
 * ground, `TKPWROUPBD KW-BG`
+* a `AEU`
 * hare `HA*ER`
-* often `OFPB`
+* would `WO`
 * come `KOPL`
-* leaping `HRAOEPG`
+* springing `SPREUPBG/-G`
 * along, `A/HROPBG KW-BG`
-* jump `SKWR*UPL`
+* jump `SKWRUFRP`
 * right `RAOEUT`
-* over `OEFR`
-* Tree. `TRAOE TP-PL`
-* Oh, `O*ERBGS KW-BG`
-* that `THA`
-* made `PHAED`
-* him `HEUPL`
-* so `SO`
-* angry! `APBG/REU SKHRAPL`
-* But `PWUT`
-* two `TWO`
-* winters `WEUPB/TERS`
-* were `WR`
-* past, `PAFT KW-BG`
+* little `HREUL`
+* tree; `TRAOE STPH*FPLT`
+* Then `THEPB`
+* how `HOU`
+* mortified `PHORT/TPAOEUD`
+* feel! `TPAOEL SKHRAPL`
+* Two `TWO`
+* winters `WEUPBT/ERS`
+* passed, `PAFD KW-BG`
 * third `THEURD`
-* large `HRARPBLG`
-* obliged `OB/HRAOEUPBLG/-D`
-* go `TKPW`
+* arrived, `A/REUFD KW-BG`
+* had `H`
+* grown `TKPWROEPB`
+* obliged `OE/PWHRAOEUPBLGD`
+* to `TO`
+* run `RUPB`
 * round `ROUPBD`
 * it. `T TP-PL`
-* "To `KR-GS TO`
-* grow `TKPWROE`
-* grow, `TKPWROE KW-BG`
-* get `TKPWET`
-* older `OERLD`
-* tall," `TAUL KW-BG KR-GS`
-* thought `THAUT`
-* Tree--"that, `TRAOE H-PB H-PB KR-GS THA KW-BG`
-* after `AF`
-* all, `AUL KW-BG`
+* Yet `KWRET`
+* remained `RE/PHAEUPBD`
+* unsatisfied, `UPB/SAED KW-BG`
+* exclaim, `SKHRAEUPL KW-BG`
+* "Oh, `KR-GS O*ERBGS KW-BG`
+* if `TP`
+* I `EU`
+* could `KO`
+* but `PWUT`
+* keep `KAOEP`
+* growing `TKPWROEG`
+* old! `OLD SKHRAPL`
+* There `THR`
 * is `S`
-* most `PHO*S`
-* delightful `TKHRAOEUT/-FL`
-* thing `THEUPBG`
-* world!" `WORLD SKHRAPL KR-GS`
-* autumn `AU/UPL`
-* wood-cutters `WAOD H-PB KUT/ERS`
-* always `AULS`
-* came `KAEUPL`
-* felled `TPEL/-D`
-* some `SOPL`
-* of `-F`
-* largest `HRARPBL/EFT`
-* trees. `TRAOES TP-PL`
-* This `TH`
-* happened `HAPD`
-* every `EF`
-* year; `KWRAOER STPH*FPLT`
-* young `KWRUPBG`
-* Fir `TPEUR`
-* Tree, `TRAOE KW-BG`
-* had `H`
-* now `TPHOU`
-* grown `TKPWROEPB`
-* very `SRE`
-* comely `KOPL/HREU`
-* size, `SAOEUZ KW-BG`
-* trembled `TREPL/-BLD`
-* at `AT`
-* sight; `SAOEUT STPH*FPLT`
+* nothing `TPHOG`
+* else `ELS`
+* worth `WO*RT`
+* caring `KARG`
 * for `TPOR`
-* magnificent `PHAFPBT`
-* great `TKPWRAET`
+* world!" `WORLD SKHRAPL KR-GS`
+* autumn, `AU/UPL KW-BG`
+* as `AZ`
+* usual, `URBL KW-BG`
+* wood-cutters `WAOD H-PB KUT/ERS`
+* came `KAEUPL`
+* cut `KUT`
+* down `TKOUPB`
+* several `SEFRL`
+* of `-F`
+* tallest `TAUL/EFT`
+* trees, `TRAOES KW-BG`
+* young `KWRUPBG`
+* fir-tree, `TPEUR H-PB TRAOE KW-BG`
+* which `WEU`
+* now `TPHOU`
+* its `EUTS`
+* full `TPUL`
+* height, `HAOEUT KW-BG`
+* shuddered `SHUD/ERD`
+* noble `TPHOEBL`
 * trees `TRAOES`
 * fell `TPEL`
 * earth `*ERT`
-* noise `TPHOEUS`
-* cracking, `KRA*G KW-BG`
+* with `W`
+* crash. `KRARB TP-PL`
+* After `AF`
 * branches `PWRAFPBS`
+* were `WR`
 * lopped `HROP/-D`
 * off, `OF KW-BG`
+* trunks `TRUPB/-BGS`
 * looked `HRAOBGD`
+* slender `SHRERPBD`
+* bare, `PWAEUR KW-BG`
+* they `THE`
+* scarcely `SKAEURS/HREU`
+* be `-B`
+* recognised. `REFD TP-PL`
+* placed `PHRAEUFD`
+* upon `POPB`
+* wagons, `WAG/OPBS KW-BG`
+* drawn `TKRAUPB`
+* by `PWEU`
+* horses `HORS/-S`
+* out `OUT`
+* forest. `TPOEFRT TP-PL`
+* "Where `KR-GS W-R`
+* going? `TKPW-G H-F`
+* What `WHA`
+* become `PW-BG`
+* them?" `THEPL H-F KR-GS`
+* fir-tree `TPEUR H-PB TRAOE`
+* wished `WEURBD`

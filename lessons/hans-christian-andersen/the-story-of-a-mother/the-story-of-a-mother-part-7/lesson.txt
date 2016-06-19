@@ -1,137 +1,202 @@
-The Story Of A Mother Part 7
+The Story of a Mother Part 7
 
+'her': HER
+'beautiful': PWAOUFL
+'hair,': HAEUR KW-BG
+'and': SKP
+'received': SAOEFD
+'in': TPH
+'return': RURPB
+'the': -T
+'white': WHAOEUT
+'locks': HROBG/-S
+'of': -F
+'the': -T
+'old': OLD
+'woman.': WOPL TP-PL
+'Then': THEPB
+'they': THE
+'went': WEPBT
+'into': TPHAO
+'Death's': TK*T AE S*/SP-S
+'vast': SRAFT
+'hothouse,': XXX hothouse KW-BG
+'where': W-R
+'flowers': TPHRO*URS
+'and': SKP
+'trees': TRAOES
+'grew': TKPWRAOU
+'together': TOGT
+'in': TPH
+'wonderful': WUFL
+'profusion.': PRO/TPAOUGS TP-PL
+'Blooming': PWHRAOPL/-G
+'hyacinths,': HAOEU/S*EUPBT/-S KW-BG
+'under': *UPBD
+'glass': TKPWHRAS
+'bells,': PWELS KW-BG
+'and': SKP
+'peonies,': PE/KWRO/TPHAOES KW-BG
+'like': HRAOEUBG
+'strong': STROPBG
+'trees.': TRAOES TP-PL
+'There': THR
+'grew': TKPWRAOU
+'water-plants,': WAUR H-PB PHRAPBTS KW-BG
+'some': SOPL
+'quite': KWAOEUT
+'fresh,': TPRERB KW-BG
+'and': SKP
+'others': OERS
+'looking': HRAOG
+'sickly,': SEUBG/HREU KW-BG
+'which': WEU
+'had': H
+'water-snakes': WAUR H-PB STPHAEUBGS
+'twining': TWEUPB/-G
+'round': ROUPBD
+'them,': THEPL KW-BG
+'and': SKP
+'black': PWHRABG
+'crabs': KRAB/-S
+'clinging': KHREUPBG/-G
+'to': TO
+'their': THAEUR
+'stems.': STEPLS TP-PL
+'There': THR
+'stood': STAOD
+'noble': TPHOEBL
+'palm-trees,': PAPL H-PB TRAOES KW-BG
+'oaks,': OEBG/-S KW-BG
+'and': SKP
+'plantains,': PHRAPB/TAEUPB/-S KW-BG
+'and': SKP
+'beneath': TPHAO*ET
 'them': THEPL
-'was': WA
+'bloomed': PHRAOPL/-D
+'thyme': THAOEUPL
+'and': SKP
+'parsley.': PARS/HREU TP-PL
+'Each': AOEFP
+'tree': TRAOE
+'and': SKP
+'flower': TPHRO*UR
+'had': H
+'a': AEU
+'name;': TPHAEUPL STPH*FPLT
+'each': AOEFP
+'represented': REPD
 'a': AEU
 'human': HAOUPL
 'life,': HRAOEUF KW-BG
-'the': -T
-'frame': TPRAEUPL
-'still': STEUL
-'lived--one': HREUFD H-PB H-PB WUPB
-'in': TPH
-'China,': KHAOEUPB/A KW-BG
 'and': SKP
-'another': TPHOER
-'Greenland--round': TKPWRAO*EPB/HRAPBD H-PB H-PB ROUPBD
-'about': PW
+'belonged': PWHROPBGD
+'to': TO
+'men': PHEPB
+'still': STEUL
+'living,': HREUFG KW-BG
+'some': SOPL
+'in': TPH
+'China,': KWHRAOEUPB KW-BG
+'others': OERS
+'in': TPH
+'Greenland,': TKPWRAO*EPB/HRAPBD KW-BG
+'and': SKP
+'in': TPH
+'all': AUL
+'parts': PARTS
+'of': -F
+'the': -T
 'world.': WORLD TP-PL
-'there': THR
-'were': WR
+'Some': SOPL
 'large': HRARPBLG
 'trees': TRAOES
-'small': SPAUL
+'had': H
+'been': PW-PB
+'planted': PHRAPBT/-D
+'in': TPH
+'little': HREUL
 'pots,': POTS KW-BG
 'so': SO
 'that': THA
 'they': THE
-'stood': STAOD
-'stunted': STUPBT/-D
-'growth,': TKPWRO*ET KW-BG
-'ready': R*ED
+'were': WR
+'cramped': KRAPL/-PD
+'for': TPOR
+'room,': RAOPL KW-BG
+'and': SKP
+'seemed': SAOEPLD
+'about': PW
 'to': TO
-'burst': PW*URS
-'pots;': POTS STPH*FPLT
-'other': OER
-'places,': PHRAEUFS KW-BG
+'burst': PWUFRT
+'the': -T
+'pot': POT
+'to': TO
+'pieces;': PAOEFS STPH*FPLT
+'while': WHAOEUL
+'many': PHAEPB
+'weak': WAEBG
 'little': HREUL
-'dull': TKUL
-'flower': TPHRO*UR
+'flowers': TPHRO*URS
+'were': WR
+'growing': TKPWROEG
+'in': TPH
 'rich': REUFP
-'mould,': PHOELD KW-BG
+'soil,': SOEUL KW-BG
 'with': W
 'moss': PHOS
-'round': ROUPBD
-'it,': T KW-BG
-'it': T
-'petted': PET/-D
-'nursed.': TPHURS/-D TP-PL
-'but': PWUT
-'distressed': STKREFD
+'all': AUL
+'around': ARPBD
+'them,': THEPL KW-BG
+'carefully': KA*EUFL
+'tended': TEPBD/-D
+'and': SKP
+'cared': KAEURD
+'for.': TPOR TP-PL
+'The': -T
+'sorrowing': SROE/-G
 'mother': PHOER
 'bent': PWEPBT
-'down': TKOUPB
 'over': OEFR
-'All': AUL
-'smallest': SPHAUL/EFT
+'the': -T
+'little': HREUL
 'plants,': PHRAPBTS KW-BG
+'and': SKP
 'heard': HERD
-'within': W-PB
-'how': HOU
+'the': -T
+'human': HAOUPL
 'heart': HART
-'beat;': PWAET STPH*FPLT
-'amongst': PHOPBGS
-'millions': PH-LS
-'she': SHE
-'knew': TPHAOU
+'beating': PWAEGT
+'in': TPH
+'each,': AOEFP KW-BG
+'and': SKP
+'recognised': REFD
+'the': -T
+'beatings': PWAEGT/-S
+'of': -F
 'her': HER
-'child's.': KHAOEULD AE S*/SP-S TP-PL
-'"There': KR-GS THR
-'is!"': S SKHRAPL KR-GS
-'cried': KRAOEUD
-'she,': SHE KW-BG
-'stretched': STREFPD
-'hands': HAPBDZ
-'out': OUT
-'blue': PWHRU
-'crocus,': KROE/KUS KW-BG
-'hung': HUPBG
-'quite': KWAOEUT
-'sickly': SEUBG/HREU
-'on': OPB
-'one': WUPB
-'side.': SAOEUD TP-PL
-'"Don't': KR-GS TKO*PB AE T*/SP-S
-'touch': TUFP
-'flower!"': TPHRO*UR SKHRAPL KR-GS
-'said': SAEUD
-'old': OLD
-'woman.': WOPL TP-PL
-'"But': KR-GS PWUT
-'place': PHRAEUS
-'yourself': KWRO*URS
-'here,': HAOER KW-BG
-'when': WHEPB
-'Death': TK*T
-'comes--I': KOPLS H-PB H-PB EU
-'expect': KP-PT
-'him': HEUPL
-'every': EF
-'moment--do': PHOEPLT H-PB H-PB TKO
-'not': TPHOT
-'let': HRET
-'pluck': PHRUBG
-'up,': UP KW-BG
-'threaten': THREFPB
-'you': U
-'will': HR
-'do': TKO
-'same': SAEUPL
+'child's': KHAOEULD AE S*/SP-S
+'heart': HART
+'among': PHOPBG
+'millions': PH-LS
+'of': -F
 'others.': OERS TP-PL
-'Then': THEPB
-'HE': E
-'be': -B
-'afraid!': A/TPRAEUD SKHRAPL
+'"That': KR-GS THA
 'is': S
-'responsible': SPOP
-'for': TPOR
-'OUR': OUR
-'LORD,': HRORD KW-BG
-'no': TPHO
-'dares': TKAEURS
-'up': UP
-'before': PW-F
-'gives': TKPWEUFS
-'leave."': HREF TP-PL KR-GS
-'at': AT
-'once': WUPBS
-'an': APB
-'icy': AOEU/SEU
-'cold': KOELD
-'rushed': RURBD
-'through': THRU
-'great': TKPWRAET
-'hall,': HA*L KW-BG
-'blind': PWHRAOEUPBD
-'could': KO
-'feel': TPAOEL
+'it,"': T KW-BG KR-GS
+'she': SHE
+'cried,': KRAOEUD KW-BG
+'stretching': STREFPG
+'out': OUT
+'her': HER
+'hand': HAPBD
+'towards': TORDZ
+'a': AEU
+'little': HREUL
+'crocus-flower': KROE/KUS H-PB TPHRO*UR
+'which': WEU
+'hung': HUPBG
+'down': TKOUPB
+'its': EUTS
+'sickly': SEUBG/HREU
+'head.': HED TP-PL

@@ -1,126 +1,202 @@
 The Old House Part 11
 
+'this': TH
+'life."': HRAOEUF TP-PL KR-GS
+'"You': KR-GS U
+'are': R
+'given': TKPWEUFPB
+'away,"': A/WAEU KW-BG KR-GS
+'said': SAEUD
+'the': -T
+'little': HREUL
+'boy;': PWOEU STPH*FPLT
+'"you': KR-GS U
 'must': PHUFT
-'remain.': RE/PHAUPB TP-PL
-'Can': K
+'stay.': STAEU TP-PL
+'Don't': TKO*PB AE T*/SP-S
 'you': U
-'not': TPHOT
-'understand': URPBD
+'see': SAOE
 'that?"': THA H-F KR-GS
+'Then': THEPB
 'the': -T
 'old': OLD
 'man': PHAPB
-'now': TPHOU
 'came': KAEUPL
+'in,': TPH KW-BG
 'with': W
 'a': AEU
-'drawer,': TKRAUR KW-BG
-'in': TPH
-'which': WEU
-'there': THR
-'was': WA
-'much': PHUFP
+'box': PWOBGS
+'containing': KAUPB/TAEUPBG
+'many': PHAEPB
+'curious': KAOURS
+'things': THEUPBGS
 'to': TO
-'be': -B
-'seen,': SAOEPB KW-BG
-'both': PWO*T
-'"tin': KR-GS TEUPB
-'boxes"': PWOBGS/-S KR-GS
+'show': SHOE
+'him.': HEUPL TP-PL
+'Rouge-pots,': RAOUPBLG H-PB POTS KW-BG
+'scent-boxes,': SKEPBT H-PB PWOBGS/-S KW-BG
 'and': SKP
-'"balsam': KR-GS PWAL/SAPL
-'boxes,"': PWOBGS/-S KW-BG KR-GS
+'old': OLD
 'cards,': KARDZ KW-BG
 'so': SO
 'large': HRARPBLG
+'and': SKP
+'so': SO
+'richly': REUFP/HREU
 'gilded,': TKPWEULD/-D KW-BG
-'such': SUFP
-'as': AZ
-'one': WUPB
-'never': TPHEF
-'sees': SAO*ES
+'that': THA
+'none': TPHOPB
+'are': R
+'ever': -FR
+'seen': SAOEPB
+'like': HRAOEUBG
 'them': THEPL
-'now.': TPHOU TP-PL
-'several': SEFRL
-'drawers': TKRAURS
+'in': TPH
+'these': THEZ
+'days.': TKAEUS TP-PL
+'And': SKP
+'there': THR
 'were': WR
-'opened,': OEPD KW-BG
+'smaller': SPHAURL
+'boxes': PWOBGS/-S
+'to': TO
+'look': HRAOBG
+'at,': AT KW-BG
+'and': SKP
+'the': -T
 'piano': PAPB/TPHOE
-'opened;': OEPD STPH*FPLT
-'it': T
-'had': H
-'landscapes': HRAPBD/SKAEUPS
-'on': OPB
+'was': WA
+'opened,': OEPD KW-BG
+'and': SKP
 'inside': TPH-DZ
-'of': -F
-'lid,': HREUD KW-BG
-'hoarse': HAORS
+'the': -T
+'lid': HREUD
+'were': WR
+'painted': PAEUPBTD
+'landscapes.': HRAPBD/SKAEUPS TP-PL
+'But': PWUT
 'when': WHEPB
-'played': PHRAEUD
-'it!': T SKHRAPL
-'then': THEPB
+'the': -T
+'old': OLD
+'man': PHAPB
+'played,': PHRAEUD KW-BG
+'the': -T
+'piano': PAPB/TPHOE
+'sounded': SOUPBD/-D
+'quite': KWAOEUT
+'out': OUT
+'of': -F
+'tune.': TAOUPB TP-PL
+'Then': THEPB
 'he': E
-'hummed': HUPL/-D
-'song.': SOPBG TP-PL
-'"Yes,': KR-GS KWRE KW-BG
+'looked': HRAOBGD
+'at': AT
+'the': -T
+'picture': P*EUFP
+'he': E
+'had': H
+'bought': PWAUT
+'at': AT
+'the': -T
+'broker's,': PWROERBG AE S*/SP-S KW-BG
+'and': SKP
+'his': HEUS
+'eyes': AO*EUS
+'sparkled': SPAR/K-LD
+'brightly': PWRAOEULT
+'as': AZ
+'he': E
+'nodded': TPHOD/-D
+'at': AT
+'it,': T KW-BG
+'and': SKP
+'said,': SAEUD KW-BG
+'"Ah,': KR-GS HA*E KW-BG
 'she': SHE
 'could': KO
 'sing': SEUPBG
-'that!"': THA SKHRAPL KR-GS
-'said': SAEUD
-'he,': E KW-BG
-'nodded': TPHOD/-D
-'portrait,': POR/TRAT KW-BG
-'bought': PWAUT
-'at': AT
-'broker's,': PWROERBG AE S*/SP-S KW-BG
-'man's': PHAPB AE S*/SP-S
-'eyes': AO*EUS
-'shone': SHO*EPB
-'bright!': PWRAOEUT SKHRAPL
+'that': THA
+'tune."': TAOUPB TP-PL KR-GS
 '"I': KR-GS EU
 'will': HR
 'go': TKPW
+'to': TO
+'the': -T
 'wars!': WARS SKHRAPL
 'I': EU
+'will': HR
+'go': TKPW
+'to': TO
+'the': -T
 'wars!"': WARS SKHRAPL KR-GS
-'shouted': SHOUT/-D
-'pewter': PAOU/TER
+'cried': KRAOEUD
+'the': -T
+'tin': TEUPB
 'soldier': SHRERPBL
+'as': AZ
 'loud': HROUD
+'as': AZ
+'he': E
 'could,': KO KW-BG
+'and': SKP
 'threw': THRAOU
 'himself': H*EUPLS
-'off': OF
-'right': RAOEUT
 'down': TKOUPB
+'on': OPB
+'the': -T
 'floor.': TPHRAOR TP-PL
-'What': WHA
-'became': PWAEUPL
-'him?': HEUPL H-F
-'sought,': SAUT KW-BG
+'Where': W-R
+'could': KO
+'he': E
+'have': SR
+'fallen?': TPAL/-PB H-F
+'The': -T
+'old': OLD
+'man': PHAPB
+'searched,': SEFRPBD KW-BG
+'and': SKP
+'the': -T
 'little': HREUL
 'boy': PWOEU
-'sought;': SAUT STPH*FPLT
-'away,': A/WAEU KW-BG
-'stayed': STAEUD
-'away.': A/WAEU TP-PL
+'searched,': SEFRPBD KW-BG
+'but': PWUT
+'he': E
+'was': WA
+'gone,': TKWOPB KW-BG
+'and': SKP
+'could': KO
+'not': TPHOT
+'be': -B
+'found.': TPOUPBD TP-PL
+'"I': KR-GS EU
 'shall': SHAL
 'find': TPEUPBD
-'him!"': HEUPL SKHRAPL KR-GS
-'man;': PHAPB STPH*FPLT
+'him': HEUPL
+'again,"': TKPWEPB KW-BG KR-GS
+'said': SAEUD
+'the': -T
+'old': OLD
+'man,': PHAPB KW-BG
 'but': PWUT
-'found': TPOUPBD
+'he': E
+'did': TK
+'not': TPHOT
+'find': TPEUPBD
 'him.': HEUPL TP-PL
+'The': -T
+'boards': PWORDZ
+'of': -F
+'the': -T
 'floor': TPHRAOR
-'too': TAO
-'open--the': OEP H-PB H-PB -T
+'were': WR
+'open': OEP
+'and': SKP
+'full': TPUL
+'of': -F
+'holes.': HOELS TP-PL
+'The': -T
+'tin': TEUPB
+'soldier': SHRERPBL
+'had': H
 'fallen': TPAUL/-PB
 'through': THRU
-'crevice,': KREFS KW-BG
-'lay': HRAEU
-'an': APB
-'open': OEP
-'tomb.': TAOUPL TP-PL
-'That': THA
-'day': TKAEU
-'passed,': PAFD KW-BG

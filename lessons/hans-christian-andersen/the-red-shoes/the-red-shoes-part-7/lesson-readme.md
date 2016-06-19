@@ -1,132 +1,124 @@
 # The Red Shoes Part 7
 
-* terrified, `TER/TPAOEUD KW-BG`
-* and `SKP`
-* wanted `WAPBTD`
-* to `TO`
-* fling `TPHREUPBG`
-* off `OF`
+* with `W`
 * the `-T`
 * red `RED`
-* shoes, `SHAOS KW-BG`
-* but `PWUT`
-* they `THE`
-* clung `KHRUPBG`
-* fast; `TPA*S STPH*FPLT`
+* beard; `PWAERD STPH*FPLT`
+* he `E`
+* sat `SAT`
+* there `THR`
+* nodding `TPHOD/-G`
+* his `HEUS`
+* head `HED`
+* and `SKP`
+* said: `SAEUD STPH-FPLT`
+* "Dear `KR-GS TKAER`
+* me, `PHE KW-BG`
+* what `WHA`
+* pretty `PREUT`
+* dancing `TKAPBS/-G`
+* shoes!" `SHAOS SKHRAPL KR-GS`
 * she `SHE`
-* pulled `PULD`
-* down `TKOUPB`
+* was `WA`
+* frightened, `TPRAOEUPBD KW-BG`
+* wanted `WAPBTD`
+* to `TO`
+* throw `THROE`
+* shoes `SHAOS`
+* away; `A/WAEU STPH*FPLT`
+* but `PWUT`
+* They `THE`
+* stuck `STUBG`
+* fast. `TPAFT TP-PL`
+* tore `TO*R`
+* off `OF`
 * her `HER`
 * stockings, `STOBG/-G/-S KW-BG`
-* shoes `SHAOS`
-* seemed `SAOEPLD`
-* have `SR`
+* had `H`
 * grown `TKPWROEPB`
+* fast `TPAFT`
 * feet. `TPAOET TP-PL`
-* danced, `TKAPBS/-D KW-BG`
-* must `PHUFT`
-* dance, `TKAPBS KW-BG`
+* danced `TKAPBS/-D`
+* obliged `OE/PWHRAOEUPBLGD`
+* go `TKPW`
+* on `OPB`
 * over `OEFR`
-* fields `TPAOELDZ`
-* meadows, `PHED/OES KW-BG`
+* field `TPAOELD`
+* meadow, `PHED/OE KW-BG`
 * in `TPH`
 * rain `RAEUPB`
 * sunshine, `S*UPB/SHAOEUPB KW-BG`
 * by `PWEU`
 * night `TPHAOEUT`
-* day; `TKAEU STPH*FPLT`
-* at `AT`
+* day—but `TKAEU EPL/TKA*RB PWUT`
 * it `T`
-* was `WA`
-* most `PHO*S`
-* fearful. `TPAOER/-FL TP-PL`
-* danced `TKAPBS/-D`
-* churchyard, `KHUR/-FP/KWRARD KW-BG`
+* most `PHOFT`
+* horrible. `HORBL TP-PL`
+* out `OUT`
+* into `TPHAO`
+* open `OEP`
+* churchyard; `KH*URPBLG/KWRARD STPH*FPLT`
 * dead `TKED`
 * did `TK`
 * not `TPHOT`
-* dance--they `TKAPBS H-PB H-PB THE`
-* had `H`
+* dance. `TKAPBS TP-PL`
 * something `S-G`
 * better `PWOERT`
 * do `TKO`
 * than `THAPB`
-* dance. `TKAPBS TP-PL`
-* wished `WEURBD`
-* seat `SAOET`
-* herself `H*ERS`
-* on `OPB`
-* a `AEU`
-* poor `PAOR`
-* man's `PHAPB AE S*/SP-S`
-* grave, `TKPWRAEUF KW-BG`
+* that. `THA TP-PL`
+* sit `SEUT`
+* down `TKOUPB`
+* pauper's `PAU/PER AE S*/SP-S`
+* grave `TKPWRAEUF`
 * where `W-R`
 * bitter `PWEURT`
-* tansy `XXX tansy`
-* grew; `TKPWRAOU STPH*FPLT`
+* fern `TPERPB`
+* grows; `TKPWRO*ES STPH*FPLT`
 * for `TPOR`
-* there `THR`
 * neither `TPHAOERT`
 * peace `PAES`
 * nor `TPH-R`
-* rest; `R*ES STPH*FPLT`
-* when `WHEPB`
-* towards `TORDZ`
-* open `OEP`
+* rest. `REFT TP-PL`
+* as `AZ`
+* past `PAFT`
 * church `KHUFRPB`
-* door, `TKAOR KW-BG`
+* door `TKAOR`
 * saw `SAU`
 * an `APB`
 * angel `APBG/EL`
-* standing `STAPBG`
-* there. `THR TP-PL`
-* he `E`
-* wore `WOR`
-* long, `HROPBG KW-BG`
+* long `HROPBG`
 * white `WHAOEUT`
-* garments; `TKPWARPLTS STPH*FPLT`
+* robes, `ROEB/-S KW-BG`
 * wings `WEUPBGS`
-* which `WEU`
-* reached `RAOEFPD`
+* reaching `RAOEFPG`
 * from `TPR`
-* his `HEUS`
 * shoulders `SHOURLDZ`
 * earth; `*ERT STPH*FPLT`
-* countenance `KOUPBT/TPHAPBS`
-* severe `SWAOER`
-* grave; `TKPWRAEUF STPH*FPLT`
+* face `TPAEUS`
+* stern `STERPB`
+* grave, `TKPWRAEUF KW-BG`
 * hand `HAPBD`
 * held `HELD`
-* sword, `SOERD KW-BG`
+* a `AEU`
 * broad `PWROD`
-* glittering. `TKPWHREUT/ERG TP-PL`
-* "Dance `KR-GS TKAPBS`
-* shalt `SHALT`
-* thou!" `THO*U SKHRAPL KR-GS`
+* shining `SHAOEUPBG`
+* sword. `SOERD TP-PL`
+* "dance `KR-GS TKAPBS`
+* you `U`
+* shall," `SHAL KW-BG KR-GS`
 * said `SAEUD`
-* he. `E TP-PL`
-* thy `THAO*EU`
-* Till `T*EUL`
-* thou `THO*U`
-* art `ART`
+* he, `E KW-BG`
+* your `KWROUR`
+* till `T*EUL`
+* are `R`
 * pale `PAEL`
-* cold! `KOELD SKHRAPL`
+* cold, `KOELD KW-BG`
 * skin `SKEUPB`
 * shrivels `SHREUFL/-S`
 * up `UP`
 * skeleton! `SKEL/TOPB SKHRAPL`
 * Dance `TKAPBS`
-* door `TKAOR`
-* proud, `PROUD KW-BG`
-* vain `SRA*EUPB`
-* children `KHEURPB`
-* dwell, `TKWEL KW-BG`
-* knock, `TPHOBG KW-BG`
-* that `THA`
-* may `PHAE`
-* hear `HAER`
-* thee `THAOE`
-* tremble! `TREPL/-BL SKHRAPL`
-* thou--!" `THO*U H-PB H-PB SKHRAPL KR-GS`
-* "Mercy!" `KR-GS PHER/SEU SKHRAPL KR-GS`
-* cried `KRAOEUD`
+* shall, `SHAL KW-BG`
+* door, `TKAOR KW-BG`
+* proud `PROUD`

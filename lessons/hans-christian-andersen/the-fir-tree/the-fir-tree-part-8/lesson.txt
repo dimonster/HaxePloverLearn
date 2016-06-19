@@ -1,127 +1,202 @@
 The Fir Tree Part 8
 
-'a': AEU
-'headache': HAEUBG
-'with': W
-'us.': US TP-PL
-'the': -T
-'candles': KAPBD/-LS
-'were': WR
-'Now': TPHOU
-'lighted--what': HRAOEUT/-D H-PB H-PB WHA
-'brightness!': XXX brightness SKHRAPL
-'What': WHA
-'splendor!': SHREPBD/O*R SKHRAPL
-'Tree': TRAOE
-'trembled': TREPL/-BLD
-'So': SO
-'in': TPH
-'every': EF
-'bough': PWO*U
-'that': THA
-'one': WUPB
-'of': -F
-'tapers': TAEURPS
-'set': SET
-'fire': TPAOEUR
-'to': TO
-'foliage.': TPOEL/APBLG TP-PL
-'it': T
-'blazed': PWHRAEUZ/-D
-'up': UP
-'famously.': TPAEUPL/SHREU TP-PL
-'"Help!': KR-GS HEP SKHRAPL
-'Help!"': HEP SKHRAPL KR-GS
-'cried': KRAOEUD
-'young': KWRUPBG
-'ladies,': HRA*EDZ KW-BG
-'and': SKP
+'was': WA
+'no': TPHO
+'danger,': TKAEUPBLG KW-BG
+'for': TPOR
 'they': THE
 'quickly': KWEULG
-'put': PUT
-'out': OUT
+'extinguished': EBGS/TEUPBG/WEURBD
+'the': -T
 'fire.': TPAOEUR TP-PL
-'did': TK
+'After': AF
+'this,': TH KW-BG
+'the': -T
+'tree': TRAOE
+'tried': TRAOEUD
 'not': TPHOT
-'even': AOEPB
-'dare': TKAEUR
-'tremble.': TREPL/-BL TP-PL
-'state': STA*ET
+'to': TO
+'tremble': TREPL/-BL
+'at': AT
+'all,': AUL KW-BG
+'though': THOE
+'the': -T
+'fire': TPAOEUR
+'frightened': TPRAOEUPBD
+'him;': HEUPL STPH*FPLT
 'he': E
 'was': WA
-'in!': TPH SKHRAPL
-'uneasy': XXX uneasy
-'lest': HR*ES
-'should': SHO
-'lose': HRUZ
-'something': S-G
-'his': HEUS
-'splendor,': SHREPBD/O*R KW-BG
-'quite': KWAOEUT
-'bewildered': PWE/WEULD/ERD
-'amidst': A/PH*EUS
-'glare': TKPWHRAEUR
-'brightness;': XXX brightness STPH*FPLT
-'when': WHEPB
-'suddenly': SULD
-'both': PWO*T
-'folding-doors': TPOELGD H-PB TKAORS
-'opened': OEPD
+'so': SO
+'anxious': KPUS
+'not': TPHOT
+'to': TO
+'hurt': HURT
+'any': TPHEU
+'of': -F
+'the': -T
+'beautiful': PWAOUFL
+'ornaments,': ORPB/-PLTS KW-BG
+'even': AOEPB
+'while': WHAOEUL
+'their': THAEUR
+'brilliancy': XXX brilliancy
+'dazzled': TKAZ/-LD
+'him.': HEUPL TP-PL
+'And': SKP
+'now': TPHOU
+'the': -T
+'folding': TPOELGD
+'doors': TKAORS
+'were': WR
+'thrown': THROEPB
+'open,': OEP KW-BG
+'and': SKP
+'a': AEU
 'troop': TRAOP
+'of': -F
 'children': KHEURPB
 'rushed': RURBD
+'in': TPH
 'as': AZ
 'if': TP
-'would': WO
-'upset': UP/S*ET
-'Tree.': TRAOE TP-PL
-'older': OERLD
-'persons': PERPBS
+'they': THE
+'intended': EUPB/TED/-D
+'to': TO
+'upset': AUP/SAET
+'the': -T
+'tree;': TRAOE STPH*FPLT
+'they': THE
+'were': WR
 'followed': TPOLD
-'quietly;': KWAO*EULT STPH*FPLT
+'more': PHOR
+'silently': SHREPBLT
+'by': PWEU
+'their': THAEUR
+'elders.': ELD/ERS TP-PL
+'For': TPOR
+'a': AEU
+'moment': PHOEPLT
+'the': -T
 'little': HREUL
 'ones': WUPBZ
 'stood': STAOD
-'still.': STEUL TP-PL
-'But': PWUT
-'only': OEPBL
-'for': TPOR
-'moment;': PHOEPLT STPH*FPLT
+'silent': SHREPBT
+'with': W
+'astonishment,': AS/TOPB/SH-PLT KW-BG
+'and': SKP
 'then': THEPB
+'they': THE
 'shouted': SHOUT/-D
-'whole': WHOEL
-'place': PHRAEUS
-'re-echoed': XXX re H-PB EBG/OE/-D
-'their': THAEUR
-'rejoicing;': RE/SKWROEUFG STPH*FPLT
+'for': TPOR
+'joy,': SKWROEU KW-BG
+'till': T*EUL
+'the': -T
+'room': RAOPL
+'rang,': RAPBG KW-BG
+'and': SKP
+'they': THE
 'danced': TKAPBS/-D
+'merrily': PHER/HREU
 'round': ROUPBD
-'Tree,': TRAOE KW-BG
+'the': -T
+'tree,': TRAOE KW-BG
+'while': WHAOEUL
+'one': WUPB
 'present': PREPBT
 'after': AF
-'other': OER
-'pulled': PULD
-'off.': OF TP-PL
+'another': TPHOER
+'was': WA
+'taken': TAEPB
+'from': TPR
+'it.': T TP-PL
 '"What': KR-GS WHA
 'are': R
-'about?"': PW H-F KR-GS
-'thought': THAUT
-'is': S
+'they': THE
+'doing?': TK*G H-F
+'What': WHA
+'will': HR
 'happen': HAP
-'now!"': TPHOU SKHRAPL KR-GS
-'lights': HRAOEUTS
-'burned': PWURPBD
+'next?"': TPHEGT H-F KR-GS
+'thought': THAUT
+'the': -T
+'fir.': TPEUR TP-PL
+'At': AT
+'last': HRAFT
+'the': -T
+'candles': KAPBD/-LS
+'burnt': PWURPBT
 'down': TKOUPB
-'very': SRE
-'branches,': PWRAFPBS KW-BG
-'other,': OER KW-BG
-'had': H
-'permission': PERPLGS
-'plunder': PHRUPBD/ER
-'fell': TPEL
-'upon': POPB
-'such': SUFP
-'violence': SROEUPBLS
-'all': AUL
-'its': EUTS
+'to': TO
+'the': -T
 'branches': PWRAFPBS
+'and': SKP
+'were': WR
+'put': PUT
+'out.': OUT TP-PL
+'Then': THEPB
+'the': -T
+'children': KHEURPB
+'received': SAOEFD
+'permission': PERPLGS
+'to': TO
+'plunder': PHRUPBD/ER
+'the': -T
+'tree.': TRAOE TP-PL
+'Oh,': O*ERBGS KW-BG
+'how': HOU
+'they': THE
+'rushed': RURBD
+'upon': POPB
+'it,': T KW-BG
+'till': T*EUL
+'the': -T
+'branches': PWRAFPBS
+'cracked,': KRABGD KW-BG
+'and': SKP
+'had': H
+'it': T
+'not': TPHOT
+'been': PW-PB
+'fastened': TPAS/-PBD
+'with': W
+'the': -T
+'glistening': TKPWHREUFP/-G
+'star': STAR
+'to': TO
+'the': -T
+'ceiling,': KAOELG KW-BG
+'it': T
+'must': PHUFT
+'have': SR
+'been': PW-PB
+'thrown': THROEPB
+'down.': TKOUPB TP-PL
+'The': -T
+'children': KHEURPB
+'then': THEPB
+'danced': TKAPBS/-D
+'about': PW
+'with': W
+'their': THAEUR
+'pretty': PREUT
+'toys,': TOEUS KW-BG
+'and': SKP
+'no': TPHO
+'one': WUPB
+'noticed': TPH-TSD
+'the': -T
+'tree,': TRAOE KW-BG
+'except': KPEPT
+'the': -T
+'children's': KHEURPBS
+'maid': PHAEUD
+'who': WHO
+'came': KAEUPL
+'and': SKP
+'peeped': PAOEPD
+'among': PHOPBG
+'the': -T
+'branches': PWRAFPBS
+'to': TO
+'see': SAOE
+'if': TP

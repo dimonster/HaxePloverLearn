@@ -1,134 +1,202 @@
 The Fir Tree Part 5
 
-'"I': KR-GS EU
-'would': WO
-'fain': TPA*EUPB
-'know': TPHOE
-'if': TP
-'I': EU
-'am': *PL
-'destined': TKES/TEUPBD
-'for': TPOR
-'so': SO
-'glorious': TKPWHRORS
-'a': AEU
-'career,"': KRAOER KW-BG KR-GS
-'cried': KRAOEUD
-'the': -T
-'Tree,': TRAOE KW-BG
-'rejoicing.': RE/SKWROEUFG TP-PL
-'"That': KR-GS THA
-'is': S
-'still': STEUL
-'better': PWOERT
-'than': THAPB
-'to': TO
-'cross': KROS
-'sea!': SAE SKHRAPL
-'what': WHA
-'longing': HROPBG/-G
-'do': TKO
-'suffer!': SUFR SKHRAPL
-'Were': WR
-'Christmas': KREUS/PHAS
-'But': PWUT
-'come!': KOPL SKHRAPL
-'now': TPHOU
-'tall,': TAUL KW-BG
-'and': SKP
-'my': PHEU
-'branches': PWRAFPBS
-'spread': SPRED
-'like': HRAOEUBG
-'others': OERS
-'that': THA
-'carried': KAERD
-'off': OF
-'last': HRAFT
-'year!': KWRAOER SKHRAPL
 'Oh!': O*ERBGS SKHRAPL
-'already': HR-R
+'that': THA
+'I': EU
+'were': WR
+'now': TPHOU
+'laid': HRAEUD
 'on': OPB
-'cart!': KART SKHRAPL
+'the': -T
+'wagon,': WAG/OPB KW-BG
+'or': OR
+'standing': STAPBG
 'in': TPH
+'the': -T
 'warm': WARPL
-'room': RAOPL
+'room,': RAOPL KW-BG
 'with': W
 'all': AUL
+'that': THA
+'brightness': XXX brightness
+'and': SKP
 'splendor': SHREPBD/O*R
-'magnificence!': PHAFPBS SKHRAPL
-'Yes;': KWRE STPH*FPLT
-'then': THEPB
-'something': S-G
-'better,': PWOERT KW-BG
-'grander,': TKPWRAPBD/*ER KW-BG
-'will': HR
-'surely': SHURL
-'follow,': TPOL KW-BG
+'around': ARPBD
+'me!': PHE SKHRAPL
+'Something': S-G
+'better': PWOERT
+'and': SKP
+'more': PHOR
+'beautiful': PWAOUFL
+'is': S
+'to': TO
+'come': KOPL
+'after,': AF KW-BG
 'or': OR
-'wherefore': W-R/TPOR
-'should': SHO
-'they': THE
-'thus': THUS
-'ornament': ORPB/*PLT
-'me?': PHE H-F
-'grander': TKPWRAPBD/*ER
-'must': PHUFT
-'follow--but': TPOL H-PB H-PB PWUT
-'what?': WHA H-F
-'Oh,': O*ERBGS KW-BG
-'how': HOU
-'long,': HROPBG KW-BG
+'the': -T
+'trees': TRAOES
+'would': WO
 'not': TPHOT
-'myself': PHAO*EUS
-'matter': PHAERT
-'me!"': PHE SKHRAPL KR-GS
+'be': -B
+'so': SO
+'decked': TKEBG/-D
+'out.': OUT TP-PL
+'Yes,': KWRE KW-BG
+'what': WHA
+'follows': TPOLS
+'will': HR
+'be': -B
+'grander': TKPWRAPBD/*ER
+'and': SKP
+'more': PHOR
+'splendid.': SPHREPBD/EUD TP-PL
+'What': WHA
+'can': K
+'it': T
+'be?': -B H-F
+'I': EU
+'am': APL
+'weary': WAOE/REU
+'with': W
+'longing.': HROPBG/-G TP-PL
+'I': EU
+'scarcely': SKAEURS/HREU
+'know': TPHOE
+'how': HOU
+'I': EU
+'feel."': TPAOEL TP-PL KR-GS
 '"Rejoice': KR-GS RE/SKWROEUS
-'our': OUR
-'presence!"': PREPBS SKHRAPL KR-GS
+'with': W
+'us,"': US KW-BG KR-GS
 'said': SAEUD
-'Air': AEUR
-'Sunlight.': SULGT TP-PL
-'thy': THAO*EU
+'the': -T
+'air': AEUR
+'and': SKP
+'the': -T
+'sunlight.': SULGT TP-PL
+'"Enjoy': KR-GS TPHOEUPBLG
+'thine': THAOEUPB
 'own': OEPB
+'bright': PWRAOEUT
+'life': HRAOEUF
+'in': TPH
+'the': -T
 'fresh': TPRERB
-'youth!"': KWRAO*UT SKHRAPL KR-GS
-'Tree': TRAOE
-'did': TK
-'rejoice': RE/SKWROEUS
-'at': AT
-'all;': AUL STPH*FPLT
-'he': E
+'air."': AEUR TP-PL KR-GS
+'But': PWUT
+'the': -T
+'tree': TRAOE
+'would': WO
+'not': TPHOT
+'rejoice,': RE/SKWROEUS KW-BG
+'though': THOE
+'it': T
 'grew': TKPWRAOU
-'grew,': TKPWRAOU KW-BG
-'was': WA
-'green': TKPWRAOEPB
-'both': PWO*T
+'taller': TAURL
+'every': EF
+'day;': TKAEU STPH*FPLT
+'and,': SKP KW-BG
 'winter': WEURPBT
-'summer.': SAOURPL TP-PL
-'People': PAOEPL
-'saw': SAU
-'him': HEUPL
-'said,': SAEUD KW-BG
+'and': SKP
+'summer,': SAOURPL KW-BG
+'its': EUTS
+'dark-green': TKARBG H-PB TKPWRAOEPB
+'foliage': TPOEL/APBLG
+'might': PHAOEUT
+'be': -B
+'seen': SAOEPB
+'in': TPH
+'the': -T
+'forest,': TPOEFRT KW-BG
+'while': WHAOEUL
+'passers': PASZ/ERS
+'by': PWEU
+'would': WO
+'say,': SAEU KW-BG
 '"What': KR-GS WHA
-'fine': TPAOEUPB
+'a': AEU
+'beautiful': PWAOUFL
 'tree!"': TRAOE SKHRAPL KR-GS
-'towards': TORDZ
-'one': WUPB
-'of': -F
+'A': AEU
+'short': SHORT
+'time': TAOEUPL
+'before': PW-F
+'Christmas,': KREUS/PHAS KW-BG
+'the': -T
+'discontented': TKEUS/KOPB/TEPBT/-D
+'fir-tree': TPEUR H-PB TRAOE
+'was': WA
+'the': -T
 'first': TPEURS
-'cut': KUT
-'down.': TKOUPB TP-PL
+'to': TO
+'fall.': TPAL TP-PL
+'As': AZ
+'the': -T
 'axe': ABGS
-'struck': STRUBG
-'deep': TKAOEP
-'into': TPHAO
-'very': SRE
-'pith;': P*EUT STPH*FPLT
+'cut': KUT
+'through': THRU
+'the': -T
+'stem,': STEPL KW-BG
+'and': SKP
+'divided': TKWAOEUTD
+'the': -T
+'pith,': P*EUT KW-BG
+'the': -T
+'tree': TRAOE
 'fell': TPEL
-'earth': *ERT
-'sigh;': SAOEU STPH*FPLT
-'felt': TPELT
-'pang--it': PAPBG H-PB H-PB T
-'swoon;': SWAOPB STPH*FPLT
-'could': KO
+'with': W
+'a': AEU
+'groan': TKPWRAOPB
+'to': TO
+'the': -T
+'earth,': *ERT KW-BG
+'conscious': K-RBS
+'of': -F
+'pain': PAEUPB
+'and': SKP
+'faintness,': XXX faintness KW-BG
+'and': SKP
+'forgetting': TPERGT/-G
+'all': AUL
+'its': EUTS
+'anticipations': SPAEUGS/-S
+'of': -F
+'happiness,': HAEP/-PBS KW-BG
+'in': TPH
+'sorrow': SROE
+'at': AT
+'leaving': HREFG
+'its': EUTS
+'home': HOEPL
+'in': TPH
+'the': -T
+'forest.': TPOEFRT TP-PL
+'It': T
+'knew': TPHAOU
+'that': THA
+'it': T
+'should': SHO
+'never': TPHEF
+'again': TKPWEPB
+'see': SAOE
+'its': EUTS
+'dear': TKAER
+'old': OLD
+'companions,': KPAPB/KWROPBS KW-BG
+'the': -T
+'trees,': TRAOES KW-BG
+'nor': TPH-R
+'the': -T
+'little': HREUL
+'bushes': PWURBS
+'and': SKP
+'many-colored': PHAEPB H-PB KHRORD
+'flowers': TPHRO*URS
+'that': THA
+'had': H
+'grown': TKPWROEPB
+'by': PWEU
+'its': EUTS
+'side;': SAOEUD STPH*FPLT
+'perhaps': PRAPS
+'not': TPHOT

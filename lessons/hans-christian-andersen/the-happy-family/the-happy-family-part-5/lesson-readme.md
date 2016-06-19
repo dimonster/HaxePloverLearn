@@ -1,133 +1,125 @@
 # The Happy Family Part 5
 
-* enough `TPHUF`
-* of," `-F KW-BG KR-GS`
-* said `SAEUD`
+* in `TPH`
 * the `-T`
+* wood `WAOD`
+* there `THR`
+* may `PHAE`
+* be `-B`
+* others `OERS`
+* of `-F`
+* our `OUR`
+* race?" `RAEUS H-F KR-GS`
+* "There `KR-GS THR`
+* black `PWHRABG`
+* snails, `STPHAEUL/-S KW-BG`
+* no `TPHO`
+* doubt," `TKOUT KW-BG KR-GS`
+* said `SAEUD`
 * old `OLD`
-* one. `WUPB TP-PL`
-* "Black `KR-GS PWHRABG`
+* snail; `STPHAEUL STPH*FPLT`
+* "black `KR-GS PWHRABG`
 * snails `STPHAEUL/-S`
 * without `WOUT`
-* a `AEU`
-* house--but `HOUS H-PB H-PB PWUT`
+* houses; `HO*UFS STPH*FPLT`
+* But `PWUT`
 * they `THE`
 * are `R`
 * so `SO`
-* common, `KPHOPB KW-BG`
+* vulgar `SROL/TKPWAR`
 * and `SKP`
-* conceited. `KOPB/SAOET/-D TP-PL`
-* But `PWUT`
+* conceited `KOPB/SAOET/-D`
+* too. `TAO TP-PL`
 * we `WE`
-* might `PHAOEUT`
+* can `K`
 * give `TKPWEUF`
 * ants `A*PBT/-S`
-* commission `KPHEUG`
-* to `TO`
-* look `HRAOBG`
-* out `OUT`
-* for `TPOR`
-* us; `US STPH*FPLT`
+* a `AEU`
+* commission; `KPHEUG STPH*FPLT`
 * run `RUPB`
-* fro `TPRO`
+* here `HAOER`
+* there, `THR KW-BG`
 * as `AZ`
-* if `TP`
+* If `TP`
+* all `AUL`
 * had `H`
-* something `S-G`
-* do, `TKO KW-BG`
-* certainly `SERPBL`
+* much `PHUFP`
+* business `PWEUS`
+* to `TO`
+* get `TKPWET`
+* through. `THRU TP-PL`
+* They, `THE KW-BG`
+* most `PHOFT`
+* likely, `HREULG KW-BG`
+* will `HR`
 * know `TPHOE`
-* of `-F`
 * wife `WAOEUF`
-* our `OUR`
-* little `HREUL`
-* snail!" `STPHAEUL SKHRAPL KR-GS`
+* for `TPOR`
+* youngster." `KWRUPBGS/TER TP-PL KR-GS`
 * "I `KR-GS EU`
-* one, `WUPB KW-BG`
-* sure `SHUR`
-* enough--the `TPHUF H-PB H-PB -T`
-* most `PHO*S`
-* charming `KHARPL/-G`
-* one!" `WUPB SKHRAPL KR-GS`
+* certainly `SERPBL`
+* beautiful `PWAOUFL`
+* bride," `PWRAOEUD KW-BG KR-GS`
 * one `WUPB`
-* ants. `A*PBT/-S TP-PL`
-* "But `KR-GS PWUT`
+* ants; `A*PBT/-S STPH*FPLT`
+* "but `KR-GS PWUT`
 * I `EU`
-* am `*PL`
-* afraid `A/TPRAEUD`
-* shall `SHAL`
-* hardly `HA*RLD`
-* succeed, `SKAOED KW-BG`
+* fear `TPAOER`
+* it `T`
+* would `WO`
+* not `TPHOT`
+* do, `TKO KW-BG`
 * she `SHE`
 * is `S`
-* queen!" `KWAOEPB SKHRAPL KR-GS`
+* queen." `KWAOEPB TP-PL KR-GS`
 * "That `KR-GS THA`
-* nothing!" `TPHOG SKHRAPL KR-GS`
-* folks. `TPOBG TP-PL`
-* "Has `KR-GS HAS`
+* does `TKOS`
+* matter," `PHAERT KW-BG KR-GS`
+* "has `KR-GS HAS`
 * house?" `HOUS H-F KR-GS`
 * "She `KR-GS SHE`
 * has `HAS`
-* palace!" `PAL/AS SKHRAPL KR-GS`
-* ant. `A*PBT TP-PL`
-* "The `KR-GS -T`
-* finest `TPAOEUPB/*ES`
-* ant's `A*PBT AE S*/SP-S`
-* palace, `PAL/AS KW-BG`
+* palace," `PAL/AS KW-BG KR-GS`
+* replied `RE/PHRAOEUD`
+* ant,—"a `A*PBT KW-BG EPL/TKA*RB KR-GS AEU`
+* ant-palace `A*PBT H-PB PAL/AS`
 * with `W`
 * seven `SEFPB`
 * hundred `HUPBD`
-* passages!" `PA*PBLGS SKHRAPL KR-GS`
-* thank `THAPBG`
-* you!" `U SKHRAPL KR-GS`
-* Mother `PHOER`
-* Snail. `STPHAEUL TP-PL`
-* "Our `KR-GS OUR`
-* son `SOPB`
-* not `TPHOT`
+* passages." `PA*PBLGS TP-PL KR-GS`
+* "Thank-you," `KR-GS THAPBG H-PB U KW-BG KR-GS`
+* mother-snail; `PHOER H-PB STPHAEUL STPH*FPLT`
+* boy `PWOEU`
+* shall `SHAL`
 * go `TKPW`
-* into `TPHAO`
+* live `HREUF`
 * an `APB`
-* ant-hill; `A*PBT H-PB HEUL STPH*FPLT`
+* ant-hill. `A*PBT H-PB HEUL TP-PL`
 * you `U`
 * nothing `TPHOG`
-* better `PWOERT`
-* than `THAPB`
-* that, `THA KW-BG`
+* better, `PWOERT KW-BG`
+* commission `KPHEUG`
 * white `WHAOEUT`
-* gnats. `TPHA*T/-S TP-PL`
+* gnats; `TPHA*T/-S STPH*FPLT`
 * fly `TPHRAOEU`
-* far `TPAR`
-* wide, `WAOEUD KW-BG`
-* in `TPH`
+* about `PW`
 * rain `RAEUPB`
 * sunshine; `S*UPB/SHAOEUPB STPH*FPLT`
-* whole `WHOEL`
-* forest `TPO*RS`
-* here, `HAOER KW-BG`
-* both `PWO*T`
-* within `W-PB`
-* without." `WOUT TP-PL KR-GS`
+* burdock `XXX burdock`
+* from `TPR`
+* end `EPBD`
+* other." `OER TP-PL KR-GS`
 * "We `KR-GS WE`
 * have `SR`
 * him," `HEUPL KW-BG KR-GS`
-* "At `KR-GS AT`
-* human `HAOUPL`
-* paces `PAEUS/-S`
-* from `TPR`
-* here `HAOER`
-* there `THR`
-* sits `SEUTS`
+* "a `KR-GS AEU`
+* man-steps `PHAPB H-PB STEPS`
+* little `HREUL`
 * snail `STPHAEUL`
-* her `HER`
 * house, `HOUS KW-BG`
+* sitting `SAO*EGT`
 * on `OPB`
-* gooseberry `TKPWAOS/PWER/REU`
-* bush; `PWURB STPH*FPLT`
+* gooseberry-bush; `TKPWAOS/PWER/REU H-PB PWURB STPH*FPLT`
 * quite `KWAOEUT`
-* lonely, `HROPBL KW-BG`
-* be `-B`
-* married. `PHAERD TP-PL`
-* It `T`
-* only `OEPBL`
-* paces!" `PAEUS/-S SKHRAPL KR-GS`
+* alone, `A/HROEPB KW-BG`
+* enough `TPHUF`

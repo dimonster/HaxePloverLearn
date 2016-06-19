@@ -1,128 +1,129 @@
 # The Bell Part 4
 
-* distinctness. `XXX distinctness TP-PL`
+* ever. `-FR TP-PL`
 * they `THE`
-* all `AUL`
-* immediately `PHAOELD`
-* felt `TPELT`
+* had `H`
 * a `AEU`
-* wish `WEURB`
+* mind `PHAOEUPBD`
 * to `TO`
 * go `TKPW`
-* thither; `TH*EURT STPH*FPLT`
+* thither, `TH*EURT KW-BG`
+* all `AUL`
 * except `KPEPT`
 * three. `THRAOE TP-PL`
-* one `WUPB`
+* One `WUPB`
 * of `-F`
 * them `THEPL`
-* had `H`
+* wished `WEURBD`
 * home `HOEPL`
+* and `SKP`
 * try `TREU`
 * on `OPB`
-* ball-dress; `PWAUL H-PB TKRES STPH*FPLT`
-* for `TPOR`
-* it `T`
-* was `WA`
-* just `SKWRUFT`
-* the `-T`
-* dress `TKRES`
-* and `SKP`
-* ball `PWAUL`
-* which `WEU`
-* caused `KAUFD`
 * her `HER`
-* be `-B`
-* confirmed `K-FRPL/-D`
+* ball `PWAUL`
+* dress, `TKRES KW-BG`
+* for `TPOR`
 * this `TH`
+* very `SRE`
+* dress `TKRES`
+* the `-T`
+* were `WR`
+* cause `KAUS`
+* being `-BG`
+* confirmed `K-FRPL/-D`
 * time, `TAOEUPL KW-BG`
 * otherwise `O*ERZ`
 * she `SHE`
 * would `WO`
 * not `TPHOT`
 * have `SR`
-* come; `KOPL STPH*FPLT`
-* other `OER`
+* been `PW-PB`
+* allowed `HRO*UD`
+* go. `TKPW TP-PL`
+* second, `SEBGD KW-BG`
 * poor `PAOR`
 * boy, `PWOEU KW-BG`
-* who `WHO`
 * borrowed `PWO*ERD`
-* his `HEUS`
 * coat `KOET`
+* pair `PAEUR`
 * boots `PWAOTS`
-* in `TPH`
 * from `TPR`
-* innkeeper's `*EUPB/KAOEP/ER AE S*/SP-S`
-* son, `SOPB KW-BG`
+* son `SOPB`
+* his `HEUS`
+* landlord `HR-LD`
+* be `-B`
+* in, `TPH KW-BG`
 * he `E`
-* give `TKPWEUF`
-* back `PWABG`
-* by `PWEU`
+* return `RURPB`
+* at `AT`
 * certain `SERPB`
-* hour; `HOUR STPH*FPLT`
+* time. `TAOEUPL TP-PL`
 * third `THEURD`
 * said `SAEUD`
 * that `THA`
 * never `TPHEF`
 * went `WEPBT`
+* into `TPHAO`
 * strange `STRAEUPBG`
-* place `PHRAEUS`
+* places `PHRAEUFS`
 * if `TP`
 * parents `PARPBTS`
-* were `WR`
 * with `W`
-* him--that `HEUPL H-PB H-PB THA`
-* always `AULS`
-* been `PW-PB`
+* him; `HEUPL STPH*FPLT`
+* always `AULZ`
 * good `TKPWAOD`
-* boy `PWOEU`
-* hitherto, `H*EUT/ER/TO KW-BG`
-* still `STEUL`
-* so `SO`
-* now `TPHOU`
+* child, `KHAOEULD KW-BG`
+* remain `RE/PHAUPB`
+* so, `SO KW-BG`
+* even `AOEPB`
+* after `AF`
 * confirmed, `K-FRPL/-D KW-BG`
 * ought `OT`
-* laugh `HRAF`
-* at `AT`
+* tease `TAOES`
 * him `HEUPL`
-* it: `T STPH-FPLT`
-* others, `OERS KW-BG`
+* this; `TH STPH*FPLT`
+* they, `THE KW-BG`
 * however, `HOUF KW-BG`
 * did `TK`
-* make `PHAEUBG`
-* fun `TPUPB`
-* him, `HEUPL KW-BG`
-* after `AF`
-* all. `AUL TP-PL`
-* There `THR`
+* it `T`
+* same. `SAEUPL TP-PL`
+* These `THEZ`
 * three, `THRAOE KW-BG`
-* therefore, `TH-FR KW-BG`
+* therefore `TH-FR`
 * go; `TKPW STPH*FPLT`
 * others `OERS`
-* hastened `HAEUS/-PBD`
 * on. `OPB TP-PL`
 * sun `SUPB`
-* shone, `SHO*EPB KW-BG`
+* was `WA`
+* shining, `SHAOEUPBG KW-BG`
 * birds `PWEURDZ`
-* sang, `SAPBG KW-BG`
+* singing, `SEUPBG/-G KW-BG`
 * children `KHEURPB`
 * sang `SAPBG`
 * too, `TAO KW-BG`
+* holding `HOELGD`
 * each `AOEFP`
-* held `HELD`
-* hand; `HAPBD STPH*FPLT`
-* as `AZ`
-* yet `KWRET`
-* none `TPHOPB`
-* any `TPHEU`
-* high `HAOEU`
-* office, `OFS KW-BG`
+* other `OER`
+* by `PWEU`
+* hand, `HAPBD KW-BG`
+* no `TPHO`
+* position `POGS`
+* yet, `KWRET KW-BG`
 * equal `KWAL`
-* rank `RA*PBG`
-* eye `AOEU`
-* God. `TKPO*D TP-PL`
-* But `PWUT`
+* in `TPH`
+* eyes `AO*EUS`
+* God. `TKPWOD TP-PL`
 * two `TWO`
-* youngest `KWRUPBG/EFT`
+* smallest `SPHAUL/EFT`
 * soon `SAOPB`
-* grew `TKPWRAOU`
-* tired, `TAOEURD KW-BG`
+* became `PWAEUPL`
+* tired `TAOEURD`
+* returned `RURPBD`
+* town; `TOUPB STPH*FPLT`
+* little `HREUL`
+* girls `TKPWEURLS`
+* sat `SAT`
+* down `TKOUPB`
+* made `PHAED`
+* garlands `TKPWAR/HRAPBDZ`
+* flowers, `TPHRO*URS KW-BG`

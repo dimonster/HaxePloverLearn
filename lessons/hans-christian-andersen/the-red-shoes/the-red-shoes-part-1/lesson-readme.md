@@ -1,121 +1,120 @@
 # The Red Shoes Part 1
 
-* There `THR`
-* was `WA`
-* once `WUPBS`
+* Once `WUPBS`
+* upon `POPB`
 * a `AEU`
+* time `TAOEUPL`
+* there `THR`
+* was `WA`
 * little `HREUL`
-* girl `TKPWEURL`
-* who `WHO`
-* very `SRE`
+* girl, `TKPWEURL KW-BG`
 * pretty `PREUT`
-* And `SKP`
-* delicate, `TKEL/KAT KW-BG`
+* and `SKP`
+* dainty. `TKAEUPB/TEU TP-PL`
 * but `PWUT`
 * in `TPH`
 * summer `SAOURPL`
 * she `SHE`
-* forced `TPOFRD`
+* obliged `OE/PWHRAOEUPBLGD`
 * to `TO`
-* run `RUPB`
-* about `PW`
-* with `W`
-* bare `PWAEUR`
-* feet, `TPAOET KW-BG`
-* so `SO`
+* go `TKPW`
+* barefooted `PWAEUR/TPAO*T/-D`
+* because `PWAU`
 * poor, `PAOR KW-BG`
 * winter `WEURPBT`
+* had `H`
 * wear `WAER`
 * large `HRARPBLG`
 * wooden `WAOD/EPB`
 * shoes, `SHAOS KW-BG`
-* which `WEU`
-* made `PHAED`
-* her `HER`
-* insteps `XXX insteps`
-* quite `KWAOEUT`
-* red, `RED KW-BG`
+* so `SO`
 * that `THA`
-* looked `HRAOBGD`
-* dangerous! `TKAEUPBLGS SKHRAPL`
+* her `HER`
+* instep `XXX instep`
+* grew `TKPWRAOU`
+* quite `KWAOEUT`
+* red. `RED TP-PL`
 * the `-T`
 * middle `PH*EULD`
 * of `-F`
 * village `SREULG`
 * lived `HREUFD`
+* an `APB`
 * old `OLD`
-* Dame `TKAEUPL`
-* Shoemaker; `XXX Shoemaker STPH*FPLT`
+* shoemaker's `XXX shoemaker AE S*/SP-S`
+* wife; `WAOEUF STPH*FPLT`
 * sat `SAT`
-* sewed `SWE/-D`
-* together, `TOGT KW-BG`
+* down `TKOUPB`
+* made, `PHAED KW-BG`
 * as `AZ`
 * well `WEL`
 * could, `KO KW-BG`
 * pair `PAEUR`
 * shoes `SHAOS`
 * out `OUT`
+* some `SOPL`
+* pieces `PAOEFS`
 * red `RED`
-* strips `STREUPS`
-* cloth; `KHRO*T STPH*FPLT`
+* cloth. `KHRO*T TP-PL`
 * They `THE`
 * were `WR`
 * clumsy, `KHRUPL/SEU KW-BG`
-* it `T`
-* kind `KEUPBD`
-* thought. `THAUT TP-PL`
 * meant `PHEPBT`
+* well, `WEL KW-BG`
 * for `TPOR`
-* girl. `TKPWEURL TP-PL`
-* called `KAULD`
+* intended `EUPB/TED/-D`
+* whose `WHOZ`
+* name `TPHAEUPL`
 * Karen. `KAEURPB TP-PL`
-* on `OPB`
-* day `TKAEU`
-* mother `PHOER`
-* buried, `PWUR/EUD KW-BG`
 * Karen `KAEURPB`
 * received `SAOEFD`
 * wore `WOR`
 * them `THEPL`
 * first `TPEURS`
-* time. `TAOEUPL TP-PL`
+* on `OPB`
+* day `TKAEU`
+* mother's `PHOER AE S*/SP-S`
+* funeral. `TPAOUPBL TP-PL`
 * certainly `SERPBL`
 * not `TPHOT`
-* intended `EUPB/TED/-D`
-* mourning, `PHOURPBG KW-BG`
-* had `H`
+* suitable `SAOUT/-BL`
+* mourning; `PHOURPBG STPH*FPLT`
 * no `TPHO`
 * others, `OERS KW-BG`
-* stockingless `XXX stockingless`
+* put `PUT`
+* bare `PWAEUR`
 * feet `TPAOET`
-* followed `TPOLD`
-* poor `PAOR`
-* straw `STRAU`
-* coffin `KOFPB`
-* them. `THEPL TP-PL`
-* Suddenly `SULD`
-* carriage `KAEURPBLG`
-* drove `TKROEF`
-* up, `UP KW-BG`
-* lady `HRA*ED`
-* it: `T STPH-FPLT`
-* at `AT`
-* girl, `TKPWEURL KW-BG`
-* felt `TPELT`
-* compassion `KPAGS`
-* her, `HER KW-BG`
+* into `TPHAO`
+* walked `WAUBGD`
+* behind `HEUPBD`
+* humble `UPL/-BL`
+* coffin. `KOFPB TP-PL`
+* Just `SKWRUFT`
 * then `THEPB`
+* carriage `KAEURPBLG`
+* came `KAEUPL`
+* by, `PWEU KW-BG`
+* it `T`
+* lady; `HRA*ED STPH*FPLT`
+* looked `HRAOBGD`
+* at `AT`
+* taking `TAEUG`
+* pity `PEUT/TEU`
+* her, `HER KW-BG`
 * said `SAEUD`
-* clergyman: `KHRERPBLG/PHAPB STPH-FPLT`
-* "Here, `KR-GS HAOER KW-BG`
+* clergyman, `KHRERPBLG/PHAPB KW-BG`
+* "Look `KR-GS HRAOBG`
+* here, `HAOER KW-BG`
+* if `TP`
+* you `U`
+* will `HR`
 * give `TKPWEUF`
 * me `PHE`
 * I `EU`
-* will `HR`
-* adopt `TKOPT`
-* her!" `HER SKHRAPL KR-GS`
+* take `TAEUBG`
+* care `KAEUR`
+* her." `HER TP-PL KR-GS`
 * believed `PWHREFD`
-* all `AUL`
 * this `TH`
-* happened `HAPD`
+* all `AUL`
 * account `K-T`

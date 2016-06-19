@@ -1,126 +1,129 @@
 # The Old House Part 11
 
+* this `TH`
+* life." `HRAOEUF TP-PL KR-GS`
+* "you `KR-GS U`
+* are `R`
+* given `TKPWEUFPB`
+* away," `A/WAEU KW-BG KR-GS`
+* said `SAEUD`
+* The `-T`
+* little `HREUL`
+* boy; `PWOEU STPH*FPLT`
 * must `PHUFT`
-* remain. `RE/PHAUPB TP-PL`
-* Can `K`
+* stay. `STAEU TP-PL`
+* Don't `TKO*PB AE T*/SP-S`
 * you `U`
-* not `TPHOT`
-* understand `URPBD`
+* see `SAOE`
 * that?" `THA H-F KR-GS`
-* the `-T`
+* Then `THEPB`
 * old `OLD`
 * man `PHAPB`
-* now `TPHOU`
 * came `KAEUPL`
+* in, `TPH KW-BG`
 * with `W`
 * a `AEU`
-* drawer, `TKRAUR KW-BG`
-* in `TPH`
-* which `WEU`
-* there `THR`
-* was `WA`
-* much `PHUFP`
+* box `PWOBGS`
+* containing `KAUPB/TAEUPBG`
+* many `PHAEPB`
+* curious `KAOURS`
+* things `THEUPBGS`
 * to `TO`
-* be `-B`
-* seen, `SAOEPB KW-BG`
-* both `PWO*T`
-* "tin `KR-GS TEUPB`
-* boxes" `PWOBGS/-S KR-GS`
+* show `SHOE`
+* him. `HEUPL TP-PL`
+* Rouge-pots, `RAOUPBLG H-PB POTS KW-BG`
+* scent-boxes, `SKEPBT H-PB PWOBGS/-S KW-BG`
 * and `SKP`
-* "balsam `KR-GS PWAL/SAPL`
-* boxes," `PWOBGS/-S KW-BG KR-GS`
 * cards, `KARDZ KW-BG`
 * so `SO`
 * large `HRARPBLG`
+* richly `REUFP/HREU`
 * gilded, `TKPWEULD/-D KW-BG`
-* such `SUFP`
-* as `AZ`
-* one `WUPB`
-* never `TPHEF`
-* sees `SAO*ES`
+* that `THA`
+* none `TPHOPB`
+* ever `-FR`
+* seen `SAOEPB`
+* like `HRAOEUBG`
 * them `THEPL`
-* now. `TPHOU TP-PL`
-* several `SEFRL`
-* drawers `TKRAURS`
+* in `TPH`
+* these `THEZ`
+* days. `TKAEUS TP-PL`
+* there `THR`
 * were `WR`
-* opened, `OEPD KW-BG`
+* smaller `SPHAURL`
+* boxes `PWOBGS/-S`
+* look `HRAOBG`
+* at, `AT KW-BG`
 * piano `PAPB/TPHOE`
-* opened; `OEPD STPH*FPLT`
-* it `T`
-* had `H`
-* landscapes `HRAPBD/SKAEUPS`
-* on `OPB`
+* was `WA`
+* opened, `OEPD KW-BG`
 * inside `TPH-DZ`
-* of `-F`
-* lid, `HREUD KW-BG`
-* hoarse `HAORS`
+* lid `HREUD`
+* painted `PAEUPBTD`
+* landscapes. `HRAPBD/SKAEUPS TP-PL`
+* but `PWUT`
 * when `WHEPB`
-* played `PHRAEUD`
-* it! `T SKHRAPL`
-* then `THEPB`
+* played, `PHRAEUD KW-BG`
+* sounded `SOUPBD/-D`
+* quite `KWAOEUT`
+* out `OUT`
+* of `-F`
+* tune. `TAOUPB TP-PL`
 * he `E`
-* hummed `HUPL/-D`
-* song. `SOPBG TP-PL`
-* "Yes, `KR-GS KWRE KW-BG`
+* looked `HRAOBGD`
+* at `AT`
+* picture `P*EUFP`
+* had `H`
+* bought `PWAUT`
+* broker's, `PWROERBG AE S*/SP-S KW-BG`
+* his `HEUS`
+* eyes `AO*EUS`
+* sparkled `SPAR/K-LD`
+* brightly `PWRAOEULT`
+* as `AZ`
+* nodded `TPHOD/-D`
+* it, `T KW-BG`
+* said, `SAEUD KW-BG`
+* "Ah, `KR-GS HA*E KW-BG`
 * she `SHE`
 * could `KO`
 * sing `SEUPBG`
-* that!" `THA SKHRAPL KR-GS`
-* said `SAEUD`
-* he, `E KW-BG`
-* nodded `TPHOD/-D`
-* portrait, `POR/TRAT KW-BG`
-* bought `PWAUT`
-* at `AT`
-* broker's, `PWROERBG AE S*/SP-S KW-BG`
-* man's `PHAPB AE S*/SP-S`
-* eyes `AO*EUS`
-* shone `SHO*EPB`
-* bright! `PWRAOEUT SKHRAPL`
+* tune." `TAOUPB TP-PL KR-GS`
 * "I `KR-GS EU`
 * will `HR`
 * go `TKPW`
 * wars! `WARS SKHRAPL`
 * I `EU`
 * wars!" `WARS SKHRAPL KR-GS`
-* shouted `SHOUT/-D`
-* pewter `PAOU/TER`
+* cried `KRAOEUD`
+* tin `TEUPB`
 * soldier `SHRERPBL`
 * loud `HROUD`
 * could, `KO KW-BG`
 * threw `THRAOU`
 * himself `H*EUPLS`
-* off `OF`
-* right `RAOEUT`
 * down `TKOUPB`
+* on `OPB`
 * floor. `TPHRAOR TP-PL`
-* What `WHA`
-* became `PWAEUPL`
-* him? `HEUPL H-F`
-* sought, `SAUT KW-BG`
-* little `HREUL`
+* Where `W-R`
+* have `SR`
+* fallen? `TPAL/-PB H-F`
+* searched, `SEFRPBD KW-BG`
 * boy `PWOEU`
-* sought; `SAUT STPH*FPLT`
-* away, `A/WAEU KW-BG`
-* stayed `STAEUD`
-* away. `A/WAEU TP-PL`
+* gone, `TKWOPB KW-BG`
+* not `TPHOT`
+* be `-B`
+* found. `TPOUPBD TP-PL`
 * shall `SHAL`
 * find `TPEUPBD`
-* him!" `HEUPL SKHRAPL KR-GS`
-* man; `PHAPB STPH*FPLT`
-* but `PWUT`
-* found `TPOUPBD`
-* him. `HEUPL TP-PL`
+* him `HEUPL`
+* again," `TKPWEPB KW-BG KR-GS`
+* man, `PHAPB KW-BG`
+* did `TK`
+* boards `PWORDZ`
 * floor `TPHRAOR`
-* too `TAO`
-* open--the `OEP H-PB H-PB -T`
+* open `OEP`
+* full `TPUL`
+* holes. `HOELS TP-PL`
 * fallen `TPAUL/-PB`
 * through `THRU`
-* crevice, `KREFS KW-BG`
-* lay `HRAEU`
-* an `APB`
-* open `OEP`
-* tomb. `TAOUPL TP-PL`
-* That `THA`
-* day `TKAEU`
-* passed, `PAFD KW-BG`

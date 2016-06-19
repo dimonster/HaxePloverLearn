@@ -1,126 +1,202 @@
 The Happy Family Part 6
 
-'"Well,': KR-GS WEL KW-BG
-'then,': THEPB KW-BG
+'be': -B
+'married.': PHAERD TP-PL
+'It': T
+'is': S
+'only': OEPBL
+'a': AEU
+'hundred': HUPBD
+'man-steps': PHAPB H-PB STEPS
+'from': TPR
+'here."': HAOER TP-PL KR-GS
+'"Then': KR-GS THEPB
 'let': HRET
 'her': HER
 'come': KOPL
 'to': TO
-'him!"': HEUPL SKHRAPL KR-GS
+'him,"': HEUPL KW-BG KR-GS
 'said': SAEUD
 'the': -T
 'old': OLD
-'ones.': WUPBZ TP-PL
+'people.': PAOEPL TP-PL
 '"He': KR-GS E
 'has': HAS
-'a': AEU
+'the': -T
 'whole': WHOEL
-'forest': TPO*RS
-'of': -F
-'burdocks,': XXX burdocks KW-BG
+'burdock': XXX burdock
+'forest;': TPOEFRT STPH*FPLT
 'she': SHE
+'has': HAS
 'only': OEPBL
-'bush!"': PWURB SKHRAPL KR-GS
-'and': SKP
-'so': SO
-'They': THE
-'went': WEPBT
-'fetched': TPEFP/-D
+'a': AEU
+'bush."': PWURB TP-PL KR-GS
+'So': SO
+'they': THE
+'brought': PWRAUT
+'the': -T
 'little': HREUL
-'Miss': PHEUS
-'Snail.': STPHAEUL TP-PL
-'it': T
-'was': WA
-'week': WAOEBG
-'before': PW-F
-'arrived;': A/REUFD STPH*FPLT
+'lady-snail.': HRA*ED H-PB STPHAEUL TP-PL
+'She': SHE
+'took': TAOBG
+'eight': AET
+'days': TKAEUS
+'to': TO
+'perform': PORPL
+'the': -T
+'journey;': SKWRURPB STPH*FPLT
 'but': PWUT
-'therein': THR-PB
-'just': SKWRUFT
-'very': SRE
-'best': PWEFT
-'it,': T KW-BG
-'for': TPOR
-'one': WUPB
-'could': KO
-'thus': THUS
-'see': SAOE
 'that': THA
-'same': SAEUPL
-'species.': SPAOES TP-PL
-'then': THEPB
-'marriage': PHAERPBLG
-'celebrated.': SEL/PWRAEUT/-D TP-PL
-'Six': SEUBGS
-'earth-worms': *ERT H-PB WORPLS
-'shone': SHO*EPB
+'was': WA
+'just': SKWRUFT
 'as': AZ
-'well': WEL
-'could.': KO TP-PL
+'it': T
+'ought': OT
+'to': TO
+'be;': -B STPH*FPLT
+'for': TPOR
+'it': T
+'showed': SHOED
+'her': HER
+'to': TO
+'be': -B
+'one': WUPB
+'of': -F
+'the': -T
+'right': RAOEUT
+'breeding.': PWRAOED/-G TP-PL
+'And': SKP
+'then': THEPB
+'they': THE
+'had': H
+'a': AEU
+'wedding.': WEGD TP-PL
+'Six': SEUBGS
+'glow-worms': TKPWHROE H-PB WORPLS
+'gave': TKPWAEUF
+'as': AZ
+'much': PHUFP
+'light': HRAOEUT
+'as': AZ
+'they': THE
+'could;': KO STPH*FPLT
+'but': PWUT
 'in': TPH
 'other': OER
 'respects': R-PTS
-'off': OF
-'quietly,': KWAO*EULT KW-BG
-'folks': TPOBG
+'it': T
+'was': WA
+'all': AUL
+'very': SRE
+'quiet;': KWAO*EUT STPH*FPLT
+'for': TPOR
+'the': -T
+'old': OLD
+'snails': STPHAEUL/-S
+'could': KO
 'not': TPHOT
 'bear': PWAER
-'noise': TPHOEUS
-'merriment;': PHER/*PLT STPH*FPLT
-'Dame': TKAEUPL
-'Snail': STPHAEUL
+'festivities': TPEFT/EUFT/TEU/-S
+'or': OR
+'a': AEU
+'crowd.': KROUD TP-PL
+'But': PWUT
+'a': AEU
+'beautiful': PWAOUFL
+'speech': SPAOEFP
+'was': WA
 'made': PHAED
-'brilliant': PWREULT
-'speech.': SPAOEFP TP-PL
-'Father': TPAER
-'speak,': SPAOEBG KW-BG
+'by': PWEU
+'the': -T
+'mother-snail.': PHOER H-PB STPHAEUL TP-PL
+'The': -T
+'father': TPAER
+'could': KO
+'not': TPHOT
+'speak;': SPAOEBG STPH*FPLT
 'he': E
+'was': WA
 'too': TAO
 'much': PHUFP
-'affected;': A/TPEBGD STPH*FPLT
+'overcome.': AUFR/KOPL TP-PL
+'Then': THEPB
+'they': THE
 'gave': TKPWAEUF
-'them': THEPL
-'dowry': TKOU/REU
+'the': -T
+'whole': WHOEL
+'burdock': XXX burdock
+'forest': TPOEFRT
+'to': TO
+'the': -T
+'young': KWRUPBG
+'snails': STPHAEUL/-S
+'as': AZ
+'an': APB
 'inheritance,': EUPB/HER/TAPBS KW-BG
-'said--what': SAEUD H-PB H-PB WHA
+'and': SKP
+'repeated': RE/PAOETD
+'what': WHA
+'they': THE
 'had': H
-'always': AULS
-'said--that': SAEUD H-PB H-PB THA
-'world;': WORLD STPH*FPLT
+'so': SO
+'often': OFPB
+'said,': SAEUD KW-BG
+'that': THA
+'it': T
+'was': WA
+'the': -T
+'finest': TPAOEUPB/EFT
+'place': PHRAEUS
+'in': TPH
+'the': -T
+'world,': WORLD KW-BG
+'and': SKP
+'that': THA
 'if': TP
-'lived': HREUFD
-'honestly': HOPB/EFT/HREU
-'decently,': TKAOEPBLT KW-BG
-'increased': EUPB/KRAOES/-D
-'multiplied,': PHULT/PHRAOEUD KW-BG
+'they': THE
+'led': HRED
+'upright': UP/RAOEUGT
+'and': SKP
+'honorable': HOPB/RABL
+'lives,': HREUFS KW-BG
+'and': SKP
+'their': THAEUR
+'family': TPAEPL
+'increased,': EUPB/KRAOES/-D KW-BG
+'they': THE
+'and': SKP
 'their': THAEUR
 'children': KHEURPB
-'would': WO
-'once': WUPBS
-'course': KORS
-'time': TAOEUPL
-'manor-house,': PHA/TPHOR H-PB HOUS KW-BG
+'might': PHAOEUT
+'some': SOPL
+'day': TKAEU
+'be': -B
+'taken': TAEPB
+'to': TO
+'the': -T
+'nobleman's': XXX nobleman AE S*/SP-S
+'palace,': PAL/AS KW-BG
+'to': TO
 'be': -B
 'boiled': PWOEULD
 'black,': PWHRABG KW-BG
+'and': SKP
 'laid': HRAEUD
 'on': OPB
+'a': AEU
 'silver': SEUL/SRER
-'dishes.': TKEURBS TP-PL
-'After': AF
-'this': TH
-'speech': SPAOEFP
-'made,': PHAED KW-BG
-'ones': WUPBZ
+'dish.': TKEURB TP-PL
+'And': SKP
+'when': WHEPB
+'they': THE
+'had': H
+'finished': TP*EURBD
+'speaking,': SPAOEG KW-BG
+'the': -T
+'old': OLD
+'couple': KUPL
 'crept': KREPT
 'into': TPHAO
-'shells,': SHELS KW-BG
-'never': TPHEF
-'more': PHOR
-'came': KAEUPL
-'out.': OUT TP-PL
-'slept;': SHREPD STPH*FPLT
-'young': KWRUPBG
-'couple': KUPL
-'governed': TKPWOFRPBD
-'forest,': TPO*RS KW-BG
+'their': THAEUR
+'houses,': HO*UFS KW-BG
+'and': SKP

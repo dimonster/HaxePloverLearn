@@ -1,17 +1,41 @@
 # The Red Shoes Part 12
 
+* Karen." `KAEURPB TP-PL KR-GS`
+* "It `KR-GS T`
+* was `WA`
+* mercy," `PHER/SEU KW-BG KR-GS`
+* said `SAEUD`
+* she. `SHE TP-PL`
+* the `-T`
+* organ `O*RPBG`
+* played `PHRAEUD`
+* and `SKP`
+* children's `KHEURPBS`
+* voices `SROEUFS`
+* in `TPH`
+* choir `KHOEUR`
+* sounded `SOUPBD/-D`
+* soft `SOFT`
+* lovely. `HROFL TP-PL`
+* bright `PWRAOEUT`
+* warm `WARPL`
+* sunshine `S*UPB/SHAOEUPB`
+* streamed `STRAOEPL/-D`
+* through `THRU`
+* window `WOEUPBD`
+* into `TPHAO`
+* pew `PAOU`
 * where `W-R`
 * Karen `KAEURPB`
-* sat! `SAT SKHRAPL`
+* sat, `SAT KW-BG`
 * Her `HER`
 * heart `HART`
-* was `WA`
+* became `PWAEUPL`
 * so `SO`
-* full `TPUL`
-* of `-F`
-* sunshine, `S*UPB/SHAOEUPB KW-BG`
-* peace, `PAES KW-BG`
-* and `SKP`
+* filled `TPEULD`
+* with `W`
+* it, `T KW-BG`
+* peace `PAES`
 * joy, `SKWROEU KW-BG`
 * that `THA`
 * it `T`
@@ -19,14 +43,14 @@
 * soul `SOUL`
 * flew `TPHRAOU`
 * on `OPB`
-* the `-T`
-* sunshine `S*UPB/SHAOEUPB`
+* sunbeams `SUPB/PWAOEPL/-S`
 * to `TO`
-* God, `TKPO*D KW-BG`
-* there `THR`
+* Heaven, `HEFPB KW-BG`
 * no `TPHO`
 * one `WUPB`
+* there `THR`
+* who `WHO`
 * asked `SK-D`
 * after `AF`
-* RED `RED`
-* SHOES. `SHAOS TP-PL`
+* Red `RED`
+* Shoes. `SHAOS TP-PL`

@@ -1,108 +1,108 @@
 # The Red Shoes Part 6
 
-* Now `TPHOU`
-* the `-T`
-* old `OLD`
-* lady `HRA*ED`
-* was `WA`
-* sick, `SEUBG KW-BG`
+* took `TAOBG`
+* off `OF`
+* her `HER`
+* shoes, `SHAOS KW-BG`
 * and `SKP`
-* it `T`
-* said `SAEUD`
-* she `SHE`
+* legs `HREGS`
+* were `WR`
+* at `AT`
+* rest. `REFT TP-PL`
+* home `HOEPL`
+* the `-T`
+* shoes `SHAOS`
+* put `PUT`
+* into `TPHAO`
+* cupboard, `WUP/PWORD KW-BG`
+* But `PWUT`
+* Karen `KAEURPB`
 * could `KO`
 * not `TPHOT`
-* recover. `ROFR TP-PL`
-* must `PHUFT`
+* help `HEP`
+* looking `HRAOG`
+* them. `THEPL TP-PL`
+* Now `TPHOU`
+* old `OLD`
+* lady `HRA*ED`
+* fell `TPEL`
+* ill, `EUL KW-BG`
+* it `T`
+* was `WA`
+* said `SAEUD`
+* that `THA`
+* she `SHE`
+* would `WO`
+* rise `RAOEUZ`
+* from `TPR`
+* bed `PWED`
+* again. `TKPWEPB TP-PL`
+* had `H`
+* to `TO`
 * be `-B`
 * nursed `TPHURS/-D`
 * waited `WAEUTD`
 * upon, `POPB KW-BG`
-* there `THR`
+* this `TH`
 * no `TPHO`
-* one `WUPB`
-* whose `WHOZ`
+* one's `W*UPBS`
 * duty `TKAOUT`
-* so `SO`
-* much `PHUFP`
-* as `AZ`
+* more `PHOR`
+* than `THAPB`
 * Karen's. `KAEURPB AE S*/SP-S TP-PL`
-* but `PWUT`
+* there `THR`
 * a `AEU`
-* great `TKPWRAET`
+* grand `TKPWRAPBD`
 * ball `PWAUL`
 * in `TPH`
-* city, `STEU KW-BG`
-* to `TO`
-* which `WEU`
-* Karen `KAEURPB`
+* town, `TOUPB KW-BG`
 * invited. `EUPB/SRAOEUTD TP-PL`
 * looked `HRAOBGD`
-* at `AT`
-* lady, `HRA*ED KW-BG`
-* who `WHO`
-* recover, `ROFR KW-BG`
 * red `RED`
-* shoes, `SHAOS KW-BG`
-* thought `THAUT`
+* saying `SAEUG`
+* herself `H*ERS`
 * sin `SEUPB`
-* it; `T STPH*FPLT`
-* put `PUT`
-* on `OPB`
-* might `PHAOEUT`
-* do `TKO`
-* that `THA`
-* also, `HR-S KW-BG`
-* thought. `THAUT TP-PL`
-* Then `THEPB`
+* doing `TK*G`
+* that; `THA STPH*FPLT`
+* on, `OPB KW-BG`
+* thinking `THEUG`
+* harm `HARPL`
+* either; `AOERT STPH*FPLT`
+* then `THEPB`
 * went `WEPBT`
-* began `TKPWAPB`
+* ball; `PWAUL STPH*FPLT`
+* commenced `KPHEPBS/-D`
 * dance. `TKAPBS TP-PL`
 * when `WHEPB`
 * wanted `WAPBTD`
-* dance `TKAPBS`
+* go `TKPW`
 * right, `RAOEUT KW-BG`
-* shoes `SHAOS`
-* would `WO`
+* danced `TKAPBS/-D`
 * left, `HREFT KW-BG`
+* dance `TKAPBS`
 * up `UP`
 * room, `RAOPL KW-BG`
-* danced `TKAPBS/-D`
-* back `PWABG`
-* again, `TKPWEPB KW-BG`
 * down `TKOUPB`
-* steps, `STEPS KW-BG`
-* into `TPHAO`
+* stairs `STAEURS`
+* through `THRU`
 * street, `STRAOET KW-BG`
 * out `OUT`
+* gates `TKPWAETS`
 * of `-F`
-* city `STEU`
-* gate. `TKPWAET TP-PL`
+* town. `TOUPB TP-PL`
 * danced, `TKAPBS/-D KW-BG`
-* forced `TPOFRD`
-* straight `STRAEUT`
-* gloomy `TKPWHRAO/PH*EU`
+* obliged `OE/PWHRAOEUPBLGD`
+* dance, `TKAPBS KW-BG`
+* far `TPAR`
+* dark `TKARBG`
 * wood. `WAOD TP-PL`
-* suddenly `SULD`
-* light `HRAOEUT`
+* Suddenly `SULD`
+* something `S-G`
+* shone `SHO*EPB`
 * among `PHOPBG`
 * trees, `TRAOES KW-BG`
-* fancied `XXX fancied`
+* believed `PWHREFD`
 * moon, `PHAOPB KW-BG`
 * for `TPOR`
-* face; `TPAEUS STPH*FPLT`
+* face. `TPAEUS TP-PL`
 * soldier `SHRERPBL`
-* with `W`
-* beard; `PWAERD STPH*FPLT`
-* he `E`
-* sat `SAT`
-* there, `THR KW-BG`
-* nodded `TPHOD/-D`
-* his `HEUS`
-* head, `HED KW-BG`
-* said, `SAEUD KW-BG`
-* "Look, `KR-GS HRAOBG KW-BG`
-* what `WHA`
-* beautiful `PWAOUFL`
-* dancing `TKAPBS/-G`
-* shoes!" `SHAOS SKHRAPL KR-GS`

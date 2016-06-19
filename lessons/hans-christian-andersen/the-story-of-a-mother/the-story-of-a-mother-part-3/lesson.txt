@@ -1,130 +1,202 @@
-The Story Of A Mother Part 3
+The Story of a Mother Part 3
 
-'mother.': PHOER TP-PL
-'"Tell': KR-GS TEL
-'me': PHE
-'the': -T
 'way,': WAEU KW-BG
-'and': SKP
 'I': EU
-'shall': SHAL
+'will': HR
 'find': TPEUPBD
-'him!"': HEUPL SKHRAPL KR-GS
+'him."': HEUPL TP-PL KR-GS
 '"I': KR-GS EU
 'know': TPHOE
-'it!"': T SKHRAPL KR-GS
+'the': -T
+'way,"': WAEU KW-BG KR-GS
 'said': SAEUD
+'the': -T
 'woman': WOPL
 'in': TPH
+'the': -T
 'black': PWHRABG
-'clothes.': KHRO*ETS TP-PL
+'garments;': TKPWARPLTS STPH*FPLT
 '"but': KR-GS PWUT
 'before': PW-F
+'I': EU
 'tell': TEL
-'it,': T KW-BG
-'thou': THO*U
+'you,': U KW-BG
+'you': U
 'must': PHUFT
-'first': TPEURS
 'sing': SEUPBG
-'for': TPOR
+'to': TO
+'me': PHE
 'all': AUL
+'the': -T
 'songs': SOPBGS
-'hast': XXX hast
+'that': THA
+'you': U
+'have': SR
 'sung': SUPBG
-'thy': THAO*EU
-'child!': KHAOEULD SKHRAPL
-'am': *PL
-'fond': TPOPBD
-'of': -F
-'them.': THEPL TP-PL
+'to': TO
+'your': KWROUR
+'child;': KHAOEULD STPH*FPLT
+'I': EU
+'love': HRUF
+'these': THEZ
+'songs,': SOPBGS KW-BG
+'I': EU
 'have': SR
 'heard': HERD
 'them': THEPL
-'before;': PW-F STPH*FPLT
-'Night;': TPHAOEUT STPH*FPLT
+'before.': PW-F TP-PL
+'I': EU
+'am': APL
+'Night,': TPHAOEUT KW-BG
+'and': SKP
+'I': EU
 'saw': SAU
+'your': KWROUR
 'tears': TAERS
-'whilst': WHAOEULS
-'sang'st': SAPBG AE XXX st
-'them!"': THEPL SKHRAPL KR-GS
+'flow': TPHROE
+'as': AZ
+'you': U
+'sang."': SAPBG TP-PL KR-GS
+'"I': KR-GS EU
 'will': HR
-'all,': AUL KW-BG
-'all!"': AUL SKHRAPL KR-GS
+'sing': SEUPBG
+'them': THEPL
+'all': AUL
+'to': TO
+'you,"': U KW-BG KR-GS
+'said': SAEUD
+'the': -T
+'mother;': PHOER STPH*FPLT
+'"but': KR-GS PWUT
 'do': TKO
 'not': TPHOT
-'stop': STOP
-'now--I': TPHOU H-PB H-PB EU
-'may': PHAE
+'detain': TKE/TAEUPB
+'me': PHE
+'now.': TPHOU TP-PL
+'I': EU
+'must': PHUFT
 'overtake': AUFR/TAEUBG
-'him--I': HEUPL H-PB H-PB EU
+'him,': HEUPL KW-BG
+'and': SKP
+'find': TPEUPBD
 'my': PHEU
-'child!"': KHAOEULD SKHRAPL KR-GS
-'but': PWUT
+'child."': KHAOEULD TP-PL KR-GS
+'But': PWUT
 'Night': TPHAOEUT
-'stood': STAOD
-'still': STEUL
-'mute.': PHAOUT TP-PL
-'then': THEPB
+'sat': SAT
+'silent': SHREPBT
+'and': SKP
+'still.': STEUL TP-PL
+'Then': THEPB
+'the': -T
 'mother': PHOER
+'wept': WEPT
+'and': SKP
+'sang,': SAPBG KW-BG
+'and': SKP
 'wrung': WRUPBG
 'her': HER
-'hands,': HAPBDZ KW-BG
-'sang': SAPBG
-'wept,': WEPT KW-BG
+'hands.': HAPBDZ TP-PL
+'And': SKP
 'there': THR
 'were': WR
 'many': PHAEPB
 'songs,': SOPBGS KW-BG
+'and': SKP
 'yet': KWRET
+'even': AOEPB
 'more': PHOR
 'tears;': TAERS STPH*FPLT
+'till': T*EUL
+'at': AT
+'length': HREPBG
+'Night': TPHAOEUT
 'said,': SAEUD KW-BG
 '"Go': KR-GS TKPW
 'to': TO
+'the': -T
 'right,': RAOEUT KW-BG
 'into': TPHAO
+'the': -T
 'dark': TKARBG
-'pine': PAOEUPB
-'forest;': TPO*RS STPH*FPLT
-'thither': TH*EURT
+'forest': TPOEFRT
+'of': -F
+'fir-trees;': TPEUR H-PB TRAOES STPH*FPLT
+'for': TPOR
+'I': EU
+'saw': SAU
 'Death': TK*T
 'take': TAEUBG
-'his': HEUS
-'way': WAEU
+'that': THA
+'road': RAOD
 'with': W
+'your': KWROUR
 'little': HREUL
-'roads': RAODZ
-'crossed': KROFD
-'each': AOEFP
-'other': OER
-'depths': TK*EPTS
-'forest,': TPO*RS KW-BG
+'child."': KHAOEULD TP-PL KR-GS
+'Within': W-PB
+'the': -T
+'wood': WAOD
+'the': -T
+'mother': PHOER
+'came': KAEUPL
+'to': TO
+'cross': KROS
+'roads,': ROEDZ KW-BG
+'and': SKP
 'she': SHE
-'no': TPHO
-'longer': HRORPBG
 'knew': TPHAOU
-'whither': WH*EUT/ER
-'should': SHO
-'go!': TKPW SKHRAPL
+'not': TPHOT
+'which': WEU
+'to': TO
+'take.': TAEUBG TP-PL
+'Just': SKWRUFT
+'by': PWEU
+'stood': STAOD
 'a': AEU
 'thorn-bush;': THORPB H-PB PWURB STPH*FPLT
-'was': WA
+'it': T
+'had': H
 'neither': TPHAOERT
 'leaf': HRAOEF
 'nor': TPH-R
-'flower': TPHRO*UR
-'on': OPB
+'flower,': TPHRO*UR KW-BG
+'for': TPOR
 'it': T
-'also': HR-S
+'was': WA
+'the': -T
 'cold': KOELD
 'winter': WEURPBT
-'season,': S-PB KW-BG
-'ice-flakes': AOEUS H-PB TPHRAEUBGS
+'time,': TAOEUPL KW-BG
+'and': SKP
+'icicles': AOEUS/K*L
 'hung': HUPBG
+'on': OPB
+'the': -T
 'branches.': PWRAFPBS TP-PL
-'"Hast': KR-GS XXX Hast
+'"Have': KR-GS SR
+'you': U
+'not': TPHOT
 'seen': SAOEPB
+'Death': TK*T
 'go': TKPW
-'past': PAFT
+'by,': PWEU KW-BG
+'with': W
+'my': PHEU
+'little': HREUL
 'child?"': KHAOEULD H-F KR-GS
+'she': SHE
+'asked.': SK-D TP-PL
 '"Yes,"': KR-GS KWRE KW-BG KR-GS
+'replied': RE/PHRAOEUD
+'the': -T
+'thorn-bush;': THORPB H-PB PWURB STPH*FPLT
+'"but': KR-GS PWUT
+'I': EU
+'will': HR
+'not': TPHOT
+'tell': TEL
+'you': U
+'which': WEU
+'way': WAEU
+'he': E
+'has': HAS

@@ -1,123 +1,117 @@
 # The Shadow Part 16
 
-* too `TAO`
-* bad!" `PWAD SKHRAPL KR-GS`
+* to `TO`
+* heart `HART`
+* very `SRE`
+* much." `PHUFP TP-PL KR-GS`
+* "That `KR-GS THA`
+* is `S`
+* what `WHA`
+* I `EU`
+* never `TPHEF`
+* do," `TKO KW-BG KR-GS`
 * said `SAEUD`
 * the `-T`
+* shadow; `SHO*EUD STPH*FPLT`
+* "I `KR-GS EU`
+* am `APL`
+* growing `TKPWROEG`
+* quite `KWAOEUT`
+* fat `TPAT`
+* and `SKP`
+* stout, `STOUT KW-BG`
+* which `WEU`
+* every `EF`
+* one `WUPB`
+* ought `OT`
+* be. `-B TP-PL`
+* you `U`
+* do `TKO`
+* not `TPHOT`
+* understand `URPBD`
+* world; `WORLD STPH*FPLT`
+* will `HR`
+* make `PHAEUBG`
+* yourself `KWRO*URS`
+* ill `EUL`
+* about `PW`
+* it; `T STPH*FPLT`
+* travel; `TRAFL STPH*FPLT`
+* going `TKPW-G`
+* on `OPB`
+* a `AEU`
+* journey `SKWRURPB`
+* in `TPH`
+* summer, `SAOURPL KW-BG`
+* go `TKPW`
+* with `W`
+* me? `PHE H-F`
+* should `SHO`
+* like `HRAOEUBG`
+* travelling `TRAFLG`
+* companion; `KPAPB/KWROPB STPH*FPLT`
+* travel `TRAFL`
+* me `PHE`
+* as `AZ`
+* my `PHEU`
+* shadow? `SHO*EUD H-F`
+* it `T`
+* would `WO`
+* give `TKPWEUF`
+* great `TKPWRAET`
+* pleasure, `PHRERB KW-BG`
+* pay `PAEU`
+* all `AUL`
+* expenses." `SPEBS/-S TP-PL KR-GS`
+* "Are `KR-GS R`
+* far?" `TPAR H-F KR-GS`
+* asked `SK-D`
 * learned `HRERPBD`
 * man. `PHAPB TP-PL`
-* "But `KR-GS PWUT`
-* it `T`
-* is `S`
-* just `SKWRUFT`
-* so `SO`
-* with `W`
-* world!" `WORLD SKHRAPL KR-GS`
-* shadow, `SHAD/OE KW-BG`
-* "and `KR-GS SKP`
-* will `HR`
-* be!" `-B SKHRAPL KR-GS`
-* and `SKP`
-* away `A/WAEU`
-* went `WEPBT`
-* again. `TKPWEPB TP-PL`
-* man `PHAPB`
-* was `WA`
-* not `TPHOT`
-* at `AT`
-* all `AUL`
-* in `TPH`
-* most `PHO*S`
-* enviable `EPB/SREUBL`
-* state; `STA*ET STPH*FPLT`
-* grief `TKPWRAOEF`
-* torment `TORPLT`
-* followed `TPOLD`
-* him, `HEUPL KW-BG`
-* what `WHA`
-* he `E`
-* about `PW`
-* true, `TRAOU KW-BG`
-* good, `TKPWAOD KW-BG`
-* beautiful, `PWAOUFL KW-BG`
-* was, `WA KW-BG`
-* to `TO`
-* persons, `PERPBS KW-BG`
-* like `HRAOEUBG`
-* roses `ROES/-S`
-* for `TPOR`
-* a `AEU`
-* cow! `KO*U SKHRAPL`
-* quite `KWAOEUT`
-* ill `EUL`
-* last. `HRAFT TP-PL`
-* "You `KR-GS U`
-* really `HROERL`
-* look `HRAOBG`
-* shadow!" `SHAD/OE SKHRAPL KR-GS`
-* his `HEUS`
-* friends `TPREPBDZ`
-* him; `HEUPL STPH*FPLT`
-* trembled, `TREPL/-BLD KW-BG`
-* thought `THAUT`
+* matter `PHAERT`
 * of `-F`
-* it. `T TP-PL`
-* must `PHUFT`
-* go `TKPW`
-* watering-place!" `WAT/ERG H-PB PHRAEUS SKHRAPL KR-GS`
-* who `WHO`
-* came `KAEUPL`
-* visited `SREUFTD`
-* him. `HEUPL TP-PL`
-* "There `KR-GS THR`
-* nothing `TPHOG`
-* else `ELS`
-* it! `T SKHRAPL`
-* I `EU`
-* take `TAEUBG`
-* you `U`
-* me `PHE`
-* old `OLD`
-* acquaintance' `KWAEUPB/TAPBS AE`
-* sake; `SAEUBG STPH*FPLT`
-* pay `PAEU`
-* travelling `TRAFLG`
-* expenses, `SPEBS/-S KW-BG`
-* write `WREU`
-* descriptions--and `SKREUFPGS H-PB H-PB SKP`
+* opinion," `P-PB KW-BG KR-GS`
+* replied `RE/PHRAOEUD`
+* shadow. `SHO*EUD TP-PL`
+* "At `KR-GS AT`
+* events, `AOEPBTS KW-BG`
+* good, `TKPWAOD KW-BG`
 * if `TP`
-* they `THE`
-* are `R`
-* little `HREUL`
-* amusing `A/PHAOUFG`
-* on `OPB`
-* way! `WAEU SKHRAPL`
-* watering-place--my `WAT/ERG H-PB PHRAEUS H-PB H-PB PHEU`
-* beard `PWAERD`
-* does `TKOS`
-* grow `TKPWROE`
-* out `OUT`
-* as `AZ`
-* ought--that `OT H-PB H-PB THA`
-* also `HR-S`
-* sickness--and `SEUBG/-PBS H-PB H-PB SKP`
-* one `WUPB`
-* have `SR`
-* beard! `PWAERD SKHRAPL`
-* Now `TPHOU`
 * be `-B`
-* wise `WAOEUS`
-* accept `SEP`
-* offer; `OFR STPH*FPLT`
-* we `WE`
+* shadow, `SHO*EUD KW-BG`
+* Then `THEPB`
+* your `KWROUR`
 * shall `SHAL`
-* travel `TRAFL`
-* comrades!" `KOPL/RADZ SKHRAPL KR-GS`
-* travelled; `TRAFLD STPH*FPLT`
-* shadow `SHAD/OE`
-* master, `PHAFRT KW-BG`
-* master `PHAFRT`
-* shadow; `SHAD/OE STPH*FPLT`
-* drove `TKROEF`
-* each `AOEFP`
-* other, `OER KW-BG`
+* paid." `PAEUD TP-PL KR-GS`
+* "It `KR-GS T`
+* appears `A/PAOERS`
+* absurd," `AB/SURD KW-BG KR-GS`
+* "But `KR-GS PWUT`
+* way `WAEU`
+* world," `WORLD KW-BG KR-GS`
+* "and `KR-GS SKP`
+* always `AULZ`
+* be." `-B TP-PL KR-GS`
+* he `E`
+* went `WEPBT`
+* away. `A/WAEU TP-PL`
+* Everything `EFG`
+* wrong `WROPBG`
+* Sorrow `SROE`
+* trouble `TRUBL`
+* pursued `PUR/SAOUD`
+* him, `HEUPL KW-BG`
+* beautiful, `PWAOUFL KW-BG`
+* true, `TRAOU KW-BG`
+* was `WA`
+* much `PHUFP`
+* value `SRAOUL`
+* most `PHOFT`
+* people `PAOEPL`
+* nutmeg `TPHUT/PHEG`
+* cow. `KO*U TP-PL`
+* At `AT`
+* length `HREPBG`
+* fell `TPEL`
+* ill. `EUL TP-PL`
+* "You `KR-GS U`

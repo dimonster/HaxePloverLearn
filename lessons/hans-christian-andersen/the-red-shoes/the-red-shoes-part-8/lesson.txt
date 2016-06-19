@@ -1,122 +1,202 @@
 The Red Shoes Part 8
 
+'and': SKP
+'wicked': WEUBGD
+'children': KHEURPB
+'live': HREUF
+'you': U
+'shall': SHAL
+'knock,': TPHOBG KW-BG
+'so': SO
+'that': THA
+'they': THE
+'may': PHAE
+'hear': HAER
+'you': U
+'and': SKP
+'fear': TPAOER
+'you!': U SKHRAPL
+'Dance': TKAPBS
+'you': U
+'shall,': SHAL KW-BG
+'dance—!"': TKAPBS EPL/TKA*RB SKHRAPL KR-GS
+'"Mercy!"': KR-GS PHER/SEU SKHRAPL KR-GS
+'cried': KRAOEUD
 'Karen.': KAEURPB TP-PL
 'But': PWUT
 'she': SHE
 'did': TK
 'not': TPHOT
 'hear': HAER
+'what': WHA
 'the': -T
-'angel's': APBG/EL AE S*/SP-S
-'reply,': RE/PHREU KW-BG
+'angel': APBG/EL
+'answered,': APBSD KW-BG
 'for': TPOR
+'the': -T
 'shoes': SHAOS
 'carried': KAERD
 'her': HER
 'through': THRU
+'the': -T
 'gate': TKPWAET
 'into': TPHAO
+'the': -T
 'fields,': TPAOELDZ KW-BG
-'across': A/KROS
-'roads': RAODZ
-'And': SKP
-'bridges,': PWREUPBLGS KW-BG
-'must': PHUFT
-'keep': KAOEP
-'ever': -FR
-'dancing.': TKAPBS/-G TP-PL
+'along': A/HROPBG
+'highways': HAOEU/WAEUS
+'and': SKP
+'byways,': XXX byways KW-BG
+'and': SKP
+'unceasingly': XXX unceasingly
+'she': SHE
+'had': H
+'to': TO
+'dance.': TKAPBS TP-PL
 'One': WUPB
 'morning': PHORPBG
+'she': SHE
 'danced': TKAPBS/-D
 'past': PAFT
 'a': AEU
 'door': TKAOR
-'which': WEU
-'well': WEL
-'knew.': TPHAOU TP-PL
-'Within': W-PB
-'sounded': SOUPBD/-D
-'psalm;': SAUPL STPH*FPLT
-'coffin,': KOFPB KW-BG
-'decked': TKEBG/-D
-'with': W
-'flowers,': TPHRO*URS KW-BG
+'that': THA
+'she': SHE
+'knew': TPHAOU
+'well;': WEL STPH*FPLT
+'they': THE
+'were': WR
+'singing': SEUPBG/-G
+'a': AEU
+'psalm': SAUPL
+'inside,': TPH-DZ KW-BG
+'and': SKP
+'a': AEU
+'coffin': KOFPB
 'was': WA
-'borne': PWO*RPB
-'forth.': TPO*RT TP-PL
-'then': THEPB
+'being': -BG
+'carried': KAERD
+'out': OUT
+'covered': KOFRD
+'with': W
+'flowers.': TPHRO*URS TP-PL
+'Then': THEPB
+'she': SHE
 'knew': TPHAOU
 'that': THA
-'old': OLD
-'lady': HRA*ED
-'dead,': TKED KW-BG
-'felt': TPELT
-'abandoned': A/PWAPB/TKOPBD
+'she': SHE
+'was': WA
+'forsaken': TPAUR/SA*EUPB
 'by': PWEU
-'all,': AUL KW-BG
-'condemned': KOPB/TKEPL/-D
+'every': EF
+'one': WUPB
+'and': SKP
+'damned': TKA*PLD
+'by': PWEU
+'the': -T
 'angel': APBG/EL
 'of': -F
-'God.': TKPO*D TP-PL
+'God.': TKPWOD TP-PL
+'She': SHE
 'danced,': TKAPBS/-D KW-BG
-'forced': TPOFRD
+'and': SKP
+'was': WA
+'obliged': OE/PWHRAOEUPBLGD
 'to': TO
-'dance': TKAPBS
-'gloomy': TKPWHRAO/PH*EU
+'go': TKPW
+'on': OPB
+'dancing': TKAPBS/-G
+'through': THRU
+'the': -T
+'dark': TKARBG
 'night.': TPHAOEUT TP-PL
+'The': -T
+'shoes': SHAOS
+'bore': PWOR
+'her': HER
+'away': A/WAEU
 'over': OEFR
-'stack': STABG
-'stone;': STOEPB STPH*FPLT
-'torn': TORPB
+'thorns': THORPB/-S
+'and': SKP
+'stumps': STUPL/-PS
 'till': T*EUL
-'bled;': PWHRED STPH*FPLT
+'she': SHE
+'was': WA
+'all': AUL
+'torn': TORPB
+'and': SKP
+'bleeding;': PWHRAOEGD STPH*FPLT
+'she': SHE
+'danced': TKAPBS/-D
+'away': A/WAEU
+'over': OEFR
+'the': -T
 'heath': HAO*ET
-'came': KAEUPL
+'to': TO
+'a': AEU
+'lonely': HROPBL
 'little': HREUL
 'house.': HOUS TP-PL
 'Here,': HAOER KW-BG
+'she': SHE
 'knew,': TPHAOU KW-BG
-'dwelt': TKWELT
+'lived': HREUFD
+'the': -T
 'executioner;': EBGS/KAOUGS/*ER STPH*FPLT
+'and': SKP
+'she': SHE
 'tapped': TAPD
-'fingers': TPEURPBGS
+'with': W
+'her': HER
+'finger': TPURPBG
 'at': AT
-'window,': WOEUPBD KW-BG
-'said,': SAEUD KW-BG
+'the': -T
+'window': WOEUPBD
+'and': SKP
+'said:': SAEUD STPH-FPLT
 '"Come': KR-GS KOPL
-'out!': OUT SKHRAPL
+'out,': OUT KW-BG
 'come': KOPL
+'out!': OUT SKHRAPL
 'I': EU
 'cannot': K/TPHOT
+'come': KOPL
 'in,': TPH KW-BG
-'am': *PL
-'dance!"': TKAPBS SKHRAPL KR-GS
+'for': TPOR
+'I': EU
+'must': PHUFT
+'dance."': TKAPBS TP-PL KR-GS
+'And': SKP
+'the': -T
 'executioner': EBGS/KAOUGS/*ER
-'"Thou': KR-GS THO*U
-'dost': XXX dost
+'said:': SAEUD STPH-FPLT
+'"I': KR-GS EU
+'don't': TKOEPBT
+'suppose': SPOS
+'you': U
 'know': TPHOE
 'who': WHO
-'am,': *PL KW-BG
-'fancy?': TPAPB/SEU H-F
+'I': EU
+'am.': APL TP-PL
+'I': EU
 'strike': STRAOEUBG
-'bad': PWAD
-'people's': PAOEPL AE S*/SP-S
+'off': OF
+'the': -T
 'heads': HEDZ
-'off;': OF STPH*FPLT
+'of': -F
+'the': -T
+'wicked,': WEUBGD KW-BG
+'and': SKP
+'I': EU
+'notice': TPH-TS
+'that': THA
 'my': PHEU
 'axe': ABGS
-'rings!"': REUPBGS SKHRAPL KR-GS
+'is': S
+'tingling': TEUPBG/-LG
+'to': TO
+'do': TKO
+'so."': SO TP-PL KR-GS
 '"Don't': KR-GS TKO*PB AE T*/SP-S
-'head': HED
-'off!"': OF SKHRAPL KR-GS
-'said': SAEUD
-'"Then': KR-GS THEPB
-'can't': K-PBT
-'repent': XXX repent
-'sins!': SEUPBZ SKHRAPL
+'cut': KUT
 'off': OF
-'feet': TPAOET
-'in': TPH
-'red': RED
-'shoes!"': SHAOS SKHRAPL KR-GS
-'confessed': KAUPB/TPES/-D

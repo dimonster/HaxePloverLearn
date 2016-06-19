@@ -1,7 +1,6 @@
 The Happy Family Part 1
 
-'Really,': HROERL KW-BG
-'the': -T
+'The': -T
 'largest': HRARPBL/EFT
 'green': TKPWRAOEPB
 'leaf': HRAOEF
@@ -9,113 +8,195 @@ The Happy Family Part 1
 'this': TH
 'country': KREU
 'is': S
-'a': AEU
-'dock-leaf;': TKOBG H-PB HRAOEF STPH*FPLT
-'if': TP
-'one': WUPB
-'holds': HOLDZ
+'certainly': SERPBL
+'the': -T
+'burdock-leaf.': XXX burdock H-PB HRAOEF TP-PL
+'If': TP
+'you': U
+'hold': HOLD
 'it': T
-'before': PW-F
-'one,': WUPB KW-BG
-'like': HRAOEUBG
-'whole': WHOEL
-'apron,': AEUP/ROPB KW-BG
+'in': TPH
+'front': TPROPBT
+'of': -F
+'you,': U KW-BG
+'it': T
+'is': S
+'large': HRARPBLG
+'enough': TPHUF
+'for': TPOR
+'an': APB
+'apron;': AEUP/ROPB STPH*FPLT
 'and': SKP
+'if': TP
+'you': U
+'hold': HOLD
+'it': T
 'over': OEFR
-'one's': W*UPBS
-'head': HED
-'rainy': RAEU/TPH*EU
-'weather,': WHR* KW-BG
+'your': KWROUR
+'head,': HED KW-BG
+'it': T
+'is': S
 'almost': HR-PL
 'as': AZ
 'good': TKPWAOD
+'as': AZ
 'an': APB
 'umbrella,': UPL/PWHRAEL KW-BG
-'for': TPOR
+'it': T
+'is': S
 'so': SO
-'immensely': EUPL/PHEPBS/HREU
+'wonderfully': WOPBD/TPHREU
 'large.': HRARPBLG TP-PL
+'A': AEU
 'burdock': XXX burdock
 'never': TPHEF
 'grows': TKPWRO*ES
-'alone,': A/HROEPB KW-BG
-'but': PWUT
+'alone;': A/HROEPB STPH*FPLT
 'where': W-R
+'it': T
+'grows,': TKPWRO*ES KW-BG
 'there': THR
-'always': AULS
-'grow': TKPWROE
-'several:': SEFRL STPH-FPLT
-'great': TKPWRAET
-'delight,': TKHRAOEUT KW-BG
+'are': R
+'many': PHAEPB
+'more,': PHOR KW-BG
+'and': SKP
+'it': T
+'is': S
+'a': AEU
+'splendid': SPHREPBD/EUD
+'sight;': SAOEUT STPH*FPLT
+'and': SKP
 'all': AUL
-'delightfulness': XXX delightfulness
-'snails'': STPHAEUL/-S AE
-'food.': TPAOD TP-PL
+'this': TH
+'splendor': SHREPBD/O*R
+'is': S
+'good': TKPWAOD
+'for': TPOR
+'snails.': STPHAEUL/-S TP-PL
+'The': -T
+'great': TKPWRAET
 'white': WHAOEUT
-'snails': STPHAEUL/-S
-'which': WEU
-'persons': PERPBS
-'of': -F
-'quality': KWALT
-'former': TPORPL/*ER
-'times': TAOEUPLS
-'made': PHAED
-'fricassees': XXX fricassees
-'of,': -F KW-BG
-'ate,': AEUT KW-BG
-'said,': SAEUD KW-BG
-'"Hem,': KR-GS HEPL KW-BG
-'hem!': HEPL SKHRAPL
-'how': HOU
-'delicious!"': TKHREUGS SKHRAPL KR-GS
-'they': THE
-'thought': THAUT
-'tasted': TAEUFT/-D
-'delicate--lived': TKEL/KAT H-PB H-PB HREUFD
-'on': OPB
-'dock-leaves,': TKOBG H-PB HREFS KW-BG
-'therefore': TH-FR
-'seeds': SAOEDZ
-'were': WR
-'sown.': SOEPB TP-PL
-'Now,': TPHOU KW-BG
-'was': WA
-'old': OLD
-'manor-house,': PHA/TPHOR H-PB HOUS KW-BG
-'no': TPHO
-'longer': HRORPBG
-'ate': AEUT
 'snails,': STPHAEUL/-S KW-BG
-'quite': KWAOEUT
-'extinct;': EBGS/TEUPBG STPH*FPLT
-'burdocks': XXX burdocks
-'not': TPHOT
-'extinct,': EBGS/TEUPBG KW-BG
+'which': WEU
+'grand': TKPWRAPBD
+'people': PAOEPL
+'in': TPH
+'olden': XXX olden
+'times': TAOEUPLS
+'used': AOUFD
+'to': TO
+'have': SR
+'made': PHAED
+'into': TPHAO
+'fricassees;': XXX fricassees STPH*FPLT
+'and': SKP
+'when': WHEPB
+'they': THE
+'had': H
+'eaten': AOET/EPB
+'them,': THEPL KW-BG
+'they': THE
+'would': WO
+'say,': SAEU KW-BG
+'"O,': KR-GS O*/SP-S KW-BG
+'what': WHA
+'a': AEU
+'delicious': TKHREUGS
+'dish!"': TKEURB SKHRAPL KR-GS
+'for': TPOR
+'these': THEZ
+'people': PAOEPL
+'really': HROERL
+'thought': THAUT
+'them': THEPL
+'good;': TKPWAOD STPH*FPLT
+'and': SKP
+'these': THEZ
+'snails': STPHAEUL/-S
+'lived': HREUFD
+'on': OPB
+'burdock-leaves,': XXX burdock H-PB HREFS KW-BG
+'and': SKP
+'for': TPOR
+'them': THEPL
+'the': -T
+'burdock': XXX burdock
+'was': WA
+'planted.': PHRAPBT/-D TP-PL
+'There': THR
+'was': WA
+'once': WUPBS
+'an': APB
+'old': OLD
+'estate': ES/TAEUT
+'where': W-R
+'no': TPHO
+'one': WUPB
+'now': TPHOU
+'lived': HREUFD
+'to': TO
+'require': RAOEUR
+'snails;': STPHAEUL/-S STPH*FPLT
+'indeed,': TPHAOEPBD KW-BG
+'the': -T
+'owners': OERPBS
+'had': H
+'all': AUL
+'died': TKAOEUD
+'out,': OUT KW-BG
+'but': PWUT
+'the': -T
+'burdock': XXX burdock
+'still': STEUL
+'flourished;': TPHROR/EURB/-D STPH*FPLT
+'it': T
 'grew': TKPWRAOU
+'over': OEFR
+'all': AUL
+'the': -T
+'beds': PWEDZ
+'and': SKP
 'walks': WAUBGS
-'beds;': PWEDZ STPH*FPLT
-'could': KO
-'get': TKPWET
-'mastery': PHA*S/REU
-'them--it': THEPL H-PB H-PB T
-'forest': TPO*RS
+'of': -F
+'the': -T
+'garden—its': TKPWA*RPB EPL/TKA*RB EUTS
+'growth': TKPWRO*UT
+'had': H
+'no': TPHO
+'check—till': KHEBG EPL/TKA*RB T*EUL
+'it': T
+'became': PWAEUPL
+'at': AT
+'last': HRAFT
+'quite': KWAOEUT
+'a': AEU
+'forest': TPOEFRT
+'of': -F
 'burdocks.': XXX burdocks TP-PL
 'Here': HAOER
+'and': SKP
+'there': THR
 'stood': STAOD
+'an': APB
 'apple': A*EPL
-'plum-tree,': PHR*UPL H-PB TRAOE KW-BG
 'or': OR
-'else': ELS
+'a': AEU
+'plum-tree;': PHR*UPL H-PB TRAOE STPH*FPLT
+'but': PWUT
+'for': TPOR
+'this,': TH KW-BG
+'nobody': TPHOEB
 'would': WO
 'have': SR
-'that': THA
-'garden;': TKPWA*RPB STPH*FPLT
-'burdocks,': XXX burdocks KW-BG
-'lived': HREUFD
-'two': TWO
-'last': HRAFT
-'venerable': SREPB/-BL
-'snails.': STPHAEUL/-S TP-PL
-'themselves': TH*EPLS
-'knew': TPHAOU
-'were,': WR KW-BG
+'thought': THAUT
+'the': -T
+'place': PHRAEUS
+'had': H
+'ever': -FR
+'been': PW-PB
+'a': AEU
+'garden.': TKPWA*RPB TP-PL
+'It': T
+'was': WA
+'burdock': XXX burdock
+'from': TPR

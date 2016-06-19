@@ -1,134 +1,133 @@
 # The Shadow Part 4
 
-* awake; `A/WAEUBG STPH*FPLT`
+* that `THA`
+* he `E`
+* could `KO`
+* not `TPHOT`
+* manage; `PHAPBG STPH*FPLT`
+* it `T`
+* is `S`
+* always `AULZ`
+* the `-T`
+* same `SAEUPL`
+* piece. `PAOES TP-PL`
+* thinks, `THEUS KW-BG`
+* I `EU`
+* suppose, `SPOS KW-BG`
+* will `HR`
+* be `-B`
+* able `ABL`
+* to `TO`
+* manage `PHAPBG`
+* at `AT`
+* last; `HRAFT STPH*FPLT`
+* But `PWUT`
+* do `TKO`
+* think `THEU`
+* so, `SO KW-BG`
+* however `HOUF`
+* long `HROPBG`
+* may `PHAE`
+* play `PHRAEU`
+* it." `T TP-PL KR-GS`
+* Once `WUPBS`
+* foreigner `TPORPB/ER`
+* woke `WOEBG`
+* in `TPH`
+* night. `TPHAOEUT TP-PL`
+* slept `SHREPD`
 * with `W`
+* door `TKAOR`
+* open `OEP`
+* which `WEU`
+* led `HRED`
+* balcony; `PWAL/KOEPB STPH*FPLT`
+* wind `WEUPBD`
+* had `H`
+* raised `RA*EUFD`
+* curtain `KUR/TAPB`
+* before `PW-F`
+* it, `T KW-BG`
+* and `SKP`
+* there `THR`
+* appeared `A/PAOERD`
+* a `AEU`
+* wonderful `WUFL`
+* brightness `XXX brightness`
+* over `OEFR`
+* all `AUL`
+* balcony `PWAL/KOEPB`
+* of `-F`
+* opposite `OP/SEUT`
+* house. `HOUS TP-PL`
+* flowers `TPHRO*URS`
+* seemed `SAOEPLD`
+* like `HRAOEUBG`
+* flames `TPHRAEUPLS`
+* most `PHOFT`
+* gorgeous `TKPWORBS`
+* colors, `KHRORS KW-BG`
+* among `PHOPBG`
+* stood `STAOD`
+* beautiful `PWAOUFL`
+* slender `SHRERPBD`
+* maiden. `PHAEUD/EPB TP-PL`
+* was `WA`
+* him `HEUPL`
+* as `AZ`
+* if `TP`
+* light `HRAOEUT`
+* streamed `STRAOEPL/-D`
+* from `TPR`
+* her, `HER KW-BG`
+* dazzled `TKAZ/-LD`
+* his `HEUS`
+* eyes; `AO*EUS STPH*FPLT`
+* then `THEPB`
+* only `OEPBL`
+* just `SKWRUFT`
+* opened `OEPD`
+* them, `THEPL KW-BG`
+* awoke `A/WOEBG`
+* sleep. `SHRAOEP TP-PL`
 * one `WUPB`
 * spring `SPREUPBG`
-* he `E`
-* was `WA`
-* on `OPB`
-* the `-T`
-* floor; `TPHRAOR STPH*FPLT`
+* out `OUT`
+* bed, `PWED KW-BG`
 * crept `KREPT`
-* gently `SKWREPBT/HREU`
+* softly `SOFT/HREU`
 * behind `HEUPBD`
-* curtain, `KUR/TAPB KW-BG`
-* but `PWUT`
-* maiden `PHAEUD/EPB`
-* gone; `TKWOPB STPH*FPLT`
-* flowers `TPHRO*URS`
-* shone `SHO*EPB`
+* curtain. `KUR/TAPB TP-PL`
+* she `SHE`
+* gone—the `TKWOPB EPL/TKA*RB -T`
+* disappeared; `TKEUS/PAOERD STPH*FPLT`
 * no `TPHO`
-* longer, `HRORPBG KW-BG`
-* there `THR`
-* they `THE`
-* stood, `STAOD KW-BG`
-* fresh `TPRERB`
-* and `SKP`
-* blooming `PWHRAOPL/-G`
-* as `AZ`
-* ever; `-FR STPH*FPLT`
-* door `TKAOR`
+* longer `HRORPBG`
+* flames, `TPHRAEUPLS KW-BG`
+* although `HR*T`
+* still `STEUL`
+* ever. `-FR TP-PL`
 * ajar, `A/SKWRAR KW-BG`
-* and, `SKP KW-BG`
-* far `TPAR`
-* within, `W-PB KW-BG`
-* music `PHAOUFBG`
+* an `APB`
+* inner `EURPB`
+* room `RAOPL`
 * sounded `SOUPBD/-D`
+* music `PHAOUFBG`
 * so `SO`
-* soft `SOFT`
-* delightful, `TKHRAOEUT/-FL KW-BG`
-* could `KO`
-* really `HROERL`
-* melt `PHELT`
-* away `A/WAEU`
-* in `TPH`
 * sweet `SWAOET`
-* thoughts `THAUTS`
-* from `TPR`
-* it. `T TP-PL`
-* Yet `KWRET`
-* it `T`
-* like `HRAOEUBG`
-* a `AEU`
-* piece `PAOES`
-* of `-F`
-* enchantment. `EPB/KHAPLT TP-PL`
-* who `WHO`
-* lived `HREUFD`
+* lovely, `HROFL KW-BG`
+* produced `PRO*UD`
+* enchanting `EPB/KHAPBT/-G`
+* thoughts, `THAUTS KW-BG`
+* acted `ABGD`
+* on `OPB`
+* senses `SEPBS/-S`
+* magic `PHA/SKWREUBG`
+* power. `POUR TP-PL`
+* Who `WHO`
+* live `HREUF`
 * there? `THR H-F`
 * Where `W-R`
-* actual `TAOUL`
+* real `RAEL`
 * entrance? `SPWRAPBS H-F`
-* whole `WHOEL`
-* ground-floor `TKPWROUPBD H-PB TPHRAOR`
-* row `ROE`
-* shops, `SHOPS KW-BG`
-* people `PAOEPL`
-* not `TPHOT`
-* always `AULS`
-* be `-B`
-* running `R*UPBG`
-* through. `THRU TP-PL`
-* evening `AOEPG`
-* stranger `STRAEURPBG`
-* sat `SAT`
-* out `OUT`
-* balcony. `PWAL/KOEPB TP-PL`
-* light `HRAOEUT`
-* burnt `PWURPBT`
-* room `RAOPL`
-* him; `HEUPL STPH*FPLT`
-* thus `THUS`
-* quite `KWAOEUT`
-* natural `TPHARL`
-* that `THA`
-* his `HEUS`
-* shadow `SHAD/OE`
-* should `SHO`
-* fall `TPAUL`
-* opposite `OP/SEUT`
-* neighbor's `TPHAEUB AE S*/SP-S`
-* wall. `WAUL TP-PL`
-* Yes! `KWRE SKHRAPL`
-* sat, `SAT KW-BG`
-* directly `TKREL`
-* opposite, `OP/SEUT KW-BG`
-* between `TWAOEPB`
-* balcony; `PWAL/KOEPB STPH*FPLT`
-* when `WHEPB`
-* moved, `PHOFD KW-BG`
-* also `HR-S`
-* moved: `PHOFD STPH-FPLT`
-* for `TPOR`
-* does. `TKOS TP-PL`
-* "I `KR-GS EU`
-* think `THEU`
-* my `PHEU`
-* is `S`
-* only `OEPBL`
-* living `HREUFG`
-* thing `THEUPBG`
-* sees `SAO*ES`
-* over `OEFR`
-* there," `THR KW-BG KR-GS`
-* said `SAEUD`
-* learned `HRERPBD`
-* man. `PHAPB TP-PL`
-* "See, `KR-GS SAOE KW-BG`
-* how `HOU`
-* nicely `TPHAOEULS`
-* sits `SEUTS`
-* flowers. `TPHRO*URS TP-PL`
-* stands `STAPBDZ`
-* half-open: `HAF H-PB OEP STPH-FPLT`
-* now `TPHOU`
-* cunning, `KUPBG KW-BG`
-* go `TKPW`
-* into `TPHAO`
-* room, `RAOPL KW-BG`
-* look `HRAOBG`
-* about, `PW KW-BG`
-* then `THEPB`
-* come `KOPL`
-* tell `TEL`
+* for, `TPOR KW-BG`

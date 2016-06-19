@@ -1,46 +1,6 @@
 # The Fir Tree Part 14
 
-* little `HREUL`
-* Mice `PHAOEUS`
-* jumped `SKWR*UPLD`
-* for `TPOR`
-* joy `SKWROEU`
-* up `UP`
-* to `TO`
-* the `-T`
-* very `SRE`
-* top `TOP`
-* of `-F`
-* Tree. `TRAOE TP-PL`
-* Next `TPHEGT`
-* night `TPHAOEUT`
-* two `TWO`
-* more `PHOR`
-* came, `KAEUPL KW-BG`
-* and `SKP`
-* on `OPB`
-* Sunday `SUPBD`
-* Rats `RAT/-S`
-* even; `*EFPB STPH*FPLT`
-* But `PWUT`
-* they `THE`
-* said `SAEUD`
-* stories `STOERS`
-* were `WR`
-* not `TPHOT`
-* interesting, `TR-G KW-BG`
-* which `WEU`
-* vexed `SREBGS/-D`
-* Mice; `PHAOEUS STPH*FPLT`
-* they, `THE KW-BG`
-* too, `TAO KW-BG`
-* Now `TPHOU`
-* began `TKPWAPB`
-* think `THEU`
-* them `THEPL`
-* so `SO`
-* amusing `A/PHAOUFG`
-* either. `AOERT TP-PL`
+* it. `T TP-PL`
 * "Do `KR-GS TKO`
 * you `U`
 * know `TPHOE`
@@ -48,87 +8,129 @@
 * one `WUPB`
 * story?" `STOER H-F KR-GS`
 * asked `SK-D`
-* Rats. `RAT/-S TP-PL`
+* the `-T`
+* rats. `RAT/-S TP-PL`
 * "Only `KR-GS OEPBL`
-* that `THA`
 * one," `WUPB KW-BG KR-GS`
-* answered `APBSD`
+* replied `RE/PHRAOEUD`
+* fir-tree; `TPEUR H-PB TRAOE STPH*FPLT`
 * "I `KR-GS EU`
 * heard `HERD`
 * it `T`
+* on `OPB`
+* happiest `HAP/KWREFT`
+* evening `AOEPG`
+* of `-F`
 * my `PHEU`
-* happiest `HAP/KWR*ES`
-* evening; `AOEPG STPH*FPLT`
+* life; `HRAOEUF STPH*FPLT`
+* But `PWUT`
 * I `EU`
 * did `TK`
-* then `THEPB`
-* how `HOU`
+* not `TPHOT`
+* was `WA`
+* so `SO`
 * happy `HAEP`
-* was." `WA TP-PL KR-GS`
-* "It `KR-GS T`
+* at `AT`
+* time." `TAOEUPL TP-PL KR-GS`
+* "We `KR-GS WE`
+* think `THEU`
 * is `S`
 * a `AEU`
-* stupid `STAOUPD`
-* story! `STOER SKHRAPL`
-* Don't `TKO*PB AE T*/SP-S`
-* about `PW`
-* bacon `PWAEU/KOPB`
-* tallow `TAL/HROE`
-* candles? `KAPBD/-LS H-F`
-* Can't `K AE T*/SP-S`
-* tell `TEL`
+* very `SRE`
+* miserable `PHEUZ/-BL`
+* story," `STOER KW-BG KR-GS`
+* said `SAEUD`
+* "Don't `KR-GS TKO*PB AE T*/SP-S`
 * any `TPHEU`
-* larder `HRARD/*ER`
-* stories?" `STOERS H-F KR-GS`
+* story `STOER`
+* about `PW`
+* bacon, `PWAEU/KOPB KW-BG`
+* or `OR`
+* tallow `TAL/HROE`
+* in `TPH`
+* storeroom." `STOR/RAOPL TP-PL KR-GS`
 * "No," `KR-GS TPHO KW-BG KR-GS`
-* "Then `KR-GS THEPB`
-* good-bye," `TKPWAOD H-PB PWAO*EU KW-BG KR-GS`
-* Rats; `RAT/-S STPH*FPLT`
-* went `WEPBT`
-* home. `HOEPL TP-PL`
-* At `AT`
-* last `HRAFT`
-* stayed `STAEUD`
+* tree. `TRAOE TP-PL`
+* "Many `KR-GS PHAEPB`
+* thanks `THAPBGS`
+* to `TO`
+* then," `THEPB KW-BG KR-GS`
+* rats, `RAT/-S KW-BG`
+* and `SKP`
+* they `THE`
+* marched `PHAFRPBD`
+* off. `OF TP-PL`
+* little `HREUL`
+* mice `PHAOEUS`
+* also `HR-S`
+* kept `KEPT`
 * away `A/WAEU`
-* also; `HR-S STPH*FPLT`
+* after `AF`
+* this, `TH KW-BG`
 * tree `TRAOE`
-* sighed: `SAOEU/-D STPH-FPLT`
-* "After `KR-GS AF`
-* all, `AUL KW-BG`
-* was `WA`
+* sighed, `SAOEU/-D KW-BG`
+* said, `SAEUD KW-BG`
+* "It `KR-GS T`
 * pleasant `PHREFPBT`
 * when `WHEPB`
-* sleek `SHRAOEBG`
+* merry `PHER/REU`
 * sat `SAT`
 * round `ROUPBD`
-* me, `PHE KW-BG`
-* listened `HR-PB/-D`
-* what `WHA`
-* told `TOLD`
-* them. `THEPL TP-PL`
-* too `TAO`
-* over. `OEFR TP-PL`
-* will `HR`
-* take `TAEUBG`
-* good `TKPWAOD`
-* care `KAEUR`
-* enjoy `TPHOEUPBLG`
+* me `PHE`
+* listened `HREUFPBD`
+* while `WHAOEUL`
+* talked. `TAUBGD TP-PL`
+* Now `TPHOU`
+* that `THA`
+* all `AUL`
+* passed `PAFD`
+* too. `TAO TP-PL`
+* However, `HOUF KW-BG`
+* shall `SHAL`
+* consider `KR`
 * myself `PHAO*EUS`
-* am `*PL`
-* brought `PWRAUT`
+* some `SOPL`
+* comes `KOPLS`
+* take `TAEUBG`
 * out `OUT`
-* again." `TKPWEPB TP-PL KR-GS`
-* be? `-B H-F`
-* Why, `KWR KW-BG`
+* this `TH`
+* place." `PHRAEUS TP-PL KR-GS`
+* would `WO`
+* ever `-FR`
+* happen? `HAP H-F`
+* Yes; `KWRE STPH*FPLT`
 * morning `PHORPBG`
-* there `THR`
-* came `KAEUPL`
-* quantity `KWAPBT`
 * people `PAOEPL`
-* set `SET`
-* work `WORBG`
-* in `TPH`
-* loft. `HRO*FT TP-PL`
-* trunks `TRUPB/-BGS`
-* moved, `PHOFD KW-BG`
+* came `KAEUPL`
+* clear `KHRAOER`
+* garret, `TKPWAEUR/RET KW-BG`
+* boxes `PWOBGS/-S`
+* were `WR`
+* packed `PABGD`
+* away, `A/WAEU KW-BG`
 * pulled `PULD`
+* corner, `KRORPB KW-BG`
+* thrown `THROEPB`
+* roughly `R*UFL`
+* garret `TKPWAEUR/RET`
+* floor; `TPHRAOR STPH*FPLT`
+* Then `THEPB`
+* servant `SEFB/APBT`
+* dragged `TKRAGD`
+* upon `POPB`
+* staircase `STAEUR/KAEUS`
+* where `W-R`
+* daylight `TKAEULT`
+* shone. `SHO*EPB TP-PL`
+* "Now `KR-GS TPHOU`
+* life `HRAOEUF`
+* beginning `TKPWEUPB/-G`
+* again," `TKPWEPB KW-BG KR-GS`
+* tree, `TRAOE KW-BG`
+* rejoicing `RE/SKWROEUFG`
+* sunshine `S*UPB/SHAOEUPB`
+* fresh `TPRERB`
+* air. `AEUR TP-PL`
+* carried `KAERD`
+* down `TKOUPB`
+* stairs `STAEURS`

@@ -1,69 +1,85 @@
 # The Swineherd Part 8
 
+* I `EU`
+* am!" `APL SKHRAPL KR-GS`
+* the `-T`
+* swineherd `XXX swineherd`
+* went `WEPBT`
+* behind `HEUPBD`
+* a `AEU`
+* tree, `TRAOE KW-BG`
+* wiped `WAOEUPD`
+* his `HEUS`
+* face, `TPAEUS KW-BG`
+* threw `THRAOU`
+* off `OF`
+* poor `PAOR`
+* attire `A/TAOEUR`
+* and `SKP`
+* stepped `STEPD`
+* forth `TPO*RT`
+* in `TPH`
+* princely `PREUPBS/HREU`
+* garments; `TKPWARPLTS STPH*FPLT`
+* he `E`
+* looked `HRAOBGD`
+* so `SO`
+* beautiful `PWAOUFL`
+* that `THA`
+* princess `PREUPB/ES`
+* could `KO`
+* not `TPHOT`
 * help `HEP`
 * bowing `PWOUG`
-* before `PW-F`
+* to `TO`
 * him. `HEUPL TP-PL`
 * "I `KR-GS EU`
-* am `*PL`
-* come `KOPL`
-* to `TO`
-* despise `STKPAOEUZ`
-* thee," `THAOE KW-BG KR-GS`
-* said `SAEUD`
-* he. `E TP-PL`
-* "Thou `KR-GS THO*U`
-* would'st `WO AE XXX st`
-* not `TPHOT`
 * have `SR`
+* now `TPHOU`
+* learnt `HRERPBT`
+* despise `STKPAOEUZ`
+* you," `U KW-BG KR-GS`
+* said. `SAEUD TP-PL`
+* "You `KR-GS U`
+* refused `RAO*UFD`
 * an `APB`
-* honorable `HOPB/ORBL`
-* Prince! `PREUPBS SKHRAPL`
-* Thou `THO*U`
-* could'st `KO AE XXX st`
-* prize `PRAOEUZ`
-* the `-T`
-* rose `ROES`
-* and `SKP`
-* nightingale, `TPHAOEUT/-G/TKPWAEL KW-BG`
+* honest `HO*PBS`
+* prince; `PREUPBS STPH*FPLT`
+* you `U`
+* did `TK`
+* appreciate `PRAOERB`
+* rose `ROEZ`
+* nightingale; `TPHAOEUT/-G/TKPWAEL STPH*FPLT`
 * but `PWUT`
-* wast `XXX wast`
-* ready `R*ED`
-* kiss `KEUS`
-* swineherd `XXX swineherd`
+* mind `PHAOEUPBD`
+* kissing `KEUFG`
 * for `TPOR`
-* sake `SAEUBG`
-* of `-F`
-* a `AEU`
-* trumpery `TR*UPL/REU`
-* plaything. `PHRAEU/THEUPBG TP-PL`
-* art `ART`
-* rightly `RAOEULT`
-* served." `SEFRBD TP-PL KR-GS`
-* He `E`
+* toys; `TOEUS STPH*FPLT`
+* no `TPHO`
+* one `WUPB`
+* yourself `KWRO*URS`
+* blame!" `PWHRAEUPL SKHRAPL KR-GS`
 * then `THEPB`
-* went `WEPBT`
-* back `PWABG`
-* his `HEUS`
-* own `OEPB`
-* little `HREUL`
-* kingdom, `KEUPBG/TKOPL KW-BG`
-* shut `SHUT`
-* door `TKAOR`
-* palace `PAL/AS`
-* in `TPH`
+* returned `RURPBD`
+* into `TPHAO`
+* kingdom `KEUPBG/TKOPL`
+* left `HREFT`
 * her `HER`
-* face. `TPAEUS TP-PL`
-* Now `TPHOU`
-* she `SHE`
-* might `PHAOEUT`
-* well `WEL`
-* sing, `SEUPBG KW-BG`
-* "Ach! `KR-GS XXX Ach SKHRAPL`
-* du `XXX du`
-* lieber `XXX lieber`
-* Augustin, `XXX Augustin KW-BG`
-* Alles `AUL/-S`
-* ist `XXX ist`
-* weg, `WEG KW-BG`
-* weg!" `WEG SKHRAPL KR-GS`
+* behind. `HEUPBD TP-PL`
+* She `SHE`
+* sing `SEUPBG`
+* at `AT`
+* leisure: `HR*ERB STPH-FPLT`
+* "A `KR-GS AEU`
+* jolly `SKWROL/HREU`
+* old `OLD`
+* sow `SWO`
+* once `WUPBS`
+* lived `HREUFD`
+* sty, `STAOEU KW-BG`
+* Three `THRAOE`
+* little `HREUL`
+* piggies `PEUG/KWREU/KWREU/-S`
+* has `HAS`
+* she," `SHE KW-BG KR-GS`
+* &c. `XXX &c TP-PL`

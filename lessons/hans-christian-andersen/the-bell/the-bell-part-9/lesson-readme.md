@@ -1,136 +1,133 @@
 # The Bell Part 9
 
-* if `TP`
-* the `-T`
-* bark `PWARBG`
-* of `-F`
-* one `WUPB`
-* trees `TRAOES`
-* was `WA`
-* cracked, `KRABGD KW-BG`
-* there `THR`
-* grass `TKPWRAS`
-* and `SKP`
-* long `HROPBG`
-* creeping `KRAOEPG`
-* plants `PHRAPBTS`
-* grew `TKPWRAOU`
-* in `TPH`
-* crevices. `KREFS/-S TP-PL`
-* were `WR`
-* large `HRARPBLG`
-* calm `KAUPL`
-* lakes `HRAEUBGS`
-* too, `TAO KW-BG`
-* which `WEU`
-* white `WHAOEUT`
-* swans `SWAPBS`
-* swimming, `SWEUPLG KW-BG`
-* beat `PWAET`
-* air `AEUR`
-* with `W`
-* their `THAEUR`
-* wings. `WEUPBGS TP-PL`
-* King's `KEUPBG AE S*/SP-S`
-* Son `SOPB`
 * often `OFPB`
 * stood `STAOD`
 * still `STEUL`
-* listened. `HR-PB/-D TP-PL`
+* and `SKP`
+* listened; `HREUFPBD STPH*FPLT`
+* sometimes `STAOEUPLS`
 * he `E`
 * thought `THAUT`
-* bell `PWEL`
-* sounded `SOUPBD/-D`
-* from `TPR`
-* depths `TK*EPTS`
-* these `THEZ`
-* lakes; `HRAEUBGS STPH*FPLT`
-* but `PWUT`
-* then `THEPB`
-* remarked `RARBGD`
-* again `TKPWEPB`
 * that `THA`
-* tone `TOEPB`
-* proceeded `PROE/SAOED/-D`
-* not `TPHOT`
-* there, `THR KW-BG`
-* farther `TPA*RT`
-* off, `OF KW-BG`
+* the `-T`
+* sound `SOUPBD`
+* of `-F`
+* bell `PWEL`
+* rose `ROEZ`
+* up `UP`
+* to `TO`
+* him `HEUPL`
 * out `OUT`
-* forest. `TPO*RS TP-PL`
+* one `WUPB`
+* these `THEZ`
+* deep `TKAOEP`
+* lakes, `HRAEUBGS KW-BG`
+* but `PWUT`
+* soon `SAOPB`
+* found `TPOUPBD`
+* this `TH`
+* was `WA`
+* a `AEU`
+* mistake, `SPHAEUBG KW-BG`
+* ringing `REUPBG/-G`
+* farther `TPA*RT`
+* in `TPH`
+* wood. `WAOD TP-PL`
+* Then `THEPB`
 * sun `SUPB`
-* now `TPHOU`
-* set: `SET STPH-FPLT`
-* atmosphere `ATS/TPAOER`
-* glowed `TKPWHROE/-D`
-* like `HRAOEUBG`
-* fire. `TPAOEUR TP-PL`
-* It `T`
-* woods, `WAODZ KW-BG`
-* so `SO`
-* very `SRE`
-* still; `STEUL STPH*FPLT`
-* fell `TPEL`
+* set, `SET KW-BG`
+* clouds `KHROUDZ`
+* were `WR`
+* as `AZ`
+* red `RED`
+* fire; `TPAOEUR STPH*FPLT`
+* it `T`
+* became `PWAEUPL`
+* quiet `KWAO*EUT`
+* wood; `WAOD STPH*FPLT`
+* sank `SA*PBG`
+* down `TKOUPB`
 * on `OPB`
 * his `HEUS`
 * knees, `TPHAOEZ KW-BG`
-* sung `SUPBG`
+* sang `SAPBG`
+* an `APB`
 * evening `AOEPG`
-* hymn, `H*EUPL KW-BG`
+* hymn `H*EUPL`
 * said: `SAEUD STPH-FPLT`
 * "I `KR-GS EU`
-* cannot `K/TPHOT`
+* shall `SHAL`
+* never `TPHEF`
 * find `TPEUPBD`
 * what `WHA`
 * I `EU`
-* seek; `SAOEBG STPH*FPLT`
+* am `APL`
+* looking `HRAOG`
+* for! `TPOR SKHRAPL`
+* Now `TPHOU`
 * is `S`
-* going `TKPW-G`
-* down, `TKOUPB KW-BG`
-* night `TPHAOEUT`
-* coming--the `KO*G H-PB H-PB -T`
-* dark, `TKARBG KW-BG`
+* setting, `SEGT KW-BG`
+* night, `TPHAOEUT KW-BG`
 * dark `TKARBG`
-* night. `TPHAOEUT TP-PL`
+* approaching. `A/PROEFPG TP-PL`
 * Yet `KWRET`
-* perhaps `PRAPS`
 * may `PHAE`
-* be `-B`
-* able `ABL`
-* once `WUPBS`
-* more `PHOR`
-* to `TO`
+* perhaps `PRAPS`
 * see `SAOE`
 * round `ROUPBD`
-* red `RED`
+* once `WUPBS`
+* more `PHOR`
 * before `PW-F`
-* entirely `SPWAOEURL`
-* disappears. `TKEUS/PAOERS TP-PL`
+* disappears `TKEUS/PAOERS`
+* beneath `TPHAO*ET`
+* horizon. `HORZ/O*PB TP-PL`
 * will `HR`
 * climb `KHRAOEUPL`
-* up `UP`
-* yonder `KWROPBD/ER`
-* rock." `ROBG TP-PL KR-GS`
-* seized `SAOEZ/-D`
+* rocks, `ROBGS KW-BG`
+* they `THE`
+* are `R`
+* high `HAOEU`
+* highest `HAOEU/EFT`
+* trees!" `TRAOES SKHRAPL KR-GS`
+* then, `THEPB KW-BG`
+* taking `TAEUG`
 * hold `HOLD`
-* creeping-plants, `KRAOEPG H-PB PHRAPBTS KW-BG`
-* roots `RAOTS`
-* trees--climbed `TRAOES H-PB H-PB KHRAOEUPLD`
-* moist `PHOEUFT`
-* stones `STOEBS`
+* creepers `XXX creepers`
+* roots, `RAOTS KW-BG`
+* climbed `KHRAOEUPLD`
+* wet `WET`
+* stones, `STOEBS KW-BG`
 * where `W-R`
 * water-snakes `WAUR H-PB STPHAEUBGS`
-* writhing `WRAO*EUT/-G`
-* toads `TOEDZ`
-* croaking--and `KROEBG/-G H-PB H-PB SKP`
-* gained `TKPWAEUPBD`
-* summit `SUPLT`
+* wriggling `WREUG/-LG`
+* toads, `TOEDZ KW-BG`
+* were, `WR KW-BG`
+* barked `PWARBGD`
+* at `AT`
+* him: `HEUPL STPH-FPLT`
+* reached `RAOEFPD`
+* top `TOP`
+* sun, `SUPB KW-BG`
+* seen `SAOEPB`
+* from `TPR`
+* such `SUFP`
+* height, `HAOEUT KW-BG`
 * had `H`
 * quite `KWAOEUT`
-* gone `TKWOPB`
-* down. `TKOUPB TP-PL`
-* How `HOU`
-* magnificent `PHAFPBT`
-* sight `SAOEUT`
-* this `TH`
-* height! `HAOEUT SKHRAPL`
+* set. `SET TP-PL`
+* "Oh, `KR-GS O*ERBGS KW-BG`
+* splendour!" `SHREPBD/O*UR SKHRAPL KR-GS`
+* sea, `SAE KW-BG`
+* great `TKPWRAET`
+* majestic `PHA/SKWRES/TEUBG`
+* which `WEU`
+* rolling `ROLG`
+* its `EUTS`
+* long `HROPBG`
+* waves `WAFS`
+* against `STPWEPBS`
+* shore, `SHOR KW-BG`
+* stretched `STREFPD`
+* him, `HEUPL KW-BG`
+* standing `STAPBG`
+* like `HRAOEUBG`

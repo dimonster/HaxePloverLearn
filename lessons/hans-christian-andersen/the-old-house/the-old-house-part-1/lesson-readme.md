@@ -1,126 +1,126 @@
 # The Old House Part 1
 
-* in `TPH`
-* The `-T`
-* street, `STRAOET KW-BG`
-* up `UP`
-* there, `THR KW-BG`
-* was `WA`
-* an `APB`
-* old, `OLD KW-BG`
 * a `AEU`
 * very `SRE`
 * old `OLD`
-* house--it `HOUS H-PB H-PB T`
-* almost `HR-PL`
+* house `HOUS`
+* stood `STAOD`
+* once `WUPBS`
+* in `TPH`
+* street `STRAOET`
+* with `W`
+* several `SEFRL`
+* that `THA`
+* were `WR`
+* quite `KWAOEUT`
+* new `TPHU`
+* and `SKP`
+* clean. `KHAOEPB TP-PL`
+* The `-T`
+* date `TKAEUT`
+* of `-F`
+* its `EUTS`
+* erection `AOE/REBGS`
+* had `H`
+* been `PW-PB`
+* carved `KAFRBD`
+* on `OPB`
+* one `WUPB`
+* beams, `PWAOEPLS KW-BG`
+* surrounded `SROUBD/-D`
+* by `PWEU`
+* scrolls `SKROLS`
+* formed `TPORPLD`
+* tulips `TAOU/HREUPS`
+* hop-tendrils; `HOP H-PB TEPB/TKREUL/-S STPH*FPLT`
+* this `TH`
+* it `T`
+* could `KO`
+* be `-B`
+* seen `SAOEPB`
+* was `WA`
+* nearly `TPHAOERL`
 * three `THRAOE`
 * hundred `HUPBD`
 * years `KWRAOERS`
-* for `TPOR`
-* that `THA`
-* might `PHAOEUT`
-* be `-B`
-* known `TPHOEPB`
-* by `PWEU`
-* reading `RAEGD`
-* great `TKPWRAET`
-* beam `PWAEPL`
-* on `OPB`
-* which `WEU`
-* date `TKAEUT`
-* of `-F`
-* year `KWRAOER`
-* carved: `KAFRBD STPH-FPLT`
-* together `TOGT`
-* with `W`
-* tulips `TAOU/HREUPS`
-* and `SKP`
-* hop-binds `HOP H-PB PWAOEUPBDZ`
-* there `THR`
-* were `WR`
-* whole `WHOEL`
-* verses `SRERSZ`
-* spelled `SPELD`
-* as `AZ`
-* former `TPORPL/*ER`
-* times, `TAOEUPLS KW-BG`
+* old. `OLD TP-PL`
+* Verses `SRERSZ`
+* too `TAO`
+* written `WREUPB`
 * over `OEFR`
-* every `EF`
-* window `WOEUPBD`
-* distorted `STKORTD`
-* face `TPAEUS`
-* cut `KUT`
-* out `OUT`
-* beam. `PWAEPL TP-PL`
-* one `WUPB`
-* story `STOER`
-* stood `STAOD`
-* forward `TPAORD`
-* way `WAEU`
-* other; `OER STPH*FPLT`
-* directly `TKREL`
+* windows `WO*EUPBDZ`
+* old-fashioned `OLD H-PB TPAGS/-D`
+* letters, `HRERTS KW-BG`
+* grotesque `TKPWROE/TEFBG`
+* faces, `TPAEUFS KW-BG`
+* curiously `KAOURLS`
+* carved, `KAFRBD KW-BG`
+* grinned `TKPWREUPB/-D`
+* at `AT`
+* you `U`
+* from `TPR`
 * under `*UPBD`
-* eaves `AOEFS`
+* cornices. `KORPB/EUS/-S TP-PL`
+* story `STOER`
+* projected `PROPBLGD`
+* long `HROPBG`
+* way `WAEU`
+* other, `OER KW-BG`
+* roof `RAOF`
+* ran `RAPB`
 * leaden `HRAED/*EPB`
-* spout `SPOUT`
+* gutter, `TKPWOURT KW-BG`
 * dragon's `TKRAG/O*PB AE S*/SP-S`
-* head; `HED STPH*FPLT`
-* rain-water `RAEUPB H-PB WAUR`
-* should `SHO`
-* have `SR`
-* run `RUPB`
+* head `HED`
+* end. `EPBD TP-PL`
+* rain `RAEUPB`
+* intended `EUPB/TED/-D`
+* to `TO`
+* pour `POR`
+* out `OUT`
 * mouth, `PHO*UT KW-BG`
 * but `PWUT`
-* it `T`
-* ran `RAPB`
-* belly, `PWEL/HREU KW-BG`
+* his `HEUS`
+* body `PWO*ED`
+* instead, `STPHED KW-BG`
+* for `TPOR`
+* there `THR`
 * hole `HOEL`
-* spout. `SPOUT TP-PL`
-* All `AUL`
+* gutter. `TKPWOURT TP-PL`
 * other `OER`
 * houses `HO*UFS`
-* street `STRAOET`
-* so `SO`
-* new `TPHU`
-* neat, `TPHAOET KW-BG`
+* well `WEL`
+* built, `PEULT KW-BG`
 * large `HRARPBLG`
+* window `WOEUPBD`
 * panes `PAEPBS`
 * smooth `SPHAO*T`
-* walls, `WAULS KW-BG`
-* could `KO`
-* easily `AOELS`
+* walls. `WAULS TP-PL`
+* Any `TPHEU`
 * see `SAOE`
 * they `THE`
-* would `WO`
 * nothing `TPHOG`
-* to `TO`
 * do `TKO`
-* house: `HOUS STPH-FPLT`
-* certainly `SERPBL`
+* house. `HOUS TP-PL`
+* Perhaps `PRAPS`
 * thought, `THAUT KW-BG`
 * "How `KR-GS HOU`
-* long `HROPBG`
-* is `S`
-* decayed `TKAOE/KAEUD`
-* thing `THEUPBG`
-* stand `STAPBD`
+* will `HR`
+* heap `HAOEP`
+* rubbish `RUB/EURB`
+* remain `RE/PHAUPB`
 * here `HAOER`
-* spectacle `SPEBGT/K-L`
-* street? `STRAOET H-F`
-* then `THEPB`
-* projecting `PROPBLG/-G`
-* windows `WO*EUPBDZ`
+* disgrace `TKEUS/TKPWRAEUS`
+* whole `WHOEL`
+* street. `STRAOET TP-PL`
+* parapet `XXX parapet`
+* projects `PROPBLGZ`
+* so `SO`
 * far `TPAR`
-* out, `OUT KW-BG`
+* forward `TPAORD`
 * no `TPHO`
 * can `K`
-* from `TPR`
 * our `OUR`
 * what `WHA`
-* happens `HABS`
-* direction! `TKREBGS SKHRAPL`
-* steps `STEPS`
-* are `R`
-* broad `PWROD`
-* those `THOZ`
-* palace, `PAL/AS KW-BG`
+* is `S`
+* going `TKPW-G`

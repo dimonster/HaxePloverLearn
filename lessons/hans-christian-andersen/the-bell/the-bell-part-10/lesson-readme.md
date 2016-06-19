@@ -1,128 +1,108 @@
 # The Bell Part 10
 
-* the `-T`
-* sea--the `SAE H-PB H-PB -T`
-* great, `TKPWRAET KW-BG`
-* glorious `TKPWHRORS`
-* sea, `SAE KW-BG`
-* that `THA`
-* dashed `TKARBD`
-* its `EUTS`
-* long `HROPBG`
-* waves `WAFS`
-* against `STPWEPBS`
-* coast--was `KO*ES H-PB H-PB WA`
-* stretched `STREFPD`
-* out `OUT`
-* before `PW-F`
-* him. `HEUPL TP-PL`
+* large `HRARPBLG`
+* bright `PWRAOEUT`
+* altar `AL/TAR`
 * and `SKP`
-* yonder, `KWROPBD/ER KW-BG`
+* there `THR`
 * where `W-R`
 * sea `SAE`
-* sky `SKAOEU`
-* meet, `PHAOET KW-BG`
-* stood `STAOD`
-* sun, `SUPB KW-BG`
-* like `HRAOEUBG`
-* a `AEU`
-* large `HRARPBLG`
-* shining `SHAOEUPBG`
-* altar, `AL/TAR KW-BG`
-* all `AUL`
+* heaven `HEFPB`
+* met—all `PHET EPL/TKA*RB AUL`
 * melted `PHELT/-D`
 * together `TOGT`
 * in `TPH`
-* most `PHO*S`
+* the `-T`
+* most `PHOFT`
 * glowing `TKPWHROEG`
-* colors. `KHRORS TP-PL`
+* colours; `KHROURS STPH*FPLT`
 * wood `WAOD`
-* sang `SAPBG`
-* song `SOPBG`
-* of `-F`
-* rejoicing, `RE/SKWROEUFG KW-BG`
+* was `WA`
+* singing, `SEUPBG/-G KW-BG`
 * his `HEUS`
 * heart `HART`
-* with `W`
-* rest: `R*ES STPH-FPLT`
-* nature `TPHAEUFP`
-* was `WA`
-* vast `SRA*S`
+* too. `TAO TP-PL`
+* whole `WHOEL`
+* of `-F`
+* nature `TPHAEURT`
+* one `WUPB`
 * holy `HOEUL`
 * church, `KHUFRPB KW-BG`
 * which `WEU`
 * trees `TRAOES`
-* buoyant `PWOEUPBT`
+* hovering `HOFRG`
 * clouds `KHROUDZ`
-* were `WR`
+* formed `TPORPLD`
 * pillars, `PEUL/AR/-S KW-BG`
 * flowers `TPHRO*URS`
 * grass `TKPWRAS`
+* woven `WOEFPB`
 * velvet `SREL/SRET`
-* carpeting, `KARPT/-G KW-BG`
-* heaven `HEFPB`
+* carpet, `KARPT KW-BG`
 * itself `T/SEF`
-* cupola. `KUP/HRA TP-PL`
-* red `RED`
-* colors `KHRORS`
-* above `PWOF`
-* faded `TPAEUD/-D`
-* away `A/WAEU`
+* great `TKPWRAET`
+* cupola; `KUP/HRA STPH*FPLT`
+* up `UP`
+* flame `TPHRAEUPL`
+* colour `KROUR`
+* vanished `SRAPB/EURBD`
 * as `AZ`
+* soon `SAOPB`
 * sun `SUPB`
-* vanished, `SRAPB/EURBD KW-BG`
+* disappeared, `TKEUS/PAOERD KW-BG`
 * but `PWUT`
-* million `PHOEUPB`
+* millions `PH-LS`
 * stars `STARS`
-* lighted, `HRAOEUT/-D KW-BG`
+* were `WR`
+* lighted; `HRAOEUT/-D STPH*FPLT`
+* diamond `TKAOEUPLD`
 * lamps `HRA*PLS`
-* shone; `SHO*EPB STPH*FPLT`
-* King's `KEUPBG AE S*/SP-S`
+* shining, `SHAOEUPBG KW-BG`
+* king's `KEUPBG AE S*/SP-S`
 * son `SOPB`
-* spread `SPRED`
+* stretched `STREFPD`
 * arms `ARPLS`
+* out `OUT`
 * towards `TORDZ`
 * heaven, `HEFPB KW-BG`
-* wood, `WAOD KW-BG`
-* sea; `SAE STPH*FPLT`
-* when `WHEPB`
-* at `AT`
-* same `SAEUPL`
-* moment, `PHOEPLT KW-BG`
-* coming `KO*G`
-* by `PWEU`
-* path `PA*T`
-* to `TO`
-* right, `RAOEUT KW-BG`
-* appeared, `A/PAOERD KW-BG`
-* wooden `WAOD/EPB`
-* shoes `SHAOS`
-* jacket, `SKWRABGT KW-BG`
+* sea, `SAE KW-BG`
+* wood. `WAOD TP-PL`
+* Then `THEPB`
+* suddenly `SULD`
 * poor `PAOR`
 * boy `PWOEU`
-* who `WHO`
+* with `W`
+* short-sleeved `SHORT H-PB SHRAOEF/-D`
+* jacket `SKWRABGT`
+* wooden `WAOD/EPB`
+* shoes `SHAOS`
+* appeared; `A/PAOERD STPH*FPLT`
+* he `E`
 * had `H`
-* been `PW-PB`
-* confirmed `K-FRPL/-D`
-* He `E`
-* followed `TPOLD`
-* own `OEPB`
-* path, `PA*T KW-BG`
-* reached `RAOEFPD`
-* spot `SPOT`
+* arrived `A/REUFD`
 * just `SKWRUFT`
-* soon `SAOPB`
-* king `KEUPBG`
-* done. `TKOPB TP-PL`
-* They `THE`
+* quickly `KWEULG`
+* on `OPB`
+* road `RAOD`
+* chosen. `KHOEFPB TP-PL`
+* they `THE`
 * ran `RAPB`
 * each `AOEFP`
-* other, `OER KW-BG`
-* hand `HAPBD`
-* church `KHUFRPB`
-* poetry, `POEURT KW-BG`
-* while `WHAOEUL`
-* over `OEFR`
+* other `OER`
+* took `TAOBG`
+* another's `TPHOER AE S*/SP-S`
+* hand, `HAPBD KW-BG`
+* cathedral `KA/TAOED/RAL`
+* poesy, `XXX poesy KW-BG`
+* above `PWOF`
 * them `THEPL`
 * sounded `SOUPBD/-D`
 * invisible `EUPB/SREUBL`
+* bell; `PWEL STPH*FPLT`
+* happy `HAEP`
+* spirits `SPEURTS`
+* surrounded `SROUBD/-D`
+* them, `THEPL KW-BG`
+* singing `SEUPBG/-G`
+* hallelujahs `HAL/HRAOU/KWRA/-S`
+* rejoicing. `RE/SKWROEUFG TP-PL`

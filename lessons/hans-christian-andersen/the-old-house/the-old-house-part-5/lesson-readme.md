@@ -1,132 +1,134 @@
 # The Old House Part 5
 
-* they `THE`
-* liked. `HRAOEUBGD TP-PL`
-* One `WUPB`
-* of `-F`
-* the `-T`
-* pots `POTS`
-* was `WA`
-* quite `KWAOEUT`
-* overrun `XXX overrun`
-* on `OPB`
+* were `WR`
+* growing `TKPWROEG`
 * all `AUL`
-* sides `SAOEUDZ`
-* with `W`
-* pinks, `PEUPB/-BGS KW-BG`
-* that `THA`
-* is `S`
-* to `TO`
-* say, `SAEU KW-BG`
+* over `OEFR`
+* the `-T`
+* sides, `SAOEUDZ KW-BG`
+* at `AT`
+* least `HRAOEFT`
 * green `TKPWRAOEPB`
-* part; `PART STPH*FPLT`
-* shoot `SHAOT`
-* stood `STAOD`
-* by `PWEU`
-* shoot, `SHAOT KW-BG`
-* and `SKP`
-* it `T`
-* said `SAEUD`
-* distinctly, `TKEUS/TEUPBGT/HREU KW-BG`
+* leaves `HREFS`
+* shooting `SHAOGT`
+* forth `TPO*RT`
+* stalk `STAUBG`
+* And `SKP`
+* stem, `STEPL KW-BG`
+* saying `SAEUG`
+* as `AZ`
+* plainly `PHRAEUPBL`
+* they `THE`
+* could `KO`
+* speak, `SPAOEBG KW-BG`
 * "The `KR-GS -T`
 * air `AEUR`
 * has `HAS`
-* cherished `KHER/EURB/-D`
+* fanned `TPAPB/-D`
 * me, `PHE KW-BG`
 * sun `SUPB`
 * kissed `K*EUFD`
+* I `EU`
+* am `APL`
 * promised `PROPLS/-D`
-* me `PHE`
 * a `AEU`
 * little `HREUL`
 * flower `TPHRO*UR`
-* Sunday! `SUPBD SKHRAPL`
-* Sunday!" `SUPBD SKHRAPL KR-GS`
+* for `TPOR`
+* next `TPHEGT`
+* Sunday—really `SUPBD EPL/TKA*RB HROERL`
+* Sunday." `SUPBD TP-PL KR-GS`
 * then `THEPB`
-* entered `*EPBTD`
-* chamber `KHAEURPL`
-* where `W-R`
+* entered `SPWR-D`
+* room `RAOPL`
+* in `TPH`
+* which `WEU`
 * walls `WAULS`
-* were `WR`
 * covered `KOFRD`
-* hog's `HOG AE S*/SP-S`
-* leather, `HR*ET/ER KW-BG`
-* printed `PREUPBTD`
-* gold `TKPWOELD`
-* flowers. `TPHRO*URS TP-PL`
-* gilding `TKPW*EULD/-G`
-* decays, `TKAOE/KAEUS KW-BG`
-* But `PWUT`
-* leather `HR*ET/ER`
-* stays!" `STAEUS SKHRAPL KR-GS`
+* with `W`
+* leather, `HRE/THER KW-BG`
+* leather `HRE/THER`
+* had `H`
+* golden `TKOELD/*EPB`
+* flowers `TPHRO*URS`
+* stamped `STA*PLD`
+* upon `POPB`
+* it. `T TP-PL`
+* "Gilding `KR-GS TKPW*EULD/-G`
+* will `HR`
+* fade `TPAEUD`
+* damp `TKAFRP`
+* weather, `WHR* KW-BG`
+* to `TO`
+* endure, `EPB/TKAOUR KW-BG`
+* There `THR`
+* is `S`
+* nothing `TPHOG`
+* like `HRAOEUBG`
+* leather," `HRE/THER KW-BG KR-GS`
+* said `SAEUD`
 * walls. `WAULS TP-PL`
-* there `THR`
-* easy-chairs, `EZ H-PB KHAEURS KW-BG`
-* such `SUFP`
+* Chairs `KHAEURS`
+* handsomely `HAPBD/SOPL/HREU`
+* carved, `KAFRBD KW-BG`
+* elbows `EL/PWOES`
+* on `OPB`
+* each `AOEFP`
+* side, `SAOEUD KW-BG`
+* very `SRE`
 * high `HAOEU`
 * backs, `PWABGS KW-BG`
-* so `SO`
-* carved `KAFRBD`
-* out, `OUT KW-BG`
-* arms `ARPLS`
-* both `PWO*T`
-* sides. `SAOEUDZ TP-PL`
+* stood `STAOD`
+* room, `RAOPL KW-BG`
+* creaked `KRAEBG/-D`
+* seemed `SAOEPLD`
+* say, `SAEU KW-BG`
 * "Sit `KR-GS SEUT`
-* down! `TKOUPB SKHRAPL`
-* sit `SEUT`
-* down!" `TKOUPB SKHRAPL KR-GS`
-* they. `THE TP-PL`
-* "Ugh! `KR-GS UG SKHRAPL`
+* down. `TKOUPB TP-PL`
+* Oh `O*ERBGS`
+* dear, `TKAER KW-BG`
 * how `HOU`
-* I `EU`
-* creak; `KRAEBG STPH*FPLT`
-* now `TPHOU`
+* creaking. `KRAOEBG/-G TP-PL`
 * shall `SHAL`
 * certainly `SERPBL`
-* get `TKPWET`
-* gout, `TKPWOUT KW-BG`
-* like `HRAOEUBG`
+* have `SR`
+* Gout `TKPWOUT`
 * old `OLD`
-* clothespress, `XXX clothespress KW-BG`
-* ugh!" `UG SKHRAPL KR-GS`
+* cupboard. `WUP/PWORD TP-PL`
+* my `PHEU`
+* back, `PWABG KW-BG`
+* ugh." `UG TP-PL KR-GS`
 * boy `PWOEU`
-* came `KAEUPL`
-* into `TPHAO`
-* room `RAOPL`
-* projecting `PROPBLG/-G`
-* windows `WO*EUPBDZ`
-* were, `WR KW-BG`
+* where `W-R`
 * man `PHAPB`
 * sat. `SAT TP-PL`
-* "I `KR-GS EU`
-* thank `THAPBG`
+* "Thank `KR-GS THAPBG`
 * you `U`
-* for `TPOR`
-* pewter `PAOU/TER`
-* soldier, `SHRERPBL KW-BG`
-* my `PHEU`
-* friend!" `TPREPBD SKHRAPL KR-GS`
-* man. `PHAPB TP-PL`
-* "And `KR-GS SKP`
-* because `PWAU`
-* come `KOPL`
-* over `OEFR`
+* tin `TEUPB`
+* soldier `SHRERPBL`
+* friend," `TPREPBD KW-BG KR-GS`
+* man, `PHAPB KW-BG`
+* "and `KR-GS SKP`
+* thank `THAPBG`
+* also `HR-S`
+* coming `KO*G`
+* see `SAOE`
 * me." `PHE TP-PL KR-GS`
-* "Thankee! `KR-GS XXX Thankee SKHRAPL`
-* thankee!" `XXX thankee SKHRAPL KR-GS`
+* "Thanks, `KR-GS THAPBGS KW-BG`
+* thanks," `THAPBGS KW-BG KR-GS`
 * or `OR`
-* "cranky! `KR-GS KRAPB/KEU SKHRAPL`
-* cranky!" `KRAPB/KEU SKHRAPL KR-GS`
-* sounded `SOUPBD/-D`
-* from `TPR`
-* furniture; `TPURPBT STPH*FPLT`
+* "Creak, `KR-GS KRAEBG KW-BG`
+* creak," `KRAEBG KW-BG KR-GS`
+* furniture. `TPURPBT TP-PL`
+* was `WA`
+* so `SO`
 * much `PHUFP`
-* it, `T KW-BG`
-* each `AOEFP`
-* article `ARL`
-* In `TPH`
+* that `THA`
+* pieces `PAOEFS`
+* of `-F`
+* furniture `TPURPBT`
 * other's `OER AE S*/SP-S`
-* way, `WAEU KW-BG`
-* look `HRAOBG`
-* at `AT`
+* way `WAEU`
+* get `TKPWET`
+* sight `SAOEUT`
 * boy. `PWOEU TP-PL`

@@ -1,118 +1,121 @@
 # The Red Shoes Part 11
 
-* and `SKP`
+* She `SHE`
+* was `WA`
+* reading `RAEGD`
+* it `T`
+* with `W`
+* a `AEU`
+* pious `PAOEU/OUS`
+* mind, `PHAOEUPBD KW-BG`
 * the `-T`
+* wind `WEUPBD`
+* carried `KAERD`
+* notes `TPHOETS`
+* of `-F`
+* organ `O*RPBG`
+* over `OEFR`
+* to `TO`
+* her `HER`
+* from `TPR`
+* church, `KHUFRPB KW-BG`
+* and `SKP`
+* in `TPH`
+* tears `TAERS`
+* lifted `HREUFTD`
+* up `UP`
+* face `TPAEUS`
+* said: `SAEUD STPH-FPLT`
+* "O `KR-GS O*/SP-S`
+* God! `TKPWOD SKHRAPL`
+* help `HEP`
+* me!" `PHE SKHRAPL KR-GS`
+* Then `THEPB`
 * sun `SUPB`
 * shone `SHO*EPB`
 * so `SO`
-* clearly, `KAOERL KW-BG`
-* straight `STRAEUT`
+* brightly, `PWRAOEULT KW-BG`
+* right `RAOEUT`
 * before `PW-F`
-* her `HER`
 * stood `STAOD`
+* an `APB`
 * angel `APBG/EL`
-* of `-F`
-* God `TKPO*D`
-* in `TPH`
+* God `TKPWOD`
 * white `WHAOEUT`
-* garments, `TKPWARPLTS KW-BG`
+* robes; `ROEB/-S STPH*FPLT`
 * same `SAEUPL`
-* she `SHE`
+* one `WUPB`
+* whom `WHOPL`
 * had `H`
 * seen `SAOEPB`
 * that `THA`
 * night `TPHAOEUT`
 * at `AT`
-* church `KHUFRPB`
-* door; `TKAOR STPH*FPLT`
-* but `PWUT`
-* he `E`
+* church-door. `KHUFRPB H-PB TKAOR TP-PL`
+* He `E`
 * no `TPHO`
 * longer `HRORPBG`
-* carried `KAERD`
 * sharp `SHARP`
 * sword, `SOERD KW-BG`
-* its `EUTS`
-* stead `STED`
-* a `AEU`
-* splendid `SPHREPBD/EUD`
+* but `PWUT`
+* beautiful `PWAOUFL`
 * green `TKPWRAOEPB`
-* spray, `SPRAEU KW-BG`
+* branch, `PWRAFRPB KW-BG`
 * full `TPUL`
-* roses. `ROES/-S TP-PL`
+* roses; `ROES/-S STPH*FPLT`
+* this `TH`
 * touched `TUFPD`
-* ceiling `KAOELG`
-* with `W`
-* rose `ROES`
+* ceiling, `KAOELG KW-BG`
+* which `WEU`
+* rose `ROEZ`
+* very `SRE`
 * high, `HAOEU KW-BG`
 * where `W-R`
-* it `T`
 * there `THR`
-* gleamed `TKPWHRAOEPL/-D`
 * golden `TKOELD/*EPB`
 * star. `STAR TP-PL`
 * walls, `WAULS KW-BG`
-* they `THE`
-* widened `WAOEUD/-PBD`
-* out, `OUT KW-BG`
+* opened `OEPD`
+* wide `WAOEUD`
+* apart, `A/PARD KW-BG`
 * saw `SAU`
-* organ `O*RPBG`
-* which `WEU`
-* was `WA`
-* playing; `PHRA*EUG STPH*FPLT`
-* old `OLD`
+* pealing `PA*EL/-G`
+* forth; `TPO*RT STPH*FPLT`
 * pictures `P*EUFPS`
-* preachers `PRAO*EFP/-S`
-* preachers' `PRAO*EFP/-S AE`
-* wives. `WEUFS TP-PL`
-* congregation `KOPBG/TKPWAEUGS`
-* sat `SAT`
-* cushioned `KURB/OPBD`
-* seats, `SAOETS KW-BG`
-* sang `SAPBG`
-* out `OUT`
+* old `OLD`
+* pastors `PAS/TOR/-S`
 * their `THAEUR`
-* Prayer-Books. `PRAEUR H-PB PWAOBGS TP-PL`
-* For `TPOR`
+* wives, `WEUFS KW-BG`
+* congregation `KOPBG/TKPWAEUGS`
+* sitting `SAO*EGT`
+* polished `POL/EURBD`
+* chairs `KHAEURS`
+* singing `SEUPBG/-G`
+* hymn-books. `H*EUPL H-PB PWAOBGS TP-PL`
+* church `KHUFRPB`
 * itself `T/SEF`
 * come `KOPL`
-* to `TO`
 * poor `PAOR`
 * girl `TKPWEURL`
-* narrow `TPHAR/OE`
-* chamber, `KHAEURPL KW-BG`
+* narrow `TPHO*EUR`
+* room, `RAOPL KW-BG`
 * or `OR`
-* else `ELS`
-* into `TPHAO`
+* room `RAOPL`
+* gone `TKWOPB`
 * church. `KHUFRPB TP-PL`
+* sat `SAT`
 * pew `PAOU`
-* clergyman's `KHRERPBLG/PHAPB AE S*/SP-S`
-* family, `TPAEPL KW-BG`
+* rest `REFT`
+* pastor's `PAS/TOR AE S*/SP-S`
+* household, `HOUS/HOLD KW-BG`
 * when `WHEPB`
-* ended `EPBD/-D`
-* psalm `SAUPL`
+* they `THE`
+* finished `TP*EURBD`
+* hymn `H*EUPL`
 * looked `HRAOBGD`
 * up, `UP KW-BG`
 * nodded `TPHOD/-D`
 * said, `SAEUD KW-BG`
 * "It `KR-GS T`
-* is `S`
-* right `RAOEUT`
-* thou `THO*U`
-* art `ART`
-* come!" `KOPL SKHRAPL KR-GS`
-* through `THRU`
-* mercy!" `PHER/SEU SKHRAPL KR-GS`
-* said. `SAEUD TP-PL`
-* pealed, `PA*EL/-D KW-BG`
-* children's `KHEURPBS`
-* voices `SROEUFS`
-* choir `KHOEUR`
-* sounded `SOUPBD/-D`
-* sweet `SWAOET`
-* soft! `SOFT SKHRAPL`
-* clear `KHRAOER`
-* sunshine `S*UPB/SHAOEUPB`
-* streamed `STRAOEPL/-D`
-* warmly `WARPL/HREU`
-* window `WOEUPBD`
+* you `U`
+* come, `KOPL KW-BG`

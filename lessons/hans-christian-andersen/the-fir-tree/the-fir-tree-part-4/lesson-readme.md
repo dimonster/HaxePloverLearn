@@ -1,136 +1,142 @@
 # The Fir Tree Part 4
 
-* over `OEFR`
-* him; `HEUPL STPH*FPLT`
-* but `PWUT`
-* the `-T`
-* Fir `TPEUR`
-* understood `*URPBD`
-* it `T`
-* not. `TPHOT TP-PL`
-* When `WHEPB`
-* Christmas `KREUS/PHAS`
-* came, `KAEUPL KW-BG`
-* quite `KWAOEUT`
-* young `KWRUPBG`
-* trees `TRAOES`
-* were `WR`
-* cut `KUT`
-* down: `TKOUPB STPH-FPLT`
-* which `WEU`
-* often `OFPB`
-* not `TPHOT`
-* even `AOEPB`
-* as `AZ`
-* large `HRARPBLG`
-* or `OR`
-* of `-F`
-* same `SAEUPL`
-* age `AEUPBLG`
-* this `TH`
-* Tree, `TRAOE KW-BG`
-* who `WHO`
-* could `KO`
-* never `TPHEF`
-* rest, `R*ES KW-BG`
-* always `AULS`
-* wanted `WAPBTD`
-* to `TO`
-* be `-B`
-* off. `OF TP-PL`
-* These `THEZ`
-* trees, `TRAOES KW-BG`
-* and `SKP`
-* they `THE`
-* finest `TPAOEUPB/*ES`
-* looking, `HRAOG KW-BG`
-* retained `RAOE/TAEUPBD`
+* chosen `KHOEFPB`
+* for `TPOR`
 * their `THAEUR`
-* branches; `PWRAFPBS STPH*FPLT`
+* beauty, `PWAOUT KW-BG`
+* kept `KEPT`
+* branches, `PWRAFPBS KW-BG`
+* and `SKP`
+* were `WR`
+* also `HR-S`
 * laid `HRAEUD`
 * on `OPB`
-* carts, `KARTS KW-BG`
+* wagons `WAG/OPBS`
+* drawn `TKRAUPB`
+* by `PWEU`
 * horses `HORS/-S`
-* drew `TKRAOU`
-* them `THEPL`
 * out `OUT`
-* wood. `WAOD TP-PL`
+* of `-F`
+* the `-T`
+* forest. `TPOEFRT TP-PL`
 * "Where `KR-GS W-R`
 * are `R`
-* going `TKPW-G`
-* to?" `TO H-F KR-GS`
+* They `THE`
+* going?" `TKPW-G H-F KR-GS`
 * asked `SK-D`
-* Fir. `TPEUR TP-PL`
+* fir-tree. `TPEUR H-PB TRAOE TP-PL`
 * "They `KR-GS THE`
+* not `TPHOT`
 * taller `TAURL`
 * than `THAPB`
-* I; `EU STPH*FPLT`
-* there `THR`
-* was `WA`
+* I `EU`
+* am: `APL STPH-FPLT`
+* indeed, `TPHAOEPBD KW-BG`
 * one `WUPB`
-* indeed `TPHAOEPBD`
-* that `THA`
-* considerably `KRAEBL`
-* shorter; `SHORT/*ER STPH*FPLT`
+* is `S`
+* much `PHUFP`
+* less; `HRES STPH*FPLT`
 * why `KWR`
-* do `TKO`
-* retain `RE/TAEUPB`
-* all `AUL`
-* branches? `PWRAFPBS H-F`
-* whither `WH*EUT/ER`
-* taken?" `TAEPB H-F KR-GS`
+* branches `PWRAFPBS`
+* cut `KUT`
+* off? `OF H-F`
+* Where `W-R`
 * "We `KR-GS WE`
-* know! `TPHOE SKHRAPL`
+* know, `TPHOE KW-BG`
 * We `WE`
-* know!" `TPHOE SKHRAPL KR-GS`
-* chirped `KHEURP/-D`
-* Sparrows. `SPAEUR/ROE/-S TP-PL`
+* know," `TPHOE KW-BG KR-GS`
+* sang `SAPBG`
+* sparrows; `SPAEUR/ROE/-S STPH*FPLT`
 * have `SR`
-* peeped `PAOEPD`
+* looked `HRAOBGD`
 * in `TPH`
 * at `AT`
 * windows `WO*EUPBDZ`
-* town `TOUPB`
-* below! `PWHRO SKHRAPL`
+* houses `HO*UFS`
+* town, `TOUPB KW-BG`
 * know `TPHOE`
-* taken! `TAEPB SKHRAPL`
-* greatest `TKPWRAET/EFT`
-* splendor `SHREPBD/O*R`
-* magnificence `PHAFPBS`
-* can `K`
-* imagine `PHAPBLG`
-* await `A/WAEUT`
-* them. `THEPL TP-PL`
-* through `THRU`
-* windows, `WO*EUPBDZ KW-BG`
-* saw `SAU`
-* planted `PHRAPBT/-D`
-* middle `PH*EULD`
-* warm `WARPL`
-* room `RAOPL`
-* ornamented `ORPB/*PLT/-D`
+* what `WHA`
+* done `TKOPB`
 * with `W`
-* most `PHO*S`
+* them. `THEPL TP-PL`
+* dressed `TKREFD`
+* up `UP`
+* most `PHOFT`
 * splendid `SPHREPBD/EUD`
-* things, `THEUPBGS KW-BG`
+* manner. `PHAERPB TP-PL`
+* seen `SAOEPB`
+* them `THEPL`
+* standing `STAPBG`
+* middle `PH*EULD`
+* a `AEU`
+* warm `WARPL`
+* room, `RAOPL KW-BG`
+* adorned `A/TKORPB/-D`
+* all `AUL`
+* sorts `SORTS`
+* beautiful `PWAOUFL`
+* things,—honey `THEUPBGS KW-BG EPL/TKA*RB HUPB/KWREU`
+* cakes, `KAEUBG/-S KW-BG`
 * gilded `TKPWEULD/-D`
 * apples, `APLS KW-BG`
-* gingerbread, `SKWREUPBG/*ER/PWRAED KW-BG`
-* toys, `TOEUS KW-BG`
+* playthings, `PHRAEU/THEUPBG/-S KW-BG`
 * many `PHAEPB`
-* hundred `HUPBD`
-* lights!" `HRAOEUTS SKHRAPL KR-GS`
-* "And `KR-GS SKP`
-* then?" `THEPB H-F KR-GS`
+* hundreds `HUPBS`
+* wax `WABGS`
+* tapers." `TAEURPS TP-PL KR-GS`
+* "and `KR-GS SKP`
+* then," `THEPB KW-BG KR-GS`
+* fir-tree, `TPEUR H-PB TRAOE KW-BG`
 * trembling `TREPL/-BLG`
-* every `EF`
-* bough. `PWO*U TP-PL`
-* then? `THEPB H-F`
-* What `WHA`
-* happens `HABS`
+* through `THRU`
+* its `EUTS`
+* then `THEPB`
+* happens?" `HABS H-F KR-GS`
 * did `TK`
 * see `SAOE`
+* any `TPHEU`
+* more," `PHOR KW-BG KR-GS`
+* said `SAEUD`
+* "but `KR-GS PWUT`
+* this `TH`
+* was `WA`
+* enough `TPHUF`
+* us." `US TP-PL KR-GS`
+* "I `KR-GS EU`
+* wonder `WOPBD`
+* whether `WHR`
 * anything `TPHEUG`
-* more: `PHOR STPH-FPLT`
-* incomparably `XXX incomparably`
-* beautiful." `PWAOUFL TP-PL KR-GS`
+* so `SO`
+* brilliant `PWREULT`
+* will `HR`
+* ever `-FR`
+* happen `HAP`
+* to `TO`
+* me," `PHE KW-BG KR-GS`
+* thought `THAUT`
+* "It `KR-GS T`
+* would `WO`
+* be `-B`
+* better `PWOERT`
+* crossing `KROFG`
+* sea. `SAE TP-PL`
+* long `HROPBG`
+* it `T`
+* almost `HR-PL`
+* pain. `PAEUPB TP-PL`
+* Oh! `O*ERBGS SKHRAPL`
+* when `WHEPB`
+* Christmas `KREUS/PHAS`
+* here? `HAOER H-F`
+* am `APL`
+* now `TPHOU`
+* as `AZ`
+* tall `TAUL`
+* well `WEL`
+* grown `TKPWROEPB`
+* those `THOZ`
+* which `WEU`
+* taken `TAEPB`
+* away `A/WAEU`
+* last `HRAFT`
+* year. `KWRAOER TP-PL`

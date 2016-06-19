@@ -1,67 +1,73 @@
 # The Red Shoes Part 3
 
+* lovely, `HROFL KW-BG`
+* But `PWUT`
+* the `-T`
+* old `OLD`
+* lady `HRA*ED`
+* could `KO`
 * not `TPHOT`
 * see `SAOE`
+* very `SRE`
 * well, `WEL KW-BG`
 * and `SKP`
-* so `SO`
-* had `H`
-* no `TPHO`
+* therefore `TH-FR`
+* did `TK`
+* get `TKPWET`
+* much `PHUFP`
 * pleasure `PHRERB`
-* in `TPH`
-* them. `THEPL TP-PL`
-* the `-T`
-* midst `PHEUDZ`
+* out `OUT`
 * of `-F`
+* it. `T TP-PL`
+* Amongst `PHOPBGS`
 * shoes `SHAOS`
 * stood `STAOD`
 * a `AEU`
 * pair `PAEUR`
 * red `RED`
 * ones, `WUPBZ KW-BG`
-* just `SKWRUFT`
 * like `HRAOEUBG`
 * those `THOZ`
+* which `WEU`
 * princess `PREUPB/ES`
+* had `H`
 * worn. `WORPB TP-PL`
-* how `HOU`
+* How `HOU`
 * beautiful `PWAOUFL`
-* they `THE`
+* They `THE`
 * were! `WR SKHRAPL`
 * shoemaker `XXX shoemaker`
 * said `SAEUD`
-* also `HR-S`
+* that `THA`
 * been `PW-PB`
 * made `PHAED`
 * for `TPOR`
-* child `KHAOEULD`
-* count, `KOUPBT KW-BG`
-* but `PWUT`
-* fitted. `TPEUTD TP-PL`
-* "That `KR-GS THA`
-* must `PHUFT`
-* be `-B`
-* patent `PA/TEPBT`
-* leather!" `HR*ET/ER SKHRAPL KR-GS`
-* old `OLD`
+* count's `KOUPBT AE S*/SP-S`
+* daughter, `TKAUR KW-BG`
+* fitted `TPEUTD`
+* her. `HER TP-PL`
+* "I `KR-GS EU`
+* suppose `SPOS`
+* are `R`
+* shiny `SHOEUPB`
+* leather?" `HRE/THER H-F KR-GS`
+* asked `SK-D`
 * lady. `HRA*ED TP-PL`
 * "They `KR-GS THE`
 * shine `SHAOEUPB`
-* so!" `SO SKHRAPL KR-GS`
+* so." `SO TP-PL KR-GS`
 * "Yes, `KR-GS KWRE KW-BG`
-* shine!" `SHAOEUPB SKHRAPL KR-GS`
-* Karen, `KAEURPB KW-BG`
-* fitted, `TPEUTD KW-BG`
+* do `TKO`
+* shine," `SHAOEUPB KW-BG KR-GS`
+* Karen. `KAEURPB TP-PL`
+* her, `HER KW-BG`
 * were `WR`
-* bought, `PWAUT KW-BG`
-* lady `HRA*ED`
+* bought. `PWAUT TP-PL`
 * knew `TPHAOU`
 * nothing `TPHOG`
-* about `PW`
 * their `THAEUR`
 * being `-BG`
 * red, `RED KW-BG`
-* else `ELS`
 * she `SHE`
 * would `WO`
 * never `TPHEF`
@@ -69,64 +75,55 @@
 * allowed `HRO*UD`
 * Karen `KAEURPB`
 * to `TO`
-* gone `TKWOPB`
-* confirmed. `K-FRPL/-D TP-PL`
-* Yet `KWRET`
-* such `SUFP`
+* be `-B`
+* confirmed `K-FRPL/-D`
+* in `TPH`
+* shoes, `SHAOS KW-BG`
+* as `AZ`
 * was `WA`
-* case. `KAEUS TP-PL`
+* now `TPHOU`
+* be. `-B TP-PL`
 * Everybody `EFB`
 * looked `HRAOBGD`
 * at `AT`
 * her `HER`
-* feet; `TPAOET STPH*FPLT`
-* when `WHEPB`
-* stepped `STEPD`
-* through `THRU`
-* chancel `KHAPB/SEL`
-* door `TKAOR`
-* on `OPB`
+* feet, `TPAOET KW-BG`
+* whole `WHOEL`
+* way `WAEU`
+* from `TPR`
 * church `KHUFRPB`
-* pavement, `PAEUFPLT KW-BG`
-* it `T`
+* door `TKAOR`
+* choir `KHOEUR`
+* It `T`
 * seemed `SAOEPLD`
-* as `AZ`
 * if `TP`
+* even `AOEPB`
+* ancient `AEURBT`
 * figures `TPEUGS`
-* tombs, `TAOUPLS KW-BG`
-* portraits `POR/TRAT/-S`
-* preachers `PRAO*EFP/-S`
-* preachers' `PRAO*EFP/-S AE`
-* wives, `WEUFS KW-BG`
-* with `W`
+* on `OPB`
+* monuments, `PHOPB/AOUPLTS KW-BG`
 * stiff `STEUF`
-* ruffs, `R*UF/-S KW-BG`
+* collars `KOL/ARS`
 * long `HROPBG`
 * black `PWHRABG`
-* dresses, `TKRES/-S KW-BG`
-* fixed `TPEUFD`
+* robes, `ROEB/-S KW-BG`
 * eyes `AO*EUS`
+* fixed `TPEUFD`
 * shoes. `SHAOS TP-PL`
-* thought `THAUT`
 * only `OEPBL`
-* them `THEPL`
+* these `THEZ`
+* thought `THAUT`
+* when `WHEPB`
 * clergyman `KHRERPBLG/PHAPB`
 * laid `HRAEUD`
 * his `HEUS`
 * hand `HAPBD`
 * upon `POPB`
-* head, `HED KW-BG`
+* head `HED`
 * spoke `SPOEBG`
 * holy `HOEUL`
 * baptism, `PWAP/TEUFPL KW-BG`
 * covenant `KOFPBT`
-* God, `TKPO*D KW-BG`
-* should `SHO`
-* now `TPHOU`
-* matured `PHA/KHURD`
-* Christian; `KREUGS STPH*FPLT`
-* organ `O*RPBG`
-* pealed `PA*EL/-D`
-* solemnly; `SOL/EPL/HREU STPH*FPLT`
-* sweet `SWAOET`
-* children's `KHEURPBS`
+* with `W`
+* God, `TKPWOD KW-BG`
+* told `TOLD`

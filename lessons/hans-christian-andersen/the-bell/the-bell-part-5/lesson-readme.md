@@ -1,145 +1,142 @@
 # The Bell Part 5
 
-* and `SKP`
-* both `PWO*T`
-* returned `RURPBD`
-* to `TO`
-* town; `TOUPB STPH*FPLT`
-* two `TWO`
-* little `HREUL`
-* girls `TKPWEURLS`
-* sat `SAT`
-* down, `TKOUPB KW-BG`
-* twined `TWEUPB/-D`
-* garlands, `TKPWAR/HRAPBDZ KW-BG`
-* So `SO`
-* They `THE`
+* they, `THE KW-BG`
+* therefore, `TH-FR KW-BG`
 * did `TK`
 * not `TPHOT`
 * go `TKPW`
-* either; `AOERT STPH*FPLT`
-* when `WHEPB`
+* on. `OPB TP-PL`
+* When `WHEPB`
 * the `-T`
 * others `OERS`
-* reached `RAOEFPD`
-* willow-tree, `WEUL/HROE H-PB TRAOE KW-BG`
+* arrived `A/REUFD`
+* at `AT`
+* willow `WEUL/HROE`
+* trees, `TRAOES KW-BG`
 * where `W-R`
 * confectioner `KAUPB/TPEBGS/*ER`
-* was, `WA KW-BG`
-* said, `SAEUD KW-BG`
+* had `H`
+* put `PUT`
+* up `UP`
+* his `HEUS`
+* stall, `STAUL KW-BG`
+* They `THE`
+* said: `SAEUD STPH-FPLT`
 * "Now `KR-GS TPHOU`
 * we `WE`
 * are `R`
-* there! `THR SKHRAPL`
-* in `TPH`
-* reality `RAOELT`
+* out `OUT`
+* here; `HAOER STPH*FPLT`
 * bell `PWEL`
 * does `TKOS`
-* exist; `KP*EUS STPH*FPLT`
-* it `T`
+* in `TPH`
+* reality `RAOELT`
+* exist—it `KPEUFT EPL/TKA*RB T`
 * is `S`
 * only `OEPBL`
-* a `AEU`
-* fancy `TPAPB/SEU`
+* something `S-G`
 * that `THA`
 * people `PAOEPL`
-* have `SR`
-* taken `TAEPB`
-* into `TPHAO`
-* their `THAEUR`
-* heads!" `HEDZ SKHRAPL KR-GS`
-* At `AT`
-* same `SAEUPL`
-* moment `PHOEPLT`
-* sounded `SOUPBD/-D`
-* deep `TKAOEP`
-* wood, `WAOD KW-BG`
-* clear `KHRAOER`
-* solemnly `SOL/EPL/HREU`
-* five `TPEUF`
-* or `OR`
-* six `SEUBGS`
-* determined `TKERPLD`
-* penetrate `PEPB/TRAEUT`
-* somewhat `SWHA`
-* further. `TPURT TP-PL`
+* imagine!" `PHAPBLG SKHRAPL KR-GS`
+* then `THEPB`
+* suddenly `SULD`
+* sound `SOUPBD`
+* of `-F`
 * was `WA`
-* thick, `THEUBG KW-BG`
-* foliage `TPOEL/APBLG`
-* dense, `TKEPBS KW-BG`
-* quite `KWAOEUT`
-* fatiguing `TPA/TAOEG/-G`
-* proceed. `PROED TP-PL`
-* Woodroof `XXX Woodroof`
-* anemonies `XXX anemonies`
+* heard `HERD`
+* so `SO`
+* beautifully `PWAOUFL/HREU`
+* and `SKP`
+* solemnly `SOL/EPL/HREU`
+* from `TPR`
+* wood `WAOD`
+* four `TPOUR`
+* or `OR`
+* five `TPEUF`
+* made `PHAED`
+* their `THAEUR`
+* minds `PHAOEUPBDZ`
+* to `TO`
+* still `STEUL`
+* further `TPURT`
+* very `SRE`
+* thickly `THEUBG/HREU`
+* grown. `TKPWROEPB TP-PL`
+* it `T`
+* difficult `TKEUFL`
+* advance: `SRAPBS STPH-FPLT`
+* lilies `HREUL/KWREU/KWREU/-S`
+* anemones `A/PHEPB/PHE/-S`
 * grew `TKPWRAOU`
 * almost `HR-PL`
 * too `TAO`
 * high; `HAOEU STPH*FPLT`
-* blooming `PWHRAOPL/-G`
-* convolvuluses `XXX convolvuluses`
-* blackberry-bushes `PWHRABG/PWER/REU H-PB PWURBS`
-* hung `HUPBG`
-* long `HROPBG`
-* garlands `TKPWAR/HRAPBDZ`
-* from `TPR`
-* tree `TRAOE`
-* tree, `TRAOE KW-BG`
-* nightingale `TPHAOEUT/-G/TKPWAEL`
-* sang `SAPBG`
-* sunbeams `SUPB/PWAOEPL/-S`
+* flowering `TPHROU/ERG`
+* convolvuli `XXX convolvuli`
+* brambles `PWRAPL/-BLS`
 * were `WR`
-* playing: `PHRA*EUG STPH-FPLT`
-* very `SRE`
-* beautiful, `PWAOUFL KW-BG`
-* but `PWUT`
-* no `TPHO`
-* place `PHRAEUS`
+* hanging `HAPBG/-G`
+* like `HRAOEUBG`
+* garlands `TKPWAR/HRAPBDZ`
+* tree `TRAOE`
+* tree; `TRAOE STPH*FPLT`
+* while `WHAOEUL`
+* nightingales `TPHAOEUT/-G/TKPWAEL/-S`
+* singing `SEUPBG/-G`
+* sunbeams `SUPB/PWAOEPL/-S`
+* played. `PHRAEUD TP-PL`
+* beautiful! `PWAOUFL SKHRAPL`
+* But `PWUT`
+* way `WAEU`
+* unfit `UPB/TPEUT`
 * for `TPOR`
-* go; `TKPW STPH*FPLT`
-* clothes `KHRO*ETS`
+* girls; `TKPWEURLS STPH*FPLT`
 * would `WO`
-* get `TKPWET`
-* torn. `TORPB TP-PL`
+* have `SR`
+* torn `TORPB`
+* dresses. `TKRES/-S TP-PL`
 * Large `HRARPBLG`
-* blocks `PWHROBGS`
-* of `-F`
-* stone `STOEPB`
-* lay `HRAEU`
-* there, `THR KW-BG`
-* overgrown `XXX overgrown`
+* rocks, `ROBGS KW-BG`
+* covered `KOFRD`
 * with `W`
 * moss `PHOS`
-* every `EF`
-* color; `KROR STPH*FPLT`
+* various `SRAEURS`
+* hues, `HAOU/-S KW-BG`
+* lying `HRAOEUG`
+* about; `PW STPH*FPLT`
 * fresh `TPRERB`
 * spring `SPREUPBG`
-* bubbled `PWUBLD`
-* forth, `TPO*RT KW-BG`
-* made `PHAED`
-* strange `STRAEUPBG`
-* gurgling `TKPWURG/-LG`
+* water `WAUR`
+* rippled `REUP/-LD`
+* forth `TPO*RT`
+* a `AEU`
+* peculiar `PE/KAOUL/HRAR`
 * sound. `SOUPBD TP-PL`
-* "That `KR-GS THA`
-* surely `SHURL`
-* cannot `K/TPHOT`
+* "I `KR-GS EU`
+* don't `TKOEPBT`
+* think `THEU`
+* can `K`
 * be `-B`
 * bell," `PWEL KW-BG KR-GS`
 * said `SAEUD`
 * one `WUPB`
+* confirmed `K-FRPL/-D`
 * children, `KHEURPB KW-BG`
-* lying `HRAOEUG`
-* down `TKOUPB`
-* listening. `HR-PBG TP-PL`
-* "This `KR-GS TH`
-* must `PHUFT`
-* looked `HRAOBGD`
-* to." `TO TP-PL KR-GS`
 * he `E`
+* lay `HRAEU`
+* down `TKOUPB`
+* listened. `HREUFPBD TP-PL`
+* "We `KR-GS WE`
+* must `PHUFT`
+* try `TREU`
+* find `TPEUPBD`
+* if `TP`
+* is!" `S SKHRAPL KR-GS`
+* there `THR`
 * remained, `RE/PHAEUPBD KW-BG`
 * let `HRET`
-* on `OPB`
-* without `WOUT`
-* him. `HEUPL TP-PL`
-* afterwards `A*FRDZ`
+* walk `WAUBG`
 * came `KAEUPL`
+* hut `HUT`
+* built `PEULT`
+* bark `PWARBG`

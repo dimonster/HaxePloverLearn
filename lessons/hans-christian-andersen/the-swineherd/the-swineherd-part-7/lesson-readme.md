@@ -1,125 +1,128 @@
 # The Swineherd Part 7
 
-* "They `KR-GS THE`
-* are `R`
+* "I `KR-GS EU`
+* wonder `WOPBD`
+* what `WHA`
+* that `THA`
+* crowd `KROUD`
+* near `TPHAOER`
 * the `-T`
-* ladies `HRA*EDZ`
+* pigsty `XXX pigsty`
+* means!" `PHAOEPBS SKHRAPL KR-GS`
+* said `SAEUD`
+* emperor, `EPL/ROR KW-BG`
+* who `WHO`
+* had `H`
+* just `SKWRUFT`
+* come `KOPL`
+* out `OUT`
+* on `OPB`
+* his `HEUS`
+* balcony. `PWAL/KOEPB TP-PL`
+* he `E`
+* rubbed `RUBD`
+* eyes `AO*EUS`
+* and `SKP`
+* put `PUT`
+* spectacles `SPEBGT/K-LS`
+* on. `OPB TP-PL`
+* "The `KR-GS -T`
+* ladies `HRAEUDZ`
 * of `-F`
-* court; `KORT STPH*FPLT`
+* court `KORT`
+* are `R`
+* up `UP`
+* to `TO`
+* some `SOPL`
+* mischief, `PHEUS/KHEF KW-BG`
 * I `EU`
-* must `PHUFT`
+* think. `THEU TP-PL`
+* shall `SHAL`
+* have `SR`
 * go `TKPW`
 * down `TKOUPB`
-* and `SKP`
-* see `SAOE`
-* what `WHA`
-* they `THE`
-* about!" `PW SKHRAPL KR-GS`
-* so `SO`
-* he `E`
+* see." `SAOE TP-PL KR-GS`
 * pulled `PULD`
-* up `UP`
-* his `HEUS`
-* slippers `SHREUP/ERS`
-* at `AT`
-* heel, `HAOEL KW-BG`
+* shoes, `SHAOS KW-BG`
 * for `TPOR`
-* had `H`
-* trodden `XXX trodden`
-* them `THEPL`
-* down. `TKOUPB TP-PL`
-* as `AZ`
-* soon `SAOPB`
-* got `TKPWOT`
-* into `TPHAO`
-* court-yard, `KORT H-PB KWRARD KW-BG`
-* moved `PHOFD`
-* very `SRE`
-* softly, `SOFT/HREU KW-BG`
+* they `THE`
 * were `WR`
-* much `PHUFP`
-* engrossed `EPB/TKPWROES/-D`
-* with `W`
+* at `AT`
+* heels, `HAOELS KW-BG`
+* was `WA`
+* very `SRE`
+* quick `KWEUBG`
+* about `PW`
+* it. `T TP-PL`
+* when `WHEPB`
+* into `TPHAO`
+* courtyard `KORT/KWRARD`
+* walked `WAUBGD`
+* quite `KWAOEUT`
+* softly, `SOFT/HREU KW-BG`
+* so `SO`
+* busily `PWEUZ/HREU`
+* engaged `EPB/TKPWAEUBLG/-D`
+* in `TPH`
 * counting `KOUPBGT`
 * kisses, `KEUS/-S KW-BG`
-* that `THA`
 * all `AUL`
-* might `PHAOEUT`
-* on `OPB`
-* fairly, `TPAEURL KW-BG`
+* should `SHO`
+* be `-B`
+* fair, `TPAEUR KW-BG`
 * did `TK`
 * not `TPHOT`
-* perceive `SPAOEF`
-* Emperor. `EPL/ROR TP-PL`
-* rose `ROES`
-* tiptoes. `TEUP/TOES TP-PL`
+* notice `TPH-TS`
+* emperor. `EPL/ROR TP-PL`
+* raised `RA*EUFD`
+* himself `H*EUPLS`
+* tiptoe. `TEUP/TOE TP-PL`
 * "What `KR-GS WHA`
-* is `S`
-* this?" `TH H-F KR-GS`
-* said `SAEUD`
-* he, `E KW-BG`
-* when `WHEPB`
+* does `TKOS`
+* this `TH`
+* mean?" `PHAOEPB H-F KR-GS`
+* said, `SAEUD KW-BG`
 * saw `SAU`
-* was `WA`
-* going `TKPW-G`
-* on, `OPB KW-BG`
-* boxed `PWOBGS/-D`
-* Princess's `PREUPB/ES AE S*/SP-S`
-* ears `AOERS`
-* slipper, `SHREUP/ER KW-BG`
-* just `SKWRUFT`
+* daughter `TKAUR`
+* kissing `KEUFG`
+* swineherd, `XXX swineherd KW-BG`
+* then `THEPB`
+* hit `HEUT`
+* their `THAEUR`
+* heads `HEDZ`
+* with `W`
+* shoe `SHAOU`
+* as `AZ`
 * swineherd `XXX swineherd`
-* taking `TAEUG`
-* eighty-sixth `AEUBGT H-PB S*BGS`
+* received `SAOEFD`
+* sixty-eighth `SEUBGT H-PB A*ET`
 * kiss. `KEUS TP-PL`
-* "March `KR-GS PHA*R`
-* out!" `OUT SKHRAPL KR-GS`
-* Emperor, `EPL/ROR KW-BG`
+* "Go `KR-GS TKPW`
+* my `PHEU`
+* sight," `SAOEUT KW-BG KR-GS`
 * angry; `APBG/REU STPH*FPLT`
 * both `PWO*T`
-* Princess `PREUPB/ES`
-* thrust `THR*US`
-* out `OUT`
-* city. `STEU TP-PL`
-* now `TPHOU`
-* stood `STAOD`
-* wept, `WEPT KW-BG`
-* scolded, `SKOLD/-D KW-BG`
-* rain `RAEUPB`
-* poured `PORD`
-* "Alas! `KR-GS A/HRAS SKHRAPL`
-* Unhappy `UPB/HAEP`
-* creature `KRAOEFP`
-* am!" `*PL SKHRAPL KR-GS`
-* Princess. `PREUPB/ES TP-PL`
-* "If `KR-GS TP`
-* but `PWUT`
-* married `PHAERD`
-* handsome `HAPBD/SOPL`
-* young `KWRUPBG`
-* Prince! `PREUPBS SKHRAPL`
-* Ah! `HA*E SKHRAPL`
-* how `HOU`
-* unfortunate `TPHORPBT`
-* went `WEPBT`
-* behind `HEUPBD`
-* a `AEU`
-* tree, `TRAOE KW-BG`
-* washed `WARBD`
-* black `PWHRABG`
-* brown `PWROUPB`
-* color `KROR`
+* princess `PREUPB/ES`
+* banished `PWAPB/EURBD`
 * from `TPR`
-* face, `TPAEUS KW-BG`
-* threw `THRAOU`
-* off `OF`
-* dirty `TKOEURT`
-* clothes, `KHRO*ETS KW-BG`
-* stepped `STEPD`
-* forth `TPO*RT`
-* in `TPH`
-* princely `PREUPBS/HREU`
-* robes; `ROEB/-S STPH*FPLT`
-* looked `HRAOBGD`
-* noble `TPHOEBL`
-* could `KO`
+* empire. `EPL/AOEUR TP-PL`
+* There `THR`
+* she `SHE`
+* stood `STAOD`
+* cried, `KRAOEUD KW-BG`
+* scolded `SKOLD/-D`
+* her, `HER KW-BG`
+* rain `RAEUPB`
+* came `KAEUPL`
+* torrents. `TORPBT/-S TP-PL`
+* "Alas, `KR-GS A/HRAS KW-BG`
+* unfortunate `TPHORPBT`
+* creature `KRAOEFP`
+* am!" `APL SKHRAPL KR-GS`
+* princess, `PREUPB/ES KW-BG`
+* wish `WEURB`
+* accepted `SEPD`
+* prince. `PREUPBS TP-PL`
+* Oh, `O*ERBGS KW-BG`
+* how `HOU`
+* wretched `KREFPD`

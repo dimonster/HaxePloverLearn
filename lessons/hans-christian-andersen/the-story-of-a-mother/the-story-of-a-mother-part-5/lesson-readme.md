@@ -1,136 +1,137 @@
 # The Story Of A Mother Part 5
 
-* in `TPH`
-* the `-T`
-* depths `TK*EPTS`
-* of `-F`
-* waters, `WAURS KW-BG`
+* collect `KHREBGT`
+* pearls, `PERLS KW-BG`
 * and `SKP`
+* your `KWROUR`
+* eyes `AO*EUS`
+* are `R`
+* the `-T`
+* purest `PAOUR/EFT`
+* I `EU`
+* have `SR`
+* ever `-FR`
+* seen. `SAOEPB TP-PL`
+* if `TP`
+* you `U`
+* will `HR`
+* weep `WAOEP`
+* those `THOZ`
+* away `A/WAEU`
+* in `TPH`
+* tears `TAERS`
+* into `TPHAO`
+* my `PHEU`
+* waters, `WAURS KW-BG`
+* Then `THEPB`
+* take `TAEUBG`
+* to `TO`
+* large `HRARPBLG`
+* hothouse `XXX hothouse`
+* where `W-R`
+* Death `TK*T`
+* dwells `TKWEL/-S`
+* rears `RAOER/-S`
+* flowers `TPHRO*URS`
+* trees, `TRAOES KW-BG`
+* every `EF`
+* one `WUPB`
+* of `-F`
+* which `WEU`
+* is `S`
+* a `AEU`
+* human `HAOUPL`
+* life." `HRAOEUF TP-PL KR-GS`
+* "Oh, `KR-GS O*ERBGS KW-BG`
+* what `WHA`
+* would `WO`
+* not `TPHOT`
+* give `TKPWEUF`
+* reach `RAOEFP`
+* child!" `KHAOEULD SKHRAPL KR-GS`
+* said `SAEUD`
+* weeping `WAOEP/-G`
+* mother; `PHOER STPH*FPLT`
+* as `AZ`
+* she `SHE`
+* still `STEUL`
+* continued `T-PBD`
+* weep, `WAOEP KW-BG`
+* her `HER`
+* fell `TPEL`
+* depths `TK*EPTS`
+* lake, `HRAEUBG KW-BG`
 * became `PWAEUPL`
 * two `TWO`
-* precious `PRERBS`
-* pearls; `PERLS STPH*FPLT`
-* but `PWUT`
-* water `WAUR`
-* bore `PWOR`
-* her `HER`
+* costly `KOFT/HREU`
+* pearls. `PERLS TP-PL`
+* lake `HRAEUBG`
+* lifted `HREUFTD`
 * up, `UP KW-BG`
-* as `AZ`
-* if `TP`
-* she `SHE`
-* sat `SAT`
-* a `AEU`
-* swing, `SWEUPBG KW-BG`
-* flew `TPHRAOU`
-* rocking `ROBG/-G`
-* waves `WAFS`
-* to `TO`
-* shore `SHOR`
-* on `OPB`
+* wafted `WAFT/-D`
+* across `A/KROS`
 * opposite `OP/SEUT`
-* side, `SAOEUD KW-BG`
-* Where `W-R`
-* there `THR`
-* stood `STAOD`
-* mile-broad, `PHAOEUL H-PB PWROD KW-BG`
-* strange `STRAEUPBG`
-* house, `HOUS KW-BG`
-* one `WUPB`
-* knew `TPHAOU`
-* not `TPHOT`
-* it `T`
+* shore `SHOR`
 * were `WR`
+* on `OPB`
+* swing, `SWEUPBG KW-BG`
+* stood `STAOD`
+* wonderful `WUFL`
+* building `PW-LG`
+* many `PHAEPB`
+* miles `PHAOEULS`
+* length. `HREPBG TP-PL`
+* No `TPHO`
+* could `KO`
+* tell `TEL`
+* whether `WHR`
+* it `T`
+* was `WA`
 * mountain `PHOUPB/TAEUPB`
+* covered `KOFRD`
 * with `W`
-* forests `TPO*RS/-S`
-* caverns, `KAFRPBS KW-BG`
+* forests `TPOEFRT/-S`
+* full `TPUL`
+* caves, `KAFS KW-BG`
 * or `OR`
-* built `PEULT`
-* up; `UP STPH*FPLT`
+* had `H`
+* been `PW-PB`
+* built. `PEULT TP-PL`
+* But `PWUT`
 * poor `PAOR`
 * mother `PHOER`
-* could `KO`
-* see `SAOE`
-* it; `T STPH*FPLT`
-* had `H`
+* see, `SAOE KW-BG`
+* for `TPOR`
 * wept `WEPT`
-* eyes `AO*EUS`
-* out. `OUT TP-PL`
+* lake. `HRAEUBG TP-PL`
 * "Where `KR-GS W-R`
 * shall `SHAL`
-* I `EU`
 * find `TPEUPBD`
 * Death, `TK*T KW-BG`
 * who `WHO`
-* took `TAOBG`
-* away `A/WAEU`
-* my `PHEU`
+* went `WEPBT`
 * little `HREUL`
 * child?" `KHAOEULD H-F KR-GS`
-* said `SAEUD`
-* she. `SHE TP-PL`
+* asked. `SK-D TP-PL`
 * "He `KR-GS E`
 * has `HAS`
-* come `KOPL`
+* arrived `A/REUFD`
 * here `HAOER`
-* yet!" `KWRET SKHRAPL KR-GS`
+* yet," `KWRET KW-BG KR-GS`
+* an `APB`
 * old `OLD`
-* grave `TKPWRAEUF`
+* gray-haired `TKPWRAEU H-PB HAEURD`
 * woman, `WOPL KW-BG`
-* was `WA`
-* appointed `POEUPBD`
-* look `HRAOBG`
-* after `AF`
+* walking `WAUG`
+* about, `PW KW-BG`
+* watering `WAURPBG`
 * Death's `TK*T AE S*/SP-S`
-* great `TKPWRAET`
-* greenhouse! `TKPWRAOEPB/HOUS SKHRAPL`
+* hothouse. `XXX hothouse TP-PL`
 * "How `KR-GS HOU`
-* have `SR`
-* You `U`
-* been `PW-PB`
-* able `ABL`
+* found `TPOUPBD`
 * way `WAEU`
-* hither? `H*EURT H-F`
+* here? `HAOER H-F`
 * helped `HEPD`
 * you?" `U H-F KR-GS`
-* "OUR `KR-GS OUR`
-* LORD `HRORD`
+* "God `KR-GS TKPWOD`
 * me," `PHE KW-BG KR-GS`
-* is `S`
-* merciful, `PHERS/-FL KW-BG`
-* will `HR`
-* also `HR-S`
-* be `-B`
-* so! `SO SKHRAPL`
-* "Nay, `KR-GS TPHAEU KW-BG`
-* know `TPHOE`
-* not," `TPHOT KW-BG KR-GS`
-* "and `KR-GS SKP`
-* cannot `K/TPHOT`
-* see! `SAOE SKHRAPL`
-* Many `PHAEPB`
-* flowers `TPHRO*URS`
-* trees `TRAOES`
-* withered `W*EUT/ER/-D`
-* this `TH`
-* night; `TPHAOEUT STPH*FPLT`
-* Death `TK*T`
-* soon `SAOPB`
-* plant `PHRAPBT`
-* them `THEPL`
-* over `OEFR`
-* again! `TKPWEPB SKHRAPL`
-* certainly `SERPBL`
-* that `THA`
-* every `EF`
-* person `PERPB`
-* his `HEUS`
-* life's `HRAOEUF AE S*/SP-S`
-* tree `TRAOE`
-* flower, `TPHRO*UR KW-BG`
-* just `SKWRUFT`
-* everyone `EFPB`
-* happens `HABS`
-* settled; `S*ELTD STPH*FPLT`
-* they `THE`
-* like `HRAOEUBG`

@@ -1,94 +1,202 @@
-The Story Of A Mother Part 10
+The Story of a Mother Part 10
 
-'fate': TPAEUT
-'thou': THO*U
-'saw'st--thy': SAU AE XXX st H-PB H-PB THAO*EU
+'to': TO
+'behold': XXX behold
+'how': HOU
+'one': WUPB
+'of': -F
+'them': THEPL
+'became': PWAEUPL
+'a': AEU
+'blessing': PWHR*EFG
+'to': TO
+'the': -T
+'world,': WORLD KW-BG
+'and': SKP
+'how': HOU
+'much': PHUFP
+'happiness': HAEP/-PBS
+'and': SKP
+'joy': SKWROEU
+'it': T
+'spread': SPRED
+'around.': ARPBD TP-PL
+'But': PWUT
+'she': SHE
+'saw': SAU
+'that': THA
+'the': -T
+'life': HRAOEUF
+'of': -F
+'the': -T
+'other': OER
+'was': WA
+'full': TPUL
+'of': -F
+'care': KAEUR
+'and': SKP
+'poverty,': POFRT KW-BG
+'misery': PHEUS/REU
+'and': SKP
+'woe.': WOE TP-PL
+'"Both': KR-GS PWO*T
+'are': R
+'the': -T
+'will': HR
+'of': -F
+'God,"': TKPWOD KW-BG KR-GS
+'said': SAEUD
+'Death.': TK*T TP-PL
+'"Which': KR-GS WEU
+'is': S
+'the': -T
+'unhappy': UPB/HAEP
+'flower,': TPHRO*UR KW-BG
+'and': SKP
+'which': WEU
+'is': S
+'the': -T
+'blessed': PWHR*EFD
+'one?"': WUPB H-F KR-GS
+'she': SHE
+'said.': SAEUD TP-PL
+'"That': KR-GS THA
+'I': EU
+'may': PHAE
+'not': TPHOT
+'tell': TEL
+'you,"': U KW-BG KR-GS
+'said': SAEUD
+'Death;': TK*T STPH*FPLT
+'"but': KR-GS PWUT
+'thus': THUS
+'far': TPAR
+'you': U
+'may': PHAE
+'learn,': HRERPB KW-BG
+'that': THA
+'one': WUPB
+'of': -F
+'the': -T
+'two': TWO
+'flowers': TPHRO*URS
+'represents': REPS
+'your': KWROUR
 'own': OEPB
-'child's': KHAOEULD AE S*/SP-S
+'child.': KHAOEULD TP-PL
+'It': T
+'was': WA
+'the': -T
+'fate': TPAEUT
+'of': -F
+'your': KWROUR
+'child': KHAOEULD
+'that': THA
+'you': U
+'saw,—the': SAU KW-BG EPL/TKA*RB -T
 'future': TPAOURT
-'life!"': HRAOEUF SKHRAPL KR-GS
+'of': -F
+'your': KWROUR
+'own': OEPB
+'child."': KHAOEULD TP-PL KR-GS
 'Then': THEPB
 'the': -T
 'mother': PHOER
 'screamed': SKRAOEPLD
+'aloud': A/HROUD
 'with': W
-'terror,': TER/O*R KW-BG
+'terror,': TER/ROR KW-BG
 '"Which': KR-GS WEU
 'of': -F
 'them': THEPL
-'was': WA
+'belongs': PWHROPBGS
+'to': TO
 'my': PHEU
 'child?': KHAOEULD H-F
 'Tell': TEL
+'me': PHE
+'that.': THA TP-PL
+'Deliver': THREUFR
+'the': -T
+'unhappy': UPB/HAEP
+'child.': KHAOEULD TP-PL
+'Release': RE/HRAOEZ
 'it': T
-'me!': PHE SKHRAPL
-'Save': SAF
-'innocent!': TPH-PBT SKHRAPL
-'child': KHAOEULD
 'from': TPR
+'so': SO
+'much': PHUFP
+'misery.': PHEUS/REU TP-PL
+'Rather': RAER
+'take': TAEUBG
+'it': T
+'away.': A/WAEU TP-PL
+'Take': TAEUBG
+'it': T
+'to': TO
+'the': -T
+'kingdom': KEUPBG/TKOPL
+'of': -F
+'God.': TKPWOD TP-PL
+'Forget': TPERGT
+'my': PHEU
+'tears': TAERS
+'and': SKP
+'my': PHEU
+'entreaties;': SPWRAOE/TEU/KWREU/-S STPH*FPLT
+'forget': TPERGT
 'all': AUL
 'that': THA
-'misery!': PHEUS/REU SKHRAPL
-'Rather': RAER
-'Take': TAEUBG
-'away!': A/WAEU SKHRAPL
-'into': TPHAO
-'God's': TKPO*D AE S*/SP-S
-'kingdom!': KEUPBG/TKOPL SKHRAPL
-'forget': TPERGT
-'tears,': TAERS KW-BG
-'prayers,': PRAEURS KW-BG
-'and': SKP
 'I': EU
 'have': SR
-'done!"': TKOPB SKHRAPL KR-GS
+'said': SAEUD
+'or': OR
+'done."': TKOPB TP-PL KR-GS
 '"I': KR-GS EU
 'do': TKO
 'not': TPHOT
 'understand': URPBD
-'thee!"': THAOE SKHRAPL KR-GS
+'you,"': U KW-BG KR-GS
 'said': SAEUD
 'Death.': TK*T TP-PL
-'"Wilt': KR-GS WEULT
-'Thy': THAO*EU
-'again,': TKPWEPB KW-BG
+'"Will': KR-GS HR
+'you': U
+'have': SR
+'your': KWROUR
+'child': KHAOEULD
+'back?': PWABG H-F
 'or': OR
 'shall': SHAL
-'go': TKPW
-'there,': THR KW-BG
-'where': W-R
-'dost': XXX dost
-'know!"': TPHOE SKHRAPL KR-GS
+'I': EU
+'carry': KAER
+'him': HEUPL
+'away': A/WAEU
+'to': TO
+'a': AEU
+'place': PHRAEUS
+'that': THA
+'you': U
+'do': TKO
+'not': TPHOT
+'know?"': TPHOE H-F KR-GS
+'Then': THEPB
+'the': -T
+'mother': PHOER
 'wrung': WRUPBG
 'her': HER
 'hands,': HAPBDZ KW-BG
 'fell': TPEL
 'on': OPB
+'her': HER
 'knees,': TPHAOEZ KW-BG
+'and': SKP
 'prayed': PRAEUD
 'to': TO
-'our': OUR
-'Lord:': HRORD STPH-FPLT
-'"Oh,': KR-GS O*ERBGS KW-BG
-'hear': HAER
-'me': PHE
+'God,': TKPWOD KW-BG
+'"Grant': KR-GS TKPWRAPBT
+'not': TPHOT
+'my': PHEU
+'prayers,': PRAEURS KW-BG
 'when': WHEPB
-'pray': PRAEU
-'against': STPWEPBS
-'will,': HR KW-BG
-'which': WEU
-'is': S
-'best!': PW*ES SKHRAPL
-'not!': TPHOT SKHRAPL
-'not!"': TPHOT SKHRAPL KR-GS
-'she': SHE
-'bowed': PWOE/-D
-'head': HED
-'down': TKOUPB
-'in': TPH
-'lap,': HRAP KW-BG
-'Death': TK*T
-'took': TAOBG
-'went': WEPBT
-'unknown': UPB/TPHOEPB
-'land.': HRAPBD TP-PL
+'they': THE
+'are': R
+'contrary': KRAER

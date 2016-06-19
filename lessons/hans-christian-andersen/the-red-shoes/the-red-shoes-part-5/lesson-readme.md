@@ -1,112 +1,125 @@
 # The Red Shoes Part 5
 
+* hand. `HAPBD TP-PL`
+* the `-T`
+* old `OLD`
+* lady `HRA*ED`
+* gave `TKPWAEUF`
+* soldier `SHRERPBL`
+* some `SOPL`
+* money `PHUPB`
 * and `SKP`
+* then `THEPB`
+* went `WEPBT`
+* with `W`
+* Karen `KAEURPB`
+* into `TPHAO`
+* church. `KHUFRPB TP-PL`
 * all `AUL`
-* The `-T`
 * people `PAOEPL`
-* in `TPH`
-* church `KHUFRPB`
+* inside `TPH-DZ`
 * looked `HRAOBGD`
-* at `AT`
+* At `AT`
 * Karen's `KAEURPB AE S*/SP-S`
 * red `RED`
 * shoes, `SHAOS KW-BG`
-* pictures, `P*EUFPS KW-BG`
-* as `AZ`
-* Karen `KAEURPB`
+* figures `TPEUGS`
+* gazed `TKPWAEZ/-D`
+* them; `THEPL STPH*FPLT`
+* when `WHEPB`
 * knelt `TPHELT`
 * before `PW-F`
-* altar, `AL/TAR KW-BG`
-* raised `RA*EUFD`
-* cup `KUP`
+* altar `AL/TAR`
+* put `PUT`
+* golden `TKOELD/*EPB`
+* goblet `TKPWOBLT`
 * to `TO`
 * her `HER`
-* lips, `HREUPS KW-BG`
+* mouth, `PHO*UT KW-BG`
 * she `SHE`
-* only `OEPBL`
 * thought `THAUT`
+* only `OEPBL`
 * of `-F`
-* they `THE`
+* shoes. `SHAOS TP-PL`
+* It `T`
 * seemed `SAOEPLD`
-* swim `SWEUPL`
-* it; `T STPH*FPLT`
+* as `AZ`
+* though `THOE`
+* they `THE`
+* were `WR`
+* swimming `SWEUPLG`
+* about `PW`
+* in `TPH`
+* goblet, `TKPWOBLT KW-BG`
 * forgot `TPAURGT`
 * sing `SEUPBG`
 * psalm, `SAUPL KW-BG`
-* pray, `PRAEU KW-BG`
-* "Our `KR-GS OUR`
-* Father `TPAER`
-* Heaven!" `HEFPB SKHRAPL KR-GS`
+* say `SAEU`
+* "Lord's `KR-GS HRORD AE S*/SP-S`
+* Prayer." `PRAEUR TP-PL KR-GS`
 * Now `TPHOU`
-* went `WEPBT`
+* every `EF`
+* one `WUPB`
+* came `KAEUPL`
 * out `OUT`
 * church, `KHUFRPB KW-BG`
-* old `OLD`
-* lady `HRA*ED`
-* got `TKPWOT`
-* into `TPHAO`
+* stepped `STEPD`
 * carriage. `KAEURPBLG TP-PL`
+* but `PWUT`
+* just `SKWRUFT`
+* was `WA`
+* lifting `HREUFT/-G`
+* up `UP`
 * foot `TPAOT`
 * get `TKPWET`
-* after `AF`
-* her, `HER KW-BG`
-* when `WHEPB`
-* soldier `SHRERPBL`
-* said, `SAEUD KW-BG`
-* "Look, `KR-GS HRAOBG KW-BG`
+* too, `TAO KW-BG`
+* said: `SAEUD STPH-FPLT`
+* "Dear `KR-GS TKAER`
+* me, `PHE KW-BG`
 * what `WHA`
-* beautiful `PWAOUFL`
+* pretty `PREUT`
 * dancing `TKAPBS/-G`
 * shoes!" `SHAOS SKHRAPL KR-GS`
 * could `KO`
 * not `TPHOT`
 * help `HEP`
+* it, `T KW-BG`
+* obliged `OE/PWHRAOEUPBLGD`
+* dance `TKAPBS`
 * a `AEU`
-* step `STEP`
-* or `OR`
-* two, `TWO KW-BG`
-* began `TKPWAPB`
-* feet `TPAOET`
-* continued `T-PBD`
-* dance; `TKAPBS STPH*FPLT`
-* it `T`
-* was `WA`
-* just `SKWRUFT`
-* though `THOE`
-* shoes `SHAOS`
+* few `TPAOU`
+* steps; `STEPS STPH*FPLT`
 * had `H`
+* once `WUPBS`
+* begun, `TKPWUPB KW-BG`
+* legs `HREGS`
+* continued `T-PBD`
+* dance. `TKAPBS TP-PL`
+* if `TP`
+* shoes `SHAOS`
+* got `TKPWOT`
 * power `POUR`
 * over `OEFR`
 * them. `THEPL TP-PL`
 * danced `TKAPBS/-D`
 * round `ROUPBD`
+* church `KHUFRPB`
 * corner, `KRORPB KW-BG`
-* leave `HREF`
-* off; `OF STPH*FPLT`
+* for `TPOR`
+* stop; `STOP STPH*FPLT`
 * coachman `KOEFP/PHAPB`
-* obliged `OB/HRAOEUPBLG/-D`
 * run `RUPB`
-* catch `KAFP`
-* hold `HOLD`
-* he `E`
+* after `AF`
+* seize `SAOEZ`
+* her. `HER TP-PL`
+* He `E`
 * lifted `HREUFTD`
 * carriage, `KAEURPBLG KW-BG`
-* but `PWUT`
-* dance `TKAPBS`
+* feet `TPAOET`
+* dance, `TKAPBS KW-BG`
 * so `SO`
 * that `THA`
-* trod `TROD`
-* on `OPB`
-* dreadfully. `TKRED/-FL/KWREU TP-PL`
-* length `HREPBG`
-* took `TAOBG`
-* off, `OF KW-BG`
-* then `THEPB`
-* legs `HREGS`
-* peace. `PAES TP-PL`
-* were `WR`
-* placed `PHRAEUFD`
-* closet `KHROFT`
-* home, `HOEPL KW-BG`
-* avoid `A/SREUD`
-* looking `HRAOG`
+* kicked `KEUBGD`
+* good `TKPWAOD`
+* violently. `SRAOEUL/HREPBT/HREU TP-PL`
+* last `HRAFT`

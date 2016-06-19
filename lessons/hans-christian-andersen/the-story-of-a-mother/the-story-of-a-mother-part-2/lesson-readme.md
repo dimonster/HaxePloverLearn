@@ -3,116 +3,114 @@
 * not `TPHOT`
 * take `TAEUBG`
 * him `HEUPL`
+* away `A/WAEU`
 * from `TPR`
-* me!" `PHE SKHRAPL KR-GS`
-* and `SKP`
+* me." `PHE TP-PL KR-GS`
 * the `-T`
 * old `OLD`
-* man--it `PHAPB H-PB H-PB T`
+* man, `PHAPB KW-BG`
+* who `WHO`
 * was `WA`
+* indeed `TPHAOEPBD`
 * Death `TK*T`
-* himself--he `H*EUPLS H-PB H-PB E`
+* himself, `H*EUPLS KW-BG`
 * nodded `TPHOD/-D`
-* so `SO`
-* strangely, `STRAEUPBG/HREU KW-BG`
-* it `T`
-* could `KO`
-* just `SKWRUFT`
-* as `AZ`
-* well `WEL`
-* signify `SEUG/TPEU`
-* yes `KWRE`
-* no. `TPHO TP-PL`
-* mother `PHOER`
-* looked `HRAOBGD`
-* down `TKOUPB`
-* in `TPH`
-* her `HER`
-* lap, `HRAP KW-BG`
-* tears `TAERS`
-* ran `RAPB`
-* over `OEFR`
-* cheeks; `KHAOEBGS STPH*FPLT`
+* his `HEUS`
 * head `HED`
+* in `TPH`
+* a `AEU`
+* peculiar `PE/KAOUL/HRAR`
+* manner, `PHAERPB KW-BG`
+* which `WEU`
+* might `PHAOEUT`
+* have `SR`
+* signified `SEUPBG/TPAOEU/-D`
+* either `AOERT`
+* Yes, `KWRE KW-BG`
+* or `OR`
+* No; `TPHO STPH*FPLT`
+* and `SKP`
+* mother `PHOER`
+* cast `KAFT`
+* down `TKOUPB`
+* her `HER`
+* eyes, `AO*EUS KW-BG`
+* while `WHAOEUL`
+* tears `TAERS`
+* rolled `ROLD`
+* cheeks. `KHAOEBGS TP-PL`
+* Then `THEPB`
 * became `PWAEUPL`
-* heavy--she `HOEUF H-PB H-PB SHE`
+* heavy, `HOEUF KW-BG`
+* for `TPOR`
+* she `SHE`
 * had `H`
 * closed `KHROEFD`
 * eyes `AO*EUS`
-* for `TPOR`
 * three `THRAOE`
 * days `TKAEUS`
-* nights; `TPHAOEUTS STPH*FPLT`
-* now `TPHOU`
-* she `SHE`
+* nights, `TPHAOEUTS KW-BG`
 * slept, `SHREPD KW-BG`
-* But `PWUT`
+* but `PWUT`
 * only `OEPBL`
-* a `AEU`
-* minute, `PHEUPB KW-BG`
-* when `WHEPB`
+* moment. `PHOEPLT TP-PL`
+* Shivering `SH*EUFR/-G`
+* with `W`
+* cold, `KOELD KW-BG`
 * started `STARTD`
 * up `UP`
-* trembled `TREPL/-BLD`
-* with `W`
-* cold. `KOELD TP-PL`
-* "What `KR-GS WHA`
-* is `S`
-* that?" `THA H-F KR-GS`
-* said `SAEUD`
-* she, `SHE KW-BG`
-* on `OPB`
-* all `AUL`
-* sides; `SAOEUDZ STPH*FPLT`
+* looked `HRAOBGD`
+* round `ROUPBD`
+* room. `RAOPL TP-PL`
 * man `PHAPB`
 * gone, `TKWOPB KW-BG`
-* little `HREUL`
-* child `KHAOEULD`
-* gone--he `TKWOPB H-PB H-PB E`
+* child—it `KHAOEULD EPL/TKA*RB T`
+* gone `TKWOPB`
+* too!—the `TAO SKHRAPL EPL/TKA*RB -T`
 * taken `TAEPB`
-* him; `HEUPL STPH*FPLT`
-* clock `KHROBG`
+* it `T`
+* him. `HEUPL TP-PL`
 * corner `KRORPB`
-* burred, `PWUR/-D KW-BG`
-* great `TKPWRAET`
-* leaden `HRAED/*EPB`
-* weight `WAET`
-* to `TO`
-* floor, `TPHRAOR KW-BG`
-* bump! `PW*UPL SKHRAPL`
-* then `THEPB`
-* also `HR-S`
-* stood `STAOD`
-* still. `STEUL TP-PL`
-* poor `PAOR`
-* Out `OUT`
 * of `-F`
+* room `RAOPL`
+* clock `KHROBG`
+* began `TKPWAPB`
+* to `TO`
+* strike; `STRAOEUBG STPH*FPLT`
+* "whirr" `KR-GS XXX whirr KR-GS`
+* went `WEPBT`
+* chains, `KHAEUPBS KW-BG`
+* heavy `HOEUF`
+* weight `WAET`
+* sank `SA*PBG`
+* ground, `TKPWROUPBD KW-BG`
+* stopped; `STOPD STPH*FPLT`
+* poor `PAOR`
+* rushed `RURBD`
+* Out `OUT`
 * house `HOUS`
-* cried `KRAOEUD`
-* aloud `A/HROUD`
+* calling `KAULG`
 * child. `KHAOEULD TP-PL`
-* there, `THR KW-BG`
-* midst `PHEUDZ`
-* snow, `STPHOE KW-BG`
-* there `THR`
+* snow `STPHOE`
 * sat `SAT`
 * woman `WOPL`
-* long, `HROPBG KW-BG`
+* long `HROPBG`
 * black `PWHRABG`
-* clothes; `KHRO*ETS STPH*FPLT`
-* said, `SAEUD KW-BG`
+* garments, `TKPWARPLTS KW-BG`
+* said `SAEUD`
+* mother, `PHOER KW-BG`
 * "Death `KR-GS TK*T`
 * has `HAS`
 * been `PW-PB`
-* thy `THAO*EU`
-* chamber, `KHAEURPL KW-BG`
+* you `U`
+* your `KWROUR`
 * I `EU`
 * saw `SAU`
-* hasten `HAEUS/-PB`
-* away `A/WAEU`
+* hastening `HAEUS/-PBG`
+* little `HREUL`
 * child; `KHAOEULD STPH*FPLT`
 * he `E`
-* goes `TKPW-S`
+* strides `STRAOEUDZ`
 * faster `TPA*FRT`
 * than `THAPB`
 * wind, `WEUPBD KW-BG`
@@ -120,10 +118,11 @@
 * brings `PWREUS`
 * back `PWABG`
 * what `WHA`
-* takes!" `TAEUBGS SKHRAPL KR-GS`
-* "Oh, `KR-GS O*ERBGS KW-BG`
+* away." `A/WAEU TP-PL KR-GS`
+* "Only `KR-GS OEPBL`
 * tell `TEL`
 * me `PHE`
-* which `WEU`
 * way `WAEU`
-* went!" `WEPBT SKHRAPL KR-GS`
+* gone," `TKWOPB KW-BG KR-GS`
+* mother; `PHOER STPH*FPLT`
+* "tell `KR-GS TEL`

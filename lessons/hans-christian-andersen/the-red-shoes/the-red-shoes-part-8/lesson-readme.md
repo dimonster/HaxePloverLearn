@@ -1,14 +1,33 @@
 # The Red Shoes Part 8
 
+* and `SKP`
+* wicked `WEUBGD`
+* children `KHEURPB`
+* live `HREUF`
+* you `U`
+* shall `SHAL`
+* knock, `TPHOBG KW-BG`
+* so `SO`
+* that `THA`
+* they `THE`
+* may `PHAE`
+* hear `HAER`
+* fear `TPAOER`
+* you! `U SKHRAPL`
+* Dance `TKAPBS`
+* shall, `SHAL KW-BG`
+* dance—!" `TKAPBS EPL/TKA*RB SKHRAPL KR-GS`
+* "Mercy!" `KR-GS PHER/SEU SKHRAPL KR-GS`
+* cried `KRAOEUD`
 * Karen. `KAEURPB TP-PL`
 * But `PWUT`
 * she `SHE`
 * did `TK`
 * not `TPHOT`
-* hear `HAER`
+* what `WHA`
 * the `-T`
-* angel's `APBG/EL AE S*/SP-S`
-* reply, `RE/PHREU KW-BG`
+* angel `APBG/EL`
+* answered, `APBSD KW-BG`
 * for `TPOR`
 * shoes `SHAOS`
 * carried `KAERD`
@@ -17,106 +36,94 @@
 * gate `TKPWAET`
 * into `TPHAO`
 * fields, `TPAOELDZ KW-BG`
-* across `A/KROS`
-* roads `RAODZ`
-* And `SKP`
-* bridges, `PWREUPBLGS KW-BG`
-* must `PHUFT`
-* keep `KAOEP`
-* ever `-FR`
-* dancing. `TKAPBS/-G TP-PL`
-* One `WUPB`
+* along `A/HROPBG`
+* highways `HAOEU/WAEUS`
+* byways, `XXX byways KW-BG`
+* unceasingly `XXX unceasingly`
+* had `H`
+* to `TO`
+* dance. `TKAPBS TP-PL`
+* one `WUPB`
 * morning `PHORPBG`
 * danced `TKAPBS/-D`
 * past `PAFT`
 * a `AEU`
 * door `TKAOR`
-* which `WEU`
-* well `WEL`
-* knew. `TPHAOU TP-PL`
-* Within `W-PB`
-* sounded `SOUPBD/-D`
-* psalm; `SAUPL STPH*FPLT`
-* coffin, `KOFPB KW-BG`
-* decked `TKEBG/-D`
-* with `W`
-* flowers, `TPHRO*URS KW-BG`
-* was `WA`
-* borne `PWO*RPB`
-* forth. `TPO*RT TP-PL`
-* then `THEPB`
 * knew `TPHAOU`
-* that `THA`
-* old `OLD`
-* lady `HRA*ED`
-* dead, `TKED KW-BG`
-* felt `TPELT`
-* abandoned `A/PWAPB/TKOPBD`
+* well; `WEL STPH*FPLT`
+* were `WR`
+* singing `SEUPBG/-G`
+* psalm `SAUPL`
+* inside, `TPH-DZ KW-BG`
+* coffin `KOFPB`
+* was `WA`
+* being `-BG`
+* out `OUT`
+* covered `KOFRD`
+* with `W`
+* flowers. `TPHRO*URS TP-PL`
+* Then `THEPB`
+* forsaken `TPAUR/SA*EUPB`
 * by `PWEU`
-* all, `AUL KW-BG`
-* condemned `KOPB/TKEPL/-D`
-* angel `APBG/EL`
+* every `EF`
+* damned `TKA*PLD`
 * of `-F`
-* God. `TKPO*D TP-PL`
+* God. `TKPWOD TP-PL`
 * danced, `TKAPBS/-D KW-BG`
-* forced `TPOFRD`
-* to `TO`
-* dance `TKAPBS`
-* gloomy `TKPWHRAO/PH*EU`
+* obliged `OE/PWHRAOEUPBLGD`
+* go `TKPW`
+* on `OPB`
+* dancing `TKAPBS/-G`
+* dark `TKARBG`
 * night. `TPHAOEUT TP-PL`
+* bore `PWOR`
+* away `A/WAEU`
 * over `OEFR`
-* stack `STABG`
-* stone; `STOEPB STPH*FPLT`
-* torn `TORPB`
+* thorns `THORPB/-S`
+* stumps `STUPL/-PS`
 * till `T*EUL`
-* bled; `PWHRED STPH*FPLT`
+* all `AUL`
+* torn `TORPB`
+* bleeding; `PWHRAOEGD STPH*FPLT`
 * heath `HAO*ET`
-* came `KAEUPL`
+* lonely `HROPBL`
 * little `HREUL`
 * house. `HOUS TP-PL`
 * Here, `HAOER KW-BG`
 * knew, `TPHAOU KW-BG`
-* dwelt `TKWELT`
+* lived `HREUFD`
 * executioner; `EBGS/KAOUGS/*ER STPH*FPLT`
 * tapped `TAPD`
-* fingers `TPEURPBGS`
+* finger `TPURPBG`
 * at `AT`
-* window, `WOEUPBD KW-BG`
-* said, `SAEUD KW-BG`
+* window `WOEUPBD`
+* said: `SAEUD STPH-FPLT`
 * "Come `KR-GS KOPL`
-* out! `OUT SKHRAPL`
+* out, `OUT KW-BG`
 * come `KOPL`
+* out! `OUT SKHRAPL`
 * I `EU`
 * cannot `K/TPHOT`
 * in, `TPH KW-BG`
-* am `*PL`
-* dance!" `TKAPBS SKHRAPL KR-GS`
+* must `PHUFT`
+* dance." `TKAPBS TP-PL KR-GS`
 * executioner `EBGS/KAOUGS/*ER`
-* "Thou `KR-GS THO*U`
-* dost `XXX dost`
+* "I `KR-GS EU`
+* don't `TKOEPBT`
+* suppose `SPOS`
 * know `TPHOE`
 * who `WHO`
-* am, `*PL KW-BG`
-* fancy? `TPAPB/SEU H-F`
+* am. `APL TP-PL`
 * strike `STRAOEUBG`
-* bad `PWAD`
-* people's `PAOEPL AE S*/SP-S`
+* off `OF`
 * heads `HEDZ`
-* off; `OF STPH*FPLT`
+* wicked, `WEUBGD KW-BG`
+* notice `TPH-TS`
 * my `PHEU`
 * axe `ABGS`
-* rings!" `REUPBGS SKHRAPL KR-GS`
+* is `S`
+* tingling `TEUPBG/-LG`
+* do `TKO`
+* so." `SO TP-PL KR-GS`
 * "Don't `KR-GS TKO*PB AE T*/SP-S`
-* head `HED`
-* off!" `OF SKHRAPL KR-GS`
-* said `SAEUD`
-* "Then `KR-GS THEPB`
-* can't `K-PBT`
-* repent `XXX repent`
-* sins! `SEUPBZ SKHRAPL`
-* off `OF`
-* feet `TPAOET`
-* in `TPH`
-* red `RED`
-* shoes!" `SHAOS SKHRAPL KR-GS`
-* confessed `KAUPB/TPES/-D`
+* cut `KUT`

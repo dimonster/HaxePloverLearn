@@ -1,20 +1,41 @@
 # The Red Shoes Part 10
 
-* to `TO`
 * the `-T`
-* parsonage, `PARS/TPHAPBLG KW-BG`
+* churchyard `KH*URPBLG/KWRARD`
+* gate `TKPWAET`
+* when `WHEPB`
+* she `SHE`
+* saw `SAU`
+* red `RED`
+* shoes `SHAOS`
+* dancing `TKAPBS/-G`
+* along `A/HROPBG`
+* before `PW-F`
+* her. `HER TP-PL`
+* then `THEPB`
+* became `PWAEUPL`
+* terrified, `TER/TPAOEUD KW-BG`
 * and `SKP`
+* turned `TURPBD`
+* back `PWABG`
+* repented `XXX repented`
+* right `RAOEUT`
+* heartily `HART/HREU`
+* of `-F`
+* her `HER`
+* sin. `SEUPB TP-PL`
+* went `WEPBT`
+* to `TO`
+* parsonage, `PARS/TPHAPBLG KW-BG`
 * begged `PWEGD`
 * that `THA`
-* they `THE`
-* would `WO`
-* take `TAEUBG`
-* her `HER`
-* into `TPHAO`
-* service; `S*FS STPH*FPLT`
-* she `SHE`
+* might `PHAOEUT`
 * be `-B`
-* very `SRE`
+* taken `TAEPB`
+* into `TPHAO`
+* service `S-FS`
+* there. `THR TP-PL`
+* would `WO`
 * industrious, `STREUS KW-BG`
 * said, `SAEUD KW-BG`
 * do `TKO`
@@ -22,92 +43,80 @@
 * could; `KO STPH*FPLT`
 * did `TK`
 * not `TPHOT`
-* care `KAEUR`
+* mind `PHAOEUPBD`
 * about `PW`
-* wages, `WAEUPBLGS KW-BG`
-* only `OEPBL`
-* wished `WEURBD`
-* have `SR`
+* wages `WAEUPBLGS`
+* as `AZ`
+* long `HROPBG`
+* had `H`
 * a `AEU`
-* home, `HOEPL KW-BG`
+* roof `RAOF`
+* over `OEFR`
+* her, `HER KW-BG`
+* was `WA`
 * with `W`
 * good `TKPWAOD`
 * people. `PAOEPL TP-PL`
-* clergyman's `KHRERPBLG/PHAPB AE S*/SP-S`
+* pastor's `PAS/TOR AE S*/SP-S`
 * wife `WAOEUF`
-* was `WA`
-* sorry `SO*ER`
-* for `TPOR`
+* pity `PEUT/TEU`
+* On `OPB`
 * took `TAOBG`
+* service. `S-FS TP-PL`
 * industrious `STREUS`
 * thoughtful. `THAUFL TP-PL`
 * sat `SAT`
-* still `STEUL`
-* listened `HR-PB/-D`
-* when `WHEPB`
-* clergyman `KHRERPBLG/PHAPB`
+* quiet `KWAO*EUT`
+* listened `HREUFPBD`
+* pastor `PAS/TOR`
 * read `RAED`
+* aloud `A/HROUD`
+* from `TPR`
 * Bible `PWAOEUBL`
 * in `TPH`
-* evenings. `AOEPBGS TP-PL`
-* All `AUL`
+* evening. `AOEPG TP-PL`
+* all `AUL`
 * children `KHEURPB`
-* thought `THAUT`
-* great `TKPWRAET`
-* deal `TKAOEL`
-* of `-F`
-* her; `HER STPH*FPLT`
+* liked `HRAOEUBGD`
+* very `SRE`
+* much, `PHUFP KW-BG`
 * but `PWUT`
+* they `THE`
 * spoke `SPOEBG`
-* dress, `TKRES KW-BG`
-* grandeur, `TKPWRAPBD/AOUR KW-BG`
-* beauty, `PWAOUT KW-BG`
-* shook `SHAOBG`
+* dress `TKRES`
+* grandeur `TKPWRAPBD/TKUR`
+* beauty `PWAOUT`
+* shake `SHAEUBG`
 * head. `HED TP-PL`
 * following `TPOLG`
-* Sunday, `SUPBD KW-BG`
-* family `TPAEPL`
-* going `TKPW-G`
+* Sunday `SUPBD`
 * church, `KHUFRPB KW-BG`
 * asked `SK-D`
 * whether `WHR`
+* wished `WEURBD`
 * go `TKPW`
-* them; `THEPL STPH*FPLT`
-* glanced `TKPWHRAPBS/-D`
-* sorrowfully, `SOR/ROEFL/HREU KW-BG`
+* too; `TAO STPH*FPLT`
+* but, `PWUT KW-BG`
 * tears `TAERS`
 * eyes, `AO*EUS KW-BG`
+* looked `HRAOBGD`
+* sadly `SAD/HREU`
 * at `AT`
 * crutches. `KRUFPS TP-PL`
-* went `WEPBT`
+* others `OERS`
 * hear `HAER`
-* word `WORD`
-* God; `TKPO*D STPH*FPLT`
+* God's `TKPWOD AE S*/SP-S`
+* Word, `WORD KW-BG`
 * alone `A/HROEPB`
 * little `HREUL`
-* chamber; `KHAEURPL STPH*FPLT`
-* there `THR`
-* room `RAOPL`
+* room; `RAOPL STPH*FPLT`
+* this `TH`
+* only `OEPBL`
+* large `HRARPBLG`
+* enough `TPHUF`
+* hold `HOLD`
 * bed `PWED`
-* chair `KHAEUR`
-* stand `STAPBD`
-* it; `T STPH*FPLT`
-* here `HAOER`
+* chair. `KHAEUR TP-PL`
+* Here `HAOER`
 * down `TKOUPB`
-* Prayer-Book; `PRAEUR H-PB PWAOBG STPH*FPLT`
-* whilst `WHAOEULS`
-* pious `PAOEU/OUS`
-* mind, `PHAOEUPBD KW-BG`
-* wind `WEUPBD`
-* bore `PWOR`
-* strains `STRAEUPBS`
-* organ `O*RPBG`
-* towards `TORDZ`
-* her, `HER KW-BG`
-* raised `RA*EUFD`
-* tearful `TAER/-FL`
-* countenance, `KOUPBT/TPHAPBS KW-BG`
-* "O `KR-GS O*/SP-S`
-* God, `TKPO*D KW-BG`
-* help `HEP`
-* me!" `PHE SKHRAPL KR-GS`
+* hymn-book, `H*EUPL H-PB PWAOBG KW-BG`

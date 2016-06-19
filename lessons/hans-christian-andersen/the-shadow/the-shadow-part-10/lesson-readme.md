@@ -1,128 +1,137 @@
 # The Shadow Part 10
 
-* finest `TPAOEUPB/*ES`
-* cloth; `KHRO*T STPH*FPLT`
-* it `T`
-* had `H`
-* patent `PA/TEPBT`
-* leather `HR*ET/ER`
-* boots, `PWAOTS KW-BG`
-* and `SKP`
-* a `AEU`
-* hat `HAT`
+* shadow, `SHO*EUD KW-BG`
+* sitting `SAO*EGT`
+* down; `TKOUPB STPH*FPLT`
+* "but `KR-GS PWUT`
+* then `THEPB`
+* you `U`
+* must `PHUFT`
+* promise `PROPLS`
+* me `PHE`
+* never `TPHEF`
+* to `TO`
+* tell `TEL`
+* in `TPH`
+* this `TH`
+* city, `STEU KW-BG`
+* wherever `W-FR`
+* may `PHAE`
+* meet `PHAOET`
+* me, `PHE KW-BG`
 * that `THA`
+* I `EU`
+* have `SR`
+* been `PW-PB`
+* your `KWROUR`
+* shadow. `SHO*EUD TP-PL`
+* am `APL`
+* thinking `THEUG`
+* of `-F`
+* being `-BG`
+* married, `PHAERD KW-BG`
+* for `TPOR`
+* more `PHOR`
+* than `THAPB`
+* sufficient `SUF`
+* support `SPOR`
+* a `AEU`
+* family." `TPAEPL TP-PL KR-GS`
+* "Make `KR-GS PHAEUBG`
+* yourself `KWRO*URS`
+* quite `KWAOEUT`
+* easy," `EZ KW-BG KR-GS`
+* said `SAEUD`
+* the `-T`
+* learned `HRERPBD`
+* man; `PHAPB STPH*FPLT`
+* "I `KR-GS EU`
+* will `HR`
+* no `TPHO`
+* one `WUPB`
+* who `WHO`
+* really `HROERL`
+* are. `R TP-PL`
+* Here `HAOER`
+* is `S`
+* my `PHEU`
+* hand,—I `HAPBD KW-BG EPL/TKA*RB EU`
+* promise, `PROPLS KW-BG`
+* and `SKP`
+* word `WORD`
+* between `TWAOEPB`
+* man `PHAPB`
+* man." `PHAPB TP-PL KR-GS`
+* "Between `KR-GS TWAOEPB`
+* shadow," `SHO*EUD KW-BG KR-GS`
+* shadow; `SHO*EUD STPH*FPLT`
+* He `E`
 * could `KO`
+* not `TPHOT`
+* help `HEP`
+* saying `SAEUG`
+* so. `SO TP-PL`
+* It `T`
+* was `WA`
+* most `PHOFT`
+* remarkable `RARBG/-BL`
+* how `HOU`
+* very `SRE`
+* much `PHUFP`
+* had `H`
+* become `PW-BG`
+* appearance. `PAOERPBS TP-PL`
+* dressed `TKREFD`
+* suit `SAOUT`
+* finest `TPAOEUPB/EFT`
+* black `PWHRABG`
+* cloth, `KHRO*T KW-BG`
+* polished `POL/EURBD`
+* boots, `PWAOTS KW-BG`
+* an `APB`
+* opera `OP/RA`
+* crush `KRURB`
+* hat, `HAT KW-BG`
+* which `WEU`
 * be `-B`
 * folded `TPOELD/-D`
-* together, `TOGT KW-BG`
+* together `TOGT`
 * so `SO`
-* was `WA`
-* bare `PWAEUR`
+* nothing `TPHOG`
+* seen `SAOEPB`
+* but `PWUT`
 * crown `KROUPB`
-* brim; `PWREUPL STPH*FPLT`
-* not `TPHOT`
-* to `TO`
-* speak `SPAOEBG`
-* of `-F`
-* what `WHA`
-* we `WE`
-* already `HR-R`
-* know `TPHOE`
-* had--seals, `H H-PB H-PB SAOELS KW-BG`
+* rim, `REUPL KW-BG`
+* besides `PW-DZ`
+* trinkets, `TREUPB/KETS KW-BG`
 * gold `TKPWOELD`
-* neck-chain, `TPHEBG H-PB KHAEUPB KW-BG`
+* chain, `KHAEUPB KW-BG`
 * diamond `TKAOEUPLD`
-* rings; `REUPBGS STPH*FPLT`
-* yes, `KWRE KW-BG`
-* the `-T`
-* shadow `SHAD/OE`
-* well-dressed, `WEL H-PB TKREFD KW-BG`
-* just `SKWRUFT`
-* which `WEU`
+* rings `REUPBGS`
+* already `HR-R`
+* spoken `SPOEPB`
+* of. `-F TP-PL`
+* shadow `SHO*EUD`
+* was, `WA KW-BG`
+* fact, `TPABGT KW-BG`
+* well `WEL`
+* dressed, `TKREFD KW-BG`
 * made `PHAED`
-* quite `KWAOEUT`
-* man. `PHAPB TP-PL`
+* him. `HEUPL TP-PL`
 * "Now `KR-GS TPHOU`
-* I `EU`
-* shall `SHAL`
-* tell `TEL`
-* you `U`
-* my `PHEU`
-* adventures," `SREPBGS KW-BG KR-GS`
-* said `SAEUD`
-* shadow; `SHAD/OE STPH*FPLT`
-* then `THEPB`
-* he `E`
-* sat, `SAT KW-BG`
+* relate `RELT`
+* what `WHA`
+* wish `WEURB`
+* know," `TPHOE KW-BG KR-GS`
+* placing `PHRAEUFG`
+* his `HEUS`
+* foot `TPAOT`
 * with `W`
-* polished `POL/EURBD`
+* leather `HRE/THER`
+* boot `PWAOT`
 * as `AZ`
-* heavily `HEFL`
-* could, `KO KW-BG`
+* firmly `TPEURPL/HREU`
+* possible `POB`
 * on `OPB`
 * arm `ARPL`
-* learned `HRERPBD`
-* man's `PHAPB AE S*/SP-S`
 * new `TPHU`
-* shadow, `SHAD/OE KW-BG`
-* lay `HRAEU`
-* like `HRAOEUBG`
-* poodle-dog `PAOD/*L H-PB TKOG`
-* at `AT`
-* his `HEUS`
-* feet. `TPAOET TP-PL`
-* Now `TPHOU`
-* this `TH`
-* perhaps `PRAPS`
-* from `TPR`
-* arrogance; `A/ROEG/APBS STPH*FPLT`
-* ground `TKPWROUPBD`
-* kept `KEPT`
-* itself `T/SEF`
-* still `STEUL`
-* quiet, `KWAO*EUT KW-BG`
-* might `PHAOEUT`
-* hear `HAER`
-* all `AUL`
-* passed: `PAFD STPH-FPLT`
-* wished `WEURBD`
-* how `HOU`
-* get `TKPWET`
-* free, `TPRAOE KW-BG`
-* work `WORBG`
-* its `EUTS`
-* way `WAEU`
-* up, `UP KW-BG`
-* become `PW-BG`
-* own `OEPB`
-* master. `PHAFRT TP-PL`
-* "Do `KR-GS TKO`
-* who `WHO`
-* lived `HREUFD`
-* in `TPH`
-* our `OUR`
-* opposite `OP/SEUT`
-* neighbor's `TPHAEUB AE S*/SP-S`
-* house?" `HOUS H-F KR-GS`
-* shadow. `SHAD/OE TP-PL`
-* "It `KR-GS T`
-* most `PHO*S`
-* charming `KHARPL/-G`
-* beings, `-BGZ KW-BG`
-* Poesy! `XXX Poesy SKHRAPL`
-* there `THR`
-* for `TPOR`
-* three `THRAOE`
-* weeks, `WAOEBGS KW-BG`
-* has `HAS`
-* much `PHUFP`
-* effect `EFBGT`
-* if `TP`
-* one `WUPB`
-* thousand `THOUZ`
-* years, `KWRAOERS KW-BG`
-* read `RAED`
-* composed `KPOES/-D`
-* written; `WREUPB STPH*FPLT`
-* is `S`
-* say, `SAEU KW-BG`

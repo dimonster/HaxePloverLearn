@@ -1,127 +1,126 @@
 # The Shadow Part 1
 
-* It `T`
-* is `S`
-* In `TPH`
-* the `-T`
-* HOT `HOT`
-* lands `HRAPBDZ`
-* that `THA`
+* in `TPH`
+* very `SRE`
+* hot `HOT`
+* climates, `KHRAOEUPLTS KW-BG`
+* where `W-R`
+* The `-T`
+* heat `HAOET`
+* of `-F`
 * sun `SUPB`
-* burns, `PWURPBS KW-BG`
-* sure `SHUR`
-* enough! `TPHUF SKHRAPL`
-* there `THR`
+* has `HAS`
+* great `TKPWRAET`
+* power, `POUR KW-BG`
 * people `PAOEPL`
-* become `PW-BG`
-* quite `KWAOEUT`
-* a `AEU`
-* mahogany `PHA/HOG/TPHEU`
-* brown, `PWROUPB KW-BG`
-* ay, `XXX ay KW-BG`
-* and `SKP`
-* HOTTEST `HOT/*ES`
-* they `THE`
 * are `R`
-* burnt `PWURPBT`
-* to `TO`
-* Negroes. `TPHAOE/TKPWROE/-S TP-PL`
-* but `PWUT`
-* now `TPHOU`
-* was `WA`
-* only `OEPBL`
+* usually `AOURBL`
+* as `AZ`
+* brown `PWROUPB`
+* mahogany; `PHA/HOG/TPHEU STPH*FPLT`
+* and `SKP`
+* hottest `HOT/EFT`
+* countries `KUPBTS`
+* they `THE`
+* negroes, `TPHAOE/TKPWROE/-S KW-BG`
+* with `W`
+* black `PWHRABG`
+* skins. `SKEUPBS TP-PL`
+* A `AEU`
 * learned `HRERPBD`
 * man `PHAPB`
-* had `H`
-* come `KOPL`
+* once `WUPBS`
+* travelled `TRAFLD`
+* into `TPHAO`
+* one `WUPB`
+* these `THEZ`
+* warm `WARPL`
 * from `TPR`
-* cold; `KOELD STPH*FPLT`
-* he `E`
+* cold `KOELD`
+* regions `RAOE/SKWROPBS`
+* north, `TPHORT KW-BG`
 * thought `THAUT`
-* could `KO`
-* run `RUPB`
+* he `E`
+* would `WO`
+* roam `ROEPL`
 * about `PW`
-* just `SKWRUFT`
-* as `AZ`
-* when `WHEPB`
+* did `TK`
 * at `AT`
-* home, `HOEPL KW-BG`
+* home; `HOEPL STPH*FPLT`
+* but `PWUT`
 * soon `SAOPB`
-* found `TPOUPBD`
-* out `OUT`
+* had `H`
+* to `TO`
+* change `KHAEUPBG`
 * his `HEUS`
-* mistake. `SPHAEUBG TP-PL`
-* He, `E KW-BG`
+* opinion. `P-PB TP-PL`
+* found `TPOUPBD`
+* that, `THA KW-BG`
+* like `HRAOEUBG`
 * all `AUL`
 * sensible `SEPBS/-BL`
-* folks, `TPOBG KW-BG`
-* were `WR`
-* obliged `OB/HRAOEUPBLG/-D`
-* stay `STAEU`
-* within `W-PB`
-* doors--the `TKAORS H-PB H-PB -T`
-* window-shutters `WOEUPBD H-PB SHUT/ERS`
-* doors `TKAORS`
-* closed `KHROEFD`
-* whole `WHOEL`
-* day; `TKAEU STPH*FPLT`
-* looked `HRAOBGD`
-* if `TP`
-* house `HOUS`
-* slept, `SHREPD KW-BG`
-* or `OR`
-* no `TPHO`
-* one `WUPB`
-* home. `HOEPL TP-PL`
-* narrow `TPHAR/OE`
-* street `STRAOET`
-* with `W`
-* high `HAOEU`
-* houses, `HO*UFS KW-BG`
-* built `PEULT`
-* so `SO`
-* sunshine `S*UPB/SHAOEUPB`
+* people, `PAOEPL KW-BG`
 * must `PHUFT`
-* fall `TPAUL`
-* morning `PHORPBG`
-* till `T*EUL`
-* evening--it `AOEPG H-PB H-PB T`
-* really `HROERL`
-* not `TPHOT`
-* be `-B`
-* borne. `PWO*RPB TP-PL`
-* cold `KOELD`
-* lands--he `HRAPBDZ H-PB H-PB E`
-* young `KWRUPBG`
-* man, `PHAPB KW-BG`
-* seemed `SAOEPLD`
-* clever `KHREFR`
-* man--sat `PHAPB H-PB H-PB SAT`
-* glowing `TKPWHROEG`
-* oven; `O*FPB STPH*FPLT`
-* took `TAOBG`
-* effect `EFBGT`
-* on `OPB`
-* him, `HEUPL KW-BG`
-* became `PWAEUPL`
-* meagre--even `PHAOEG/ER H-PB H-PB *EFPB`
-* shadow `SHAD/OE`
-* shrunk `SHR*UPBG`
-* in, `TPH KW-BG`
-* for `TPOR`
-* also `HR-S`
-* an `APB`
-* it. `T TP-PL`
-* first `TPEURS`
-* towards `TORDZ`
-* evening `AOEPG`
-* down, `TKOUPB KW-BG`
-* began `TKPWAPB`
-* freshen `XXX freshen`
-* up `UP`
-* again. `TKPWEPB TP-PL`
-* warm `WARPL`
+* remain `RE/PHAUPB`
+* house `HOUS`
+* during `TKURG`
+* whole `WHOEL`
+* day, `TKAEU KW-BG`
 * every `EF`
 * window `WOEUPBD`
-* has `HAS`
-* balcony, `PWAL/KOEPB KW-BG`
+* door `TKAOR`
+* closed, `KHROEFD KW-BG`
+* so `SO`
+* that `THA`
+* it `T`
+* looked `HRAOBGD`
+* if `TP`
+* were `WR`
+* asleep `A/HRAOEP`
+* or `OR`
+* absent. `AB/SEPBT TP-PL`
+* houses `HO*UFS`
+* narrow `TPHO*EUR`
+* street `STRAOET`
+* which `WEU`
+* lived `HREUFD`
+* lofty `HROF/TEU`
+* shone `SHO*EPB`
+* upon `POPB`
+* them `THEPL`
+* morning `PHORPBG`
+* till `T*EUL`
+* evening, `AOEPG KW-BG`
+* became `PWAEUPL`
+* quite `KWAOEUT`
+* unbearable. `UPB/PWAER/-BL TP-PL`
+* This `TH`
+* was `WA`
+* young `KWRUPBG`
+* well `WEL`
+* clever; `KHREFR STPH*FPLT`
+* seemed `SAOEPLD`
+* him `HEUPL`
+* sitting `SAO*EGT`
+* an `APB`
+* oven, `OEFPB KW-BG`
+* exhausted `KPAUFTD`
+* weak, `WAEBG KW-BG`
+* grew `TKPWRAOU`
+* thin `THEUPB`
+* shadow `SHO*EUD`
+* shrivelled `SHR*EUFLD`
+* up, `UP KW-BG`
+* much `PHUFP`
+* smaller `SPHAURL`
+* than `THAPB`
+* been `PW-PB`
+* home. `HOEPL TP-PL`
+* took `TAOBG`
+* away `A/WAEU`
+* even `AOEPB`
+* what `WHA`
+* left `HREFT`
+* it, `T KW-BG`
+* saw `SAU`
+* nothing `TPHOG`

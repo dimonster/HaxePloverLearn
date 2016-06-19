@@ -1,133 +1,130 @@
 # The Shadow Part 17
 
-* they `THE`
-* rode `ROED`
-* and `SKP`
-* walked `WAUBGD`
-* together, `TOGT KW-BG`
-* side `SAOEUD`
-* by `PWEU`
-* side, `SAOEUD KW-BG`
-* before `PW-F`
-* behind, `HEUPBD KW-BG`
-* just `SKWRUFT`
-* as `AZ`
-* the `-T`
-* sun `SUPB`
-* was; `WA STPH*FPLT`
-* shadow `SHAD/OE`
-* always `AULS`
-* took `TAOBG`
-* care `KAEUR`
+* really `HROERL`
+* look `HRAOBG`
+* like `HRAOEUBG`
+* a `AEU`
+* shadow," `SHO*EUD KW-BG KR-GS`
+* people `PAOEPL`
+* said `SAEUD`
 * to `TO`
-* keep `KAOEP`
-* itself `T/SEF`
+* him, `HEUPL KW-BG`
+* and `SKP`
+* then `THEPB`
+* cold `KOELD`
+* shudder `SHUD/ER`
+* would `WO`
+* pass `PAS`
+* over `OEFR`
+* for `TPOR`
+* he `E`
+* had `H`
+* his `HEUS`
+* own `OEPB`
+* thoughts `THAUTS`
+* on `OPB`
+* the `-T`
+* subject. `SUBT TP-PL`
+* "You `KR-GS U`
+* ought `OT`
+* go `TKPW`
+* some `SOPL`
+* watering-place," `WAURPBG H-PB PHRAEUS KW-BG KR-GS`
+* shadow `SHO*EUD`
+* next `TPHEGT`
+* visit. `SREUFT TP-PL`
+* "There `KR-GS THR`
+* is `S`
+* no `TPHO`
+* other `OER`
+* chance `KHAPBS`
+* you. `U TP-PL`
+* I `EU`
+* will `HR`
+* take `TAEUBG`
+* you `U`
+* with `W`
+* me, `PHE KW-BG`
+* sake `SAEUBG`
+* of `-F`
+* old `OLD`
+* acquaintance. `KWAEUPB/TAPBS TP-PL`
+* pay `PAEU`
+* expenses `SPEBS/-S`
+* your `KWROUR`
+* journey, `SKWRURPB KW-BG`
+* shall `SHAL`
+* write `WREU`
+* description `SKREUPG`
+* it `T`
+* amuse `A/PHAOUS`
+* us `US`
+* by `PWEU`
+* way. `WAEU TP-PL`
+* should `SHO`
+* watering-place; `WAURPBG H-PB PHRAEUS STPH*FPLT`
+* my `PHEU`
+* beard `PWAERD`
+* does `TKOS`
+* not `TPHOT`
+* grow `TKPWROE`
+* as `AZ`
+* ought, `OT KW-BG`
+* which `WEU`
+* from `TPR`
+* weakness, `WAEBG/-PBS KW-BG`
+* must `PHUFT`
+* have `SR`
+* beard. `PWAERD TP-PL`
+* Now `TPHOU`
+* do `TKO`
+* be `-B`
+* sensible `SEPBS/-BL`
+* accept `SEP`
+* proposal; `PROEL STPH*FPLT`
+* we `WE`
+* travel `TRAFL`
+* intimate `SPWEU/PHAT`
+* friends." `TPREPBDZ TP-PL KR-GS`
+* at `AT`
+* last `HRAFT`
+* They `THE`
+* started `STARTD`
+* together. `TOGT TP-PL`
+* was `WA`
+* master `PHAFRT`
+* now, `TPHOU KW-BG`
+* became `PWAEUPL`
+* shadow. `SHO*EUD TP-PL`
+* drove `TKROEF`
+* together, `TOGT KW-BG`
+* rode `ROED`
+* walked `WAUBGD`
 * in `TPH`
-* master's `PHAFRT AE S*/SP-S`
-* place. `PHRAEUS TP-PL`
-* now `TPHOU`
+* company `K-P`
+* each `AOEFP`
+* other, `OER KW-BG`
+* side `SAOEUD`
+* side, `SAOEUD KW-BG`
+* or `OR`
+* one `WUPB`
+* front `TPROPBT`
+* behind, `HEUPBD KW-BG`
+* according `KORG`
+* position `POGS`
+* sun. `SUPB TP-PL`
+* always `AULZ`
+* knew `TPHAOU`
+* when `WHEPB`
+* place `PHRAEUS`
+* honor, `HO*RPB KW-BG`
+* but `PWUT`
 * learned `HRERPBD`
 * man `PHAPB`
-* didn't `TK-PBT`
-* think `THEU`
-* much `PHUFP`
-* about `PW`
-* that; `THA STPH*FPLT`
-* he `E`
-* was `WA`
-* a `AEU`
-* very `SRE`
-* kind-hearted `KEUPBD H-PB HART/-D`
-* man, `PHAPB KW-BG`
-* particularly `PHRARL`
+* took `TAOBG`
+* notice `TPH-TS`
+* it, `T KW-BG`
+* good `TKPWAOD`
+* heart, `HART KW-BG`
+* exceedingly `EBGS/AOED/TKPWHREU`
 * mild `PHAOEULD`
-* friendly, `TPREPBLD KW-BG`
-* so `SO`
-* said `SAEUD`
-* one `WUPB`
-* day `TKAEU`
-* shadow: `SHAD/OE STPH-FPLT`
-* "As `KR-GS AZ`
-* we `WE`
-* have `SR`
-* become `PW-BG`
-* companions, `KPAPB/KWROPBS KW-BG`
-* this `TH`
-* way `WAEU`
-* grown `TKPWROEPB`
-* up `UP`
-* together `TOGT`
-* from `TPR`
-* childhood, `KHAOEULD/H*D KW-BG`
-* shall `SHAL`
-* not `TPHOT`
-* drink `TKREU`
-* 'thou' `AE THO*U AE`
-* it `T`
-* is `S`
-* more `PHOR`
-* familiar?" `TPAPL H-F KR-GS`
-* "You `KR-GS U`
-* are `R`
-* right," `RAOEUT KW-BG KR-GS`
-* shadow, `SHAD/OE KW-BG`
-* who `WHO`
-* proper `PROR`
-* master. `PHAFRT TP-PL`
-* "It `KR-GS T`
-* straight-forward `STRAEUT H-PB TPAORD`
-* well-meant `WEL H-PB PHEPBT`
-* manner. `PHAERPB TP-PL`
-* you, `U KW-BG`
-* certainly `SERPBL`
-* know `TPHOE`
-* how `HOU`
-* strange `STRAEUPBG`
-* nature `TPHAEUFP`
-* is. `S TP-PL`
-* Some `SOPL`
-* persons `PERPBS`
-* cannot `K/TPHOT`
-* bear `PWAER`
-* touch `TUFP`
-* grey `TKPRAEU`
-* paper, `PAEUP KW-BG`
-* or `OR`
-* ill; `EUL STPH*FPLT`
-* others `OERS`
-* shiver `SHEUFR`
-* every `EF`
-* limb `HREUPL`
-* if `TP`
-* rub `RUB`
-* pane `PAEPB`
-* of `-F`
-* glass `TKPWHRAS`
-* with `W`
-* nail: `TPHAEUL STPH-FPLT`
-* I `EU`
-* such `SUFP`
-* feeling `TPAOELG`
-* on `OPB`
-* hearing `HAERG`
-* you `U`
-* say `SAEU`
-* THOU `THO*U`
-* me; `PHE STPH*FPLT`
-* feel `TPAOEL`
-* myself `PHAO*EUS`
-* pressed `PREFD`
-* earth `*ERT`
-* my `PHEU`
-* first `TPEURS`
-* situation `SWAEUGS`
-* you. `U TP-PL`
-* see `SAOE`
-* that `THA`
-* feeling; `TPAOELG STPH*FPLT`
-* pride: `PRAOEUD STPH-FPLT`
-* allow `HROU`
-* me, `PHE KW-BG`
-* but `PWUT`
-* will `HR`
-* willingly `HR-G/HREU`

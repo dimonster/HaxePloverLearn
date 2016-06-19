@@ -1,121 +1,127 @@
 # The Old House Part 14
 
-* a `AEU`
-* whole `WHOEL`
-* man, `PHAPB KW-BG`
-* yes, `KWRE KW-BG`
-* clever `KHREFR`
-* and `SKP`
-* pleasure `PHRERB`
-* to `TO`
-* his `HEUS`
-* parents; `PARPBTS STPH*FPLT`
-* he `E`
-* had `H`
-* just `SKWRUFT`
-* been `PW-PB`
-* married, `PHAERD KW-BG`
-* and, `SKP KW-BG`
-* together `TOGT`
-* with `W`
-* little `HREUL`
-* wife, `WAOEUF KW-BG`
-* come `KOPL`
-* live `HREUF`
-* in `TPH`
+* upon `POPB`
 * the `-T`
-* house `HOUS`
-* here, `HAOER KW-BG`
-* where `W-R`
-* garden `TKPWA*RPB`
-* was; `WA STPH*FPLT`
-* stood `STAOD`
-* by `PWEU`
-* her `HER`
-* There `THR`
-* whilst `WHAOEULS`
-* She `SHE`
-* planted `PHRAPBT/-D`
-* field-flower `TPAOELD H-PB TPHRO*UR`
-* that `THA`
-* found `TPOUPBD`
-* so `SO`
-* pretty; `PREUT STPH*FPLT`
-* it `T`
-* hand, `HAPBD KW-BG`
-* pressed `PREFD`
-* earth `*ERT`
-* around `ARPBD`
-* fingers. `TPEURPBGS TP-PL`
-* Oh! `O*ERBGS SKHRAPL`
-* what `WHA`
-* was `WA`
-* that? `THA H-F`
-* stuck `STUBG`
-* herself. `H*ERS TP-PL`
-* sat `SAT`
-* something `S-G`
-* pointed, `POEUPTD KW-BG`
-* straight `STRAEUT`
-* out `OUT`
-* of `-F`
-* soft `SOFT`
-* mould. `PHOELD TP-PL`
-* was--yes, `WA H-PB H-PB KWRE KW-BG`
-* guess! `TKWES SKHRAPL`
-* pewter `PAOU/TER`
-* soldier, `SHRERPBL KW-BG`
-* lost `HRO*S`
-* up `UP`
-* at `AT`
-* old `OLD`
-* man's, `PHAPB AE S*/SP-S KW-BG`
-* tumbled `TUPL/*BLD`
-* turned `TURPBD`
+* wild `WAOEULD`
+* vines, `SRAOEUPBS KW-BG`
+* and `SKP`
+* chattered `KHAT/ERD`
+* all `AUL`
+* together `TOGT`
+* as `AZ`
+* loud `HROUD`
+* they `THE`
+* could, `KO KW-BG`
+* but `PWUT`
+* not `TPHOT`
 * about `PW`
-* amongst `PHOPBGS`
-* timber `TEUPL/PWER`
-* rubbish, `RUB/EURB KW-BG`
-* last `HRAFT`
-* laid `HRAEUD`
+* old `OLD`
+* house; `HOUS STPH*FPLT`
+* none `TPHOPB`
+* of `-F`
+* them `THEPL`
+* could `KO`
+* remember `REB`
+* it, `T KW-BG`
 * for `TPOR`
 * many `PHAEPB`
 * years `KWRAOERS`
-* ground. `TKPWROUPBD TP-PL`
+* had `H`
+* passed `PAFD`
+* by, `PWEU KW-BG`
+* so `SO`
+* indeed, `TPHAOEPBD KW-BG`
+* that `THA`
+* little `HREUL`
+* boy `PWOEU`
+* was `WA`
+* now `TPHOU`
+* a `AEU`
+* man, `PHAPB KW-BG`
+* really `HROERL`
+* good `TKPWAOD`
+* man `PHAPB`
+* too, `TAO KW-BG`
+* his `HEUS`
+* parents `PARPBTS`
+* were `WR`
+* very `SRE`
+* proud `PROUD`
+* him. `HEUPL TP-PL`
+* he `E`
+* just `SKWRUFT`
+* married, `PHAERD KW-BG`
+* come, `KOPL KW-BG`
+* with `W`
 * young `KWRUPBG`
+* wife, `WAOEUF KW-BG`
+* to `TO`
+* reside `RE/SAOEUD`
+* in `TPH`
+* new `TPHU`
+* house `HOUS`
+* garden `TKPWA*RPB`
+* front `TPROPBT`
+* stood `STAOD`
+* there `THR`
+* by `PWEU`
+* her `HER`
+* side `SAOEUD`
+* while `WHAOEUL`
+* she `SHE`
+* planted `PHRAPBT/-D`
+* field `TPAOELD`
+* flower `TPHRO*UR`
+* thought `THAUT`
+* pretty. `PREUT TP-PL`
+* planting `PHRAPBT/-G`
+* it `T`
+* herself `H*ERS`
+* hands, `HAPBDZ KW-BG`
+* pressing `PREFG`
+* down `TKOUPB`
+* earth `*ERT`
+* fingers. `TPEURPBGS TP-PL`
+* "Oh `KR-GS O*ERBGS`
+* dear, `TKAER KW-BG`
+* what `WHA`
+* that?" `THA H-F KR-GS`
+* exclaimed, `SKHRAEUPL/-D KW-BG`
+* something `S-G`
+* pricked `PREUBGD`
+* her. `HER TP-PL`
+* Out `OUT`
+* soft `SOFT`
+* sticking `STEUG`
+* up. `UP TP-PL`
+* was—only `WA EPL/TKA*RB OEPBL`
+* think!—it `THEU SKHRAPL EPL/TKA*RB T`
+* tin `TEUPB`
+* soldier, `SHRERPBL KW-BG`
+* same `SAEUPL`
+* which `WEU`
+* been `PW-PB`
+* lost `HRO*S`
+* up `UP`
+* man's `PHAPB AE S*/SP-S`
+* room, `RAOPL KW-BG`
+* hidden `HEUD/EPB`
+* among `PHOPBG`
+* wood `WAOD`
+* rubbish `RUB/EURB`
+* long `HROPBG`
+* time, `TAOEUPL KW-BG`
+* till `T*EUL`
+* sunk `S*UPBG`
+* into `TPHAO`
+* earth, `*ERT KW-BG`
+* where `W-R`
+* must `PHUFT`
+* have `SR`
+* years. `KWRAOERS TP-PL`
 * wife `WAOEUF`
 * wiped `WAOEUPD`
-* dirt `TKEURT`
-* off `OF`
 * first `TPEURS`
 * green `TKPWRAOEPB`
 * leaf, `HRAOEF KW-BG`
 * then `THEPB`
-* fine `TPAOEUPB`
-* handkerchief--it `HAPB/KER/KHEF H-PB H-PB T`
-* such `SUFP`
-* delightful `TKHRAOEUT/-FL`
-* smell, `SPHEL KW-BG`
-* soldier `SHRERPBL`
-* as `AZ`
-* if `TP`
-* awaked `A/WAEUBG/-D`
-* from `TPR`
-* trance. `TRA*PBS TP-PL`
-* "Let `KR-GS HRET`
-* me `PHE`
-* see `SAOE`
-* him," `HEUPL KW-BG KR-GS`
-* said `SAEUD`
-* man. `PHAPB TP-PL`
-* laughed, `HRAFD KW-BG`
-* shook `SHAOBG`
-* head. `HED TP-PL`
-* "Nay, `KR-GS TPHAEU KW-BG`
-* cannot `K/TPHOT`
-* be `-B`
-* he; `E STPH*FPLT`
-* but `PWUT`
-* reminds `RAO*EUPBDZ`
-* story `STOER`
-* which `WEU`

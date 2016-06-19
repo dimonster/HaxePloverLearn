@@ -1,138 +1,145 @@
 # The Fir Tree Part 11
 
-* the `-T`
-* stairs `STAEURS`
-* into `TPHAO`
-* loft: `HRO*FT STPH-FPLT`
+* him, `HEUPL KW-BG`
 * and `SKP`
-* here, `HAOER KW-BG`
-* in `TPH`
-* a `AEU`
-* dark `TKARBG`
-* corner, `KRORPB KW-BG`
-* where `W-R`
-* no `TPHO`
-* daylight `TKAEULT`
-* could `KO`
-* enter, `*EPT KW-BG`
-* they `THE`
-* left `HREFT`
-* him. `HEUPL TP-PL`
-* "What's `KR-GS WHA AE S*/SP-S`
-* meaning `PHAOEPBG`
-* of `-F`
-* this?" `TH H-F KR-GS`
-* thought `THAUT`
-* Tree. `TRAOE TP-PL`
-* "What `KR-GS WHA`
-* am `*PL`
-* I `EU`
-* to `TO`
-* do `TKO`
-* here? `HAOER H-F`
-* What `WHA`
-* shall `SHAL`
-* hear `HAER`
-* now, `TPHOU KW-BG`
-* wonder?" `WOPBD H-F KR-GS`
-* he `E`
-* leaned `HRAOEPBD`
-* against `STPWEPBS`
-* wall `WAUL`
-* lost `HRO*S`
-* reverie. `R*EF/REU TP-PL`
-* Time `TAOEUPL`
-* enough `TPHUF`
-* had `H`
-* too `TAO`
-* for `TPOR`
-* his `HEUS`
-* reflections; `RE/TPHREBG/SHUPBS STPH*FPLT`
-* days `TKAEUS`
-* nights `TPHAOEUTS`
-* passed `PAFD`
-* on, `OPB KW-BG`
-* nobody `TPHOEB`
-* came `KAEUPL`
-* up; `UP STPH*FPLT`
 * when `WHEPB`
 * at `AT`
 * last `HRAFT`
 * somebody `S-B`
 * did `TK`
 * come, `KOPL KW-BG`
-* It `T`
+* it `T`
 * was `WA`
 * only `OEPBL`
+* to `TO`
 * put `PUT`
-* some `SOPL`
-* great `TKPWRAET`
-* trunks `TRUPB/-BGS`
-* out `OUT`
-* way. `WAEU TP-PL`
-* There `THR`
-* stood `STAOD`
-* Tree `TRAOE`
-* quite `KWAOEUT`
-* hidden; `HEUD/-PB STPH*FPLT`
-* seemed `SAOEPLD`
+* away `A/WAEU`
+* large `HRARPBLG`
+* boxes `PWOBGS/-S`
+* in `TPH`
+* a `AEU`
+* corner. `KRORPB TP-PL`
+* so `SO`
+* the `-T`
+* tree `TRAOE`
+* completely `KPHRELT`
+* hidden `HEUD/EPB`
+* from `TPR`
+* sight `SAOEUT`
 * as `AZ`
-* If `TP`
-* been `PW-PB`
-* entirely `SPWAOEURL`
-* forgotten. `TPO*RGD TP-PL`
-* "'Tis `KR-GS AE XXX Tis`
-* now `TPHOU`
-* winter `WEURPBT`
-* out-of-doors!" `OUT H-PB -F H-PB TKAORS SKHRAPL KR-GS`
-* "The `KR-GS -T`
-* earth `*ERT`
+* if `TP`
+* had `H`
+* never `TPHEF`
+* existed. `KPEUFT/-D TP-PL`
+* "It `KR-GS T`
 * is `S`
+* winter `WEURPBT`
+* now," `TPHOU KW-BG KR-GS`
+* thought `THAUT`
+* tree, `TRAOE KW-BG`
+* "the `KR-GS -T`
+* ground `TKPWROUPBD`
 * hard `HARD`
 * covered `KOFRD`
 * with `W`
-* snow; `STPHOE STPH*FPLT`
-* men `PHEPB`
+* snow, `STPHOE KW-BG`
+* that `THA`
+* people `PAOEPL`
 * cannot `K/TPHOT`
 * plant `PHRAPBT`
-* me `PHE`
-* therefore `TH-FR`
-* have `SR`
-* up `UP`
-* here `HAOER`
-* under `*UPBD`
-* shelter `SHELT`
-* till `T*EUL`
-* spring-time `SPREUPBG H-PB TAOEUPL`
-* comes! `KOPLS SKHRAPL`
+* me. `PHE TP-PL`
+* I `EU`
+* shall `SHAL`
+* be `-B`
+* sheltered `SHELT/ERD`
+* here, `HAOER KW-BG`
+* dare `TKAEUR`
+* say, `SAEU KW-BG`
+* until `TPH-L`
+* spring `SPREUPBG`
+* comes. `KOPLS TP-PL`
 * How `HOU`
 * thoughtful `THAUFL`
-* that `THA`
-* is! `S SKHRAPL`
 * kind `KEUPBD`
-* man `PHAPB`
-* is, `S KW-BG`
-* after `AF`
-* all! `AUL SKHRAPL`
+* everybody `EFB`
+* me! `PHE SKHRAPL`
+* Still `STEUL`
+* wish `WEURB`
+* this `TH`
+* place `PHRAEUS`
 * were `WR`
 * not `TPHOT`
-* so `SO`
-* terribly `TER/PWHREU`
-* lonely! `HROPBL SKHRAPL`
+* dark, `TKARBG KW-BG`
+* well `WEL`
+* lonely, `HROPBL KW-BG`
 * even `AOEPB`
-* hare! `HA*ER SKHRAPL`
-* woods `WAODZ`
-* pleasant, `PHREFPBT KW-BG`
+* little `HREUL`
+* hare `HA*ER`
+* look `HRAOBG`
+* at. `AT TP-PL`
+* pleasant `PHREFPBT`
+* out `OUT`
+* forest `TPOEFRT`
+* while `WHAOEUL`
 * snow `STPHOE`
+* lay `HRAEU`
 * on `OPB`
 * ground, `TKPWROUPBD KW-BG`
-* hare `HA*ER`
-* leaped `HRAOEPD`
-* by; `PWEU STPH*FPLT`
-* yes--even `KWRE H-PB H-PB *EFPB`
-* jumped `SKWR*UPLD`
+* would `WO`
+* run `RUPB`
+* by, `PWEU KW-BG`
+* yes, `KWRE KW-BG`
+* jump `SKWRUFRP`
 * over `OEFR`
-* me; `PHE STPH*FPLT`
-* but `PWUT`
+* me `PHE`
+* too, `TAO KW-BG`
+* although `HR*T`
 * like `HRAOEUBG`
-* then! `THEPB SKHRAPL`
+* then. `THEPB TP-PL`
+* Oh! `O*ERBGS SKHRAPL`
+* terrible `TERBL`
+* lonely `HROPBL`
+* here." `HAOER TP-PL KR-GS`
+* "Squeak, `KR-GS SKWAOEBG KW-BG`
+* squeak," `SKWAOEBG KW-BG KR-GS`
+* said `SAEUD`
+* mouse, `PHOUS KW-BG`
+* creeping `KRAOEPG`
+* cautiously `KAURBS/HREU`
+* towards `TORDZ`
+* tree; `TRAOE STPH*FPLT`
+* then `THEPB`
+* came `KAEUPL`
+* another; `TPHOER STPH*FPLT`
+* they `THE`
+* both `PWO*T`
+* sniffed `STPHEUFD`
+* fir-tree `TPEUR H-PB TRAOE`
+* crept `KREPT`
+* between `TWAOEPB`
+* branches. `PWRAFPBS TP-PL`
+* "Oh, `KR-GS O*ERBGS KW-BG`
+* very `SRE`
+* cold," `KOELD KW-BG KR-GS`
+* "or `KR-GS OR`
+* else `ELS`
+* we `WE`
+* should `SHO`
+* comfortable `K-BL`
+* shouldn't `SHOPBT`
+* we, `WE KW-BG`
+* you `U`
+* old `OLD`
+* fir-tree?" `TPEUR H-PB TRAOE H-F KR-GS`
+* "I `KR-GS EU`
+* am `APL`
+* old," `OLD KW-BG KR-GS`
+* fir-tree, `TPEUR H-PB TRAOE KW-BG`
+* "there `KR-GS THR`
+* are `R`
+* many `PHAEPB`
+* who `WHO`
+* older `OERLD`
+* than `THAPB`
+* am." `APL TP-PL KR-GS`
+* "Where `KR-GS W-R`

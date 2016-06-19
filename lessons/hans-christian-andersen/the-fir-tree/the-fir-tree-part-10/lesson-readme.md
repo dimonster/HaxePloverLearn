@@ -1,129 +1,137 @@
 # The Fir Tree Part 10
 
-* and `SKP`
-* the `-T`
-* children `KHEURPB`
-* clapped `KHRAP/-D`
-* their `THAEUR`
-* hands, `HAPBDZ KW-BG`
-* cried. `KRAOEUD TP-PL`
-* "Oh, `KR-GS O*ERBGS KW-BG`
-* go `TKPW`
-* on! `OPB SKHRAPL`
-* Do `TKO`
-* on!" `OPB SKHRAPL KR-GS`
-* they `THE`
-* wanted `WAPBTD`
-* to `TO`
-* hear `HAER`
-* about `PW`
-* Ivedy-Avedy `XXX Ivedy H-PB XXX Avedy`
-* too, `TAO KW-BG`
-* But `PWUT`
-* little `HREUL`
-* man `PHAPB`
-* only `OEPBL`
-* told `TOLD`
-* them `THEPL`
-* Humpy-Dumpy. `XXX Humpy H-PB XXX Dumpy TP-PL`
-* Fir `TPEUR`
-* Tree `TRAOE`
-* stood `STAOD`
-* quite `KWAOEUT`
-* still `STEUL`
-* absorbed `SPWORBD`
-* In `TPH`
-* thought; `THAUT STPH*FPLT`
-* birds `PWEURDZ`
-* wood `WAOD`
-* had `H`
-* never `TPHEF`
-* related `RAELTD`
-* like `HRAOEUBG`
-* of `-F`
-* this. `TH TP-PL`
-* "Humpy-Dumpy `KR-GS XXX Humpy H-PB XXX Dumpy`
+* who `WHO`
 * fell `TPEL`
-* downstairs, `TKOUPB/STAEURS KW-BG`
+* down `TKOUPB`
+* stairs, `STAEURS KW-BG`
+* and `SKP`
 * yet `KWRET`
-* he `E`
 * married `PHAERD`
-* princess! `PREUPB/ES SKHRAPL`
-* Yes, `KWRE KW-BG`
-* yes! `KWRE SKHRAPL`
-* That's `THA AE S*/SP-S`
-* way `WAEU`
-* world!" `WORLD SKHRAPL KR-GS`
-* thought `THAUT`
-* Tree, `TRAOE KW-BG`
-* believed `PWHREFD`
+* a `AEU`
+* princess. `PREUPB/ES TP-PL`
+* "Ah! `KR-GS HA*E SKHRAPL`
+* yes, `KWRE KW-BG`
+* so `SO`
 * it `T`
+* happens `HABS`
+* in `TPH`
+* the `-T`
+* world," `WORLD KW-BG KR-GS`
+* thought `THAUT`
+* fir-tree; `TPEUR H-PB TRAOE STPH*FPLT`
+* he `E`
+* believed `PWHREFD`
 * all, `AUL KW-BG`
 * because `PWAU`
-* who `WHO`
-* story `STOER`
 * was `WA`
-* so `SO`
-* good-looking. `TKPWAOD H-PB HRAOG TP-PL`
-* "Well, `KR-GS WEL KW-BG`
-* well! `WEL SKHRAPL`
-* knows, `TPHOEZ KW-BG`
+* related `RAELTD`
+* by `PWEU`
+* such `SUFP`
+* nice `TPHAOEUS`
+* man. `PHAPB TP-PL`
+* well," `WEL KW-BG KR-GS`
+* thought, `THAUT KW-BG`
+* "who `KR-GS WHO`
+* knows? `TPHOEZ H-F`
 * perhaps `PRAPS`
 * I `EU`
 * may `PHAE`
 * fall `TPAUL`
-* get `TKPWET`
-* a `AEU`
-* princess `PREUPB/ES`
-* as `AZ`
-* wife!" `WAOEUF SKHRAPL KR-GS`
+* too, `TAO KW-BG`
+* marry `PHAER`
+* princess;" `PREUPB/ES STPH*FPLT KR-GS`
 * looked `HRAOBGD`
 * forward `TPAORD`
-* with `W`
-* joy `SKWROEU`
-* morrow, `PHOR/ROE KW-BG`
-* when `WHEPB`
-* hoped `HOEPD`
+* joyfully `SKWROEUFL/HREU`
+* to `TO`
+* next `TPHEGT`
+* evening, `AOEPG KW-BG`
+* expecting `EBGS/PEG`
 * be `-B`
+* again `TKPWEPB`
 * decked `TKEBG/-D`
 * out `OUT`
-* again `TKPWEPB`
-* lights, `HRAOEUTS KW-BG`
+* with `W`
+* lights `HRAOEUTS`
 * playthings, `PHRAEU/THEUPBG/-S KW-BG`
-* fruits, `TPRAOUTS KW-BG`
-* tinsel. `TEUPB/SEL TP-PL`
-* "I `KR-GS EU`
-* won't `WOEPBT`
-* tremble `TREPL/-BL`
-* to-morrow!" `TO H-PB PHOR/ROE SKHRAPL KR-GS`
-* Tree. `TRAOE TP-PL`
+* gold `TKPWOELD`
+* fruit. `TPRAOUT TP-PL`
+* "To-morrow `KR-GS TO H-PB PHOR/ROE`
 * will `HR`
+* not `TPHOT`
+* tremble," `TREPL/-BL KW-BG KR-GS`
+* he; `E STPH*FPLT`
+* "I `KR-GS EU`
 * enjoy `TPHOEUPBLG`
-* full `TPUL`
 * all `AUL`
 * my `PHEU`
-* splendor! `SHREPBD/O*R SKHRAPL`
-* To-morrow `TO H-PB PHOR/ROE`
+* splendor, `SHREPBD/O*R KW-BG`
 * shall `SHAL`
-* Humpy-Dumpy, `XXX Humpy H-PB XXX Dumpy KW-BG`
-* that `THA`
-* too." `TAO TP-PL KR-GS`
-* whole `WHOEL`
-* night `TPHAOEUT`
-* deep `TKAOEP`
-* thought. `THAUT TP-PL`
+* hear `HAER`
+* story `STOER`
+* of `-F`
+* Humpty `H*UPLT/KWREU`
+* Dumpty `TK*UPLT/KWREU`
+* again, `TKPWEPB KW-BG`
+* Ivede-Avede." `XXX Ivede H-PB XXX Avede TP-PL KR-GS`
+* tree `TRAOE`
+* remained `RE/PHAEUPBD`
+* quiet `KWAO*EUT`
+* thoughtful `THAUFL`
+* night. `TPHAOEUT TP-PL`
 * morning `PHORPBG`
-* servant `SEFB/APBT`
+* servants `SER/SRAPBTS`
 * housemaid `XXX housemaid`
 * came `KAEUPL`
 * in. `TPH TP-PL`
-* "Now `KR-GS TPHOU`
-* then `THEPB`
+* "Now," `KR-GS TPHOU KW-BG KR-GS`
+* fir, `TPEUR KW-BG`
+* "all `KR-GS AUL`
 * splendor `SHREPBD/O*R`
-* begin `STKWEUPB`
-* again," `TKPWEPB KW-BG KR-GS`
-* Fir. `TPEUR TP-PL`
+* is `S`
+* going `TKPW-G`
+* begin `TKPWEUPB`
+* again." `TKPWEPB TP-PL KR-GS`
+* But `PWUT`
+* they `THE`
 * dragged `TKRAGD`
 * him `HEUPL`
-* room, `RAOPL KW-BG`
+* room `RAOPL`
 * up `UP`
+* stairs `STAEURS`
+* garret, `TKPWAEUR/RET KW-BG`
+* threw `THRAOU`
+* on `OPB`
+* floor, `TPHRAOR KW-BG`
+* dark `TKARBG`
+* corner, `KRORPB KW-BG`
+* where `W-R`
+* no `TPHO`
+* daylight `TKAEULT`
+* shone, `SHO*EPB KW-BG`
+* there `THR`
+* left `HREFT`
+* him. `HEUPL TP-PL`
+* "what `KR-GS WHA`
+* does `TKOS`
+* this `TH`
+* mean?" `PHAOEPB H-F KR-GS`
+* tree, `TRAOE KW-BG`
+* am `APL`
+* do `TKO`
+* here? `HAOER H-F`
+* can `K`
+* nothing `TPHOG`
+* place `PHRAEUS`
+* like `HRAOEUBG`
+* this," `TH KW-BG KR-GS`
+* had `H`
+* time `TAOEUPL`
+* enough `TPHUF`
+* think, `THEU KW-BG`
+* for `TPOR`
+* days `TKAEUS`
+* nights `TPHAOEUTS`
+* passed `PAFD`
+* one `WUPB`
+* near `TPHAOER`

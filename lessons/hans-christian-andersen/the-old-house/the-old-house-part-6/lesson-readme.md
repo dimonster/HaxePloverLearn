@@ -1,132 +1,137 @@
 # The Old House Part 6
 
+* On `OPB`
 * the `-T`
-* middle `PH*EULD`
-* of `-F`
 * wall `WAUL`
+* near `TPHAOER`
+* centre `STR`
+* of `-F`
+* room `RAOPL`
 * hung `HUPBG`
-* a `AEU`
 * picture `P*EUFP`
-* representing `REPG`
+* a `AEU`
 * beautiful `PWAOUFL`
 * lady, `HRA*ED KW-BG`
-* so `SO`
-* young, `KWRUPBG KW-BG`
-* glad, `TKPWHRAD KW-BG`
-* but `PWUT`
+* young `KWRUPBG`
+* and `SKP`
+* gay, `TKPWAEU KW-BG`
 * dressed `TKREFD`
-* quite `KWAOEUT`
-* as `AZ`
 * in `TPH`
-* former `TPORPL/*ER`
+* fashion `TPAGS`
+* olden `XXX olden`
 * times, `TAOEUPLS KW-BG`
 * with `W`
-* clothes `KHRO*ETS`
-* that `THA`
-* stood `STAOD`
-* stiff, `STEUF KW-BG`
-* and `SKP`
-* powder `PO*URD`
-* her `HER`
-* hair; `HAEUR STPH*FPLT`
+* powdered `POURD/-D`
+* hair, `HAEUR KW-BG`
+* full, `TPUL KW-BG`
+* stiff `STEUF`
+* skirt. `SKEURT TP-PL`
 * she `SHE`
-* neither `TPHAOERT`
 * said `SAEUD`
-* "thankee, `KR-GS XXX thankee KW-BG`
-* thankee!" `XXX thankee SKHRAPL KR-GS`
+* neither `TPHAOERT`
+* "thanks" `KR-GS THAPBGS KR-GS`
 * nor `TPH-R`
-* "cranky, `KR-GS KRAPB/KEU KW-BG`
-* cranky!" `KRAPB/KEU SKHRAPL KR-GS`
+* "creak," `KR-GS KRAEBG KW-BG KR-GS`
+* but `PWUT`
 * looked `HRAOBGD`
-* mild `PHAOEULD`
-* eyes `AO*EUS`
-* at `AT`
+* down `TKOUPB`
+* upon `POPB`
 * little `HREUL`
-* boy, `PWOEU KW-BG`
-* who `WHO`
-* directly `TKREL`
-* asked `SK-D`
+* boy `PWOEU`
+* her `HER`
+* mild `PHAOEULD`
+* eyes; `AO*EUS STPH*FPLT`
+* then `THEPB`
+* he `E`
+* to `TO`
 * old `OLD`
 * man, `PHAPB KW-BG`
-* "where `KR-GS W-R`
+* "Where `KR-GS W-R`
 * did `TK`
 * you `U`
 * get `TKPWET`
-* her?" `HER H-F KR-GS`
-* "Yonder, `KR-GS KWROPBD/ER KW-BG`
-* broker's," `PWROERBG AE S*/SP-S KW-BG KR-GS`
+* that `THA`
+* picture?" `P*EUFP H-F KR-GS`
+* "From `KR-GS TPR`
+* shop `SHOP`
+* opposite," `OP/SEUT KW-BG KR-GS`
+* replied. `RE/PHRAOEUD TP-PL`
+* "Many `KR-GS PHAEPB`
+* portraits `POR/TRAT/-S`
+* hang `HAPBG`
 * there `THR`
-* are `R`
-* many `PHAEPB`
-* pictures `P*EUFPS`
-* hanging. `HAPBG/-G TP-PL`
-* No `TPHO`
-* one `WUPB`
-* knows `TPHOEZ`
-* or `OR`
-* cares `KAEURS`
-* about `PW`
-* them, `THEPL KW-BG`
-* for `TPOR`
+* none `TPHOPB`
+* seem `SAOEPL`
+* trouble `TRUBL`
+* themselves `TH*EPLS`
+* about. `PW TP-PL`
+* persons `PERPBZ`
 * they `THE`
-* all `AUL`
-* them `THEPL`
-* buried; `PWUR/EUD STPH*FPLT`
-* I `EU`
-* knew `TPHAOU`
-* by-gone `PWEU H-PB TKWOPB`
-* days, `TKAEUS KW-BG`
-* now `TPHOU`
-* has `HAS`
+* represent `REPT`
+* have `SR`
 * been `PW-PB`
 * dead `TKED`
-* gone `TKWOPB`
-* these `THEZ`
-* fifty `TPAEFT`
-* years!" `KWRAOERS SKHRAPL KR-GS`
-* Under `*UPBD`
-* picture, `P*EUFP KW-BG`
-* glazed `TKPWHRAEUZ/-D`
-* frame, `TPRAEUPL KW-BG`
-* bouquet `PWOE/KAEU`
-* withered `W*EUT/ER/-D`
-* flowers; `TPHRO*URS STPH*FPLT`
-* were `WR`
-* almost `HR-PL`
+* buried `PWUR/EUD`
+* long `HROPBG`
+* since. `SEUPBS TP-PL`
+* I `EU`
+* knew `TPHAOU`
+* this `TH`
+* lady `HRA*ED`
+* many `PHAEPB`
 * years `KWRAOERS`
-* old; `OLD STPH*FPLT`
-* very `SRE`
-* old! `OLD SKHRAPL`
+* ago, `AG KW-BG`
+* has `HAS`
+* nearly `TPHAOERL`
+* half `HAF`
+* century." `KROEURPBT TP-PL KR-GS`
+* Under `*UPBD`
+* glass `TKPWHRAS`
+* beneath `TPHAO*ET`
+* nosegay `TPHOES/TKPWAEU`
+* withered `WEU/THER/-D`
+* flowers, `TPHRO*URS KW-BG`
+* which `WEU`
+* were `WR`
+* no `TPHO`
+* doubt `TKOUT`
+* century `KROEURPBT`
+* too, `TAO KW-BG`
+* at `AT`
+* least `HRAOEFT`
+* appeared `A/PAOERD`
+* so. `SO TP-PL`
 * pendulum `PEPBD/HRUPL`
-* great `TKPWRAET`
 * clock `KHROBG`
 * went `WEPBT`
-* to `TO`
 * fro, `TPRO KW-BG`
 * hands `HAPBDZ`
-* turned, `TURPBD KW-BG`
+* turned `TURPBD`
+* round; `ROUPBD STPH*FPLT`
+* as `AZ`
+* time `TAOEUPL`
+* passed `PAFD`
+* on, `OPB KW-BG`
 * everything `EFG`
-* room `RAOPL`
-* became `PWAEUPL`
-* still `STEUL`
-* older; `OERLD STPH*FPLT`
-* not `TPHOT`
-* observe `OEB`
+* grew `TKPWRAOU`
+* older, `OERLD KW-BG`
+* one `WUPB`
+* seemed `SAOEPLD`
+* notice `TPH-TS`
 * it. `T TP-PL`
 * "They `KR-GS THE`
 * say `SAEU`
 * home," `HOEPL KW-BG KR-GS`
+* boy, `PWOEU KW-BG`
 * "that `KR-GS THA`
-* very, `SRE KW-BG`
-* lonely!" `HROPBL SKHRAPL KR-GS`
-* "Oh!" `KR-GS O*ERBGS SKHRAPL KR-GS`
-* he. `E TP-PL`
-* "The `KR-GS -T`
-* thoughts, `THAUTS KW-BG`
-* what `WHA`
-* may `PHAE`
-* bring `PWREU`
-* come `KOPL`
-* visit `SREUFT`
-* me, `PHE KW-BG`
-* also `HR-S`
+* are `R`
+* very `SRE`
+* lonely." `HROPBL TP-PL KR-GS`
+* "Oh," `KR-GS O*ERBGS KW-BG KR-GS`
+* replied `RE/PHRAOEUD`
+* "I `KR-GS EU`
+* pleasant `PHREFPBT`
+* thoughts `THAUTS`
+* all `AUL`
+* passed, `PAFD KW-BG`
+* recalled `-RLD`

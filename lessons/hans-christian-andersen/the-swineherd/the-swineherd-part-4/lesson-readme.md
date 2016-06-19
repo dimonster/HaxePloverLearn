@@ -1,129 +1,137 @@
 # The Swineherd Part 4
 
-* that `THA`
+* could `KO`
+* at `AT`
+* once `WUPBS`
+* smell `SPHEL`
+* what `WHA`
+* meals `PHAOELS`
+* they `THE`
 * were `WR`
-* cooking `KAOG`
+* preparing `PRAOEPG`
 * on `OPB`
 * every `EF`
-* hearth `HAERT`
+* fire `TPAOEUR`
 * in `TPH`
 * the `-T`
-* city--this, `STEU H-PB H-PB TH KW-BG`
-* you `U`
-* see, `SAOE KW-BG`
+* whole `WHOEL`
+* town. `TOUPB TP-PL`
+* That `THA`
 * was `WA`
-* something `S-G`
-* quite `KWAOEUT`
-* different `TKEUFRT`
-* from `TPR`
-* rose. `ROES TP-PL`
-* Now `TPHOU`
-* Princess `PREUPB/ES`
-* happened `HAPD`
-* to `TO`
-* walk `WAUBG`
-* way; `WAEU STPH*FPLT`
-* and `SKP`
+* indeed `TPHAOEPBD`
+* much `PHUFP`
+* more `PHOR`
+* remarkable `RARBG/-BL`
+* than `THAPB`
+* rose. `ROEZ TP-PL`
 * when `WHEPB`
-* she `SHE`
+* princess `PREUPB/ES`
+* with `W`
+* her `HER`
+* ladies `HRAEUDZ`
+* passed `PAFD`
+* by `PWEU`
+* and `SKP`
 * heard `HERD`
 * tune, `TAOUPB KW-BG`
-* stood `STAOD`
-* still, `STEUL KW-BG`
-* seemed `SAOEPLD`
-* pleased; `PHRAOEFD STPH*FPLT`
+* she `SHE`
+* stopped `STOPD`
+* looked `HRAOBGD`
+* quite `KWAOEUT`
+* pleased, `PHRAOEFD KW-BG`
 * for `TPOR`
-* could `KO`
+* also `HR-S`
 * play `PHRAEU`
-* "Lieber `KR-GS XXX Lieber`
-* Augustine"; `OUG/AOEUPB KR-GS STPH*FPLT`
+* it—in `T EPL/TKA*RB TPH`
+* fact, `TPABGT KW-BG`
 * it `T`
 * only `OEPBL`
-* piece `PAOES`
-* knew; `TPHAOU STPH*FPLT`
+* tune `TAOUPB`
+* play, `PHRAEU KW-BG`
 * played `PHRAEUD`
-* with `W`
-* one `WUPB`
-* finger. `TPEURPG TP-PL`
-* "Why `KR-GS KWR`
-* there `THR`
-* is `S`
-* my `PHEU`
-* piece," `PAOES KW-BG KR-GS`
-* said `SAEUD`
-* Princess. `PREUPB/ES TP-PL`
+* One `WUPB`
+* finger. `TPURPBG TP-PL`
 * "That `KR-GS THA`
-* swineherd `XXX swineherd`
+* is `S`
+* I `EU`
+* know," `TPHOE KW-BG KR-GS`
+* exclaimed. `SKHRAEUPL/-D TP-PL`
+* "He `KR-GS E`
 * must `PHUFT`
-* certainly `SERPBL`
-* have `SR`
-* been `PW-PB`
-* well `WEL`
-* educated! `TAEUBGTD SKHRAPL`
-* Go `TKPW`
+* be `-B`
+* a `AEU`
+* well-educated `WEL H-PB TAEUBGTD`
+* swineherd. `XXX swineherd TP-PL`
+* go `TKPW`
 * ask `SK`
 * him `HEUPL`
-* price `PRAOEUS`
+* how `HOU`
+* instrument `STRUPLT`
+* is." `S TP-PL KR-GS`
 * of `-F`
-* instrument." `STRUPLT TP-PL KR-GS`
-* so `SO`
-* court-ladies `KORT H-PB HRA*EDZ`
-* run `RUPB`
-* in; `TPH STPH*FPLT`
-* however, `HOUF KW-BG`
-* drew `TKRAOU`
-* wooden `WAOD/EPB`
-* slippers `SHREUP/ERS`
-* first. `TPEURS TP-PL`
+* had `H`
+* to `TO`
+* ask; `SK STPH*FPLT`
+* But `PWUT`
+* put `PUT`
+* pattens. `XXX pattens TP-PL`
 * "What `KR-GS WHA`
 * will `HR`
+* you `U`
 * take `TAEUBG`
-* kitchen-pot?" `K-FP H-PB POT H-F KR-GS`
+* your `KWROUR`
+* pot?" `POT H-F KR-GS`
+* asked `SK-D`
 * lady. `HRA*ED TP-PL`
 * "I `KR-GS EU`
+* have `SR`
 * ten `TEPB`
 * kisses `KEUS/-S`
-* Princess," `PREUPB/ES KW-BG KR-GS`
-* swineherd. `XXX swineherd TP-PL`
-* "Yes, `KR-GS KWRE KW-BG`
-* indeed!" `TPHAOEPBD SKHRAPL KR-GS`
+* from `TPR`
+* princess," `PREUPB/ES KW-BG KR-GS`
+* said `SAEUD`
+* "God `KR-GS TKPWOD`
+* forbid," `TPORBD KW-BG KR-GS`
+* "Well, `KR-GS WEL KW-BG`
 * cannot `K/TPHOT`
 * sell `SEL`
 * less," `HRES KW-BG KR-GS`
-* rejoined `RE/SKWROEUPB/-D`
-* "He `KR-GS E`
-* an `APB`
-* impudent `*EUPL/TKEPBT`
-* fellow!" `TPEL/OE SKHRAPL KR-GS`
-* Princess, `PREUPB/ES KW-BG`
-* walked `WAUBGD`
-* on; `OPB STPH*FPLT`
-* but `PWUT`
-* had `H`
-* gone `TKWOPB`
-* a `AEU`
-* little `HREUL`
-* way, `WAEU KW-BG`
-* bells `PWELS`
-* tinkled `TEUPB/K-LD`
-* prettily `PRET/HREU`
-* "Ach! `KR-GS XXX Ach SKHRAPL`
-* du `XXX du`
-* lieber `XXX lieber`
-* Augustin, `XXX Augustin KW-BG`
-* Alles `AUL/-S`
-* ist `XXX ist`
-* weg, `WEG KW-BG`
-* weg!" `WEG SKHRAPL KR-GS`
-* "Stay," `KR-GS STAEU KW-BG KR-GS`
-* "Ask `KR-GS SK`
-* if `TP`
+* replied `RE/PHRAOEUD`
+* did `TK`
 * he `E`
-* ladies `HRA*EDZ`
-* court." `KORT TP-PL KR-GS`
-* "No, `KR-GS TPHO KW-BG`
-* thank `THAPBG`
-* you!" `U SKHRAPL KR-GS`
-* "Ten `KR-GS TEPB`
-* or `OR`
-* I `EU`
+* say?" `SAEU H-F KR-GS`
+* princess. `PREUPB/ES TP-PL`
+* really `HROERL`
+* tell `TEL`
+* you," `U KW-BG KR-GS`
+* "You `KR-GS U`
+* can `K`
+* whisper `WEUS/PER`
+* into `TPHAO`
+* my `PHEU`
+* ear." `AOER TP-PL KR-GS`
+* "It `KR-GS T`
+* very `SRE`
+* naughty," `TPHAU/TEU KW-BG KR-GS`
+* princess, `PREUPB/ES KW-BG`
+* walked `WAUBGD`
+* off. `OF TP-PL`
+* gone `TKWOPB`
+* little `HREUL`
+* distance, `STKAPBS KW-BG`
+* bells `PWELS`
+* rang `RAPBG`
+* again `TKPWEPB`
+* so `SO`
+* sweetly: `SWAOET/HREU STPH-FPLT`
+* "A `KR-GS AEU`
+* jolly `SKWROL/HREU`
+* old `OLD`
+* sow `SWO`
+* lived `HREUFD`
+* sty, `STAOEU KW-BG`
+* Three `THRAOE`
+* piggies `PEUG/KWREU/KWREU/-S`
+* she," `SHE KW-BG KR-GS`
+* &c. `XXX &c TP-PL`
+* "Ask `KR-GS SK`

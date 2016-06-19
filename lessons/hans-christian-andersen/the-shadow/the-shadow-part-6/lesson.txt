@@ -1,113 +1,202 @@
 The Shadow Part 6
 
+'shadow': SHO*EUD
+'turned;': TURPBD STPH*FPLT
+'and': SKP
+'if': TP
+'any': TPHEU
+'one': WUPB
+'had': H
+'observed,': OEBD KW-BG
+'they': THE
+'might': PHAOEUT
+'have': SR
+'seen': SAOEPB
+'it': T
+'go': TKPW
+'straight': STRAEUT
+'into': TPHAO
+'the': -T
+'half-opened': HAF H-PB OEPD
+'door': TKAOR
+'of': -F
+'the': -T
+'opposite': OP/SEUT
+'balcony,': PWAL/KOEPB KW-BG
+'as': AZ
 'the': -T
 'learned': HRERPBD
 'man': PHAPB
-'now': TPHOU
-'came': KAEUPL
-'there': THR
-'and': SKP
-'told': TOLD
+'re-entered': XXX re H-PB SPWR-D
 'his': HEUS
-'story,': STOER KW-BG
+'own': OEPB
+'room,': RAOPL KW-BG
+'and': SKP
+'let': HRET
+'the': -T
+'curtain': KUR/TAPB
+'fall.': TPAL TP-PL
+'The': -T
+'next': TPHEGT
+'morning': PHORPBG
+'he': E
+'went': WEPBT
+'out': OUT
+'to': TO
+'take': TAEUBG
+'his': HEUS
+'coffee': KOF/AOE
+'and': SKP
+'read': RAED
+'the': -T
+'newspapers.': TPHUPS TP-PL
+'"How': KR-GS HOU
+'is': S
+'this?"': TH H-F KR-GS
+'he': E
+'exclaimed,': SKHRAEUPL/-D KW-BG
+'as': AZ
+'he': E
+'stood': STAOD
+'in': TPH
+'the': -T
+'sunshine.': S*UPB/SHAOEUPB TP-PL
+'"I': KR-GS EU
+'have': SR
+'lost': HRO*S
+'my': PHEU
+'shadow.': SHO*EUD TP-PL
+'So': SO
+'it': T
+'really': HROERL
+'did': TK
+'go': TKPW
+'away': A/WAEU
+'yesterday': KWRED
+'evening,': AOEPG KW-BG
+'and': SKP
+'it': T
+'has': HAS
+'not': TPHOT
+'returned.': RURPBD TP-PL
+'This': TH
+'is': S
+'very': SRE
+'annoying."': TPHOEUG TP-PL KR-GS
+'And': SKP
+'it': T
+'certainly': SERPBL
+'did': TK
+'vex': SREBGS
+'him,': HEUPL KW-BG
+'not': TPHOT
+'so': SO
+'much': PHUFP
+'because': PWAU
+'the': -T
+'shadow': SHO*EUD
+'was': WA
+'gone,': TKWOPB KW-BG
+'but': PWUT
+'because': PWAU
+'he': E
+'knew': TPHAOU
+'there': THR
+'was': WA
+'a': AEU
+'story': STOER
+'of': -F
+'a': AEU
+'man': PHAPB
+'without': WOUT
+'a': AEU
+'shadow.': SHO*EUD TP-PL
+'All': AUL
+'the': -T
+'people': PAOEPL
+'at': AT
+'home,': HOEPL KW-BG
+'in': TPH
+'his': HEUS
+'country,': KREU KW-BG
+'knew': TPHAOU
+'this': TH
+'story;': STOER STPH*FPLT
+'and': SKP
+'when': WHEPB
+'he': E
+'returned,': RURPBD KW-BG
+'and': SKP
+'related': RAELTD
+'his': HEUS
+'own': OEPB
+'adventures,': SREPBGS KW-BG
 'they': THE
 'would': WO
 'say': SAEU
-'that': THA
-'he': E
+'it': T
 'was': WA
-'imitating': EUPL/TAEUT/-G
-'it,': T KW-BG
+'only': OEPBL
+'an': APB
+'imitation;': EUPL/TAEUGS STPH*FPLT
+'and': SKP
+'he': E
 'had': H
 'no': TPHO
-'need': TPHAOED
+'desire': STKAOEUR
+'for': TPOR
+'such': SUFP
+'things': THEUPBGS
 'to': TO
-'do.': TKO TP-PL
-'would,': WO KW-BG
-'therefore,': TH-FR KW-BG
+'be': -B
+'said': SAEUD
+'of': -F
+'him.': HEUPL TP-PL
+'So': SO
+'he': E
+'decided': TKAOE/SAOEUD/-D
 'not': TPHOT
-'talk': TAUBG
-'about': PW
+'to': TO
+'speak': SPAOEBG
+'of': -F
 'it': T
 'at': AT
-'all;': AUL STPH*FPLT
-'wisely': WAOEULS
-'thought.': THAUT TP-PL
-'in': TPH
+'all,': AUL KW-BG
+'which': WEU
+'was': WA
+'a': AEU
+'very': SRE
+'sensible': SEPBS/-BL
+'determination.': TKERPLGS TP-PL
+'In': TPH
+'the': -T
 'evening': AOEPG
+'he': E
 'went': WEPBT
 'out': OUT
 'again': TKPWEPB
 'on': OPB
-'balcony.': PWAL/KOEPB TP-PL
-'placed': PHRAEUFD
+'his': HEUS
+'balcony,': PWAL/KOEPB KW-BG
+'taking': TAEUG
+'care': KAEUR
+'to': TO
+'place': PHRAEUS
+'the': -T
 'light': HRAOEUT
-'directly': TKREL
 'behind': HEUPBD
-'him,': HEUPL KW-BG
+'him;': HEUPL STPH*FPLT
 'for': TPOR
+'he': E
 'knew': TPHAOU
-'shadow': SHAD/OE
-'always': AULS
-'have': SR
-'its': EUTS
-'master': PHAFRT
+'that': THA
 'a': AEU
-'screen,': SKRAOEPB KW-BG
+'shadow': SHO*EUD
+'always': AULZ
+'wants': WAPBTS
+'his': HEUS
+'master': PHAFRT
+'for': TPOR
+'a': AEU
+'screen;': SKRAOEPB STPH*FPLT
 'but': PWUT
-'could': KO
-'entice': SPWAOEUS
-'it.': T TP-PL
-'made': PHAED
-'himself': H*EUPLS
-'little;': HREUL STPH*FPLT
-'great:': TKPWRAET STPH-FPLT
-'again.': TKPWEPB TP-PL
-'said,': SAEUD KW-BG
-'"Hem!': KR-GS HEPL SKHRAPL
-'hem!"': HEPL SKHRAPL KR-GS
-'of': -F
-'use.': AOUS TP-PL
-'vexatious;': SREBG/SAEURBS STPH*FPLT
-'warm': WARPL
-'lands': HRAPBDZ
-'everything': EFG
-'grows': TKPWRO*ES
-'so': SO
-'quickly;': KWEULG STPH*FPLT
-'after': AF
-'lapse': HRAPS
-'eight': AET
-'days': TKAEUS
-'observed,': OEBD KW-BG
-'great': TKPWRAET
-'joy,': SKWROEU KW-BG
-'new': TPHU
-'sunshine.': S*UPB/SHAOEUPB TP-PL
-'course': KORS
-'three': THRAOE
-'weeks': WAOEBGS
-'very': SRE
-'fair': TPAEUR
-'shadow,': SHAD/OE KW-BG
-'which,': WEU KW-BG
-'when': WHEPB
-'set': SET
-'home': HOEPL
-'northern': TPHORPB
-'lands,': HRAPBDZ KW-BG
-'grew': TKPWRAOU
-'more': PHOR
-'journey,': SKWRURPB KW-BG
-'last': HRAFT
-'long': HROPBG
-'large,': HRARPBLG KW-BG
-'than': THAPB
-'sufficient.': SUF TP-PL
-'then': THEPB
-'home,': HOEPL KW-BG
-'wrote': WRO
-'books': PWAOBGS
-'what': WHA
-'true': TRAOU
-'world,': WORLD KW-BG

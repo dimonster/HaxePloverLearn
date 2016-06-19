@@ -1,7 +1,136 @@
 The Shadow Part 16
 
-'too': TAO
-'bad!"': PWAD SKHRAPL KR-GS
+'to': TO
+'heart': HART
+'very': SRE
+'much."': PHUFP TP-PL KR-GS
+'"That': KR-GS THA
+'is': S
+'what': WHA
+'I': EU
+'never': TPHEF
+'do,"': TKO KW-BG KR-GS
+'said': SAEUD
+'the': -T
+'shadow;': SHO*EUD STPH*FPLT
+'"I': KR-GS EU
+'am': APL
+'growing': TKPWROEG
+'quite': KWAOEUT
+'fat': TPAT
+'and': SKP
+'stout,': STOUT KW-BG
+'which': WEU
+'every': EF
+'one': WUPB
+'ought': OT
+'to': TO
+'be.': -B TP-PL
+'You': U
+'do': TKO
+'not': TPHOT
+'understand': URPBD
+'the': -T
+'world;': WORLD STPH*FPLT
+'you': U
+'will': HR
+'make': PHAEUBG
+'yourself': KWRO*URS
+'ill': EUL
+'about': PW
+'it;': T STPH*FPLT
+'you': U
+'ought': OT
+'to': TO
+'travel;': TRAFL STPH*FPLT
+'I': EU
+'am': APL
+'going': TKPW-G
+'on': OPB
+'a': AEU
+'journey': SKWRURPB
+'in': TPH
+'the': -T
+'summer,': SAOURPL KW-BG
+'will': HR
+'you': U
+'go': TKPW
+'with': W
+'me?': PHE H-F
+'I': EU
+'should': SHO
+'like': HRAOEUBG
+'a': AEU
+'travelling': TRAFLG
+'companion;': KPAPB/KWROPB STPH*FPLT
+'will': HR
+'you': U
+'travel': TRAFL
+'with': W
+'me': PHE
+'as': AZ
+'my': PHEU
+'shadow?': SHO*EUD H-F
+'It': T
+'would': WO
+'give': TKPWEUF
+'me': PHE
+'great': TKPWRAET
+'pleasure,': PHRERB KW-BG
+'and': SKP
+'I': EU
+'will': HR
+'pay': PAEU
+'all': AUL
+'expenses."': SPEBS/-S TP-PL KR-GS
+'"Are': KR-GS R
+'you': U
+'going': TKPW-G
+'to': TO
+'travel': TRAFL
+'far?"': TPAR H-F KR-GS
+'asked': SK-D
+'the': -T
+'learned': HRERPBD
+'man.': PHAPB TP-PL
+'"That': KR-GS THA
+'is': S
+'a': AEU
+'matter': PHAERT
+'of': -F
+'opinion,"': P-PB KW-BG KR-GS
+'replied': RE/PHRAOEUD
+'the': -T
+'shadow.': SHO*EUD TP-PL
+'"At': KR-GS AT
+'all': AUL
+'events,': AOEPBTS KW-BG
+'a': AEU
+'journey': SKWRURPB
+'will': HR
+'do': TKO
+'you': U
+'good,': TKPWAOD KW-BG
+'and': SKP
+'if': TP
+'you': U
+'will': HR
+'be': -B
+'my': PHEU
+'shadow,': SHO*EUD KW-BG
+'then': THEPB
+'all': AUL
+'your': KWROUR
+'journey': SKWRURPB
+'shall': SHAL
+'be': -B
+'paid."': PAEUD TP-PL KR-GS
+'"It': KR-GS T
+'appears': A/PAOERS
+'to': TO
+'me': PHE
+'very': SRE
+'absurd,"': AB/SURD KW-BG KR-GS
 'said': SAEUD
 'the': -T
 'learned': HRERPBD
@@ -9,115 +138,65 @@ The Shadow Part 16
 '"But': KR-GS PWUT
 'it': T
 'is': S
-'just': SKWRUFT
-'so': SO
-'with': W
-'world!"': WORLD SKHRAPL KR-GS
-'shadow,': SHAD/OE KW-BG
+'the': -T
+'way': WAEU
+'of': -F
+'the': -T
+'world,"': WORLD KW-BG KR-GS
+'replied': RE/PHRAOEUD
+'the': -T
+'shadow,': SHO*EUD KW-BG
 '"and': KR-GS SKP
+'always': AULZ
 'will': HR
-'be!"': -B SKHRAPL KR-GS
-'and': SKP
-'away': A/WAEU
+'be."': -B TP-PL KR-GS
+'Then': THEPB
+'he': E
 'went': WEPBT
-'again.': TKPWEPB TP-PL
-'man': PHAPB
-'was': WA
-'not': TPHOT
-'at': AT
-'all': AUL
-'in': TPH
-'most': PHO*S
-'enviable': EPB/SREUBL
-'state;': STA*ET STPH*FPLT
-'grief': TKPWRAOEF
-'torment': TORPLT
-'followed': TPOLD
+'away.': A/WAEU TP-PL
+'Everything': EFG
+'went': WEPBT
+'wrong': WROPBG
+'with': W
+'the': -T
+'learned': HRERPBD
+'man.': PHAPB TP-PL
+'Sorrow': SROE
+'and': SKP
+'trouble': TRUBL
+'pursued': PUR/SAOUD
 'him,': HEUPL KW-BG
+'and': SKP
 'what': WHA
 'he': E
+'said': SAEUD
 'about': PW
-'true,': TRAOU KW-BG
+'the': -T
 'good,': TKPWAOD KW-BG
+'the': -T
 'beautiful,': PWAOUFL KW-BG
-'was,': WA KW-BG
-'to': TO
-'persons,': PERPBS KW-BG
-'like': HRAOEUBG
-'roses': ROES/-S
-'for': TPOR
-'a': AEU
-'cow!': KO*U SKHRAPL
-'quite': KWAOEUT
-'ill': EUL
-'last.': HRAFT TP-PL
-'"You': KR-GS U
-'really': HROERL
-'look': HRAOBG
-'shadow!"': SHAD/OE SKHRAPL KR-GS
-'his': HEUS
-'friends': TPREPBDZ
-'him;': HEUPL STPH*FPLT
-'trembled,': TREPL/-BLD KW-BG
-'thought': THAUT
+'and': SKP
+'the': -T
+'true,': TRAOU KW-BG
+'was': WA
 'of': -F
-'it.': T TP-PL
-'must': PHUFT
-'go': TKPW
-'watering-place!"': WAT/ERG H-PB PHRAEUS SKHRAPL KR-GS
-'who': WHO
-'came': KAEUPL
-'visited': SREUFTD
-'him.': HEUPL TP-PL
-'"There': KR-GS THR
-'nothing': TPHOG
-'else': ELS
-'it!': T SKHRAPL
-'I': EU
-'take': TAEUBG
-'you': U
-'me': PHE
-'old': OLD
-'acquaintance'': KWAEUPB/TAPBS AE
-'sake;': SAEUBG STPH*FPLT
-'pay': PAEU
-'travelling': TRAFLG
-'expenses,': SPEBS/-S KW-BG
-'write': WREU
-'descriptions--and': SKREUFPGS H-PB H-PB SKP
-'if': TP
-'they': THE
-'are': R
-'little': HREUL
-'amusing': A/PHAOUFG
-'on': OPB
-'way!': WAEU SKHRAPL
-'watering-place--my': WAT/ERG H-PB PHRAEUS H-PB H-PB PHEU
-'beard': PWAERD
-'does': TKOS
-'grow': TKPWROE
-'out': OUT
 'as': AZ
-'ought--that': OT H-PB H-PB THA
-'also': HR-S
-'sickness--and': SEUBG/-PBS H-PB H-PB SKP
-'one': WUPB
-'have': SR
-'beard!': PWAERD SKHRAPL
-'Now': TPHOU
+'much': PHUFP
+'value': SRAOUL
+'to': TO
+'most': PHOFT
+'people': PAOEPL
+'as': AZ
+'a': AEU
+'nutmeg': TPHUT/PHEG
+'would': WO
 'be': -B
-'wise': WAOEUS
-'accept': SEP
-'offer;': OFR STPH*FPLT
-'we': WE
-'shall': SHAL
-'travel': TRAFL
-'comrades!"': KOPL/RADZ SKHRAPL KR-GS
-'travelled;': TRAFLD STPH*FPLT
-'shadow': SHAD/OE
-'master,': PHAFRT KW-BG
-'master': PHAFRT
-'shadow;': SHAD/OE STPH*FPLT
-'drove': TKROEF
-'each': AOEFP
-'other,': OER KW-BG
+'to': TO
+'a': AEU
+'cow.': KO*U TP-PL
+'At': AT
+'length': HREPBG
+'he': E
+'fell': TPEL
+'ill.': EUL TP-PL
+'"You': KR-GS U

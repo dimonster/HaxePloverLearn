@@ -1,8 +1,35 @@
 The Red Shoes Part 9
 
-'entire': SPWAOEUR
-'sin,': SEUPB KW-BG
+'my': PHEU
+'head!"': HED SKHRAPL KR-GS
+'said': SAEUD
+'Karen,': KAEURPB KW-BG
+'"for': KR-GS TPOR
+'then': THEPB
+'I': EU
+'could': KO
+'not': TPHOT
+'repent': XXX repent
+'of': -F
+'my': PHEU
+'sin.': SEUPB TP-PL
+'But': PWUT
+'cut': KUT
+'off': OF
+'my': PHEU
+'feet': TPAOET
+'with': W
+'the': -T
+'red': RED
+'shoes."': SHAOS TP-PL KR-GS
 'And': SKP
+'then': THEPB
+'she': SHE
+'confessed': KAUPB/TPES/-D
+'all': AUL
+'her': HER
+'sin,': SEUPB KW-BG
+'and': SKP
 'the': -T
 'executioner': EBGS/KAOUGS/*ER
 'struck': STRUBG
@@ -10,110 +37,166 @@ The Red Shoes Part 9
 'her': HER
 'feet': TPAOET
 'with': W
+'the': -T
 'red': RED
-'shoes,': SHAOS KW-BG
+'shoes;': SHAOS STPH*FPLT
 'but': PWUT
+'the': -T
 'shoes': SHAOS
 'danced': TKAPBS/-D
 'away': A/WAEU
+'with': W
+'the': -T
 'little': HREUL
+'feet': TPAOET
 'across': A/KROS
+'the': -T
 'field': TPAOELD
 'into': TPHAO
+'the': -T
 'deep': TKAOEP
-'wood.': WAOD TP-PL
+'forest.': TPOEFRT TP-PL
+'And': SKP
 'he': E
 'carved': KAFRBD
-'out': OUT
+'her': HER
+'a': AEU
+'pair': PAEUR
+'of': -F
 'wooden': WAOD/EPB
-'for': TPOR
-'her,': HER KW-BG
+'feet': TPAOET
+'and': SKP
+'some': SOPL
 'crutches,': KRUFPS KW-BG
+'and': SKP
 'taught': TAUT
+'her': HER
+'a': AEU
 'psalm': SAUPL
-'criminals': KR-LS
-'always': AULS
-'sing;': SEUPBG STPH*FPLT
+'which': WEU
+'is': S
+'always': AULZ
+'sung': SUPBG
+'by': PWEU
+'sinners;': SEURPBS STPH*FPLT
 'she': SHE
 'kissed': K*EUFD
+'the': -T
 'hand': HAPBD
-'which': WEU
-'had': H
-'wielded': WAOELD/-D
+'that': THA
+'guided': TKPWAOEUD/-D
+'the': -T
 'axe,': ABGS KW-BG
+'and': SKP
 'went': WEPBT
+'away': A/WAEU
 'over': OEFR
+'the': -T
 'heath.': HAO*ET TP-PL
-'"Now': KR-GS TPHOU
+'"Now,': KR-GS TPHOU KW-BG
 'I': EU
 'have': SR
 'suffered': SUFRD
 'enough': TPHUF
-'shoes!"': SHAOS SKHRAPL KR-GS
-'said': SAEUD
-'she.': SHE TP-PL
+'for': TPOR
+'the': -T
+'red': RED
+'shoes,"': SHAOS KW-BG KR-GS
+'she': SHE
+'said;': SAEUD STPH*FPLT
+'"I': KR-GS EU
 'will': HR
 'go': TKPW
-'church': KHUFRPB
+'to': TO
+'church,': KHUFRPB KW-BG
+'so': SO
 'that': THA
 'people': PAOEPL
-'may': PHAE
+'can': K
 'see': SAOE
-'me!"': PHE SKHRAPL KR-GS
-'hastened': HAEUS/-PBD
-'towards': TORDZ
-'door:': TKAOR STPH-FPLT
+'me."': PHE TP-PL KR-GS
+'And': SKP
+'she': SHE
+'went': WEPBT
+'quickly': KWEULG
+'up': UP
+'to': TO
+'the': -T
+'church-door;': KHUFRPB H-PB TKAOR STPH*FPLT
+'but': PWUT
 'when': WHEPB
-'was': WA
-'near': TPHAOER
-'it,': T KW-BG
+'she': SHE
+'came': KAEUPL
+'there,': THR KW-BG
+'the': -T
+'red': RED
+'shoes': SHAOS
+'were': WR
+'dancing': TKAPBS/-G
 'before': PW-F
-'terrified,': TER/TPAOEUD KW-BG
+'her,': HER KW-BG
+'and': SKP
+'she': SHE
+'was': WA
+'frightened,': TPRAOEUPBD KW-BG
+'and': SKP
 'turned': TURPBD
-'round.': ROUPBD TP-PL
+'back.': PWABG TP-PL
+'During': TKURG
+'the': -T
 'whole': WHOEL
 'week': WAOEBG
-'unhappy,': UPB/HAEP KW-BG
+'she': SHE
+'was': WA
+'sad': SAD
+'and': SKP
 'wept': WEPT
 'many': PHAEPB
 'bitter': PWEURT
-'tears;': TAERS STPH*FPLT
+'tears,': TAERS KW-BG
+'but': PWUT
+'when': WHEPB
 'Sunday': SUPBD
-'returned,': RURPBD KW-BG
-'said,': SAEUD KW-BG
-'"Well,': KR-GS WEL KW-BG
-'now': TPHOU
-'struggled': STRULGD
-'enough!': TPHUF SKHRAPL
-'really': HROERL
+'came': KAEUPL
+'again': TKPWEPB
+'she': SHE
+'said:': SAEUD STPH-FPLT
+'"Now': KR-GS TPHOU
+'I': EU
+'have': SR
+'suffered': SUFRD
+'and': SKP
+'striven': XXX striven
+'enough.': TPHUF TP-PL
+'I': EU
 'believe': PWHREF
-'am': *PL
+'I': EU
+'am': APL
+'quite': KWAOEUT
 'as': AZ
 'good': TKPWAOD
-'a': AEU
-'one': WUPB
+'as': AZ
+'many': PHAEPB
+'of': -F
+'those': THOZ
 'who': WHO
-'sits': SEUTS
+'sit': SEUT
 'in': TPH
-'church,': KHUFRPB KW-BG
-'holds': HOLDZ
-'head': HED
+'church': KHUFRPB
+'and': SKP
+'give': TKPWEUF
+'themselves': TH*EPLS
+'airs."': AEUR/-S TP-PL KR-GS
+'And': SKP
 'so': SO
-'high!"': HAOEU SKHRAPL KR-GS
-'boldly;': PWOLD/HREU STPH*FPLT
+'she': SHE
+'went': WEPBT
+'boldly': PWOLD/HREU
+'on;': OPB STPH*FPLT
+'but': PWUT
+'she': SHE
+'had': H
 'not': TPHOT
 'got': TKPWOT
 'farther': TPA*RT
 'than': THAPB
-'churchyard': KHUR/-FP/KWRARD
-'gate': TKPWAET
-'saw': SAU
-'dancing': TKAPBS/-G
-'her;': HER STPH*FPLT
-'frightened,': TPRAOEUPBD KW-BG
-'back,': PWABG KW-BG
-'repented': XXX repented
-'of': -F
-'sin': SEUPB
-'from': TPR
-'heart.': HART TP-PL

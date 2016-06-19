@@ -1,130 +1,122 @@
 # The Fir Tree Part 16
 
-* tore `TO*R`
-* off `OF`
-* the `-T`
-* golden `TKOELD/*EPB`
-* star. `STAR TP-PL`
-* "Only `KR-GS OEPBL`
-* look `HRAOBG`
-* what `WHA`
-* is `S`
-* still `STEUL`
-* on `OPB`
-* ugly `ULG`
-* old `OLD`
-* Christmas `KREUS/PHAS`
-* tree!" `TRAOE SKHRAPL KR-GS`
-* said `SAEUD`
-* he, `E KW-BG`
-* trampling `TRAFRP/-LG`
-* branches, `PWRAFPBS KW-BG`
-* so `SO`
-* that `THA`
-* they `THE`
-* all `AUL`
-* cracked `KRABGD`
-* beneath `TPHAO*ET`
-* his `HEUS`
-* feet. `TPAOET TP-PL`
-* and `SKP`
-* Tree `TRAOE`
-* beheld `XXX beheld`
-* beauty `PWAOUT`
-* of `-F`
-* flowers, `TPHRO*URS KW-BG`
-* freshness `XXX freshness`
-* in `TPH`
-* garden; `TKPWA*RPB STPH*FPLT`
-* he `E`
-* himself, `H*EUPLS KW-BG`
-* wished `WEURBD`
+* it `T`
 * had `H`
 * remained `RE/PHAEUPBD`
+* in `TPH`
+* the `-T`
 * dark `TKARBG`
 * corner `KRORPB`
-* loft; `HRO*FT STPH*FPLT`
+* of `-F`
+* garret. `TKPWAEUR/RET TP-PL`
 * thought `THAUT`
-* first `TPEURS`
+* its `EUTS`
+* fresh `TPRERB`
 * youth `KWRAO*UT`
-* wood, `WAOD KW-BG`
+* forest, `TPOEFRT KW-BG`
 * merry `PHER/REU`
-* Christmas-eve, `KREUS/PHAS H-PB AOEF KW-BG`
+* Christmas `KREUS/PHAS`
+* evening, `AOEPG KW-BG`
+* and `SKP`
 * little `HREUL`
-* Mice `PHAOEUS`
+* mice `PHAOEUS`
 * who `WHO`
-* listened `HR-PB/-D`
-* with `W`
-* much `PHUFP`
-* pleasure `PHRERB`
+* listened `HREUFPBD`
 * to `TO`
 * story `STOER`
-* Humpy-Dumpy. `XXX Humpy H-PB XXX Dumpy TP-PL`
-* "'Tis `KR-GS AE XXX Tis`
-* over--'tis `OEFR H-PB H-PB AE XXX tis`
+* "Humpty `KR-GS H*UPLT/KWREU`
+* Dumpty." `TK*UPLT/KWREU TP-PL KR-GS`
+* "Past! `KR-GS PAFT SKHRAPL`
 * past!" `PAFT SKHRAPL KR-GS`
-* poor `PAOR`
-* Tree. `TRAOE TP-PL`
-* "Had `KR-GS H`
+* said `SAEUD`
+* old `OLD`
+* tree; `TRAOE STPH*FPLT`
+* "Oh, `KR-GS O*ERBGS KW-BG`
 * I `EU`
 * But `PWUT`
-* rejoiced `RE/SKWROEUS/-D`
-* when `WHEPB`
-* reason `R-PB`
-* do `TKO`
+* enjoyed `EPB/SKWROEUD`
+* myself `PHAO*EUS`
+* while `WHAOEUL`
+* could `KO`
+* have `SR`
+* done `TKOPB`
 * so! `SO SKHRAPL`
 * now `TPHOU`
-* 'tis `TEUS`
-* past, `PAFT KW-BG`
-* gardener's `TKPWARD/TPHER AE S*/SP-S`
-* boy `PWOEU`
+* is `S`
+* too `TAO`
+* late." `HRAEUT TP-PL KR-GS`
+* Then `THEPB`
+* a `AEU`
+* lad `HRAD`
+* came `KAEUPL`
 * chopped `KHOPD`
+* tree `TRAOE`
 * into `TPHAO`
 * small `SPAUL`
-* pieces; `PAOEFS STPH*FPLT`
-* there `THR`
-* was `WA`
-* a `AEU`
-* whole `WHOEL`
-* heap `HAOEP`
-* lying `HRAOEUG`
-* there. `THR TP-PL`
-* wood `WAOD`
-* flamed `TPHRAEUPLD`
-* up `UP`
-* splendidly `SPHREPBD/TKHREU`
-* under `*UPBD`
+* pieces, `PAOEFS KW-BG`
+* till `T*EUL`
 * large `HRARPBLG`
-* brewing `PWRAOU/-G`
+* bundle `PWUPBLD`
+* lay `HRAEU`
+* heap `HAOEP`
+* on `OPB`
+* ground. `TKPWROUPBD TP-PL`
+* pieces `PAOEFS`
+* were `WR`
+* placed `PHRAEUFD`
+* fire `TPAOEUR`
+* under `*UPBD`
 * copper, `KOP/ER KW-BG`
-* it `T`
+* they `THE`
+* quickly `KWEULG`
+* blazed `PWHRAEUZ/-D`
+* up `UP`
+* brightly, `PWRAOEULT KW-BG`
 * sighed `SAOEU/-D`
-* deeply! `TKAO*EPL SKHRAPL`
-* Each `AOEFP`
+* so `SO`
+* deeply `TKAO*EPL`
+* that `THA`
+* each `AOEFP`
 * sigh `SAOEU`
+* was `WA`
 * like `HRAOEUBG`
-* shot. `SHOT TP-PL`
+* pistol-shot. `P*EULS H-PB SHOT TP-PL`
+* children, `KHEURPB KW-BG`
+* at `AT`
+* play, `PHRAEU KW-BG`
+* seated `SAOETD`
+* themselves `TH*EPLS`
+* front `TPROPBT`
+* fire, `TPAOEUR KW-BG`
+* looked `HRAOBGD`
+* cried, `KRAOEUD KW-BG`
+* "Pop, `KR-GS POP KW-BG`
+* pop." `POP TP-PL KR-GS`
+* "pop," `KR-GS POP KW-BG KR-GS`
+* which `WEU`
+* deep `TKAOEP`
+* sigh, `SAOEU KW-BG`
+* thinking `THEUG`
+* summer `SAOURPL`
+* day `TKAEU`
+* forest; `TPOEFRT STPH*FPLT`
+* Dumpty," `TK*UPLT/KWREU KW-BG KR-GS`
+* only `OEPBL`
+* ever `-FR`
+* heard `HERD`
+* or `OR`
+* knew `TPHAOU`
+* how `HOU`
+* relate, `RELT KW-BG`
+* last `HRAFT`
+* consumed. `KAOUPLD TP-PL`
 * boys `PWOEUS`
+* still `STEUL`
 * played `PHRAEUD`
-* about `PW`
-* court, `KORT KW-BG`
+* garden, `TKPWA*RPB KW-BG`
 * youngest `KWRUPBG/EFT`
 * wore `WOR`
-* gold `TKPWOELD`
+* golden `TKOELD/*EPB`
 * star `STAR`
-* breast `PWR*ES`
-* which `WEU`
-* happiest `HAP/KWR*ES`
-* evening `AOEPG`
-* life. `HRAOEUF TP-PL`
-* However, `HOUF KW-BG`
-* over `OEFR`
-* now--the `TPHOU H-PB H-PB -T`
-* gone, `TKWOPB KW-BG`
-* at `AT`
-* an `APB`
-* end. `EPBD TP-PL`
-* All, `AUL KW-BG`
-* over--every `OEFR H-PB H-PB EF`
-* tale `TAEL`
-* must `PHUFT`
+* his `HEUS`
+* breast, `PWREFT KW-BG`

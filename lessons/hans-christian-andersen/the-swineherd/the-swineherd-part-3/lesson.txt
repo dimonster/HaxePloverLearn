@@ -1,139 +1,202 @@
 The Swineherd Part 3
 
-'real': RAEL
-'bird,"': PWEURD KW-BG KR-GS
-'said': SAEUD
-'the': -T
-'Princess.': PREUPB/ES TP-PL
-'"Yes,': KR-GS KWRE KW-BG
-'it': T
-'is': S
-'a': AEU
-'those': THOZ
-'who': WHO
 'had': H
 'brought': PWRAUT
-'it.': T TP-PL
-'"Well': KR-GS WEL
-'then': THEPB
+'the': -T
+'presents.': PREPBTS TP-PL
+'"Then': KR-GS THEPB
 'let': HRET
-'bird': PWEURD
+'it': T
 'fly,"': TPHRAOEU KW-BG KR-GS
-'Princess;': PREUPB/ES STPH*FPLT
+'said': SAEUD
+'the': -T
+'princess,': PREUPB/ES KW-BG
 'and': SKP
-'she': SHE
-'positively': P*EUFL
 'refused': RAO*UFD
 'to': TO
 'see': SAOE
-'Prince.': PREUPBS TP-PL
-'However,': HOUF KW-BG
-'he': E
+'the': -T
+'prince.': PREUPBS TP-PL
+'But': PWUT
+'the': -T
+'prince': PREUPBS
 'was': WA
 'not': TPHOT
-'be': -B
-'discouraged;': TKEUS/KORPBLGD STPH*FPLT
-'daubed': TKAUB/-D
+'discouraged.': TKEUS/KORPBLGD TP-PL
+'He': E
+'painted': PAEUPBTD
 'his': HEUS
-'face': TPAEUS
-'over': OEFR
-'brown': PWROUPB
-'black;': PWHRABG STPH*FPLT
+'face,': TPAEUS KW-BG
+'put': PUT
+'on': OPB
+'common': KPHOPB
+'clothes,': KHRO*ETS KW-BG
 'pulled': PULD
+'his': HEUS
 'cap': KAP
-'ears,': AOERS KW-BG
-'knocked': TPHOBGD
-'at': AT
-'door.': TKAOR TP-PL
+'over': OEFR
+'his': HEUS
+'forehead,': TPOER/HED KW-BG
+'and': SKP
+'came': KAEUPL
+'back.': PWABG TP-PL
 '"Good': KR-GS TKPWAOD
-'day': TKAEU
-'my': PHEU
-'lord,': HRORD KW-BG
-'Emperor!"': EPL/ROR SKHRAPL KR-GS
-'he.': E TP-PL
-'"Can': KR-GS K
+'day,': TKAEU KW-BG
+'emperor,"': EPL/ROR KW-BG KR-GS
+'he': E
+'said,': SAEUD KW-BG
+'"could': KR-GS KO
+'you': U
+'not': TPHOT
+'give': TKPWEUF
+'me': PHE
+'some': SOPL
+'employment': PHROEUPLT
+'at': AT
+'the': -T
+'court?"': KORT H-F KR-GS
+'"There': KR-GS THR
+'are': R
+'so': SO
+'many,"': PHAEPB KW-BG KR-GS
+'replied': RE/PHRAOEUD
+'the': -T
+'emperor,': EPL/ROR KW-BG
+'"who': KR-GS WHO
+'apply': AP/PHREU
+'for': TPOR
+'places,': PHRAEUFS KW-BG
+'that': THA
+'for': TPOR
+'the': -T
+'present': PREPBT
 'I': EU
 'have': SR
-'employment': PHROEUPLT
-'palace?"': PAL/AS H-F KR-GS
-'"Why,': KR-GS KWR KW-BG
-'yes,"': KWRE KW-BG KR-GS
-'Emperor.': EPL/ROR TP-PL
-'"I': KR-GS EU
-'want': WAPBT
-'some': SOPL
-'one': WUPB
-'take': TAEUBG
-'care': KAEUR
-'of': -F
+'no': TPHO
+'vacancy,': SRAEUBG/SEU KW-BG
+'but': PWUT
+'I': EU
+'will': HR
+'remember': REB
+'you.': U TP-PL
+'But': PWUT
+'wait': WAEUT
+'a': AEU
+'moment;': PHOEPLT STPH*FPLT
+'it': T
+'just': SKWRUFT
+'comes': KOPLS
+'into': TPHAO
+'my': PHEU
+'mind,': PHAOEUPBD KW-BG
+'I': EU
+'require': RAOEUR
+'somebody': S-B
+'to': TO
+'look': HRAOBG
+'after': AF
+'my': PHEU
 'pigs,': PAO*EGS KW-BG
 'for': TPOR
-'we': WE
+'I': EU
+'have': SR
+'a': AEU
 'great': TKPWRAET
-'many': PHAEPB
-'them."': THEPL TP-PL KR-GS
-'So': SO
-'Prince': PREUPBS
+'many."': PHAEPB TP-PL KR-GS
+'Thus': THUS
+'the': -T
+'prince': PREUPBS
+'was': WA
 'appointed': POEUPBD
-'"Imperial': KR-GS EUPB/PAOERL
-'Swineherd."': XXX Swineherd TP-PL KR-GS
-'dirty': TKOEURT
-'Little': HREUL
+'imperial': EUPB/PAOERL
+'swineherd,': XXX swineherd KW-BG
+'and': SKP
+'as': AZ
+'such': SUFP
+'he': E
+'lived': HREUFD
+'in': TPH
+'a': AEU
+'wretchedly': KREFPD/HREU
+'small': SPAUL
 'room': RAOPL
-'close': KHROES
-'By': PWEU
+'near': TPHAOER
+'the': -T
 'pigsty;': XXX pigsty STPH*FPLT
 'there': THR
-'sat': SAT
-'whole': WHOEL
-'day,': TKAEU KW-BG
-'worked.': WORBGD TP-PL
-'evening': AOEPG
-'made': PHAED
-'pretty': PREUT
-'kitchen-pot.': K-FP H-PB POT TP-PL
-'bells': PWELS
-'were': WR
-'hung': HUPBG
+'he': E
+'worked': WORBGD
 'all': AUL
-'round': ROUPBD
-'it;': T STPH*FPLT
+'day': TKAEU
+'long,': HROPBG KW-BG
+'and': SKP
 'when': WHEPB
-'pot': POT
-'boiling,': PWOEULG KW-BG
-'these': THEZ
-'tinkled': TEUPB/K-LD
+'it': T
+'was': WA
+'night': TPHAOEUT
+'he': E
+'had': H
+'made': PHAED
+'a': AEU
+'pretty': PREUT
+'little': HREUL
+'pot.': POT TP-PL
+'There': THR
+'were': WR
+'little': HREUL
+'bells': PWELS
+'round': ROUPBD
+'the': -T
+'rim,': REUPL KW-BG
+'and': SKP
+'when': WHEPB
+'the': -T
+'water': WAUR
+'began': TKPWAPB
+'to': TO
+'boil': PWOEUL
 'in': TPH
-'most': PHO*S
-'charming': KHARPL/-G
-'manner,': PHAERPB KW-BG
-'played': PHRAEUD
+'it,': T KW-BG
+'the': -T
+'bells': PWELS
+'began': TKPWAPB
+'to': TO
+'play': PHRAEU
+'the': -T
 'old': OLD
-'melody,': PHEL/TKEU KW-BG
-'"Ach!': KR-GS XXX Ach SKHRAPL
-'du': XXX du
-'lieber': XXX lieber
-'Augustin,': XXX Augustin KW-BG
-'Alles': AUL/-S
-'ist': XXX ist
-'weg,': WEG KW-BG
-'weg!"*': WEG SKHRAPL KR-GS PWHRET
-'*': PWHRET
-'"Ah!': KR-GS HA*E SKHRAPL
-'dear': TKAER
-'Augustine!': OUG/AOEUPB SKHRAPL
-'gone,': TKWOPB KW-BG
-'gone!"': TKWOPB SKHRAPL KR-GS
+'tune:': TAOUPB STPH-FPLT
+'"A': KR-GS AEU
+'jolly': SKWROL/HREU
+'old': OLD
+'sow': SWO
+'once': WUPBS
+'lived': HREUFD
+'in': TPH
+'a': AEU
+'sty,': STAOEU KW-BG
+'Three': THRAOE
+'little': HREUL
+'piggies': PEUG/KWREU/KWREU/-S
+'had': H
+'she,"': SHE KW-BG KR-GS
+'&c.': XXX &c TP-PL
 'But': PWUT
 'what': WHA
-'still': STEUL
+'was': WA
 'more': PHOR
-'curious,': KAOURS KW-BG
-'whoever': WHOFR
-'held': HELD
-'finger': TPEURPG
-'smoke': SPHOEBG
-'kitchen-pot,': K-FP H-PB POT KW-BG
-'immediately': PHAOELD
-'smelt': SPHELT
-'dishes': TKEURBS
+'wonderful': WUFL
+'was': WA
+'that,': THA KW-BG
+'when': WHEPB
+'one': WUPB
+'put': PUT
+'a': AEU
+'finger': TPURPBG
+'into': TPHAO
+'the': -T
+'steam': STAEPL
+'rising': RAOEUFG
+'from': TPR
+'the': -T
+'pot,': POT KW-BG
+'one': WUPB

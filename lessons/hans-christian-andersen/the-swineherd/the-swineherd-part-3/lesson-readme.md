@@ -1,139 +1,136 @@
 # The Swineherd Part 3
 
-* real `RAEL`
-* bird," `PWEURD KW-BG KR-GS`
-* said `SAEUD`
-* the `-T`
-* Princess. `PREUPB/ES TP-PL`
-* "Yes, `KR-GS KWRE KW-BG`
-* it `T`
-* is `S`
-* a `AEU`
-* those `THOZ`
-* who `WHO`
 * had `H`
 * brought `PWRAUT`
-* it. `T TP-PL`
-* "Well `KR-GS WEL`
-* then `THEPB`
+* the `-T`
+* presents. `PREPBTS TP-PL`
+* "Then `KR-GS THEPB`
 * let `HRET`
-* bird `PWEURD`
+* it `T`
 * fly," `TPHRAOEU KW-BG KR-GS`
-* Princess; `PREUPB/ES STPH*FPLT`
+* said `SAEUD`
+* princess, `PREUPB/ES KW-BG`
 * and `SKP`
-* she `SHE`
-* positively `P*EUFL`
 * refused `RAO*UFD`
 * to `TO`
 * see `SAOE`
-* Prince. `PREUPBS TP-PL`
-* However, `HOUF KW-BG`
-* he `E`
+* prince. `PREUPBS TP-PL`
+* But `PWUT`
+* prince `PREUPBS`
 * was `WA`
 * not `TPHOT`
-* be `-B`
-* discouraged; `TKEUS/KORPBLGD STPH*FPLT`
-* daubed `TKAUB/-D`
+* discouraged. `TKEUS/KORPBLGD TP-PL`
+* he `E`
+* painted `PAEUPBTD`
 * his `HEUS`
-* face `TPAEUS`
-* over `OEFR`
-* brown `PWROUPB`
-* black; `PWHRABG STPH*FPLT`
+* face, `TPAEUS KW-BG`
+* put `PUT`
+* on `OPB`
+* common `KPHOPB`
+* clothes, `KHRO*ETS KW-BG`
 * pulled `PULD`
 * cap `KAP`
-* ears, `AOERS KW-BG`
-* knocked `TPHOBGD`
-* at `AT`
-* door. `TKAOR TP-PL`
+* over `OEFR`
+* forehead, `TPOER/HED KW-BG`
+* came `KAEUPL`
+* back. `PWABG TP-PL`
 * "Good `KR-GS TKPWAOD`
-* day `TKAEU`
-* my `PHEU`
-* lord, `HRORD KW-BG`
-* Emperor!" `EPL/ROR SKHRAPL KR-GS`
-* he. `E TP-PL`
-* "Can `KR-GS K`
+* day, `TKAEU KW-BG`
+* emperor," `EPL/ROR KW-BG KR-GS`
+* said, `SAEUD KW-BG`
+* "could `KR-GS KO`
+* you `U`
+* give `TKPWEUF`
+* me `PHE`
+* some `SOPL`
+* employment `PHROEUPLT`
+* at `AT`
+* court?" `KORT H-F KR-GS`
+* "There `KR-GS THR`
+* are `R`
+* so `SO`
+* many," `PHAEPB KW-BG KR-GS`
+* replied `RE/PHRAOEUD`
+* emperor, `EPL/ROR KW-BG`
+* "who `KR-GS WHO`
+* apply `AP/PHREU`
+* for `TPOR`
+* places, `PHRAEUFS KW-BG`
+* that `THA`
+* present `PREPBT`
 * I `EU`
 * have `SR`
-* employment `PHROEUPLT`
-* palace?" `PAL/AS H-F KR-GS`
-* "Why, `KR-GS KWR KW-BG`
-* yes," `KWRE KW-BG KR-GS`
-* Emperor. `EPL/ROR TP-PL`
-* "I `KR-GS EU`
-* want `WAPBT`
-* some `SOPL`
-* one `WUPB`
-* take `TAEUBG`
-* care `KAEUR`
-* of `-F`
+* no `TPHO`
+* vacancy, `SRAEUBG/SEU KW-BG`
+* will `HR`
+* remember `REB`
+* you. `U TP-PL`
+* wait `WAEUT`
+* a `AEU`
+* moment; `PHOEPLT STPH*FPLT`
+* just `SKWRUFT`
+* comes `KOPLS`
+* into `TPHAO`
+* my `PHEU`
+* mind, `PHAOEUPBD KW-BG`
+* require `RAOEUR`
+* somebody `S-B`
+* look `HRAOBG`
+* after `AF`
 * pigs, `PAO*EGS KW-BG`
-* for `TPOR`
-* we `WE`
 * great `TKPWRAET`
-* many `PHAEPB`
-* them." `THEPL TP-PL KR-GS`
-* So `SO`
-* Prince `PREUPBS`
+* many." `PHAEPB TP-PL KR-GS`
+* Thus `THUS`
 * appointed `POEUPBD`
-* "Imperial `KR-GS EUPB/PAOERL`
-* Swineherd." `XXX Swineherd TP-PL KR-GS`
-* dirty `TKOEURT`
-* Little `HREUL`
+* imperial `EUPB/PAOERL`
+* swineherd, `XXX swineherd KW-BG`
+* as `AZ`
+* such `SUFP`
+* lived `HREUFD`
+* in `TPH`
+* wretchedly `KREFPD/HREU`
+* small `SPAUL`
 * room `RAOPL`
-* close `KHROES`
-* By `PWEU`
+* near `TPHAOER`
 * pigsty; `XXX pigsty STPH*FPLT`
-* there `THR`
-* sat `SAT`
-* whole `WHOEL`
-* day, `TKAEU KW-BG`
-* worked. `WORBGD TP-PL`
-* evening `AOEPG`
+* There `THR`
+* worked `WORBGD`
+* all `AUL`
+* day `TKAEU`
+* long, `HROPBG KW-BG`
+* when `WHEPB`
+* night `TPHAOEUT`
 * made `PHAED`
 * pretty `PREUT`
-* kitchen-pot. `K-FP H-PB POT TP-PL`
-* bells `PWELS`
+* little `HREUL`
+* pot. `POT TP-PL`
 * were `WR`
-* hung `HUPBG`
-* all `AUL`
+* bells `PWELS`
 * round `ROUPBD`
-* it; `T STPH*FPLT`
-* when `WHEPB`
-* pot `POT`
-* boiling, `PWOEULG KW-BG`
-* these `THEZ`
-* tinkled `TEUPB/K-LD`
-* in `TPH`
-* most `PHO*S`
-* charming `KHARPL/-G`
-* manner, `PHAERPB KW-BG`
-* played `PHRAEUD`
+* rim, `REUPL KW-BG`
+* water `WAUR`
+* began `TKPWAPB`
+* boil `PWOEUL`
+* it, `T KW-BG`
+* play `PHRAEU`
 * old `OLD`
-* melody, `PHEL/TKEU KW-BG`
-* "Ach! `KR-GS XXX Ach SKHRAPL`
-* du `XXX du`
-* lieber `XXX lieber`
-* Augustin, `XXX Augustin KW-BG`
-* Alles `AUL/-S`
-* ist `XXX ist`
-* weg, `WEG KW-BG`
-* weg!"* `WEG SKHRAPL KR-GS PWHRET`
-* * `PWHRET`
-* "Ah! `KR-GS HA*E SKHRAPL`
-* dear `TKAER`
-* Augustine! `OUG/AOEUPB SKHRAPL`
-* gone, `TKWOPB KW-BG`
-* gone!" `TKWOPB SKHRAPL KR-GS`
-* But `PWUT`
+* tune: `TAOUPB STPH-FPLT`
+* "A `KR-GS AEU`
+* jolly `SKWROL/HREU`
+* sow `SWO`
+* once `WUPBS`
+* sty, `STAOEU KW-BG`
+* Three `THRAOE`
+* piggies `PEUG/KWREU/KWREU/-S`
+* she," `SHE KW-BG KR-GS`
+* &c. `XXX &c TP-PL`
 * what `WHA`
-* still `STEUL`
 * more `PHOR`
-* curious, `KAOURS KW-BG`
-* whoever `WHOFR`
-* held `HELD`
-* finger `TPEURPG`
-* smoke `SPHOEBG`
-* kitchen-pot, `K-FP H-PB POT KW-BG`
-* immediately `PHAOELD`
-* smelt `SPHELT`
-* dishes `TKEURBS`
+* wonderful `WUFL`
+* that, `THA KW-BG`
+* one `WUPB`
+* finger `TPURPBG`
+* steam `STAEPL`
+* rising `RAOEUFG`
+* from `TPR`
+* pot, `POT KW-BG`

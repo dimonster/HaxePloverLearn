@@ -1,126 +1,131 @@
 # The Fir Tree Part 9
 
-* cracked; `KRABGD STPH*FPLT`
-* if `TP`
-* it `T`
-* had `H`
-* not `TPHOT`
-* been `PW-PB`
-* fixed `TPEUFD`
-* firmly `TPEURPL/HREU`
-* in `TPH`
-* the `-T`
-* ground, `TKPWROUPBD KW-BG`
-* would `WO`
-* certainly `SERPBL`
-* have `SR`
-* tumbled `TUPL/*BLD`
-* down. `TKOUPB TP-PL`
-* children `KHEURPB`
-* danced `TKAPBS/-D`
-* about `PW`
-* with `W`
-* their `THAEUR`
-* beautiful `PWAOUFL`
-* playthings; `PHRAEU/THEUPBG/-S STPH*FPLT`
-* no `TPHO`
-* one `WUPB`
-* looked `HRAOBGD`
-* at `AT`
-* Tree `TRAOE`
-* except `KPEPT`
-* old `OLD`
-* nurse, `TPHURS KW-BG`
-* who `WHO`
-* peeped `PAOEPD`
-* between `TWAOEPB`
-* branches; `PWRAFPBS STPH*FPLT`
-* But `PWUT`
-* was `WA`
-* only `OEPBL`
-* to `TO`
-* see `SAOE`
-* There `THR`
-* a `AEU`
-* fig `TP*EUG`
-* or `OR`
 * an `APB`
 * apple `A*EPL`
-* left `HREFT`
-* that `THA`
-* forgotten. `TPO*RGD TP-PL`
+* or `OR`
+* a `AEU`
+* fig `TP*EUG`
+* had `H`
+* been `PW-PB`
+* forgotten. `TPORGTD TP-PL`
 * "A `KR-GS AEU`
-* story! `STOER SKHRAPL`
-* story!" `STOER SKHRAPL KR-GS`
+* story, `STOER KW-BG`
+* story," `STOER KW-BG KR-GS`
 * cried `KRAOEUD`
+* the `-T`
 * children, `KHEURPB KW-BG`
-* drawing `TKRAUG`
+* pulling `PULG`
 * little `HREUL`
 * fat `TPAT`
 * man `PHAPB`
 * towards `TORDZ`
-* Tree. `TRAOE TP-PL`
+* tree. `TRAOE TP-PL`
+* "Now `KR-GS TPHOU`
+* we `WE`
+* shall `SHAL`
+* be `-B`
+* in `TPH`
+* green `TKPWRAOEPB`
+* shade," `SHAEUD KW-BG KR-GS`
+* said `SAEUD`
+* man, `PHAPB KW-BG`
+* as `AZ`
 * he `E`
 * seated `SAOETD`
 * himself `H*EUPLS`
 * under `*UPBD`
-* and `SKP`
-* said, `SAEUD KW-BG`
-* "Now `KR-GS TPHOU`
-* we `WE`
-* are `R`
-* shade, `SHAEUD KW-BG`
-* can `K`
-* listen `HREUFPB`
-* too. `TAO TP-PL`
-* I `EU`
-* shall `SHAL`
-* tell `TEL`
-* story. `STOER TP-PL`
-* Now `TPHOU`
-* which `WEU`
+* it, `T KW-BG`
+* "and `KR-GS SKP`
+* tree `TRAOE`
 * will `HR`
-* you `U`
-* have; `SR STPH*FPLT`
-* Ivedy-Avedy, `XXX Ivedy H-PB XXX Avedy KW-BG`
-* Humpy-Dumpy, `XXX Humpy H-PB XXX Dumpy KW-BG`
-* downstairs, `TKOUPB/STAEURS KW-BG`
-* yet `KWRET`
-* after `AF`
-* all `AUL`
-* came `KAEUPL`
-* throne `THRO*EPB`
-* married `PHAERD`
-* princess?" `PREUPB/ES H-F KR-GS`
-* "Ivedy-Avedy," `KR-GS XXX Ivedy H-PB XXX Avedy KW-BG KR-GS`
-* some; `SOPL STPH*FPLT`
-* "Humpy-Dumpy," `KR-GS XXX Humpy H-PB XXX Dumpy KW-BG KR-GS`
-* others. `OERS TP-PL`
-* such `SUFP`
-* bawling `PWA*UL/-G`
-* screaming--the `SKRAOEPLG H-PB H-PB -T`
-* Fir `TPEUR`
-* alone `A/HROEPB`
-* silent, `SHREPBT KW-BG`
-* thought `THAUT`
-* himself, `H*EUPLS KW-BG`
-* "Am `KR-GS *PL`
-* bawl `PWA*UL`
-* rest? `R*ES H-F`
-* Am `*PL`
-* do `TKO`
-* nothing `TPHOG`
-* whatever?" `WHAF H-F KR-GS`
-* for `TPOR`
+* have `SR`
+* pleasure `PHRERB`
 * of `-F`
-* company, `K-P KW-BG`
-* done `TKOPB`
+* hearing `HAERG`
+* also, `HR-S KW-BG`
+* but `PWUT`
+* I `EU`
+* only `OEPBL`
+* relate `RELT`
+* one `WUPB`
+* story; `STOER STPH*FPLT`
 * what `WHA`
-* do. `TKO TP-PL`
-* told `TOLD`
-* Humpy-Dumpy `XXX Humpy H-PB XXX Dumpy`
-* down, `TKOUPB KW-BG`
-* notwithstanding `TPHAPBG`
-* throne, `THRO*EPB KW-BG`
+* it `T`
+* be? `-B H-F`
+* Ivede-Avede, `XXX Ivede H-PB XXX Avede KW-BG`
+* Humpty `H*UPLT/KWREU`
+* Dumpty, `TK*UPLT/KWREU KW-BG`
+* who `WHO`
+* fell `TPEL`
+* down `TKOUPB`
+* stairs, `STAEURS KW-BG`
+* soon `SAOPB`
+* got `TKPWOT`
+* up `UP`
+* again, `TKPWEPB KW-BG`
+* and `SKP`
+* at `AT`
 * last `HRAFT`
+* married `PHAERD`
+* princess." `PREUPB/ES TP-PL KR-GS`
+* "Ivede-Avede," `KR-GS XXX Ivede H-PB XXX Avede KW-BG KR-GS`
+* some. `SOPL TP-PL`
+* "Humpty `KR-GS H*UPLT/KWREU`
+* Dumpty," `TK*UPLT/KWREU KW-BG KR-GS`
+* others, `OERS KW-BG`
+* there `THR`
+* was `WA`
+* fine `TPAOEUPB`
+* shouting `SHOUGT`
+* crying `KRAOEUG`
+* out. `OUT TP-PL`
+* fir-tree `TPEUR H-PB TRAOE`
+* remained `RE/PHAEUPBD`
+* quite `KWAOEUT`
+* still, `STEUL KW-BG`
+* thought `THAUT`
+* to `TO`
+* himself, `H*EUPLS KW-BG`
+* "Shall `KR-GS SHAL`
+* anything `TPHEUG`
+* do `TKO`
+* with `W`
+* all `AUL`
+* this?" `TH H-F KR-GS`
+* already `HR-R`
+* amused `A/PHAOUS/-D`
+* them `THEPL`
+* much `PHUFP`
+* they `THE`
+* wished. `WEURBD TP-PL`
+* Then `THEPB`
+* old `OLD`
+* told `TOLD`
+* story `STOER`
+* how `HOU`
+* raised `RA*EUFD`
 * princess. `PREUPB/ES TP-PL`
+* children `KHEURPB`
+* clapped `KHRAP/-D`
+* their `THAEUR`
+* hands `HAPBDZ`
+* cried, `KRAOEUD KW-BG`
+* "Tell `KR-GS TEL`
+* another, `TPHOER KW-BG`
+* tell `TEL`
+* another," `TPHOER KW-BG KR-GS`
+* for `TPOR`
+* wanted `WAPBTD`
+* hear `HAER`
+* "Ivede-Avede;" `KR-GS XXX Ivede H-PB XXX Avede STPH*FPLT KR-GS`
+* Dumpty." `TK*UPLT/KWREU TP-PL KR-GS`
+* After `AF`
+* this `TH`
+* became `PWAEUPL`
+* silent `SHREPBT`
+* thoughtful; `THAUFL STPH*FPLT`
+* never `TPHEF`
+* birds `PWEURDZ`
+* forest `TPOEFRT`
+* such `SUFP`
+* tales `TAELS`

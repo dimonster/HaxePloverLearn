@@ -1,117 +1,113 @@
 # The Bell Part 7
 
-* organ `O*RPBG`
-* were `WR`
-* accompanying `A/K-PG`
-* it, `T KW-BG`
-* and `SKP`
-* the `-T`
-* tones `TOEPBS`
-* came `KAEUPL`
 * from `TPR`
-* left `HREFT`
-* hand, `HAPBD KW-BG`
+* the `-T`
+* left, `HREFT KW-BG`
 * side `SAOEUD`
 * where `W-R`
 * heart `HART`
-* is `S`
-* placed. `PHRAEUFD TP-PL`
-* a `AEU`
-* rustling `RUS/-LG`
-* was `WA`
-* heard `HERD`
-* in `TPH`
+* is. `S TP-PL`
+* Now `TPHOU`
+* something `S-G`
+* rustled `RUS/-LD`
+* among `PHOPBG`
 * bushes, `PWURBS KW-BG`
+* and `SKP`
+* a `AEU`
 * little `HREUL`
 * boy `PWOEU`
 * stood `STAOD`
 * before `PW-F`
-* King's `KEUPBG AE S*/SP-S`
-* Son, `SOPB KW-BG`
+* king's `KEUPBG AE S*/SP-S`
+* son, `SOPB KW-BG`
+* in `TPH`
 * wooden `WAOD/EPB`
-* shoes, `SHAOS KW-BG`
-* with `W`
-* so `SO`
+* shoes `SHAOS`
+* such `SUFP`
 * short `SHORT`
 * jacket `SKWRABGT`
 * that `THA`
-* one `WUPB`
-* could `KO`
-* see `SAOE`
-* what `WHA`
-* long `HROPBG`
-* wrists `WREUFTS`
-* he `E`
-* had. `H TP-PL`
-* Both `PWO*T`
+* sleeves `SHRAOEFS`
+* did `TK`
+* not `TPHOT`
+* reach `RAOEFP`
+* to `TO`
+* his `HEUS`
+* wrists. `WREUFTS TP-PL`
+* They `THE`
 * knew `TPHAOU`
 * each `AOEFP`
 * other: `OER STPH-FPLT`
-* among `PHOPBG`
-* children `KHEURPB`
+* was `WA`
+* one `WUPB`
 * who `WHO`
-* not `TPHOT`
-* come `KOPL`
-* because `PWAU`
 * had `H`
-* to `TO`
+* been `PW-PB`
+* able `ABL`
 * go `TKPW`
-* home `HOEPL`
-* return `RURPB`
-* his `HEUS`
+* with `W`
+* them `THEPL`
+* because `PWAU`
+* he `E`
+* take `TAEUBG`
+* coat `KOET`
 * boots `PWAOTS`
-* innkeeper's `*EUPB/KAOEP/ER AE S*/SP-S`
-* Son. `SOPB TP-PL`
-* This `TH`
+* back `PWABG`
+* landlord's `HR-LD AE S*/SP-S`
+* son. `SOPB TP-PL`
 * done, `TKOPB KW-BG`
-* now `TPHOU`
-* going `TKPW-G`
-* on `OPB`
-* shoes `SHAOS`
-* humble `UPL/-BL`
-* dress, `TKRES KW-BG`
+* started `STARTD`
+* again `TKPWEPB`
+* old `OLD`
+* clothes, `KHRO*ETS KW-BG`
 * for `TPOR`
+* sound `SOUPBD`
+* of `-F`
 * bell `PWEL`
-* sounded `SOUPBD/-D`
-* deep `TKAOEP`
-* tone, `TOEPB KW-BG`
-* such `SUFP`
-* strange `STRAEUPBG`
-* power, `POUR KW-BG`
-* proceed `PROED`
-* must. `PHUFT TP-PL`
-* "Why, `KR-GS KWR KW-BG`
-* then, `THEPB KW-BG`
-* we `WE`
-* can `K`
+* too `TAO`
+* enticing—he `EPB/TAOEUS/-G EPL/TKA*RB E`
+* felt `TPELT`
+* must `PHUFT`
+* on. `OPB TP-PL`
+* "We `KR-GS WE`
+* might `PHAOEUT`
 * together," `TOGT KW-BG KR-GS`
 * said `SAEUD`
 * But `PWUT`
 * poor `PAOR`
-* child `KHAOEULD`
-* been `PW-PB`
-* confirmed `K-FRPL/-D`
 * quite `KWAOEUT`
 * ashamed; `A/SHAEUPLD STPH*FPLT`
-* looked `HRAOBGD`
-* at `AT`
 * pulled `PULD`
-* sleeves `SHRAOEFS`
-* of `-F`
+* at `AT`
 * jacket, `SKWRABGT KW-BG`
 * afraid `A/TPRAEUD`
+* could `KO`
 * walk `WAUBG`
-* fast; `TPA*S STPH*FPLT`
+* so `SO`
+* fast; `TPAFT STPH*FPLT`
 * besides, `PW-DZ KW-BG`
-* thought `THAUT`
-* must `PHUFT`
+* opinion `P-PB`
+* ought `OT`
 * be `-B`
-* right; `RAOEUT STPH*FPLT`
-* place `PHRAEUS`
-* all `AUL`
-* sorts `SORTS`
-* beautiful `PWAOUFL`
-* things `THEUPBGS`
-* found. `TPOUPBD TP-PL`
-* "But `KR-GS PWUT`
+* sought `SAUT`
+* right, `RAOEUT KW-BG`
 * there `THR`
+* all `AUL`
+* grand `TKPWRAPBD`
+* magnificent. `PHAFPBT TP-PL`
+* "Then `KR-GS THEPB`
+* we `WE`
+* shall `SHAL`
+* meet," `PHAOET KW-BG KR-GS`
+* nodding `TPHOD/-G`
+* boy, `PWOEU KW-BG`
+* went `WEPBT`
+* into `TPHAO`
+* deepest `TKAOEP/EFT`
+* part `PART`
+* wood, `WAOD KW-BG`
+* thorns `THORPB/-S`
+* tore `TO*R`
+* shabby `SHAB/PWEU`
+* clothes `KHRO*ETS`
+* scratched `SKRAFPD`

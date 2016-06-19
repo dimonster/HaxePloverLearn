@@ -1,119 +1,130 @@
 # The Red Shoes Part 2
 
-* but `PWUT`
 * the `-T`
 * old `OLD`
 * lady `HRA*ED`
 * thought `THAUT`
-* They `THE`
-* were `WR`
-* horrible, `HORBL KW-BG`
+* them `THEPL`
+* hideous, `HEUD/KWROUS KW-BG`
 * and `SKP`
+* so `SO`
+* they `THE`
+* were `WR`
 * burnt. `PWURPBT TP-PL`
 * Karen `KAEURPB`
 * herself `H*ERS`
 * was `WA`
-* cleanly `KHRAOEPBL`
-* nicely `TPHAOEULS`
-* dressed; `TKREFD STPH*FPLT`
+* dressed `TKREFD`
+* very `SRE`
+* neatly `TPHAO*ELT`
+* cleanly; `KHRAOEPBL STPH*FPLT`
 * she `SHE`
-* must `PHUFT`
-* learn `HRERPB`
+* taught `TAUT`
 * to `TO`
 * read `RAED`
-* sew; `SWE STPH*FPLT`
+* sew, `SWE KW-BG`
 * people `PAOEPL`
 * said `SAEUD`
-* a `AEU`
-* nice `TPHAOEUS`
-* little `HREUL`
-* thing, `THEUPBG KW-BG`
-* looking-glass `HRAOG H-PB TKPWHRAS`
-* said: `SAEUD STPH-FPLT`
-* "Thou `KR-GS THO*U`
-* art `ART`
+* that `THA`
+* pretty. `PREUT TP-PL`
+* but `PWUT`
+* mirror `PHROR`
+* told `TOLD`
+* her, `HER KW-BG`
+* "You `KR-GS U`
+* are `R`
 * more `PHOR`
 * than `THAPB`
-* nice, `TPHAOEUS KW-BG`
-* thou `THO*U`
-* beautiful!" `PWAOUFL SKHRAPL KR-GS`
-* Now `TPHOU`
-* queen `KWAOEPB`
-* once `WUPBS`
-* travelled `TRAFLD`
+* pretty—you `PREUT EPL/TKA*RB U`
+* beautiful." `PWAOUFL TP-PL KR-GS`
+* One `WUPB`
+* day `TKAEU`
+* Queen `KWAOEPB`
+* travelling `TRAFLG`
 * through `THRU`
-* land, `HRAPBD KW-BG`
+* part `PART`
+* of `-F`
+* country, `KREU KW-BG`
 * had `H`
 * her `HER`
-* daughter `TKAUR`
+* little `HREUL`
+* daughter, `TKAUR KW-BG`
+* who `WHO`
+* a `AEU`
+* princess, `PREUPB/ES KW-BG`
 * with `W`
 * her. `HER TP-PL`
-* this `TH`
-* princess, `PREUPB/ES KW-BG`
+* all `AUL`
+* people, `PAOEPL KW-BG`
+* amongst `PHOPBGS`
+* too, `TAO KW-BG`
 * streamed `STRAOEPL/-D`
+* towards `TORDZ`
 * castle, `KAFL KW-BG`
-* there `THR`
-* also, `HR-S KW-BG`
-* princess `PREUPB/ES`
-* stood `STAOD`
+* where `W-R`
 * in `TPH`
 * fine `TPAOEUPB`
 * white `WHAOEUT`
-* dress, `TKRES KW-BG`
-* window, `WOEUPBD KW-BG`
-* let `HRET`
+* clothes, `KHRO*ETS KW-BG`
+* stood `STAOD`
+* before `PW-F`
+* window `WOEUPBD`
+* allowed `HRO*UD`
 * be `-B`
 * stared `STAERD`
-* at; `AT STPH*FPLT`
+* at. `AT TP-PL`
+* wore `WOR`
 * neither `TPHAOERT`
-* train `TRAEUPB`
+* train `TRAEUPL`
 * nor `TPH-R`
 * golden `TKOELD/*EPB`
 * crown, `KROUPB KW-BG`
-* splendid `SPHREPBD/EUD`
+* beautiful `PWAOUFL`
 * red `RED`
 * morocco `PHORBG/KOE`
-* shoes. `SHAOS TP-PL`
-* certainly `SERPBL`
-* far `TPAR`
-* handsomer `XXX handsomer`
+* shoes; `SHAOS STPH*FPLT`
+* indeed `TPHAOEPBD`
+* much `PHUFP`
+* finer `TPAOEURPB`
 * those `THOZ`
-* Dame `TKAEUPL`
-* Shoemaker `XXX Shoemaker`
-* made `PHAED`
+* which `WEU`
+* shoemaker's `XXX shoemaker AE S*/SP-S`
+* wife `WAOEUF`
+* sewn `SWEPB`
 * for `TPOR`
 * Karen. `KAEURPB TP-PL`
-* Nothing `TPHOG`
+* there `THR`
+* is `S`
+* really `HROERL`
+* nothing `TPHOG`
 * world `WORLD`
 * can `K`
 * compared `KPARD`
+* shoes! `SHAOS SKHRAPL`
+* now `TPHOU`
 * enough `TPHUF`
 * confirmed; `K-FRPL/-D STPH*FPLT`
+* received `SAOEFD`
+* some `SOPL`
 * new `TPHU`
-* clothes `KHRO*ETS`
+* also `HR-S`
 * have `SR`
-* shoes `SHAOS`
-* also. `HR-S TP-PL`
+* shoes. `SHAOS TP-PL`
 * rich `REUFP`
 * shoemaker `XXX shoemaker`
-* city `STEU`
+* town `TOUPB`
 * took `TAOBG`
 * measure `PH*ERB`
-* of `-F`
-* foot. `TPAOT TP-PL`
-* place `PHRAEUS`
-* at `AT`
+* foot `TPAOT`
 * his `HEUS`
-* house, `HOUS KW-BG`
-* room; `RAOPL STPH*FPLT`
-* where `W-R`
-* large `HRARPBLG`
-* glass-cases, `TKPWHRAS H-PB KAEUSZ KW-BG`
-* filled `TPEULD`
-* elegant `EL/TKPWAPBT`
-* brilliant `PWREULT`
-* boots. `PWAOTS TP-PL`
-* All `AUL`
+* own `OEPB`
+* room, `RAOPL KW-BG`
+* great `TKPWRAET`
+* glass `TKPWHRAS`
+* cases `KAEUSZ`
+* full `TPUL`
+* pretty `PREUT`
+* shoes `SHAOS`
+* slippers. `SHREUP/ERS TP-PL`
+* It `T`
 * looked `HRAOBGD`
-* charming, `KHARPL/-G KW-BG`
-* could `KO`

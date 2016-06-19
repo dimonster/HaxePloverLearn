@@ -1,119 +1,132 @@
 # The Old House Part 13
 
-* to `TO`
-* the `-T`
-* broker's `PWROERBG AE S*/SP-S`
-* again; `TKPWEPB STPH*FPLT`
+* The `-T`
+* long `HROPBG`
+* ears, `AOERS KW-BG`
+* old `OLD`
+* chairs, `KHAEURS KW-BG`
 * and `SKP`
+* cup-boards. `KUP H-PB PWORDZ TP-PL`
+* some `SOPL`
+* were `WR`
+* taken `TAEPB`
+* one `WUPB`
+* way, `WAEU KW-BG`
+* another. `TPHOER TP-PL`
+* Her `HER`
+* portrait, `POR/TRAT KW-BG`
+* which `WEU`
+* had `H`
+* been `PW-PB`
+* bought `PWAUT`
+* at `AT`
+* picture `P*EUFP`
+* dealer's, `TKAOERL AE S*/SP-S KW-BG`
+* went `WEPBT`
+* back `PWABG`
+* again `TKPWEPB`
+* to `TO`
+* his `HEUS`
+* shop, `SHOP KW-BG`
 * there `THR`
 * it `T`
-* hung, `HUPBG KW-BG`
+* remained, `RE/PHAEUPBD KW-BG`
 * for `TPOR`
 * no `TPHO`
-* One `WUPB`
-* knew `TPHAOU`
-* her `HER`
-* more--no `PHOR H-PB H-PB TPHO`
-* cared `KAEURD`
-* about `PW`
-* old `OLD`
+* seemed `SAOEPLD`
+* know `TPHOE`
+* her, `HER KW-BG`
+* or `OR`
+* care `KAEUR`
 * picture. `P*EUFP TP-PL`
 * in `TPH`
-* spring `SPREUPBG`
+* spring; `SPREUPBG STPH*FPLT`
 * they `THE`
-* pulled `PULD`
+* began `TKPWAPB`
+* pull `PUL`
 * house `HOUS`
-* down, `TKOUPB KW-BG`
-* for, `TPOR KW-BG`
-* as `AZ`
-* people `PAOEPL`
-* said, `SAEUD KW-BG`
-* was `WA`
-* a `AEU`
-* ruin. `RAOUPB TP-PL`
-* could `KO`
-* see `SAOE`
+* itself `T/SEF`
+* down; `TKOUPB STPH*FPLT`
+* People `PAOEPL`
+* called `KAULD`
+* complete `KPHRAOET`
+* rubbish. `RUB/EURB TP-PL`
 * from `TPR`
 * street `STRAOET`
-* right `RAOEUT`
-* into `TPHAO`
+* could `KO`
+* be `-B`
+* seen `SAOEPB`
 * room `RAOPL`
+* walls `WAULS`
+* covered `KOFRD`
 * with `W`
-* hog's-leather `HOG AE S*/SP-S H-PB HR*ET/ER`
-* hanging, `HAPBG/-G KW-BG`
-* which `WEU`
-* slashed `SHRARBD`
-* torn; `TORPB STPH*FPLT`
+* leather, `HRE/THER KW-BG`
+* ragged `RAGD`
+* torn, `TORPB KW-BG`
 * green `TKPWRAOEPB`
-* grass `TKPWRAS`
-* leaves `HREFS`
 * balcony `PWAL/KOEPB`
 * hung `HUPBG`
-* quite `KWAOEUT`
-* wild `WAOEULD`
-* falling `TPAULG`
-* beams. `PWAOEPLS TP-PL`
-* then `THEPB`
-* put `PUT`
-* rights. `RAOEUTS TP-PL`
-* "That `KR-GS THA`
-* relief," `RE/HRAOEF KW-BG KR-GS`
+* straggling `STRAG/-LG`
+* over `OEFR`
+* beams; `PWAOEPLS STPH*FPLT`
+* pulled `PULD`
+* down `TKOUPB`
+* quickly, `KWEULG KW-BG`
+* looked `HRAOBGD`
+* ready `R*ED`
+* fall, `TPAL KW-BG`
+* last `HRAFT`
+* was `WA`
+* cleared `KHRAOERD`
+* away `A/WAEU`
+* altogether. `HR-GT TP-PL`
+* "What `KR-GS WHA`
+* a `AEU`
+* good `TKPWAOD`
+* riddance," `REUD/APBS KW-BG KR-GS`
 * said `SAEUD`
-* neighboring `TPHAEUB/-G`
+* neighbors' `TPHAEUBS AE`
 * houses. `HO*UFS TP-PL`
+* very `SRE`
+* shortly, `SHORLT KW-BG`
 * fine `TPAOEUPB`
+* new `TPHU`
 * built `PEULT`
-* there, `THR KW-BG`
-* large `HRARPBLG`
-* windows, `WO*EUPBDZ KW-BG`
+* farther `TPA*RT`
+* road; `RAOD STPH*FPLT`
+* lofty `HROF/TEU`
+* windows `WO*EUPBDZ`
 * smooth `SPHAO*T`
-* white `WHAOEUT`
-* walls; `WAULS STPH*FPLT`
+* walls, `WAULS KW-BG`
 * but `PWUT`
-* Before `PW-F`
-* it, `T KW-BG`
+* front, `TPROPBT KW-BG`
+* on `OPB`
+* spot `SPOT`
 * where `W-R`
-* had `H`
-* fact `TPABGT`
+* really `HROERL`
 * stood, `STAOD KW-BG`
 * little `HREUL`
 * garden `TKPWA*RPB`
-* laid `HRAEUD`
-* out, `OUT KW-BG`
-* grapevine `TKPWRAEUP/SRAOEUPB`
-* ran `RAPB`
+* planted, `PHRAPBT/-D KW-BG`
+* wild `WAOEULD`
+* vines `SRAOEUPBS`
+* grew `TKPWRAOU`
 * up `UP`
-* wall `WAUL`
+* neighboring `TPHAEUB/-G`
+* walls; `WAULS STPH*FPLT`
+* front `TPROPBT`
 * of `-F`
-* house. `HOUS TP-PL`
+* large `HRARPBLG`
 * iron `AOEURPB`
-* railing `RAEULG`
-* an `APB`
-* door, `TKAOR KW-BG`
-* looked `HRAOBGD`
-* splendid, `SPHREPBD/EUD KW-BG`
-* stood `STAOD`
-* still `STEUL`
-* peeped `PAOEPD`
-* in, `TPH KW-BG`
+* railings `RAEULG/-S`
+* great `TKPWRAET`
+* gate, `TKPWAET KW-BG`
+* stately. `STAEULT TP-PL`
+* used `AOUFD`
+* stop `STOP`
+* peep `PAOEP`
+* through `THRU`
+* railings. `RAEULG/-S TP-PL`
 * sparrows `SPAEUR/ROE/-S`
-* by `PWEU`
-* scores `SKORS`
-* vine, `SRAOEUPB KW-BG`
-* chattered `KHAT/ERD`
-* away `A/WAEU`
-* at `AT`
-* each `AOEFP`
-* other `OER`
-* well `WEL`
-* could, `KO KW-BG`
-* not `TPHOT`
-* house, `HOUS KW-BG`
-* remember `REB`
-* so `SO`
-* many `PHAEPB`
-* years `KWRAOERS`
-* passed--so `PAFD H-PB H-PB SO`
-* that `THA`
-* boy `PWOEU`
-* grown `TKPWROEPB`
+* assembled `A/SEPL/-BLD`
+* dozens `TKOZ/-Z`

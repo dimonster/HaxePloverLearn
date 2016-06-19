@@ -1,116 +1,132 @@
 # The Shadow Part 15
 
+* although `HR*T`
+* they `THE`
+* would `WO`
+* all `AUL`
+* be `-B`
+* very `SRE`
+* glad `TKPWHRAD`
+* to `TO`
+* know—the `TPHOE EPL/TKA*RB -T`
+* evil `AOEFL`
+* conduct `KUBGT`
+* of `-F`
+* their `THAEUR`
+* neighbors. `TPHAEUBS TP-PL`
+* had `H`
+* I `EU`
+* written `WREUPB`
+* a `AEU`
+* newspaper, `TPHUP KW-BG`
+* how `HOU`
+* eagerly `AOERLG`
+* it `T`
+* have `SR`
+* been `PW-PB`
+* read! `RAED SKHRAPL`
+* Instead `STPHED`
+* which, `WEU KW-BG`
+* wrote `WRO`
+* directly `TKREL`
+* the `-T`
+* persons `PERPBZ`
+* themselves, `TH*EPLS KW-BG`
+* and `SKP`
+* great `TKPWRAET`
+* alarm `A/HRARPL`
+* arose `A/ROES`
+* in `TPH`
+* town `TOUPB`
+* visited. `SREUFTD TP-PL`
+* so `SO`
+* much `PHUFP`
+* fear `TPAOER`
+* me, `PHE KW-BG`
+* yet `KWRET`
+* dearly `TKAERL`
+* loved `HROFD`
+* me. `PHE TP-PL`
+* professor `PROEFR`
+* made `PHAED`
+* me `PHE`
+* professor. `PROEFR TP-PL`
+* tailor `TAEURL`
+* gave `TKPWAEUF`
+* new `TPHU`
+* clothes; `KHRO*ETS STPH*FPLT`
+* am `APL`
+* well `WEL`
+* provided `PROE/SRAOUD/-D`
+* for `TPOR`
+* that `THA`
+* way. `WAEU TP-PL`
+* overseer `AUFR/SAOER`
+* mint `PHEUPBT`
+* struck `STRUBG`
+* coins `KOEUPBS`
+* women `WEUPL`
+* declared `TKE/KHRAEURD`
+* was `WA`
+* handsome, `HAPBD/SOPL KW-BG`
+* became `PWAEUPL`
+* man `PHAPB`
+* you `U`
+* now `TPHOU`
+* see `SAOE`
+* must `PHUFT`
+* say `SAEU`
+* adieu. `A/TKAOU TP-PL`
+* Here `HAOER`
+* is `S`
+* my `PHEU`
+* card. `KARD TP-PL`
+* live `HREUF`
+* on `OPB`
 * sunny `SAOUPB`
 * side `SAOEUD`
-* of `-F`
-* the `-T`
 * street, `STRAOET KW-BG`
-* and `SKP`
-* am `*PL`
-* always `AULS`
+* always `AULZ`
+* stay `STAEU`
 * at `AT`
 * home `HOEPL`
-* in `TPH`
 * rainy `RAEU/TPH*EU`
-* weather!" `WHR* SKHRAPL KR-GS`
-* so `SO`
-* away `A/WAEU`
-* went `WEPBT`
-* shadow. `SHAD/OE TP-PL`
-* "That `KR-GS THA`
-* was `WA`
-* most `PHO*S`
-* extraordinary!" `KPAORD SKHRAPL KR-GS`
+* weather." `WHR* TP-PL KR-GS`
+* shadow `SHO*EUD`
+* departed. `TKPART/-D TP-PL`
+* "This `KR-GS TH`
+* remarkable," `RARBG/-BL KW-BG KR-GS`
 * said `SAEUD`
 * learned `HRERPBD`
 * man. `PHAPB TP-PL`
-* Years `KWRAOERS`
+* years `KWRAOERS`
+* passed, `PAFD KW-BG`
 * days `TKAEUS`
-* passed `PAFD`
-* away, `A/WAEU KW-BG`
-* then `THEPB`
-* shadow `SHAD/OE`
+* went `WEPBT`
+* by, `PWEU KW-BG`
 * came `KAEUPL`
 * again. `TKPWEPB TP-PL`
 * "How `KR-GS HOU`
-* goes `TKPW-S`
-* it?" `T H-F KR-GS`
-* "Alas!" `KR-GS A/HRAS SKHRAPL KR-GS`
+* are `R`
+* going `TKPW-G`
+* now?" `TPHOU H-F KR-GS`
+* he `E`
+* asked. `SK-D TP-PL`
+* "Ah!" `KR-GS HA*E SKHRAPL KR-GS`
+* man; `PHAPB STPH*FPLT`
 * "I `KR-GS EU`
-* write `WREU`
+* writing `WREUG`
 * about `PW`
 * true, `TRAOU KW-BG`
-* good, `TKPWAOD KW-BG`
 * beautiful, `PWAOUFL KW-BG`
+* good; `TKPWAOD STPH*FPLT`
 * but `PWUT`
 * no `TPHO`
 * one `WUPB`
 * cares `KAEURS`
-* to `TO`
 * hear `HAER`
-* such `SUFP`
-* things; `THEUPBGS STPH*FPLT`
-* I `EU`
-* quite `KWAOEUT`
-* desperate, `TKEFB/RAT KW-BG`
-* for `TPOR`
-* take `TAEUBG`
-* It `T`
-* much `PHUFP`
-* heart!" `HART SKHRAPL KR-GS`
-* "But `KR-GS PWUT`
-* don't!" `TKO*PB AE T*/SP-S SKHRAPL KR-GS`
-* become `PW-BG`
-* fat, `TPAT KW-BG`
-* is `S`
-* that `THA`
-* wants `WAPBTS`
-* become! `PW-BG SKHRAPL`
-* You `U`
-* do `TKO`
-* not `TPHOT`
-* understand `URPBD`
-* world. `WORLD TP-PL`
-* Will `HR`
-* ill `EUL`
-* by `PWEU`
+* anything `TPHEUG`
 * it. `T TP-PL`
-* must `PHUFT`
-* travel! `TRAFL SKHRAPL`
-* shall `SHAL`
-* make `PHAEUBG`
-* a `AEU`
-* tour `TOR`
-* this `TH`
-* summer; `SAOURPL STPH*FPLT`
-* go `TKPW`
-* with `W`
-* me? `PHE H-F`
-* should `SHO`
-* like `HRAOEUBG`
-* have `SR`
-* travelling `TRAFLG`
-* companion! `KPAPB/KWROPB SKHRAPL`
-* me, `PHE KW-BG`
-* as `AZ`
-* shadow? `SHAD/OE H-F`
-* be `-B`
-* great `TKPWRAET`
-* pleasure `PHRERB`
-* me `PHE`
-* me; `PHE STPH*FPLT`
-* pay `PAEU`
-* expenses!" `SPEBS/-S SKHRAPL KR-GS`
-* "Nay, `KR-GS TPHAEU KW-BG`
-* too `TAO`
-* much!" `PHUFP SKHRAPL KR-GS`
-* "It `KR-GS T`
-* just `SKWRUFT`
-* takes `TAEUBGS`
-* it!" `T SKHRAPL KR-GS`
-* good `TKPWAOD`
-* my `PHEU`
-* everything `EFG`
-* free `TPRAOE`
-* on `OPB`
-* journey!" `SKWRURPB SKHRAPL KR-GS`
+* quite `KWAOEUT`
+* despair, `TKES/PAEUR KW-BG`
+* take `TAEUBG`

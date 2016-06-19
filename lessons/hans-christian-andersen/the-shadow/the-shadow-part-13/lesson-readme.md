@@ -1,118 +1,125 @@
 # The Shadow Part 13
 
-* I `EU`
-* became `PWAEUPL`
-* so! `SO SKHRAPL`
-* and `SKP`
-* besides, `PW-DZ KW-BG`
-* learned `HRERPBD`
-* to `TO`
-* know `TPHOE`
-* my `PHEU`
-* inward `EUPB/WARD`
-* nature, `TPHAEUFP KW-BG`
-* innate `EUPB/TPHAEUT`
-* qualities, `KWALTS KW-BG`
+* temple? `TEFRPL H-F`
+* Were `WR`
 * the `-T`
-* relationship `R*EUP`
-* had `H`
-* with `W`
-* Poesy. `XXX Poesy TP-PL`
-* at `AT`
-* time `TAOEUPL`
-* was `WA`
-* you, `U KW-BG`
-* thought `THAUT`
-* not `TPHOT`
-* of `-F`
-* that, `THA KW-BG`
-* but `PWUT`
-* always--you `AULS H-PB H-PB U`
-* it `T`
-* well--when `WEL H-PB H-PB WHEPB`
-* sun `SUPB`
-* rose, `ROES KW-BG`
-* when `WHEPB`
-* went `WEPBT`
-* down, `TKOUPB KW-BG`
-* so `SO`
-* strangely `STRAEUPBG/HREU`
-* great; `TKPWRAET STPH*FPLT`
-* in `TPH`
-* moonlight `PHAOLGT`
-* very `SRE`
-* near `TPHAOER`
-* being `-BG`
-* more `PHOR`
-* distinct `STKEUPBG`
-* than `THAPB`
-* yourself; `KWRO*URS STPH*FPLT`
-* that `THA`
-* did `TK`
-* understand `URPBD`
-* nature; `TPHAEUFP STPH*FPLT`
-* revealed `RE/SRAOELD`
-* me `PHE`
-* antechamber! `AEPBT/KHAEUPL/PWER SKHRAPL`
+* chambers `KHAEURPLS`
+* like `HRAOEUBG`
 * a `AEU`
-* man! `PHAPB SKHRAPL`
-* came `KAEUPL`
-* out `OUT`
-* matured; `PHA/KHURD STPH*FPLT`
+* starry `STAR/REU`
+* sky `SKAOEU`
+* seen `SAOEPB`
+* from `TPR`
+* top `TOP`
+* of `-F`
+* high `HAOEU`
+* mountain?" `PHOUPB/TAEUPB H-F KR-GS`
+* "It `KR-GS T`
+* was `WA`
+* all `AUL`
+* that `THA`
 * you `U`
-* were `WR`
-* no `TPHO`
-* longer `HRORPBG`
-* warm `WARPL`
-* lands; `HRAPBDZ STPH*FPLT`
-* as `AZ`
-* man `PHAPB`
-* ashamed `A/SHAEUPLD`
+* describe," `SKREU KW-BG KR-GS`
+* said `SAEUD`
+* shadow; `SHO*EUD STPH*FPLT`
+* "But `KR-GS PWUT`
+* I `EU`
+* did `TK`
+* not `TPHOT`
 * go `TKPW`
-* did. `TK TP-PL`
-* want `WAPBT`
-* boots, `PWAOTS KW-BG`
-* clothes, `KHRO*ETS KW-BG`
-* whole `WHOEL`
-* human `HAOUPL`
-* varnish `SRARPB/EURB`
-* makes `PHAEUBGS`
-* perceptible. `PER/SEPT/-BL TP-PL`
-* took `TAOBG`
-* way--I `WAEU H-PB H-PB EU`
+* quite `KWAOEUT`
+* in—I `TPH EPL/TKA*RB EU`
+* remained `RE/PHAEUPBD`
+* In `TPH`
+* twilight `TWAOEULGT`
+* ante-room—but `APB/TAOE H-PB RAOPL EPL/TKA*RB PWUT`
+* very `SRE`
+* good `TKPWAOD`
+* position,—I `POGS KW-BG EPL/TKA*RB EU`
+* could `KO`
+* see `SAOE`
+* and `SKP`
+* hear `HAER`
+* going `TKPW-G`
+* on `OPB`
+* court `KORT`
+* poetry." `POEURT TP-PL KR-GS`
+* what `WHA`
+* see? `SAOE H-F`
+* gods `TKPWODZ`
+* ancient `AEURBT`
+* times `TAOEUPLS`
+* pass `PAS`
+* through `THRU`
+* rooms? `RAOPLS H-F`
+* old `OLD`
+* heroes `HOEURS`
+* fight `TPAOEUT`
+* their `THAEUR`
+* battles `PWAT/-LS`
+* over `OEFR`
+* again? `TKPWEPB H-F`
+* there `THR`
+* lovely `HROFL`
+* children `KHEURPB`
+* at `AT`
+* play, `PHRAEU KW-BG`
+* who `WHO`
+* related `RAELTD`
+* dreams?" `TKRAOEPLS H-F KR-GS`
+* "I `KR-GS EU`
 * tell `TEL`
-* will `HR`
-* put `PUT`
-* any `TPHEU`
-* book--I `PWAOBG H-PB H-PB EU`
-* way `WAEU`
-* cake `KAEUBG`
-* woman--I `WOPL H-PB H-PB EU`
-* hid `HEUD`
-* myself `PHAO*EUS`
-* behind `HEUPBD`
-* her; `HER STPH*FPLT`
-* woman `WOPL`
-* didn't `TK-PBT`
+* have `SR`
+* been `PW-PB`
+* there, `THR KW-BG`
+* therefore `TH-FR`
+* may `PHAE`
+* be `-B`
+* sure `SHUR`
+* saw `SAU`
+* everything `EFG`
+* to `TO`
+* seen. `SAOEPB TP-PL`
+* If `TP`
+* had `H`
+* gone `TKWOPB`
+* would `WO`
+* human `HAOUPL`
+* being, `-BG KW-BG`
+* whereas `WRAZ`
+* became `PWAEUPL`
+* one; `WUPB STPH*FPLT`
+* same `SAEUPL`
+* moment `PHOEPLT`
+* aware `A/WAEUR`
+* my `PHEU`
+* inner `EURPB`
+* inborn `XXX inborn`
+* affinity `A/TPEUPBT`
+* nature `TPHAEURT`
+* poetry. `POEURT TP-PL`
+* it `T`
+* is `S`
+* true `TRAOU`
 * think `THEU`
-* how `HOU`
 * much `PHUFP`
-* she `SHE`
-* concealed. `KAUPB/SAOELD TP-PL`
-* first `TPEURS`
-* evening; `AOEPG STPH*FPLT`
-* ran `RAPB`
 * about `PW`
-* streets `STRAOETS`
-* moonlight; `PHAOLGT STPH*FPLT`
-* made `PHAED`
-* long `HROPBG`
-* up `UP`
-* walls--it `WAULS H-PB H-PB T`
-* tickles `TEUBG/-LS`
-* back `PWABG`
-* delightfully! `TKHRAOEUT/-FL/HREU SKHRAPL`
-* up, `UP KW-BG`
-* peeped `PAOEPD`
-* into `TPHAO`
-* highest `HAOEU/EFT`
+* while `WHAOEUL`
+* with `W`
+* you, `U KW-BG`
+* but `PWUT`
+* will `HR`
+* remember `REB`
+* always `AULZ`
+* larger `HRARPBLG/ER`
+* sunrise `SUPB/RAOEUZ`
+* sunset, `SAUPB/SET KW-BG`
+* moonlight `PHAOLGT`
+* even `AOEPB`
+* more `PHOR`
+* visible `SREUBL`
+* than `THAPB`
+* yourself, `KWRO*URS KW-BG`
+* then `THEPB`
+* understand `URPBD`
+* existence. `KPEUFS TP-PL`

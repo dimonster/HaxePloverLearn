@@ -1,127 +1,130 @@
 # The Fir Tree Part 8
 
-* a `AEU`
-* headache `HAEUBG`
-* with `W`
-* us. `US TP-PL`
-* the `-T`
-* candles `KAPBD/-LS`
-* were `WR`
-* Now `TPHOU`
-* lighted--what `HRAOEUT/-D H-PB H-PB WHA`
-* brightness! `XXX brightness SKHRAPL`
-* What `WHA`
-* splendor! `SHREPBD/O*R SKHRAPL`
-* Tree `TRAOE`
-* trembled `TREPL/-BLD`
-* So `SO`
-* in `TPH`
-* every `EF`
-* bough `PWO*U`
-* that `THA`
-* one `WUPB`
-* of `-F`
-* tapers `TAEURPS`
-* set `SET`
-* fire `TPAOEUR`
-* to `TO`
-* foliage. `TPOEL/APBLG TP-PL`
-* it `T`
-* blazed `PWHRAEUZ/-D`
-* up `UP`
-* famously. `TPAEUPL/SHREU TP-PL`
-* "Help! `KR-GS HEP SKHRAPL`
-* Help!" `HEP SKHRAPL KR-GS`
-* cried `KRAOEUD`
-* young `KWRUPBG`
-* ladies, `HRA*EDZ KW-BG`
-* and `SKP`
+* was `WA`
+* no `TPHO`
+* danger, `TKAEUPBLG KW-BG`
+* for `TPOR`
 * they `THE`
 * quickly `KWEULG`
-* put `PUT`
-* out `OUT`
+* extinguished `EBGS/TEUPBG/WEURBD`
+* the `-T`
 * fire. `TPAOEUR TP-PL`
-* did `TK`
+* after `AF`
+* this, `TH KW-BG`
+* tree `TRAOE`
+* tried `TRAOEUD`
 * not `TPHOT`
-* even `AOEPB`
-* dare `TKAEUR`
-* tremble. `TREPL/-BL TP-PL`
-* state `STA*ET`
+* to `TO`
+* tremble `TREPL/-BL`
+* At `AT`
+* all, `AUL KW-BG`
+* though `THOE`
+* fire `TPAOEUR`
+* frightened `TPRAOEUPBD`
+* him; `HEUPL STPH*FPLT`
 * he `E`
-* was `WA`
-* in! `TPH SKHRAPL`
-* uneasy `XXX uneasy`
-* lest `HR*ES`
-* should `SHO`
-* lose `HRUZ`
-* something `S-G`
-* his `HEUS`
-* splendor, `SHREPBD/O*R KW-BG`
-* quite `KWAOEUT`
-* bewildered `PWE/WEULD/ERD`
-* amidst `A/PH*EUS`
-* glare `TKPWHRAEUR`
-* brightness; `XXX brightness STPH*FPLT`
-* when `WHEPB`
-* suddenly `SULD`
-* both `PWO*T`
-* folding-doors `TPOELGD H-PB TKAORS`
-* opened `OEPD`
+* so `SO`
+* anxious `KPUS`
+* hurt `HURT`
+* any `TPHEU`
+* of `-F`
+* beautiful `PWAOUFL`
+* ornaments, `ORPB/-PLTS KW-BG`
+* even `AOEPB`
+* while `WHAOEUL`
+* their `THAEUR`
+* brilliancy `XXX brilliancy`
+* dazzled `TKAZ/-LD`
+* him. `HEUPL TP-PL`
+* and `SKP`
+* now `TPHOU`
+* folding `TPOELGD`
+* doors `TKAORS`
+* were `WR`
+* thrown `THROEPB`
+* open, `OEP KW-BG`
+* a `AEU`
 * troop `TRAOP`
 * children `KHEURPB`
 * rushed `RURBD`
+* in `TPH`
 * as `AZ`
 * if `TP`
-* would `WO`
-* upset `UP/S*ET`
-* Tree. `TRAOE TP-PL`
-* older `OERLD`
-* persons `PERPBS`
+* intended `EUPB/TED/-D`
+* upset `AUP/SAET`
+* tree; `TRAOE STPH*FPLT`
 * followed `TPOLD`
-* quietly; `KWAO*EULT STPH*FPLT`
+* more `PHOR`
+* silently `SHREPBLT`
+* by `PWEU`
+* elders. `ELD/ERS TP-PL`
+* moment `PHOEPLT`
 * little `HREUL`
 * ones `WUPBZ`
 * stood `STAOD`
-* still. `STEUL TP-PL`
-* But `PWUT`
-* only `OEPBL`
-* for `TPOR`
-* moment; `PHOEPLT STPH*FPLT`
+* silent `SHREPBT`
+* with `W`
+* astonishment, `AS/TOPB/SH-PLT KW-BG`
 * then `THEPB`
 * shouted `SHOUT/-D`
-* whole `WHOEL`
-* place `PHRAEUS`
-* re-echoed `XXX re H-PB EBG/OE/-D`
-* their `THAEUR`
-* rejoicing; `RE/SKWROEUFG STPH*FPLT`
+* joy, `SKWROEU KW-BG`
+* till `T*EUL`
+* room `RAOPL`
+* rang, `RAPBG KW-BG`
 * danced `TKAPBS/-D`
+* merrily `PHER/HREU`
 * round `ROUPBD`
-* Tree, `TRAOE KW-BG`
+* tree, `TRAOE KW-BG`
+* one `WUPB`
 * present `PREPBT`
-* after `AF`
-* other `OER`
-* pulled `PULD`
-* off. `OF TP-PL`
+* another `TPHOER`
+* taken `TAEPB`
+* from `TPR`
+* it. `T TP-PL`
 * "What `KR-GS WHA`
 * are `R`
-* about?" `PW H-F KR-GS`
-* thought `THAUT`
-* is `S`
+* doing? `TK*G H-F`
+* What `WHA`
+* will `HR`
 * happen `HAP`
-* now!" `TPHOU SKHRAPL KR-GS`
-* lights `HRAOEUTS`
-* burned `PWURPBD`
+* next?" `TPHEGT H-F KR-GS`
+* thought `THAUT`
+* fir. `TPEUR TP-PL`
+* last `HRAFT`
+* candles `KAPBD/-LS`
+* burnt `PWURPBT`
 * down `TKOUPB`
-* very `SRE`
-* branches, `PWRAFPBS KW-BG`
-* other, `OER KW-BG`
-* had `H`
+* branches `PWRAFPBS`
+* put `PUT`
+* out. `OUT TP-PL`
+* received `SAOEFD`
 * permission `PERPLGS`
 * plunder `PHRUPBD/ER`
-* fell `TPEL`
+* tree. `TRAOE TP-PL`
+* Oh, `O*ERBGS KW-BG`
+* how `HOU`
 * upon `POPB`
-* such `SUFP`
-* violence `SROEUPBLS`
-* all `AUL`
-* its `EUTS`
-* branches `PWRAFPBS`
+* it, `T KW-BG`
+* cracked, `KRABGD KW-BG`
+* had `H`
+* it `T`
+* been `PW-PB`
+* fastened `TPAS/-PBD`
+* glistening `TKPWHREUFP/-G`
+* star `STAR`
+* ceiling, `KAOELG KW-BG`
+* must `PHUFT`
+* have `SR`
+* down. `TKOUPB TP-PL`
+* about `PW`
+* pretty `PREUT`
+* toys, `TOEUS KW-BG`
+* noticed `TPH-TSD`
+* except `KPEPT`
+* children's `KHEURPBS`
+* maid `PHAEUD`
+* who `WHO`
+* came `KAEUPL`
+* peeped `PAOEPD`
+* among `PHOPBG`
+* see `SAOE`

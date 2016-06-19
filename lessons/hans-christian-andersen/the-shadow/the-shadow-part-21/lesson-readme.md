@@ -1,119 +1,133 @@
 # The Shadow Part 21
 
-* indeed `TPHAOEPBD`
-* be `-B`
-* marvellous!" `PHAFLS SKHRAPL KR-GS`
-* "I `KR-GS EU`
-* will `HR`
-* not `TPHOT`
-* say `SAEU`
-* for `TPOR`
-* a `AEU`
-* certainty `SERPBT`
-* that `THA`
-* he `E`
-* can," `K KW-BG KR-GS`
-* said `SAEUD`
-* the `-T`
-* shadow, `SHAD/OE KW-BG`
-* "but `KR-GS PWUT`
-* I `EU`
-* think `THEU`
-* so; `SO STPH*FPLT`
-* has `HAS`
-* now `TPHOU`
-* followed `TPOLD`
-* me `PHE`
-* so `SO`
+* had `H`
+* seen `SAOEPB`
 * many `PHAEPB`
-* years, `KWRAOERS KW-BG`
+* things, `THEUPBGS KW-BG`
 * and `SKP`
-* listened `HR-PB/-D`
-* to `TO`
-* my `PHEU`
-* conversation--I `K-FRGS H-PB H-PB EU`
-* should `SHO`
-* it `T`
-* possible. `POB TP-PL`
-* but `PWUT`
-* your `KWROUR`
-* royal `ROEUL`
-* highness `HAOEU/-PBS`
-* permit `PERPLT`
-* observe, `OEB KW-BG`
-* is `S`
-* proud `PROUD`
-* of `-F`
-* passing `PAFG`
-* himself `H*EUPLS`
-* off `OF`
-* man, `PHAPB KW-BG`
-* when `WHEPB`
-* in `TPH`
-* proper `PROR`
-* humor--and `HAOURPL H-PB H-PB SKP`
-* must `PHUFT`
+* could `KO`
+* therefore `TH-FR`
 * answer `AEPBS`
-* well--he `WEL H-PB H-PB E`
-* treated `TRAETD`
+* the `-T`
+* princess, `PREUPB/ES KW-BG`
+* make `PHAEUBG`
+* allusions `A/HRAOUGS/-S`
+* which `WEU`
 * quite `KWAOEUT`
-* like `HRAOEUBG`
-* man." `PHAPB TP-PL KR-GS`
-* "Oh! `KR-GS O*ERBGS SKHRAPL`
-* that!" `THA SKHRAPL KR-GS`
-* princess. `PREUPB/ES TP-PL`
+* astonished `A/STOPB/EURBD`
+* her. `HER TP-PL`
 * she `SHE`
-* went `WEPBT`
-* learned `HRERPBD`
+* thought `THAUT`
+* he `E`
+* must `PHUFT`
+* be `-B`
+* cleverest `KHR*EFR/*ES`
 * man `PHAPB`
+* in `TPH`
+* all `AUL`
+* world, `WORLD KW-BG`
+* felt `TPELT`
+* greatest `TKPWRAET/EFT`
+* respect `R-PT`
+* for `TPOR`
+* his `HEUS`
+* knowledge. `TPHOPBLG TP-PL`
+* When `WHEPB`
+* danced `TKAPBS/-D`
+* with `W`
+* him `HEUPL`
+* again `TKPWEPB`
+* fell `TPEL`
+* love `HRUF`
+* him, `HEUPL KW-BG`
+* shadow `SHO*EUD`
+* quickly `KWEULG`
+* discovered, `SKOFD KW-BG`
+* her `HER`
+* eyes `AO*EUS`
+* looked `HRAOBGD`
+* through `THRU`
+* through. `THRU TP-PL`
+* They `THE`
+* once `WUPBS`
+* more, `PHOR KW-BG`
+* was `WA`
+* nearly `TPHAOERL`
+* telling `TELG`
+* But `PWUT`
+* some `SOPL`
+* discretion; `SKREGS STPH*FPLT`
+* of `-F`
+* country, `KREU KW-BG`
+* kingdom, `KEUPBG/TKOPL KW-BG`
+* number `TPHUPL`
+* people `PAOEPL`
+* over `OEFR`
+* whom `WHOPL`
+* would `WO`
+* one `WUPB`
+* day `TKAEU`
+* have `SR`
+* to `TO`
+* rule. `RAOUL TP-PL`
+* "He `KR-GS E`
+* is `S`
+* a `AEU`
+* clever `KHREFR`
+* man," `PHAPB KW-BG KR-GS`
+* herself, `H*ERS KW-BG`
+* "which `KR-GS WEU`
+* good `TKPWAOD`
+* thing, `THEUPBG KW-BG`
+* dances `TKAPBS/-S`
+* admirably, `AD/PHEUR/PWHREU KW-BG`
+* also `HR-S`
+* good. `TKPWAOD TP-PL`
+* has `HAS`
+* well-grounded `WEL H-PB TKPWROUPBD/-D`
+* knowledge? `TPHOPBLG H-F`
+* that `THA`
+* an `APB`
+* important `PORPB`
+* question, `KWE KW-BG`
+* I `EU`
+* try `TREU`
+* him." `HEUPL TP-PL KR-GS`
+* Then `THEPB`
+* asked `SK-D`
+* most `PHOFT`
+* difficult `TKEUFL`
+* herself `H*ERS`
+* not `TPHOT`
+* answered `APBSD`
+* it, `T KW-BG`
+* made `PHAED`
+* unaccountable `UPB/K-T/-BL`
+* grimace. `TKPWREUPL/AS TP-PL`
+* "You `KR-GS U`
+* cannot `K/TPHOT`
+* that," `THA KW-BG KR-GS`
+* said `SAEUD`
+* princess. `PREUPB/ES TP-PL`
+* "I `KR-GS EU`
+* learnt `HRERPBT`
+* something `S-G`
+* about `PW`
+* it `T`
+* my `PHEU`
+* childhood," `KHAOEULD/H*D KW-BG KR-GS`
+* replied; `RE/PHRAOEUD STPH*FPLT`
+* "and `KR-GS SKP`
+* believe `PWHREF`
+* even `AOEPB`
+* very `SRE`
+* shadow, `SHO*EUD KW-BG`
+* standing `STAPBG`
+* there `THR`
 * by `PWEU`
 * door, `TKAOR KW-BG`
-* spoke `SPOEBG`
-* him `HEUPL`
-* about `PW`
-* sun `SUPB`
-* moon, `PHAOPB KW-BG`
-* persons `PERPBS`
-* out `OUT`
-* world, `WORLD KW-BG`
-* answered `APBSD`
-* with `W`
-* wisdom `WEUS/TKOPL`
-* prudence. `PRAOUPBS TP-PL`
-* "What `KR-GS WHA`
-* who `WHO`
-* wise `WAOEUS`
-* shadow!" `SHAD/OE SKHRAPL KR-GS`
-* thought `THAUT`
-* she. `SHE TP-PL`
-* "It `KR-GS T`
-* real `RAEL`
-* blessing `PWHR*EFG`
-* people `PAOEPL`
-* kingdom `KEUPBG/TKOPL`
-* if `TP`
-* choose `KHAOS`
-* consort--I `KOPB/SORT H-PB H-PB EU`
-* do `TKO`
-* it!" `T SKHRAPL KR-GS`
-* They `THE`
-* were `WR`
-* soon `SAOPB`
-* agreed, `TKPWRAED KW-BG`
-* both `PWO*T`
-* princess `PREUPB/ES`
-* shadow; `SHAD/OE STPH*FPLT`
-* no `TPHO`
-* one `WUPB`
-* was `WA`
-* know `TPHOE`
-* before `PW-F`
-* arrived `A/REUFD`
-* her `HER`
-* own `OEPB`
-* kingdom. `KEUPBG/TKOPL TP-PL`
-* "No `KR-GS TPHO`
-* one--not `WUPB H-PB H-PB TPHOT`
-* even `AOEPB`
-* had `H`
-* his `HEUS`
+* it." `T TP-PL KR-GS`
+* "Your `KR-GS KWROUR`
+* shadow," `SHO*EUD KW-BG KR-GS`
+* princess; `PREUPB/ES STPH*FPLT`
+* "indeed `KR-GS TPHAOEPBD`

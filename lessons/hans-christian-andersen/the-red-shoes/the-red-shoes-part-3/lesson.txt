@@ -1,67 +1,102 @@
 The Red Shoes Part 3
 
+'lovely,': HROFL KW-BG
+'but': PWUT
+'the': -T
+'old': OLD
+'lady': HRA*ED
+'could': KO
 'not': TPHOT
 'see': SAOE
+'very': SRE
 'well,': WEL KW-BG
 'and': SKP
-'so': SO
-'had': H
-'no': TPHO
+'therefore': TH-FR
+'did': TK
+'not': TPHOT
+'get': TKPWET
+'much': PHUFP
 'pleasure': PHRERB
-'in': TPH
-'them.': THEPL TP-PL
-'the': -T
-'midst': PHEUDZ
+'out': OUT
 'of': -F
+'it.': T TP-PL
+'Amongst': PHOPBGS
+'the': -T
 'shoes': SHAOS
 'stood': STAOD
 'a': AEU
 'pair': PAEUR
+'of': -F
 'red': RED
 'ones,': WUPBZ KW-BG
-'just': SKWRUFT
 'like': HRAOEUBG
 'those': THOZ
+'which': WEU
+'the': -T
 'princess': PREUPB/ES
+'had': H
 'worn.': WORPB TP-PL
-'how': HOU
+'How': HOU
 'beautiful': PWAOUFL
 'they': THE
 'were!': WR SKHRAPL
+'and': SKP
+'the': -T
 'shoemaker': XXX shoemaker
 'said': SAEUD
-'also': HR-S
+'that': THA
+'they': THE
+'had': H
 'been': PW-PB
 'made': PHAED
 'for': TPOR
-'child': KHAOEULD
-'count,': KOUPBT KW-BG
+'a': AEU
+'count's': KOUPBT AE S*/SP-S
+'daughter,': TKAUR KW-BG
 'but': PWUT
-'fitted.': TPEUTD TP-PL
-'"That': KR-GS THA
-'must': PHUFT
-'be': -B
-'patent': PA/TEPBT
-'leather!"': HR*ET/ER SKHRAPL KR-GS
+'that': THA
+'they': THE
+'had': H
+'not': TPHOT
+'fitted': TPEUTD
+'her.': HER TP-PL
+'"I': KR-GS EU
+'suppose': SPOS
+'they': THE
+'are': R
+'of': -F
+'shiny': SHOEUPB
+'leather?"': HRE/THER H-F KR-GS
+'asked': SK-D
+'the': -T
 'old': OLD
 'lady.': HRA*ED TP-PL
 '"They': KR-GS THE
 'shine': SHAOEUPB
-'so!"': SO SKHRAPL KR-GS
+'so."': SO TP-PL KR-GS
 '"Yes,': KR-GS KWRE KW-BG
-'shine!"': SHAOEUPB SKHRAPL KR-GS
-'Karen,': KAEURPB KW-BG
-'fitted,': TPEUTD KW-BG
+'they': THE
+'do': TKO
+'shine,"': SHAOEUPB KW-BG KR-GS
+'said': SAEUD
+'Karen.': KAEURPB TP-PL
+'They': THE
+'fitted': TPEUTD
+'her,': HER KW-BG
+'and': SKP
 'were': WR
-'bought,': PWAUT KW-BG
+'bought.': PWAUT TP-PL
+'But': PWUT
+'the': -T
+'old': OLD
 'lady': HRA*ED
 'knew': TPHAOU
 'nothing': TPHOG
-'about': PW
+'of': -F
 'their': THAEUR
 'being': -BG
 'red,': RED KW-BG
-'else': ELS
+'for': TPOR
 'she': SHE
 'would': WO
 'never': TPHEF
@@ -69,64 +104,99 @@ The Red Shoes Part 3
 'allowed': HRO*UD
 'Karen': KAEURPB
 'to': TO
-'gone': TKWOPB
-'confirmed.': K-FRPL/-D TP-PL
-'Yet': KWRET
-'such': SUFP
+'be': -B
+'confirmed': K-FRPL/-D
+'in': TPH
+'red': RED
+'shoes,': SHAOS KW-BG
+'as': AZ
+'she': SHE
 'was': WA
-'case.': KAEUS TP-PL
+'now': TPHOU
+'to': TO
+'be.': -B TP-PL
 'Everybody': EFB
 'looked': HRAOBGD
 'at': AT
 'her': HER
-'feet;': TPAOET STPH*FPLT
-'when': WHEPB
-'stepped': STEPD
-'through': THRU
-'chancel': KHAPB/SEL
-'door': TKAOR
-'on': OPB
+'feet,': TPAOET KW-BG
+'and': SKP
+'the': -T
+'whole': WHOEL
+'of': -F
+'the': -T
+'way': WAEU
+'from': TPR
+'the': -T
 'church': KHUFRPB
-'pavement,': PAEUFPLT KW-BG
+'door': TKAOR
+'to': TO
+'the': -T
+'choir': KHOEUR
 'it': T
 'seemed': SAOEPLD
+'to': TO
+'her': HER
 'as': AZ
 'if': TP
+'even': AOEPB
+'the': -T
+'ancient': AEURBT
 'figures': TPEUGS
-'tombs,': TAOUPLS KW-BG
-'portraits': POR/TRAT/-S
-'preachers': PRAO*EFP/-S
-'preachers'': PRAO*EFP/-S AE
-'wives,': WEUFS KW-BG
-'with': W
+'on': OPB
+'the': -T
+'monuments,': PHOPB/AOUPLTS KW-BG
+'in': TPH
+'their': THAEUR
 'stiff': STEUF
-'ruffs,': R*UF/-S KW-BG
+'collars': KOL/ARS
+'and': SKP
 'long': HROPBG
 'black': PWHRABG
-'dresses,': TKRES/-S KW-BG
-'fixed': TPEUFD
+'robes,': ROEB/-S KW-BG
+'had': H
+'their': THAEUR
 'eyes': AO*EUS
+'fixed': TPEUFD
+'on': OPB
+'her': HER
+'red': RED
 'shoes.': SHAOS TP-PL
-'thought': THAUT
+'It': T
+'was': WA
 'only': OEPBL
-'them': THEPL
+'of': -F
+'these': THEZ
+'that': THA
+'she': SHE
+'thought': THAUT
+'when': WHEPB
+'the': -T
 'clergyman': KHRERPBLG/PHAPB
 'laid': HRAEUD
 'his': HEUS
 'hand': HAPBD
 'upon': POPB
-'head,': HED KW-BG
+'her': HER
+'head': HED
+'and': SKP
 'spoke': SPOEBG
+'of': -F
+'the': -T
 'holy': HOEUL
 'baptism,': PWAP/TEUFPL KW-BG
+'of': -F
+'the': -T
 'covenant': KOFPBT
-'God,': TKPO*D KW-BG
-'should': SHO
+'with': W
+'God,': TKPWOD KW-BG
+'and': SKP
+'told': TOLD
+'her': HER
+'that': THA
+'she': SHE
+'was': WA
 'now': TPHOU
-'matured': PHA/KHURD
-'Christian;': KREUGS STPH*FPLT
-'organ': O*RPBG
-'pealed': PA*EL/-D
-'solemnly;': SOL/EPL/HREU STPH*FPLT
-'sweet': SWAOET
-'children's': KHEURPBS
+'to': TO
+'be': -B
+'a': AEU

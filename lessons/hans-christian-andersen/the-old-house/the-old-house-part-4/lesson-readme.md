@@ -1,125 +1,124 @@
 # The Old House Part 4
 
-* he `E`
-* got `TKPWOT`
-* permission `PERPLGS`
-* of `-F`
+* a `AEU`
+* visit `SREUFT`
+* himself. `H*EUPLS TP-PL`
 * his `HEUS`
-* parents, `PARPBTS KW-BG`
+* parents `PARPBTS`
+* gave `TKPWAEUF`
+* him `HEUPL`
+* permission, `PERPLGS KW-BG`
 * and `SKP`
-* then `THEPB`
-* went `WEPBT`
-* over `OEFR`
+* so `SO`
+* it `T`
+* was `WA`
+* that `THA`
+* he `E`
+* gained `TKPWAEUPBD`
+* admission `AD/PHEUGS`
 * to `TO`
 * the `-T`
 * old `OLD`
 * house. `HOUS TP-PL`
-* brass `PWRAS`
-* balls `PWAULS`
+* brassy `PWRAS/SEU`
+* knobs `TPHOBS`
 * on `OPB`
-* iron `AOEURPB`
 * railings `RAEULG/-S`
 * shone `SHO*EPB`
-* much `PHUFP`
-* brighter `PWRAOEURT`
+* more `PHOR`
+* brightly `PWRAOEULT`
 * than `THAPB`
-* ever; `-FR STPH*FPLT`
-* one `WUPB`
-* would `WO`
-* have `SR`
-* thought `THAUT`
-* they `THE`
-* were `WR`
-* polished `POL/EURBD`
-* account `K-T`
-* visit; `SREUFT STPH*FPLT`
-* it `T`
-* was `WA`
+* ever, `-FR KW-BG`
 * as `AZ`
 * if `TP`
-* carved-out `KAFRBD H-PB OUT`
-* trumpeters--for `XXX trumpeters H-PB H-PB TPOR`
-* there `THR`
-* trumpeters, `XXX trumpeters KW-BG`
-* who `WHO`
-* stood `STAOD`
-* in `TPH`
-* tulips, `TAOU/HREUPS KW-BG`
+* they `THE`
+* had `H`
+* been `PW-PB`
+* polished `POL/EURBD`
+* account `K-T`
+* of `-F`
+* visit; `SREUFT STPH*FPLT`
+* door `TKAOR`
+* were `WR`
 * carved `KAFRBD`
-* out `OUT`
-* door--blew `TKAOR H-PB H-PB PWHRAOU`
+* trumpeters `XXX trumpeters`
+* standing `STAPBG`
+* In `TPH`
+* tulips, `TAOU/HREUPS KW-BG`
+* seemed `SAOEPLD`
+* blowing `PWHROEG`
 * with `W`
-* all `AUL`
+* All `AUL`
 * their `THAEUR`
 * might, `PHAOEUT KW-BG`
 * cheeks `KHAOEBGS`
-* appeared `A/PAOERD`
-* so `SO`
-* rounder `ROUPB/TKER`
-* before. `PW-F TP-PL`
-* Yes, `KWRE KW-BG`
-* blew--"Trateratra! `PWHRAOU H-PB H-PB KR-GS XXX Trateratra SKHRAPL`
+* puffed `PUFD`
+* out. `OUT TP-PL`
+* "Tanta-ra-ra, `KR-GS TAPBT/SKWRA H-PB RA H-PB RA KW-BG`
 * little `HREUL`
 * boy `PWOEU`
-* comes! `KOPLS SKHRAPL`
-* Trateratra!"--and `XXX Trateratra SKHRAPL KR-GS H-PB H-PB SKP`
-* door `TKAOR`
+* is `S`
+* coming; `KO*G STPH*FPLT`
+* Tanta-ra-ra, `TAPBT/SKWRA H-PB RA H-PB RA KW-BG`
+* coming." `KO*G TP-PL KR-GS`
+* then `THEPB`
 * opened. `OEPD TP-PL`
-* whole `WHOEL`
-* passage `PA*PBLG`
+* round `ROUPBD`
+* hall `HAUL`
 * hung `HUPBG`
 * portraits `POR/TRAT/-S`
 * knights `TPHAO*EUT/-S`
 * armor, `AR/PHOR KW-BG`
-* ladies `HRA*EDZ`
-* silken `SEUL/KEPB`
+* ladies `HRAEUDZ`
+* silk `S*EULG`
 * gowns; `TKPWOUPBS STPH*FPLT`
 * armor `AR/PHOR`
 * rattled, `RAT/-LD KW-BG`
-* gowns `TKPWOUPBS`
-* rustled! `RUS/-LD SKHRAPL`
-* a `AEU`
-* flight `TPHRAOEUT`
-* stairs `STAEURS`
-* which `WEU`
-* good `TKPWAOD`
-* way `WAEU`
-* upwards, `UP/WARDZ KW-BG`
-* downwards, `TKOUPB/WARDZ KW-BG`
+* dresses `TKRES/-S`
+* rustled. `RUS/-LD TP-PL`
 * came `KAEUPL`
-* balcony `PWAL/KOEPB`
+* staircase `STAEUR/KAEUS`
+* which `WEU`
+* went `WEPBT`
+* up `UP`
+* long `HROPBG`
+* way, `WAEU KW-BG`
+* down `TKOUPB`
+* way `WAEU`
+* led `HRED`
+* balcony, `PWAL/KOEPB KW-BG`
 * very `SRE`
-* dilapidated `TKHRAP/TAEUT/-D`
-* state, `STA*ET KW-BG`
-* sure `SHUR`
-* enough, `TPHUF KW-BG`
+* ruinous `XXX ruinous`
+* state. `STAEUT TP-PL`
+* There `THR`
 * large `HRARPBLG`
 * holes `HOELS`
-* long `HROPBG`
-* crevices, `KREFS/-S KW-BG`
-* but `PWUT`
-* grass `TKPWRAS`
+* cracks, `KRABGZ KW-BG`
+* out `OUT`
 * grew `TKPWRAOU`
-* leaves `HREFS`
-* them `THEPL`
-* altogether, `HR-GT KW-BG`
-* for `TPOR`
-* outside, `OUDZ KW-BG`
-* yard, `KWRARD KW-BG`
-* walls, `WAULS KW-BG`
+* grass `TKPWRAS`
+* leaves, `HREFS KW-BG`
+* indeed `TPHAOEPBD`
+* whole `WHOEL`
+* courtyard, `KORT/KWRARD KW-BG`
+* walls `WAULS`
 * overgrown `XXX overgrown`
 * green `TKPWRAOEPB`
-* stuff, `STUF KW-BG`
-* that `THA`
 * looked `HRAOBGD`
 * like `HRAOEUBG`
-* garden; `TKPWA*RPB STPH*FPLT`
-* only `OEPBL`
-* balcony. `PWAL/KOEPB TP-PL`
-* Here `HAOER`
-* flower-pots `TPHRO*UR H-PB POTS`
-* faces `TPAEUFS`
+* garden. `TKPWA*RPB TP-PL`
+* balcony `PWAL/KOEPB`
+* stood `STAOD`
+* flower-pots, `TPHRO*UR H-PB POTS KW-BG`
+* heads `HEDZ`
+* having `SR-G`
 * asses' `A*S/-S AE`
 * ears, `AOERS KW-BG`
+* but `PWUT`
 * flowers `TPHRO*URS`
+* them `THEPL`
 * just `SKWRUFT`
+* pleased. `PHRAOEFD TP-PL`
+* one `WUPB`
+* pot `POT`
+* pinks `PEUPB/-BGS`

@@ -1,138 +1,136 @@
 # The Bell Part 8
 
-* shall `SHAL`
-* not `TPHOT`
-* meet," `PHAOET KW-BG KR-GS`
-* said `SAEUD`
-* the `-T`
-* King's `KEUPBG AE S*/SP-S`
-* Son, `SOPB KW-BG`
-* nodding `TPHOD/-G`
-* at `AT`
-* same `SAEUPL`
-* time `TAOEUPL`
-* to `TO`
-* poor `PAOR`
-* boy, `PWOEU KW-BG`
-* who `WHO`
-* went `WEPBT`
-* into `TPHAO`
-* darkest, `TKARBG/EFT KW-BG`
-* thickest `THEUBG/EFT`
-* part `PART`
-* of `-F`
-* wood, `WAOD KW-BG`
-* where `W-R`
-* thorns `THORPB/-S`
-* tore `TO*R`
-* his `HEUS`
-* humble `UPL/-BL`
-* dress, `TKRES KW-BG`
+* hands, `HAPBDZ KW-BG`
+* face, `TPAEUS KW-BG`
 * and `SKP`
-* scratched `SKRAFPD`
-* face `TPAEUS`
-* hands `HAPBDZ`
 * feet `TPAOET`
-* till `T*EUL`
+* until `TPH-L`
 * they `THE`
 * bled. `PWHRED TP-PL`
+* The `-T`
+* king's `KEUPBG AE S*/SP-S`
 * son `SOPB`
-* got `TKPWOT`
-* some `SOPL`
-* scratches `SKRAFPS`
-* too; `TAO STPH*FPLT`
+* also `HR-S`
+* received `SAOEFD`
+* several `SEFRL`
+* good `TKPWAOD`
+* scratches, `SKRAFPS KW-BG`
 * But `PWUT`
 * sun `SUPB`
-* shone `SHO*EPB`
+* was `WA`
+* shining `SHAOEUPBG`
 * on `OPB`
-* path, `PA*T KW-BG`
+* his `HEUS`
+* way, `WAEU KW-BG`
 * it `T`
 * is `S`
-* him `HEUPL`
-* that `THA`
+* he `E`
+* whom `WHOPL`
 * we `WE`
 * will `HR`
+* now `TPHOU`
 * follow, `TPOL KW-BG`
 * for `TPOR`
-* he `E`
-* was `WA`
-* an `APB`
-* excellent `KPHREPBT`
-* resolute `RES/HRAOUT`
-* youth. `KWRAO*UT TP-PL`
+* a `AEU`
+* quick `KWEUBG`
+* fellow. `TPO*EUL TP-PL`
 * "I `KR-GS EU`
 * must `PHUFT`
 * find `TPEUPBD`
 * bell," `PWEL KW-BG KR-GS`
-* he, `E KW-BG`
-* "even `KR-GS *EFPB`
-* if `TP`
+* said, `SAEUD KW-BG`
+* "if `KR-GS TP`
 * I `EU`
-* am `*PL`
-* obliged `OB/HRAOEUPBLG/-D`
+* have `SR`
+* to `TO`
 * go `TKPW`
 * end `EPBD`
+* of `-F`
 * world." `WORLD TP-PL KR-GS`
-* ugly `ULG`
-* apes `AEUP/-S`
+* Ugly `ULG`
+* monkeys `PHOPB/KEUS`
 * sat `SAT`
-* upon `POPB`
-* trees, `TRAOES KW-BG`
-* grinned. `TKPWREUPB/-D TP-PL`
+* high `HAOEU`
+* in `TPH`
+* branches `PWRAFPBS`
+* clenched `KHREPB/-FPD`
+* their `THAEUR`
+* teeth. `TAO*ET TP-PL`
 * "Shall `KR-GS SHAL`
-* thrash `THRARB`
+* beat `PWAET`
 * him?" `HEUPL H-F KR-GS`
-* they. `THE TP-PL`
+* said. `SAEUD TP-PL`
+* thrash `THRARB`
 * him? `HEUPL H-F`
-* a `AEU`
-* king!" `KEUPBG SKHRAPL KR-GS`
-* went, `WEPBT KW-BG`
-* without `WOUT`
-* being `-BG`
-* disheartened, `TKEUS/HART/*EPB/-D KW-BG`
+* son!" `SOPB SKHRAPL KR-GS`
+* walked `WAUBGD`
+* undaunted, `XXX undaunted KW-BG`
 * deeper `TKAOERP`
-* most `PHO*S`
+* into `TPHAO`
+* wood, `WAOD KW-BG`
+* where `W-R`
+* most `PHOFT`
 * wonderful `WUFL`
 * flowers `TPHRO*URS`
 * were `WR`
-* growing. `TKPWROEG TP-PL`
-* There `THR`
-* stood `STAOD`
+* growing; `TKPWROEG STPH*FPLT`
+* there `THR`
+* standing `STAPBG`
 * white `WHAOEUT`
+* star `STAR`
 * lilies `HREUL/KWREU/KWREU/-S`
 * with `W`
 * blood-red `PWHRAOD H-PB RED`
-* stamina, `STAPL/TPHA KW-BG`
-* skyblue `XXX skyblue`
-* tulips, `TAOU/HREUPS KW-BG`
-* which `WEU`
-* as `AZ`
-* waved `WAFD`
-* in `TPH`
-* winds, `WEUPBDZ KW-BG`
-* apple-trees, `A*EPL H-PB TRAOES KW-BG`
+* stamens, `STAEUPL/-PBS KW-BG`
+* sky-blue `SKAOEU H-PB PWHRU`
+* tulips `TAOU/HREUPS`
+* when `WHEPB`
+* wind `WEUPBD`
+* moved `PHOFD`
+* them; `THEPL STPH*FPLT`
+* apple-trees `A*EPL H-PB TRAOES`
+* covered `KOFRD`
 * apples `APLS`
-* looked `HRAOBGD`
-* exactly `ELG`
 * like `HRAOEUBG`
 * large `HRARPBLG`
-* soapbubbles: `XXX soapbubbles STPH-FPLT`
-* so `SO`
+* glittering `TKPWHREUT/ERG`
+* soap `SOEP`
+* bubbles: `PWUBLS STPH-FPLT`
 * only `OEPBL`
 * think `THEU`
 * how `HOU`
+* resplendent `RE/SPHREPBD/EPBT`
+* these `THEZ`
 * trees `TRAOES`
-* have `SR`
-* sparkled `SPAR/K-LD`
 * sunshine! `S*UPB/SHAOEUPB SKHRAPL`
-* Around `ARPBD`
-* nicest `TPHAOEUS/*ES`
+* All `AUL`
+* around `ARPBD`
+* beautiful `PWAOUFL`
 * green `TKPWRAOEPB`
-* meads, `PHAO*EDZ KW-BG`
-* deer `TKAOER`
-* playing `PHRA*EUG`
-* grass, `TKPWRAS KW-BG`
+* meadows, `PHED/OES KW-BG`
+* hart `HA*RT`
+* hind `HAOEUPBD`
+* played `PHRAEUD`
+* grass. `TKPWRAS TP-PL`
 * grew `TKPWRAOU`
 * magnificent `PHAFPBT`
 * oaks `OEBG/-S`
-* beeches; `PWAOEFP/-S STPH*FPLT`
+* beech-trees; `PWAOEFP H-PB TRAOES STPH*FPLT`
+* if `TP`
+* bark `PWARBG`
+* split `SPHREUT`
+* any `TPHEU`
+* them, `THEPL KW-BG`
+* long `HROPBG`
+* blades `PWHRAEUDZ`
+* grass `TKPWRAS`
+* out `OUT`
+* clefts; `KHREFT/-S STPH*FPLT`
+* smooth `SPHAO*T`
+* lakes `HRAEUBGS`
+* which `WEU`
+* swans `SWAPBS`
+* swimming `SWEUPLG`
+* about `PW`
+* flapping `TPHRAPG`
+* wings. `WEUPBGS TP-PL`

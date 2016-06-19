@@ -1,126 +1,124 @@
 # The Happy Family Part 6
 
-* "Well, `KR-GS WEL KW-BG`
-* then, `THEPB KW-BG`
+* be `-B`
+* married. `PHAERD TP-PL`
+* it `T`
+* is `S`
+* only `OEPBL`
+* a `AEU`
+* hundred `HUPBD`
+* man-steps `PHAPB H-PB STEPS`
+* from `TPR`
+* here." `HAOER TP-PL KR-GS`
+* "Then `KR-GS THEPB`
 * let `HRET`
 * her `HER`
 * come `KOPL`
 * to `TO`
-* him!" `HEUPL SKHRAPL KR-GS`
+* him," `HEUPL KW-BG KR-GS`
 * said `SAEUD`
 * the `-T`
 * old `OLD`
-* ones. `WUPBZ TP-PL`
+* people. `PAOEPL TP-PL`
 * "He `KR-GS E`
 * has `HAS`
-* a `AEU`
 * whole `WHOEL`
-* forest `TPO*RS`
-* of `-F`
-* burdocks, `XXX burdocks KW-BG`
-* she `SHE`
-* only `OEPBL`
-* bush!" `PWURB SKHRAPL KR-GS`
-* and `SKP`
+* burdock `XXX burdock`
+* forest; `TPOEFRT STPH*FPLT`
+* She `SHE`
+* bush." `PWURB TP-PL KR-GS`
 * so `SO`
-* They `THE`
-* went `WEPBT`
-* fetched `TPEFP/-D`
+* they `THE`
+* brought `PWRAUT`
 * little `HREUL`
-* Miss `PHEUS`
-* Snail. `STPHAEUL TP-PL`
-* it `T`
-* was `WA`
-* week `WAOEBG`
-* before `PW-F`
-* arrived; `A/REUFD STPH*FPLT`
-* but `PWUT`
-* therein `THR-PB`
-* just `SKWRUFT`
-* very `SRE`
-* best `PWEFT`
-* it, `T KW-BG`
-* for `TPOR`
-* one `WUPB`
-* could `KO`
-* thus `THUS`
-* see `SAOE`
+* lady-snail. `HRA*ED H-PB STPHAEUL TP-PL`
+* took `TAOBG`
+* eight `AET`
+* days `TKAEUS`
+* perform `PORPL`
+* journey; `SKWRURPB STPH*FPLT`
+* But `PWUT`
 * that `THA`
-* same `SAEUPL`
-* species. `SPAOES TP-PL`
-* then `THEPB`
-* marriage `PHAERPBLG`
-* celebrated. `SEL/PWRAEUT/-D TP-PL`
-* Six `SEUBGS`
-* earth-worms `*ERT H-PB WORPLS`
-* shone `SHO*EPB`
+* was `WA`
+* just `SKWRUFT`
 * as `AZ`
-* well `WEL`
-* could. `KO TP-PL`
+* ought `OT`
+* be; `-B STPH*FPLT`
+* for `TPOR`
+* showed `SHOED`
+* one `WUPB`
+* of `-F`
+* right `RAOEUT`
+* breeding. `PWRAOED/-G TP-PL`
+* and `SKP`
+* Then `THEPB`
+* had `H`
+* wedding. `WEGD TP-PL`
+* Six `SEUBGS`
+* glow-worms `TKPWHROE H-PB WORPLS`
+* gave `TKPWAEUF`
+* much `PHUFP`
+* light `HRAOEUT`
+* could; `KO STPH*FPLT`
 * in `TPH`
 * other `OER`
 * respects `R-PTS`
-* off `OF`
-* quietly, `KWAO*EULT KW-BG`
-* folks `TPOBG`
+* all `AUL`
+* very `SRE`
+* quiet; `KWAO*EUT STPH*FPLT`
+* snails `STPHAEUL/-S`
+* could `KO`
 * not `TPHOT`
 * bear `PWAER`
-* noise `TPHOEUS`
-* merriment; `PHER/*PLT STPH*FPLT`
-* Dame `TKAEUPL`
-* Snail `STPHAEUL`
+* festivities `TPEFT/EUFT/TEU/-S`
+* or `OR`
+* crowd. `KROUD TP-PL`
+* beautiful `PWAOUFL`
+* speech `SPAOEFP`
 * made `PHAED`
-* brilliant `PWREULT`
-* speech. `SPAOEFP TP-PL`
-* Father `TPAER`
-* speak, `SPAOEBG KW-BG`
+* by `PWEU`
+* mother-snail. `PHOER H-PB STPHAEUL TP-PL`
+* father `TPAER`
+* speak; `SPAOEBG STPH*FPLT`
 * he `E`
 * too `TAO`
-* much `PHUFP`
-* affected; `A/TPEBGD STPH*FPLT`
-* gave `TKPWAEUF`
-* them `THEPL`
-* dowry `TKOU/REU`
+* overcome. `AUFR/KOPL TP-PL`
+* forest `TPOEFRT`
+* young `KWRUPBG`
+* an `APB`
 * inheritance, `EUPB/HER/TAPBS KW-BG`
-* said--what `SAEUD H-PB H-PB WHA`
-* had `H`
-* always `AULS`
-* said--that `SAEUD H-PB H-PB THA`
-* world; `WORLD STPH*FPLT`
+* repeated `RE/PAOETD`
+* what `WHA`
+* often `OFPB`
+* said, `SAEUD KW-BG`
+* finest `TPAOEUPB/EFT`
+* place `PHRAEUS`
+* world, `WORLD KW-BG`
 * if `TP`
-* lived `HREUFD`
-* honestly `HOPB/EFT/HREU`
-* decently, `TKAOEPBLT KW-BG`
-* increased `EUPB/KRAOES/-D`
-* multiplied, `PHULT/PHRAOEUD KW-BG`
+* led `HRED`
+* upright `UP/RAOEUGT`
+* honorable `HOPB/RABL`
+* lives, `HREUFS KW-BG`
 * their `THAEUR`
+* family `TPAEPL`
+* increased, `EUPB/KRAOES/-D KW-BG`
 * children `KHEURPB`
-* would `WO`
-* once `WUPBS`
-* course `KORS`
-* time `TAOEUPL`
-* manor-house, `PHA/TPHOR H-PB HOUS KW-BG`
-* be `-B`
+* might `PHAOEUT`
+* some `SOPL`
+* day `TKAEU`
+* taken `TAEPB`
+* nobleman's `XXX nobleman AE S*/SP-S`
+* palace, `PAL/AS KW-BG`
 * boiled `PWOEULD`
 * black, `PWHRABG KW-BG`
 * laid `HRAEUD`
 * on `OPB`
 * silver `SEUL/SRER`
-* dishes. `TKEURBS TP-PL`
-* After `AF`
-* this `TH`
-* speech `SPAOEFP`
-* made, `PHAED KW-BG`
-* ones `WUPBZ`
+* dish. `TKEURB TP-PL`
+* when `WHEPB`
+* finished `TP*EURBD`
+* speaking, `SPAOEG KW-BG`
+* couple `KUPL`
 * crept `KREPT`
 * into `TPHAO`
-* shells, `SHELS KW-BG`
-* never `TPHEF`
-* more `PHOR`
-* came `KAEUPL`
-* out. `OUT TP-PL`
-* slept; `SHREPD STPH*FPLT`
-* young `KWRUPBG`
-* couple `KUPL`
-* governed `TKPWOFRPBD`
-* forest, `TPO*RS KW-BG`
+* houses, `HO*UFS KW-BG`

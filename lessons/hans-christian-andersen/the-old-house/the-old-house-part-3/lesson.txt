@@ -1,114 +1,202 @@
 The Old House Part 3
 
-'plush': PHRURB
-'breeches': PWRAOEFP/-S
-'was': WA
+'man': PHAPB
+'came': KAEUPL
+'to': TO
+'clean': KHAOEPB
+'the': -T
+'rooms,': RAOPLS KW-BG
+'and': SKP
+'to': TO
+'wait': WAEUT
+'upon': POPB
+'him,': HEUPL KW-BG
+'otherwise': O*ERZ
+'the': -T
+'old': OLD
+'man': PHAPB
+'in': TPH
+'the': -T
+'knee-breeches': TPHAOE H-PB PWRAOEFP/-S
+'would': WO
+'have': SR
+'been': PW-PB
 'quite': KWAOEUT
 'alone': A/HROEPB
 'in': TPH
 'the': -T
-'old': OLD
 'house.': HOUS TP-PL
-'Now': TPHOU
-'and': SKP
-'then': THEPB
+'Sometimes': STAOEUPLS
 'he': E
 'came': KAEUPL
 'to': TO
-'window': WOEUPBD
+'one': WUPB
+'of': -F
+'the': -T
+'windows': WO*EUPBDZ
+'and': SKP
 'looked': HRAOBGD
-'out,': OUT KW-BG
+'out;': OUT STPH*FPLT
+'then': THEPB
+'the': -T
 'little': HREUL
 'boy': PWOEU
 'nodded': TPHOD/-D
+'to': TO
 'him,': HEUPL KW-BG
+'and': SKP
+'the': -T
+'old': OLD
 'man': PHAPB
+'nodded': TPHOD/-D
+'back': PWABG
 'again,': TKPWEPB KW-BG
-'so': SO
+'till': T*EUL
 'they': THE
 'became': PWAEUPL
-'acquaintances,': A/KWAEUBT/APBS/-S KW-BG
+'acquainted,': A/KWAEUPBTD KW-BG
+'and': SKP
 'were': WR
 'friends,': TPREPBDZ KW-BG
 'although': HR*T
+'they': THE
 'had': H
 'never': TPHEF
 'spoken': SPOEPB
+'to': TO
 'each': AOEFP
-'other--but': OER H-PB H-PB PWUT
+'other;': OER STPH*FPLT
+'but': PWUT
 'that': THA
-'made': PHAED
+'was': WA
+'of': -F
 'no': TPHO
-'difference.': TKEUFRPBS TP-PL
+'consequence.': KWEPBS TP-PL
+'The': -T
+'little': HREUL
+'boy': PWOEU
+'one': WUPB
+'day': TKAEU
 'heard': HERD
 'his': HEUS
 'parents': PARPBTS
 'say,': SAEU KW-BG
 '"The': KR-GS -T
+'old': OLD
+'man': PHAPB
 'opposite': OP/SEUT
 'is': S
 'very': SRE
 'well': WEL
 'off,': OF KW-BG
 'but': PWUT
-'very,': SRE KW-BG
-'lonely!"': HROPBL SKHRAPL KR-GS
+'is': S
+'terribly': TER/PWHREU
+'lonely."': HROPBL TP-PL KR-GS
+'The': -T
+'next': TPHEGT
 'Sunday': SUPBD
-'following,': TPOLG KW-BG
-'took': TAOBG
-'something,': S-G KW-BG
+'morning': PHORPBG
+'the': -T
+'little': HREUL
+'boy': PWOEU
 'wrapped': WRAPD
-'it': T
-'up': UP
+'something': S-G
+'in': TPH
 'a': AEU
 'piece': PAOES
 'of': -F
-'paper,': PAEUP KW-BG
-'went': WEPBT
-'downstairs,': TKOUPB/STAEURS KW-BG
-'stood': STAOD
-'doorway;': TKAOR/WAEU STPH*FPLT
-'when': WHEPB
-'who': WHO
-'on': OPB
-'errands': ERPBDZ
-'past,': PAFT KW-BG
+'paper': PAEUP
+'and': SKP
+'took': TAOBG
+'it': T
+'to': TO
+'the': -T
+'door': TKAOR
+'of': -F
+'the': -T
+'old': OLD
+'house,': HOUS KW-BG
+'and': SKP
 'said': SAEUD
-'him--': HEUPL H-PB H-PB
-'"I': KR-GS EU
-'master!': PHAFRT SKHRAPL
-'will': HR
+'to': TO
+'the': -T
+'attendant': A/TEPBD/APBT
+'who': WHO
+'waited': WAEUTD
+'upon': POPB
+'the': -T
+'old': OLD
+'man,': PHAPB KW-BG
+'"Will': KR-GS HR
 'you': U
+'please': PHREZ
 'give': TKPWEUF
 'this': TH
-'over': OEFR
-'way': WAEU
 'from': TPR
-'me?': PHE H-F
+'me': PHE
+'to': TO
+'the': -T
+'gentleman': SKWRA*PL
+'who': WHO
+'lives': HREUFS
+'here;': HAOER STPH*FPLT
 'I': EU
 'have': SR
 'two': TWO
-'pewter': PAOU/TER
-'soldiers--this': SHRERPBLGS H-PB H-PB TH
+'tin': TEUPB
+'soldiers,': SHRERPBLGS KW-BG
+'and': SKP
+'this': TH
+'is': S
 'one': WUPB
+'of': -F
 'them,': THEPL KW-BG
+'and': SKP
+'he': E
 'shall': SHAL
+'have': SR
 'it,': T KW-BG
-'for': TPOR
+'because': PWAU
+'I': EU
 'know': TPHOE
+'he': E
+'is': S
+'terribly': TER/PWHREU
 'lonely."': HROPBL TP-PL KR-GS
-'errand': ER/APBD
+'And': SKP
+'the': -T
+'old': OLD
+'attendant': A/TEPBD/APBT
+'nodded': TPHOD/-D
+'and': SKP
+'looked': HRAOBGD
+'very': SRE
 'pleased,': PHRAOEFD KW-BG
-'nodded,': TPHOD/-D KW-BG
+'and': SKP
+'then': THEPB
+'he': E
+'carried': KAERD
+'the': -T
+'tin': TEUPB
 'soldier': SHRERPBL
+'into': TPHAO
+'the': -T
+'house.': HOUS TP-PL
 'Afterwards': A*FRDZ
-'there': THR
-'message;': PHEPBLG STPH*FPLT
+'he': E
+'was': WA
+'sent': SEPBT
+'over': OEFR
+'to': TO
 'ask': SK
+'the': -T
+'little': HREUL
+'boy': PWOEU
 'if': TP
-'himself': H*EUPLS
+'he': E
+'would': WO
 'not': TPHOT
-'wish': WEURB
-'come': KOPL
+'like': HRAOEUBG
+'to': TO
 'pay': PAEU
-'visit;': SREUFT STPH*FPLT

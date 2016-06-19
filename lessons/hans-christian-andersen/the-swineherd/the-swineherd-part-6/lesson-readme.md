@@ -1,137 +1,127 @@
 # The Swineherd Part 6
 
-* him `HEUPL`
+* made `PHAED`
+* a `AEU`
+* rattle, `RA*LT KW-BG`
+* which, `WEU KW-BG`
+* when `WHEPB`
+* turned `TURPBD`
+* quickly `KWEULG`
+* round, `ROUPBD KW-BG`
+* played `PHRAEUD`
+* all `AUL`
 * the `-T`
-* price `PRAOEUS`
+* waltzes, `WAULGT/-S KW-BG`
+* galops, `XXX galops KW-BG`
+* and `SKP`
+* polkas `POE/KA/-S`
+* known `TPHOEPB`
+* since `SEUPBS`
+* creation `KRAEGS`
 * of `-F`
-* instrument; `STRUPLT STPH*FPLT`
-* but `PWUT`
-* mind, `PHAOEUPBD KW-BG`
-* he `E`
-* shall `SHAL`
+* world. `WORLD TP-PL`
+* "But `KR-GS PWUT`
+* that `THA`
+* is `S`
+* superbe," `XXX superbe KW-BG KR-GS`
+* said `SAEUD`
+* princess `PREUPB/ES`
+* passing `PAFG`
+* by. `PWEU TP-PL`
+* "I `KR-GS EU`
 * have `SR`
-* no `TPHO`
+* never `TPHEF`
+* heard `HERD`
 * more `PHOR`
-* kisses!" `KEUS/-S SKHRAPL KR-GS`
+* beautiful `PWAOUFL`
+* composition. `KPOGS TP-PL`
+* go `TKPW`
+* down `TKOUPB`
+* ask `SK`
+* him `HEUPL`
+* what `WHA`
+* instrument `STRUPLT`
+* costs; `KOFTS STPH*FPLT`
+* but `PWUT`
+* I `EU`
+* shall `SHAL`
+* not `TPHOT`
+* kiss `KEUS`
+* again." `TKPWEPB TP-PL KR-GS`
 * "He `KR-GS E`
 * will `HR`
-* a `AEU`
 * hundred `HUPBD`
 * kisses `KEUS/-S`
 * from `TPR`
-* Princess!" `PREUPB/ES SKHRAPL KR-GS`
-* said `SAEUD`
-* lady `HRA*ED`
+* princess," `PREUPB/ES KW-BG KR-GS`
+* lady, `HRA*ED KW-BG`
 * who `WHO`
 * had `H`
-* been `PW-PB`
-* to `TO`
-* ask. `SK TP-PL`
-* "I `KR-GS EU`
-* think `THEU`
-* is `S`
-* not `TPHOT`
-* in `TPH`
-* his `HEUS`
-* right `RAOEUT`
-* senses!" `SEPBS/-S SKHRAPL KR-GS`
-* Princess, `PREUPB/ES KW-BG`
-* and `SKP`
-* walked `WAUBGD`
-* on, `OPB KW-BG`
-* when `WHEPB`
-* she `SHE`
 * gone `TKWOPB`
-* little `HREUL`
-* way, `WAEU KW-BG`
-* stopped `STOPD`
-* again. `TKPWEPB TP-PL`
+* to `TO`
+* him. `HEUPL TP-PL`
+* believe `PWHREF`
+* he `E`
+* mad," `PHAD KW-BG KR-GS`
+* princess, `PREUPB/ES KW-BG`
+* walked `WAUBGD`
+* off, `OF KW-BG`
+* soon `SAOPB`
+* she `SHE`
+* stopped. `STOPD TP-PL`
 * "One `KR-GS WUPB`
 * must `PHUFT`
 * encourage `EPB/KORPBG`
 * art," `ART KW-BG KR-GS`
-* she, `SHE KW-BG`
-* am `*PL`
-* Emperor's `EPL/ROR AE S*/SP-S`
-* daughter. `TKAUR TP-PL`
+* said. `SAEUD TP-PL`
+* am `APL`
+* emperor's `EPL/ROR AE S*/SP-S`
+* daughter! `TKAUR SKHRAPL`
 * Tell `TEL`
-* shall, `SHAL KW-BG`
-* as `AZ`
-* on `OPB`
-* yesterday, `KWRED KW-BG`
+* give `TKPWEUF`
 * ten `TEPB`
-* me, `PHE KW-BG`
-* may `PHAE`
-* take `TAEUBG`
-* rest `REFT`
-* ladies `HRA*EDZ`
-* court." `KORT TP-PL KR-GS`
-* "Oh--but `KR-GS O*ERBGS H-PB H-PB PWUT`
-* we `WE`
-* should `SHO`
-* like `HRAOEUBG`
-* that `THA`
-* at `AT`
-* all!" `AUL SKHRAPL KR-GS`
-* they. `THE TP-PL`
-* "What `KR-GS WHA`
-* are `R`
-* you `U`
-* muttering?" `PHUT/*ER/-G H-F KR-GS`
-* asked `SK-D`
-* Princess. `PREUPB/ES TP-PL`
-* "If `KR-GS TP`
-* I `EU`
+* kisses, `KEUS/-S KW-BG`
+* as `AZ`
+* did `TK`
+* other `OER`
+* day; `TKAEU STPH*FPLT`
+* remainder `RAEURPBD`
+* one `WUPB`
+* my `PHEU`
+* ladies `HRAEUDZ`
 * can `K`
-* kiss `KEUS`
+* we `WE`
+* do `TKO`
+* like `HRAOEUBG`
+* him," `HEUPL KW-BG KR-GS`
+* ladies. `HRAEUDZ TP-PL`
+* "That `KR-GS THA`
+* nonsense," `TPHOPB/SEPBS KW-BG KR-GS`
+* princess; `PREUPB/ES STPH*FPLT`
+* "if `KR-GS TP`
 * him, `HEUPL KW-BG`
-* surely `SHURL`
-* can. `K TP-PL`
+* you `U`
+* also `HR-S`
+* it. `T TP-PL`
 * Remember `REB`
-* owe `OE`
-* everything `EFG`
-* me." `PHE TP-PL KR-GS`
-* So `SO`
-* were `WR`
-* obliged `OB/HRAOEUPBLG/-D`
-* go `TKPW`
+* food `TPAOD`
+* employment." `PHROEUPLT TP-PL KR-GS`
+* lady `HRA*ED`
+* once `WUPBS`
+* more. `PHOR TP-PL`
 * "A `KR-GS AEU`
-* Princess," `PREUPB/ES KW-BG KR-GS`
-* he, `E KW-BG`
+* swineherd, `XXX swineherd KW-BG`
 * "or `KR-GS OR`
-* else `ELS`
-* let `HRET`
-* everyone `EFPB`
-* keep `KAOEP`
-* own!" `OEPB SKHRAPL KR-GS`
-* "Stand `KR-GS STAPBD`
-* round!" `ROUPBD SKHRAPL KR-GS`
-* she; `SHE STPH*FPLT`
-* all `AUL`
-* stood `STAOD`
-* round `ROUPBD`
-* her `HER`
-* whilst `WHAOEULS`
-* kissing `KEUFG`
-* was `WA`
-* going `TKPW-G`
-* on. `OPB TP-PL`
-* be `-B`
-* reason `R-PB`
-* for `TPOR`
-* such `SUFP`
-* crowd `KROUD`
-* close `KHROES`
-* by `PWEU`
-* pigsty?" `XXX pigsty H-F KR-GS`
-* Emperor, `EPL/ROR KW-BG`
-* happened `HAPD`
-* just `SKWRUFT`
-* then `THEPB`
-* step `STEP`
-* out `OUT`
-* balcony; `PWAL/KOEPB STPH*FPLT`
-* rubbed `RUBD`
-* eyes, `AO*EUS KW-BG`
-* put `PUT`
-* spectacles. `SPEBGT/K-LS TP-PL`
+* everybody `EFB`
+* keeps `KAOEPS`
+* his `HEUS`
+* own." `OEPB TP-PL KR-GS`
+* "Place `KR-GS PHRAEUS`
+* yourselves `KWRO*URSZ`
+* before `PW-F`
+* me," `PHE KW-BG KR-GS`
+* then. `THEPB TP-PL`
+* they `THE`
+* were `WR`
+* bidden, `XXX bidden KW-BG`
+* kissed `K*EUFD`

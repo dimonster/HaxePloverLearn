@@ -1,125 +1,132 @@
 # The Old House Part 2
 
-* high `HAOEU`
-* as `AZ`
-* to `TO`
-* a `AEU`
-* church `KHUFRPB`
-* tower. `TOUR TP-PL`
+* that `THA`
+* direction. `TKREBGS TP-PL`
 * the `-T`
-* iron `AOEURPB`
-* railings `RAEULG/-S`
-* look `HRAOBG`
-* just `SKWRUFT`
-* like `HRAOEUBG`
-* door `TKAOR`
-* an `APB`
-* old `OLD`
-* family `TPAEPL`
-* vault, `SRALT KW-BG`
-* and `SKP`
-* then `THEPB`
-* they `THE`
-* have `SR`
-* brass `PWRAS`
-* tops--that's `TOPS H-PB H-PB THA AE S*/SP-S`
-* so `SO`
-* stupid!" `STAOUPD SKHRAPL KR-GS`
-* on `OPB`
-* other `OER`
-* side `SAOEUD`
+* stairs `STAEURS`
+* are `R`
+* as `AZ`
+* broad `PWROD`
+* staircase `STAEUR/KAEUS`
 * of `-F`
-* street `STRAOET`
+* a `AEU`
+* castle, `KAFL KW-BG`
+* and `SKP`
+* steep `STAOEP`
+* if `TP`
+* they `THE`
+* led `HRED`
+* to `TO`
+* church-tower. `KHUFRPB H-PB TOUR TP-PL`
+* iron `AOEURPB`
+* railing `RAEULG`
+* looks `HAOBGS`
+* like `HRAOEUBG`
+* gate `TKPWAET`
+* cemetery, `SEPL/TER KW-BG`
+* there `THR`
+* brass `PWRAS`
+* knobs `TPHOBS`
+* upon `POPB`
+* it. `T TP-PL`
+* it `T`
+* is `S`
+* really `HROERL`
+* too `TAO`
+* ridiculous." `REULGS TP-PL KR-GS`
+* Opposite `OP/SEUT`
+* old `OLD`
+* house `HOUS`
 * were `WR`
-* also `HR-S`
+* more `PHOR`
+* nice `TPHAOEUS`
 * new `TPHU`
-* neat `TPHAOET`
 * houses, `HO*UFS KW-BG`
-* thought `THAUT`
-* others `OERS`
-* did; `TK STPH*FPLT`
-* but `PWUT`
+* which `WEU`
+* had `H`
+* just `SKWRUFT`
+* same `SAEUPL`
+* opinion `P-PB`
+* their `THAEUR`
+* neighbors. `TPHAEUBS TP-PL`
 * at `AT`
 * window `WOEUPBD`
-* opposite `OP/SEUT`
-* house `HOUS`
-* there `THR`
+* one `WUPB`
+* them `THEPL`
 * sat `SAT`
 * little `HREUL`
 * boy `PWOEU`
 * with `W`
 * fresh `TPRERB`
-* rosy `ROE/S*EU`
-* cheeks `KHAOEBGS`
-* bright `PWRAOEUT`
-* beaming `PWAEPL/-G`
-* eyes: `AO*EUS STPH-FPLT`
-* he `E`
-* certainly `SERPBL`
-* liked `HRAOEUBGD`
-* best, `PW*ES KW-BG`
-* that `THA`
-* both `PWO*T`
+* rosy `ROEZ/SEU`
+* cheeks, `KHAOEBGS KW-BG`
+* clear `KHRAOER`
+* sparkling `SPAR/K-LG`
+* eyes, `AO*EUS KW-BG`
+* who `WHO`
+* was `WA`
+* very `SRE`
+* fond `TPOPBD`
+* house, `HOUS KW-BG`
 * in `TPH`
 * sunshine `S*UPB/SHAOEUPB`
-* moonshine. `XXX moonshine TP-PL`
-* when `WHEPB`
-* looked `HRAOBGD`
-* across `A/KROS`
-* wall `WAUL`
-* where `W-R`
-* mortar `PHOR/TAR`
-* had `H`
-* fallen `TPAUL/-PB`
-* out, `OUT KW-BG`
-* could `KO`
+* or `OR`
+* moonlight. `PHAOLGT TP-PL`
+* He `E`
+* would `WO`
 * sit `SEUT`
-* find `TPEUPBD`
-* out `OUT`
-* strangest `STRAEUPBG/*ES`
-* figures `TPEUGS`
-* imaginable; `PHAPBLG/-BL STPH*FPLT`
-* exactly `ELG`
-* appeared `A/PAOERD`
-* before, `PW-F KW-BG`
-* steps, `STEPS KW-BG`
-* projecting `PROPBLG/-G`
-* windows, `WO*EUPBDZ KW-BG`
-* pointed `POEUPTD`
-* gables; `TKPWAEUBL/-S STPH*FPLT`
+* look `HRAOBG`
+* wall `WAUL`
+* from `TPR`
+* plaster `PHRAFRT`
+* some `SOPL`
+* places `PHRAEUFS`
+* fallen `TPAUL/-PB`
+* off, `OF KW-BG`
+* fancy `TPAPB/SEU`
+* all `AUL`
+* sorts `SORTS`
+* scenes `SAOEPBS`
+* been `PW-PB`
+* former `TPORPL/*ER`
+* times. `TAOEUPLS TP-PL`
+* How `HOU`
+* street `STRAOET`
+* must `PHUFT`
+* have `SR`
+* looked `HRAOBGD`
+* when `WHEPB`
+* houses `HO*UFS`
+* gable `TKPWAEUBL`
+* roofs, `RAOFS KW-BG`
+* open `OEP`
+* staircases, `STAEUR/KAEUS/-S KW-BG`
+* gutters `TKPWUT/ERS`
+* dragons `TKRAG/O*PB/-S`
+* spout. `SPOUT TP-PL`
+* could `KO`
+* even `AOEPB`
 * see `SAOE`
 * soldiers `SHRERPBLGS`
-* halberds, `XXX halberds KW-BG`
-* spouts `SPOUTS`
-* water `WAUR`
-* ran, `RAPB KW-BG`
-* dragons `TKRAG/O*PB/-S`
-* serpents. `SER/PEPBT/-S TP-PL`
-* was `WA`
-* at; `AT STPH*FPLT`
+* walking `WAUG`
+* about `PW`
+* halberds. `XXX halberds TP-PL`
+* Certainly `SERPBL`
+* good `TKPWAOD`
+* for `TPOR`
+* amusement. `A/PHAOUS/*PLT TP-PL`
+* an `APB`
+* man `PHAPB`
 * lived `HREUFD`
-* man, `PHAPB KW-BG`
-* who `WHO`
+* it, `T KW-BG`
 * wore `WOR`
-* plush `PHRURB`
-* breeches; `PWRAOEFP/-S STPH*FPLT`
+* knee-breeches, `TPHAOE H-PB PWRAOEFP/-S KW-BG`
 * coat `KOET`
 * large `HRARPBLG`
 * buttons, `PW*UPBTS KW-BG`
-* wig `WEUG`
-* one `WUPB`
+* wig, `WEUG KW-BG`
+* any `TPHEU`
 * real `RAEL`
 * wig. `WEUG TP-PL`
 * Every `EF`
 * morning `PHORPBG`
-* came `KAEUPL`
-* fellow `TPEL/OE`
-* him `HEUPL`
-* put `PUT`
-* his `HEUS`
-* rooms `RAOPLS`
-* order, `ORD KW-BG`
-* went `WEPBT`
-* errands; `ERPBDZ STPH*FPLT`
-* otherwise, `O*ERZ KW-BG`
-* man `PHAPB`

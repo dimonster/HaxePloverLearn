@@ -1,130 +1,131 @@
 # The Story Of A Mother Part 3
 
-* mother. `PHOER TP-PL`
-* "Tell `KR-GS TEL`
-* me `PHE`
-* the `-T`
 * way, `WAEU KW-BG`
-* and `SKP`
 * I `EU`
-* shall `SHAL`
+* will `HR`
 * find `TPEUPBD`
-* him!" `HEUPL SKHRAPL KR-GS`
+* him." `HEUPL TP-PL KR-GS`
 * "I `KR-GS EU`
 * know `TPHOE`
-* it!" `T SKHRAPL KR-GS`
+* the `-T`
+* way," `WAEU KW-BG KR-GS`
 * said `SAEUD`
 * woman `WOPL`
 * in `TPH`
 * black `PWHRABG`
-* clothes. `KHRO*ETS TP-PL`
+* garments; `TKPWARPLTS STPH*FPLT`
 * "but `KR-GS PWUT`
 * before `PW-F`
 * tell `TEL`
-* it, `T KW-BG`
-* thou `THO*U`
+* you, `U KW-BG`
+* you `U`
 * must `PHUFT`
-* first `TPEURS`
 * sing `SEUPBG`
-* for `TPOR`
+* to `TO`
+* me `PHE`
 * all `AUL`
 * songs `SOPBGS`
-* hast `XXX hast`
-* sung `SUPBG`
-* thy `THAO*EU`
-* child! `KHAOEULD SKHRAPL`
-* am `*PL`
-* fond `TPOPBD`
-* of `-F`
-* them. `THEPL TP-PL`
+* that `THA`
 * have `SR`
+* sung `SUPBG`
+* your `KWROUR`
+* child; `KHAOEULD STPH*FPLT`
+* love `HRUF`
+* these `THEZ`
+* songs, `SOPBGS KW-BG`
 * heard `HERD`
 * them `THEPL`
-* before; `PW-F STPH*FPLT`
-* Night; `TPHAOEUT STPH*FPLT`
+* before. `PW-F TP-PL`
+* am `APL`
+* Night, `TPHAOEUT KW-BG`
+* and `SKP`
 * saw `SAU`
 * tears `TAERS`
-* whilst `WHAOEULS`
-* sang'st `SAPBG AE XXX st`
-* them!" `THEPL SKHRAPL KR-GS`
-* will `HR`
-* all, `AUL KW-BG`
-* all!" `AUL SKHRAPL KR-GS`
+* flow `TPHROE`
+* as `AZ`
+* sang." `SAPBG TP-PL KR-GS`
+* you," `U KW-BG KR-GS`
+* mother; `PHOER STPH*FPLT`
 * do `TKO`
 * not `TPHOT`
-* stop `STOP`
-* now--I `TPHOU H-PB H-PB EU`
-* may `PHAE`
+* detain `TKE/TAEUPB`
+* now. `TPHOU TP-PL`
 * overtake `AUFR/TAEUBG`
-* him--I `HEUPL H-PB H-PB EU`
+* him, `HEUPL KW-BG`
 * my `PHEU`
-* child!" `KHAOEULD SKHRAPL KR-GS`
-* but `PWUT`
+* child." `KHAOEULD TP-PL KR-GS`
+* But `PWUT`
 * Night `TPHAOEUT`
-* stood `STAOD`
-* still `STEUL`
-* mute. `PHAOUT TP-PL`
-* then `THEPB`
+* sat `SAT`
+* silent `SHREPBT`
+* still. `STEUL TP-PL`
+* Then `THEPB`
 * mother `PHOER`
+* wept `WEPT`
+* sang, `SAPBG KW-BG`
 * wrung `WRUPBG`
 * her `HER`
-* hands, `HAPBDZ KW-BG`
-* sang `SAPBG`
-* wept, `WEPT KW-BG`
+* hands. `HAPBDZ TP-PL`
 * there `THR`
 * were `WR`
 * many `PHAEPB`
-* songs, `SOPBGS KW-BG`
 * yet `KWRET`
+* even `AOEPB`
 * more `PHOR`
 * tears; `TAERS STPH*FPLT`
+* till `T*EUL`
+* at `AT`
+* length `HREPBG`
 * said, `SAEUD KW-BG`
 * "Go `KR-GS TKPW`
-* to `TO`
 * right, `RAOEUT KW-BG`
 * into `TPHAO`
 * dark `TKARBG`
-* pine `PAOEUPB`
-* forest; `TPO*RS STPH*FPLT`
-* thither `TH*EURT`
+* forest `TPOEFRT`
+* of `-F`
+* fir-trees; `TPEUR H-PB TRAOES STPH*FPLT`
+* for `TPOR`
 * Death `TK*T`
 * take `TAEUBG`
-* his `HEUS`
-* way `WAEU`
+* road `RAOD`
 * with `W`
 * little `HREUL`
-* roads `RAODZ`
-* crossed `KROFD`
-* each `AOEFP`
-* other `OER`
-* depths `TK*EPTS`
-* forest, `TPO*RS KW-BG`
+* Within `W-PB`
+* wood `WAOD`
+* came `KAEUPL`
+* cross `KROS`
+* roads, `ROEDZ KW-BG`
 * she `SHE`
-* no `TPHO`
-* longer `HRORPBG`
 * knew `TPHAOU`
-* whither `WH*EUT/ER`
-* should `SHO`
-* go! `TKPW SKHRAPL`
+* which `WEU`
+* take. `TAEUBG TP-PL`
+* Just `SKWRUFT`
+* by `PWEU`
+* stood `STAOD`
 * a `AEU`
 * thorn-bush; `THORPB H-PB PWURB STPH*FPLT`
-* was `WA`
+* it `T`
+* had `H`
 * neither `TPHAOERT`
 * leaf `HRAOEF`
 * nor `TPH-R`
-* flower `TPHRO*UR`
-* on `OPB`
-* it `T`
-* also `HR-S`
+* flower, `TPHRO*UR KW-BG`
+* was `WA`
 * cold `KOELD`
 * winter `WEURPBT`
-* season, `S-PB KW-BG`
-* ice-flakes `AOEUS H-PB TPHRAEUBGS`
+* time, `TAOEUPL KW-BG`
+* icicles `AOEUS/K*L`
 * hung `HUPBG`
+* on `OPB`
 * branches. `PWRAFPBS TP-PL`
-* "Hast `KR-GS XXX Hast`
+* "Have `KR-GS SR`
 * seen `SAOEPB`
 * go `TKPW`
-* past `PAFT`
+* by, `PWEU KW-BG`
 * child?" `KHAOEULD H-F KR-GS`
+* asked. `SK-D TP-PL`
 * "Yes," `KR-GS KWRE KW-BG KR-GS`
+* replied `RE/PHRAOEUD`
+* way `WAEU`
+* he `E`
+* has `HAS`

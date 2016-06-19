@@ -1,135 +1,122 @@
 # The Shadow Part 3
 
-* evening, `AOEPG KW-BG`
-* but `PWUT`
-* it `T`
-* was `WA`
-* dark `TKARBG`
-* within, `W-PB KW-BG`
-* at `AT`
-* least `HRAO*ES`
-* in `TPH`
+* to `TO`
 * the `-T`
-* front `TPROPBT`
-* room; `RAOPL STPH*FPLT`
-* further `TPURT`
-* there `THR`
-* heard `HERD`
+* grave `TKPWRAEUF`
+* with `W`
 * sound `SOUPBD`
 * of `-F`
-* music. `PHAOUFBG TP-PL`
+* solemn `SHREPL`
+* music, `PHAOUFBG KW-BG`
+* and `SKP`
+* tolling `TOL/-G`
+* church `KHUFRPB`
+* bells. `PWELS TP-PL`
+* it `T`
+* was `WA`
+* indeed `TPHAOEPBD`
+* a `AEU`
+* scene `SAEPB`
+* varied `SRAERD`
+* life `HRAOEUF`
+* in `TPH`
+* street. `STRAOET TP-PL`
+* one `WUPB`
+* house `HOUS`
+* only, `OEPBL KW-BG`
+* which `WEU`
+* just `SKWRUFT`
+* opposite `OP/SEUT`
+* foreign `TPOERP`
 * learned `HRERPBD`
-* foreigner `TPORPB/ER`
-* thought `THAUT`
+* man `PHAPB`
+* lived, `HREUFD KW-BG`
+* formed `TPORPLD`
+* contrast `KRAEFT`
+* all `AUL`
+* this, `TH KW-BG`
+* for `TPOR`
 * quite `KWAOEUT`
-* marvellous, `PHAFLS KW-BG`
-* now--it `TPHOU H-PB H-PB T`
-* might `PHAOEUT`
-* be `-B`
-* that `THA`
-* he `E`
-* only `OEPBL`
-* imagined `PHAPBLGD`
-* it--for `T H-PB H-PB TPOR`
-* found `TPOUPBD`
-* everything `EFG`
-* marvellous `PHAFLS`
-* out `OUT`
+* still; `STEUL STPH*FPLT`
+* yet `KWRET`
+* somebody `S-B`
+* dwelt `TKWELT`
 * there, `THR KW-BG`
-* warm `WARPL`
-* lands, `HRAPBDZ KW-BG`
-* if `TP`
-* had `H`
+* flowers `TPHRO*URS`
+* stood `STAOD`
+* balcony, `PWAL/KOEPB KW-BG`
+* blooming `PWHRAOPL/-G`
+* beautifully `PWAOUFL/HREU`
+* hot `HOT`
+* sun; `SUPB STPH*FPLT`
+* this `TH`
+* could `KO`
+* not `TPHOT`
+* have `SR`
 * been `PW-PB`
-* no `TPHO`
+* unless `TPH-LS`
+* they `THE`
+* had `H`
+* watered `WAURD`
+* carefully. `KA*EUFL TP-PL`
+* Therefore `TH-FR`
+* some `SOPL`
+* must `PHUFT`
+* be `-B`
+* do `TKO`
+* this. `TH TP-PL`
+* doors `TKAORS`
+* leading `HRAEGD`
+* balcony `PWAL/KOEPB`
+* were `WR`
+* half `HAF`
+* opened `OEPD`
+* evening; `AOEPG STPH*FPLT`
+* although `HR*T`
+* front `TPROPBT`
+* room `RAOPL`
+* dark, `TKARBG KW-BG`
+* music `PHAOUFBG`
+* heard `HERD`
+* from `TPR`
+* interior `SPWER/KWROR`
+* house. `HOUS TP-PL`
+* considered `KR-D`
+* very `SRE`
+* delightful; `TKHRAOEUT/-FL STPH*FPLT`
+* but `PWUT`
+* perhaps `PRAPS`
+* he `E`
+* fancied `XXX fancied`
+* it; `T STPH*FPLT`
+* everything `EFG`
+* these `THEZ`
+* warm `WARPL`
+* countries `KUPBTS`
+* pleased `PHRAOEFD`
+* him, `HEUPL KW-BG`
+* excepting `KPEPT/-G`
+* heat `HAOET`
 * sun. `SUPB TP-PL`
-* stranger's `STRAEURPBG AE S*/SP-S`
 * landlord `HR-LD`
 * said `SAEUD`
-* didn't `TK-PBT`
+* did `TK`
 * know `TPHOE`
 * who `WHO`
 * taken `TAEPB`
-* house `HOUS`
-* opposite, `OP/SEUT KW-BG`
-* One `WUPB`
-* saw `SAU`
-* person `PERPB`
-* about, `PW KW-BG`
-* and `SKP`
+* house—nobody `HOUS EPL/TKA*RB TPHOEB`
+* seen `SAOEPB`
+* there; `THR STPH*FPLT`
 * as `AZ`
-* to `TO`
-* music, `PHAOUFBG KW-BG`
-* appeared `A/PAOERD`
+* thought `THAUT`
+* seemed `SAOEPLD`
+* tedious, `TAOED/KWRUS KW-BG`
 * him `HEUPL`
-* extremely `KPRAOEPL`
-* tiresome. `TAOEUR/SO*PL TP-PL`
+* most `PHOFT`
+* uncommonly `UPB/KPHOPB/HREU`
+* so. `SO TP-PL`
 * "It `KR-GS T`
 * is `S`
-* some `SOPL`
-* sat `SAT`
-* practised `PRABG/TEUS/-D`
-* a `AEU`
+* if `TP`
+* practising `PRABG/TEUS/-G`
 * piece `PAOES`
-* could `KO`
-* not `TPHOT`
-* master--always `PHAFRT H-PB H-PB AULS`
-* same `SAEUPL`
-* piece. `PAOES TP-PL`
-* 'I `AE EU`
-* shall `SHAL`
-* master `PHAFRT`
-* it!' `T SKHRAPL AE`
-* says `SEZ`
-* he; `E STPH*FPLT`
-* yet `KWRET`
-* cannot `K/TPHOT`
-* it, `T KW-BG`
-* however `HOUF`
-* long `HROPBG`
-* plays." `PHRAEUZ TP-PL KR-GS`
-* night `TPHAOEUT`
-* stranger `STRAEURPBG`
-* awoke--he `A/WOEBG H-PB H-PB E`
-* slept `SHREPD`
-* with `W`
-* doors `TKAORS`
-* balcony `PWAL/KOEPB`
-* open--the `OEP H-PB H-PB -T`
-* curtain `KUR/TAPB`
-* before `PW-F`
-* raised `RA*EUFD`
-* by `PWEU`
-* wind, `WEUPBD KW-BG`
-* strange `STRAEUPBG`
-* lustre `HRUS/TER`
-* came `KAEUPL`
-* from `TPR`
-* opposite `OP/SEUT`
-* neighbor's `TPHAEUB AE S*/SP-S`
-* house; `HOUS STPH*FPLT`
-* all `AUL`
-* flowers `TPHRO*URS`
-* shone `SHO*EPB`
-* like `HRAOEUBG`
-* flames, `TPHRAEUPLS KW-BG`
-* most `PHO*S`
-* beautiful `PWAOUFL`
-* colors, `KHRORS KW-BG`
-* midst `PHEUDZ`
-* stood `STAOD`
-* slender, `SHRERPBD KW-BG`
-* graceful `TKPWRAEUS/-FL`
-* maiden--it `PHAEUD/EPB H-PB H-PB T`
-* she `SHE`
-* also `HR-S`
-* shone; `SHO*EPB STPH*FPLT`
-* light `HRAOEUT`
-* really `HROERL`
-* hurt `HURT`
-* his `HEUS`
-* eyes. `AO*EUS TP-PL`
-* now `TPHOU`
-* opened `OEPD`
-* them `THEPL`
-* wide--yes, `WAOEUD H-PB H-PB KWRE KW-BG`

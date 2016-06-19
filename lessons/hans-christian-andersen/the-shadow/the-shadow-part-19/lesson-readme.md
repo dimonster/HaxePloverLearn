@@ -1,129 +1,128 @@
 # The Shadow Part 19
 
-* who `WHO`
-* always `AULS`
-* goes `TKPW-S`
-* with `W`
-* me? `PHE H-F`
-* Other `OER`
-* persons `PERPBS`
-* have `SR`
-* a `AEU`
-* common `KPHOPB`
-* shadow, `SHAD/OE KW-BG`
-* but `PWUT`
+* latter, `HRAERT KW-BG`
+* "that `KR-GS THA`
 * I `EU`
-* do `TKO`
-* not `TPHOT`
-* like `HRAOEUBG`
-* what `WHA`
-* is `S`
+* am `APL`
 * to `TO`
-* all. `AUL TP-PL`
-* we `WE`
-* give `TKPWEUF`
-* our `OUR`
-* servants `SER/SRAPBTS`
-* finer `TPAOEURPB`
-* cloth `KHRO*T`
-* for `TPOR`
-* their `THAEUR`
-* livery `HR*EUF/REU`
-* than `THAPB`
-* ourselves `O*URS/-S`
-* use, `AOUS KW-BG`
-* and `SKP`
-* so `SO`
-* had `H`
-* my `PHEU`
-* shadow `SHAD/OE`
-* trimmed `TREUPLD`
-* up `UP`
-* into `TPHAO`
-* man: `PHAPB STPH-FPLT`
-* yes, `KWRE KW-BG`
+* say `SAEU`
 * you `U`
-* see `SAOE`
-* even `AOEPB`
-* given `TKPWEUFPB`
-* him `HEUPL`
-* shadow. `SHAD/OE TP-PL`
-* it `T`
-* somewhat `SWHA`
-* expensive, `SP*EF KW-BG`
-* something `S-G`
-* myself!" `PHAO*EUS SKHRAPL KR-GS`
-* "What!" `KR-GS WHA SKHRAPL KR-GS`
-* thought `THAUT`
+* when `WHEPB`
+* speak `SPAOEBG`
+* him, `HEUPL KW-BG`
+* and `SKP`
+* he `E`
+* is `S`
+* thou `THO*U`
+* me." `PHE TP-PL KR-GS`
+* However, `HOUF KW-BG`
+* was `WA`
+* obliged `OE/PWHRAOEUPBLGD`
+* submit. `SPHEUT TP-PL`
+* They `THE`
+* arrived `A/REUFD`
+* at `AT`
+* length `HREPBG`
 * the `-T`
-* princess. `PREUPB/ES TP-PL`
-* "Should `KR-GS SHO`
-* really `HROERL`
-* be `-B`
-* cured! `KAOURD SKHRAPL`
-* These `THEZ`
-* baths `PWA*TS`
-* are `R`
-* first `TPEURS`
+* baths, `PWA*TS KW-BG`
+* where `W-R`
+* there `THR`
+* were `WR`
+* many `PHAEPB`
+* strangers, `STRAEUPB/SKWRERS KW-BG`
+* among `PHOPBG`
+* them `THEPL`
+* a `AEU`
+* beautiful `PWAOUFL`
+* princess, `PREUPB/ES KW-BG`
+* whose `WHOZ`
+* real `RAEL`
+* disease `TK-Z`
+* consisted `KAO/-D`
 * in `TPH`
-* world! `WORLD SKHRAPL`
-* time `TAOEUPL`
-* water `WAUR`
-* has `HAS`
-* wonderful `WUFL`
-* powers. `POURS TP-PL`
-* shall `SHAL`
-* leave `HREF`
-* place, `PHRAEUS KW-BG`
-* now `TPHOU`
-* begins `TKPWEUPBS`
-* amusing `A/PHAOUFG`
-* here. `HAOER TP-PL`
-* am `*PL`
-* extremely `KPRAOEPL`
-* fond `TPOPBD`
-* of `-F`
+* being `-BG`
+* too `TAO`
+* sharp-sighted, `SHARP H-PB SAOEUT/-D KW-BG`
+* which `WEU`
+* made `PHAED`
+* every `EF`
+* one `WUPB`
+* very `SRE`
+* uneasy. `XXX uneasy TP-PL`
+* she `SHE`
+* saw `SAU`
+* once `WUPBS`
 * that `THA`
-* stranger: `STRAEURPBG STPH-FPLT`
-* would `WO`
+* new `TPHU`
+* comer `KOPL/ER`
+* different `TKEUFRT`
+* else. `ELS TP-PL`
+* "They `KR-GS THE`
+* here `HAOER`
+* make `PHAEUBG`
 * his `HEUS`
 * beard `PWAERD`
-* should `SHO`
-* grow, `TKPWROE KW-BG`
-* case `KAEUS`
-* he `E`
-* will `HR`
-* us!" `US SKHRAPL KR-GS`
-* evening, `AOEPG KW-BG`
-* princess `PREUPB/ES`
-* danced `TKAPBS/-D`
-* together `TOGT`
-* large `HRARPBLG`
-* ball-room. `PWAUL H-PB RAOPL TP-PL`
-* she `SHE`
-* was `WA`
-* light, `HRAOEUT KW-BG`
-* still `STEUL`
-* lighter; `HRAOEURT STPH*FPLT`
-* never `TPHEF`
-* such `SUFP`
-* partner `PARPB`
-* dance. `TKAPBS TP-PL`
-* told `TOLD`
+* grow," `TKPWROE KW-BG KR-GS`
+* thought; `THAUT STPH*FPLT`
+* "but `KR-GS PWUT`
+* know `TPHOE`
+* cause, `KAUS KW-BG`
+* unable `TPHA*EUBL`
+* cast `KAFT`
+* shadow." `SHO*EUD TP-PL KR-GS`
+* Then `THEPB`
+* became `PWAEUPL`
+* curious `KAOURS`
+* on `OPB`
+* matter, `PHAERT KW-BG`
+* day, `TKAEU KW-BG`
+* while `WHAOEUL`
+* promenade, `PRAPL/TPHAD KW-BG`
+* entered `SPWR-D`
+* into `TPHAO`
+* conversation `K-FRGS`
+* with `W`
+* strange `STRAEUPBG`
+* gentleman. `SKWRA*PL TP-PL`
+* not `TPHOT`
+* stand `STAPBD`
+* upon `POPB`
+* much `PHUFP`
+* ceremony, `SER/PHOEPB KW-BG`
+* so `SO`
+* said `SAEUD`
+* him `HEUPL`
+* without `WOUT`
+* hesitation, `HES/TAEUGS KW-BG`
+* "Your `KR-GS KWROUR`
+* illness `HR*PBS`
+* consists `KAOS`
+* able `ABL`
+* royal `ROEUL`
+* highness `HAOEU/-PBS`
+* must `PHUFT`
+* be `-B`
+* high `HAOEU`
+* road `RAOD`
+* recovery `ROEUFR`
 * from `TPR`
-* land `HRAPBD`
-* came, `KAEUPL KW-BG`
-* knew `TPHAOU`
-* land; `HRAPBD STPH*FPLT`
-* been `PW-PB`
-* there, `THR KW-BG`
-* then `THEPB`
-* at `AT`
-* home; `HOEPL STPH*FPLT`
-* peeped `PAOEPD`
-* window, `WOEUPBD KW-BG`
-* above `PWOF`
-* below--he `PWHRO H-PB H-PB E`
+* your `KWROUR`
+* illness," `HR*PBS KW-BG KR-GS`
+* he. `E TP-PL`
+* "I `KR-GS EU`
+* complaint `KPAEUPBT`
+* arose `A/ROES`
+* this `TH`
+* case `KAEUS`
+* it `T`
+* has `HAS`
+* entirely `SPWAOEURL`
+* failed. `TPAEULD TP-PL`
+* happen `HAP`
+* Have `SR`
+* most `PHOFT`
+* unusual `TPHAOURB`
+* shadow. `SHO*EUD TP-PL`
 * seen `SAOEPB`
-* both `PWO*T`
-* one `WUPB`
+* person `PERPB`
+* who `WHO`

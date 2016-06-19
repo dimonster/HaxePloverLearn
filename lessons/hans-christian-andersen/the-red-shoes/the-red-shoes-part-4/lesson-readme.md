@@ -1,115 +1,125 @@
 # The Red Shoes Part 4
 
-* voices `SROEUFS`
-* sang, `SAPBG KW-BG`
-* and `SKP`
+* grown-up `TKPWR*UP`
+* Christian. `KREUGS TP-PL`
 * the `-T`
+* organ `O*RPBG`
+* pealed `PA*EL/-D`
+* forth `TPO*RT`
+* solemnly, `SOL/EPL/HREU KW-BG`
+* and `SKP`
+* sweet `SWAOET`
+* children's `KHEURPBS`
+* voices `SROEUFS`
+* mingled `PHEUPBG/-LD`
+* with `W`
+* that `THA`
+* of `-F`
+* their `THAEUR`
 * old `OLD`
-* music-directors `PHAOUFBG H-PB TKRORS`
+* leader; `HRAOERD STPH*FPLT`
 * but `PWUT`
 * Karen `KAEURPB`
-* only `OEPBL`
 * thought `THAUT`
-* of `-F`
+* only `OEPBL`
 * her `HER`
 * red `RED`
 * shoes. `SHAOS TP-PL`
 * in `TPH`
-* afternoon, `AFPB KW-BG`
+* afternoon `AFPB`
 * lady `HRA*ED`
 * heard `HERD`
 * from `TPR`
-* everyone `EFPB`
-* that `THA`
-* shoes `SHAOS`
+* everybody `EFB`
 * had `H`
-* been `PW-PB`
-* red, `RED KW-BG`
-* she `SHE`
+* worn `WORPB`
+* She `SHE`
 * said `SAEUD`
 * it `T`
 * was `WA`
-* very `SRE`
-* wrong `WROPBG`
-* Karen, `KAEURPB KW-BG`
-* not `TPHOT`
-* At `AT`
-* all `AUL`
-* becoming, `PW-BG/-G KW-BG`
-* future `TPAOURT`
-* should `SHO`
-* go `TKPW`
-* black `PWHRABG`
+* a `AEU`
+* shocking `SHOBG/-G`
+* thing `THEUPBG`
 * to `TO`
-* church, `KHUFRPB KW-BG`
+* do, `TKO KW-BG`
+* very `SRE`
+* improper, `EUPL/PROR KW-BG`
+* always `AULZ`
+* go `TKPW`
+* church `KHUFRPB`
+* future `TPAOURT`
+* black `PWHRABG`
+* shoes, `SHAOS KW-BG`
 * even `AOEPB`
-* when `WHEPB`
-* be `-B`
-* older. `OERLD TP-PL`
-* next `TPHEGT`
+* if `TP`
+* they `THE`
+* were `WR`
+* old. `OLD TP-PL`
+* on `OPB`
+* following `TPOLG`
 * Sunday `SUPBD`
 * there `THR`
-* sacrament, `SABG/RAPLT KW-BG`
+* Communion. `KPHAOUPB/KWROPB TP-PL`
 * looked `HRAOBGD`
-* shoes, `SHAOS KW-BG`
-* ones--looked `WUPBZ H-PB H-PB HRAOBGD`
-* them `THEPL`
+* first `TPEURS`
+* At `AT`
+* Then `THEPB`
+* ones—looked `WUPBZ EPL/TKA*RB HRAOBGD`
+* ones `WUPBZ`
 * again, `TKPWEPB KW-BG`
 * put `PUT`
-* on `OPB`
+* them `THEPL`
+* on. `OPB TP-PL`
 * sun `SUPB`
-* shone `SHO*EPB`
-* gloriously; `TKPWHRORS/HREU STPH*FPLT`
-* walked `WAUBGD`
+* shining `SHAOEUPBG`
+* gloriously, `TKPWHRORS/HREU KW-BG`
+* so `SO`
+* went `WEPBT`
 * along `A/HROPBG`
-* path `PA*T`
+* footpath `TPAOT/PA*T`
 * through `THRU`
-* corn; `KORPB STPH*FPLT`
+* corn, `KORPB KW-BG`
+* where `W-R`
 * rather `RAER`
-* dusty `TKUS/TEU`
-* there. `THR TP-PL`
-* church `KHUFRPB`
+* dusty. `TKUS/TEU TP-PL`
 * door `TKAOR`
 * stood `STAOD`
 * an `APB`
+* crippled `KREUPLD`
 * soldier `SHRERPBL`
-* with `W`
-* a `AEU`
-* crutch, `KRUFP KW-BG`
+* leaning `HRAOEPBG`
+* crutch; `KRUFP STPH*FPLT`
+* he `E`
 * wonderfully `WOPBD/TPHREU`
 * long `HROPBG`
 * beard, `PWAERD KW-BG`
-* which `WEU`
 * more `PHOR`
 * than `THAPB`
 * white, `WHAOEUT KW-BG`
-* he `E`
 * bowed `PWOE/-D`
-* ground, `TKPWROUPBD KW-BG`
+* down `TKOUPB`
+* ground `TKPWROUPBD`
 * asked `SK-D`
 * whether `WHR`
 * might `PHAOEUT`
-* dust `TK*US`
-* stretched `STREFPD`
+* wipe `WAOEUP`
 * out `OUT`
 * little `HREUL`
-* foot. `TPAOT TP-PL`
-* "See, `KR-GS SAOE KW-BG`
+* foot `TPAOT`
+* too. `TAO TP-PL`
+* "Dear `KR-GS TKAER`
+* me, `PHE KW-BG`
 * what `WHA`
-* beautiful `PWAOUFL`
-* dancing `TKAPBS/-G`
-* shoes!" `SHAOS SKHRAPL KR-GS`
+* pretty `PREUT`
+* dancing-shoes!" `TKAPBS/-G H-PB SHAOS SKHRAPL KR-GS`
 * soldier. `SHRERPBL TP-PL`
 * "Sit `KR-GS SEUT`
-* firm `TPEURPL`
+* fast, `TPAFT KW-BG`
+* when `WHEPB`
 * you `U`
-* dance"; `TKAPBS KR-GS STPH*FPLT`
+* dance," `TKAPBS KW-BG KR-GS`
+* he, `E KW-BG`
+* addressing `A/TKREFG`
+* slapping `SHR-PG`
+* soles `SOELS`
 * his `HEUS`
-* hand `HAPBD`
-* towards `TORDZ`
-* soles. `SOELS TP-PL`
-* gave `TKPWAEUF`
-* alms, `AUPLS KW-BG`
-* went `WEPBT`
-* into `TPHAO`
-* Karen. `KAEURPB TP-PL`

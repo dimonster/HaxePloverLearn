@@ -1,123 +1,130 @@
 # The Bell Part 1
 
+* in `TPH`
+* the `-T`
+* narrow `TPHO*EUR`
+* streets `STRAOETS`
+* of `-F`
+* a `AEU`
+* large `HRARPBLG`
+* town `TOUPB`
 * people `PAOEPL`
-* said `SAEUD`
-* "The `KR-GS -T`
+* often `OFPB`
+* heard `HERD`
+* evening, `AOEPG KW-BG`
+* when `WHEPB`
+* sun `SUPB`
+* was `WA`
+* setting, `SEGT KW-BG`
+* and `SKP`
+* his `HEUS`
+* last `HRAFT`
+* rays `RA*ES`
+* gave `TKPWAEUF`
+* golden `TKOELD/*EPB`
+* tint `TEUPBT`
+* to `TO`
+* chimney-pots, `KHEUPL/TPHEU H-PB POTS KW-BG`
+* strange `STRAEUPBG`
+* noise `TPHOEUS`
+* which `WEU`
+* resembled `RE/SEPL/-BLD`
+* sound `SOUPBD`
+* church `KHUFRPB`
+* bell; `PWEL STPH*FPLT`
+* it `T`
+* only `OEPBL`
+* lasted `HRAFT/-D`
+* an `APB`
+* instant, `STPHAPBT KW-BG`
+* for `TPOR`
+* lost `HRO*S`
+* continual `T-PB/WAL`
+* roar `ROR`
+* traffic `TRAFBG`
+* hum `HUPL`
+* voices `SROEUFS`
+* rose `ROEZ`
+* from `TPR`
+* town. `TOUPB TP-PL`
+* "the `KR-GS -T`
 * evening `AOEPG`
 * bell `PWEL`
 * is `S`
-* sounding, `SOUPBD/-G KW-BG`
-* the `-T`
-* sun `SUPB`
-* setting." `SEGT TP-PL KR-GS`
-* for `TPOR`
-* a `AEU`
-* strange `STRAEUPBG`
-* wondrous `WOPBD/ROUS`
-* tone `TOEPB`
-* was `WA`
-* heard `HERD`
-* in `TPH`
-* narrow `TPHAR/OE`
-* streets `STRAOETS`
-* of `-F`
-* large `HRARPBLG`
-* town. `TOUPB TP-PL`
-* It `T`
-* like `HRAOEUBG`
-* sound `SOUPBD`
-* church-bell: `KHUFRPB H-PB PWEL STPH-FPLT`
-* but `PWUT`
-* only `OEPBL`
-* moment, `PHOEPLT KW-BG`
-* rolling `ROLG`
-* carriages `KAEURPBLG/-S`
-* and `SKP`
-* voices `SROEUFS`
-* multitude `PHULD/TAOUD`
-* made `PHAED`
-* too `TAO`
-* great `TKPWRAET`
-* noise. `TPHOEUS TP-PL`
+* ringing," `REUPBG/-G KW-BG KR-GS`
+* used `AOUFD`
+* say; `SAEU STPH*FPLT`
+* setting!" `SEGT SKHRAPL KR-GS`
 * Those `THOZ`
-* persons `PERPBS`
 * who `WHO`
-* were `WR`
-* walking `WAUG`
+* walked `WAUBGD`
 * outside `OUDZ`
 * town, `TOUPB KW-BG`
 * where `W-R`
 * houses `HO*UFS`
-* farther `TPA*RT`
-* apart, `A/PARD KW-BG`
-* with `W`
+* were `WR`
+* less `HRES`
+* crowded `KROUD/-D`
+* interspersed `EUPBT/SPERS/-D`
+* by `PWEU`
 * gardens `TKPWARD/-PBS`
-* or `OR`
 * little `HREUL`
-* fields `TPAOELDZ`
-* between `TWAOEPB`
-* them, `THEPL KW-BG`
-* could `KO`
-* see `SAOE`
+* fields, `TPAOELDZ KW-BG`
+* saw `SAU`
 * sky `SKAOEU`
-* still `STEUL`
-* better, `PWOERT KW-BG`
 * much `PHUFP`
+* better, `PWOERT KW-BG`
 * more `PHOR`
-* distinctly. `TKEUS/TEUPBGT/HREU TP-PL`
+* clearly. `KAOERL TP-PL`
+* seemed `SAOEPLD`
 * as `AZ`
-* if `TP`
-* tones `TOEPBS`
+* though `THOE`
 * came `KAEUPL`
-* from `TPR`
-* church `KHUFRPB`
-* forest; `TPO*RS STPH*FPLT`
+* church, `KHUFRPB KW-BG`
+* deep `TKAOEP`
+* calm, `KAUPL KW-BG`
+* fragrant `TPRAEUG/RAPBT`
+* wood, `WAOD KW-BG`
+* thither `TH*EURT`
 * looked `HRAOBGD`
-* thitherward, `XXX thitherward KW-BG`
-* felt `TPELT`
-* their `THAEUR`
-* minds `PHAOEUPBDZ`
-* attuned `XXX attuned`
-* most `PHO*S`
-* solemnly. `SOL/EPL/HREU TP-PL`
-* long `HROPBG`
+* with `W`
+* devout `TKWOUT`
+* feelings. `TPAOELGS TP-PL`
+* considerable `KR-BL`
 * time `TAOEUPL`
-* passed, `PAFD KW-BG`
-* to `TO`
-* each `AOEFP`
-* other--"I `OER H-PB H-PB KR-GS EU`
+* elapsed: `AOE/HRAPS/-D STPH-FPLT`
+* one `WUPB`
+* said `SAEUD`
+* other, `OER KW-BG`
+* "I `KR-GS EU`
+* really `HROERL`
 * wonder `WOPBD`
+* if `TP`
 * there `THR`
 * out `OUT`
-* wood? `WAOD H-F`
+* wood. `WAOD TP-PL`
 * has `HAS`
-* that `THA`
-* sweet; `SWAOET STPH*FPLT`
-* let `HRET`
-* us `US`
-* stroll `STROL`
-* thither, `TH*EURT KW-BG`
-* examine `KP`
-* matter `PHAERT`
-* nearer." `TPHAOER/*ER TP-PL KR-GS`
+* indeed `TPHAOEPBD`
+* sweet `SWAOET`
+* sound! `SOUPBD SKHRAPL`
+* Shall `SHAL`
+* we `WE`
+* go `TKPW`
+* see `SAOE`
+* what `WHA`
+* cause `KAUS`
+* is?" `S H-F KR-GS`
 * rich `REUFP`
-* drove `TKROEF`
-* out, `OUT KW-BG`
+* drove, `TKROEF KW-BG`
 * poor `PAOR`
 * walked, `WAUBGD KW-BG`
+* but `PWUT`
 * way `WAEU`
-* seemed `SAOEPLD`
-* strangely `STRAEUPBG/HREU`
-* them; `THEPL STPH*FPLT`
-* when `WHEPB`
+* them `THEPL`
+* extraordinarily `KPRAORLD`
+* long, `HROPBG KW-BG`
 * they `THE`
-* clump `KHR*UPL`
-* willows `WEUL/HROE/-S`
-* which `WEU`
-* grew `TKPWRAOU`
-* on `OPB`
-* skirts `SKEURTS`
-* forest, `TPO*RS KW-BG`
-* sat `SAT`
-* down, `TKOUPB KW-BG`
-* up `UP`
+* arrived `A/REUFD`
+* at `AT`
+* number `TPHUPL`
+* willow `WEUL/HROE`

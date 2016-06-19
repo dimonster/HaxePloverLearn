@@ -1,122 +1,134 @@
 # The Shadow Part 14
 
-* windows, `WO*EUPBDZ KW-BG`
-* into `TPHAO`
 * the `-T`
-* saloons, `SHRAOPB/-S KW-BG`
-* And `SKP`
-* on `OPB`
-* roofs, `RAOFS KW-BG`
+* ante-room `APB/TAOE H-PB RAOPL`
+* it `T`
+* was `WA`
+* revealed `RE/SRAOELD`
+* to `TO`
+* me. `PHE TP-PL`
 * I `EU`
-* peeped `PAOEPD`
+* became `PWAEUPL`
+* a `AEU`
+* man; `PHAPB STPH*FPLT`
+* came `KAEUPL`
+* out `OUT`
 * in `TPH`
-* where `W-R`
-* no `TPHO`
-* one `WUPB`
-* could `KO`
-* peep, `PAOEP KW-BG`
+* full `TPUL`
+* maturity. `PHAOURT TP-PL`
+* but `PWUT`
+* you `U`
+* had `H`
+* left `HREFT`
+* warm `WARPL`
+* countries. `KUPBTS TP-PL`
+* As `AZ`
+* man, `PHAPB KW-BG`
+* felt `TPELT`
+* ashamed `A/SHAEUPLD`
+* go `TKPW`
+* about `PW`
+* without `WOUT`
+* boots `PWAOTS`
+* or `OR`
+* clothes, `KHRO*ETS KW-BG`
+* and `SKP`
+* that `THA`
+* exterior `EBGS/KWROR`
+* finish `TP*EURB`
+* by `PWEU`
+* which `WEU`
+* man `PHAPB`
+* is `S`
+* known. `TPHOEPB TP-PL`
+* So `SO`
+* went `WEPBT`
+* my `PHEU`
+* own `OEPB`
+* way; `WAEU STPH*FPLT`
+* can `K`
+* tell `TEL`
+* you, `U KW-BG`
+* for `TPOR`
+* will `HR`
+* not `TPHOT`
+* put `PUT`
+* book. `PWAOBG TP-PL`
+* hid `HEUD`
+* myself `PHAO*EUS`
+* under `*UPBD`
+* cloak `KHROEBG`
+* of `-F`
+* cake `KAEUBG`
+* woman, `WOPL KW-BG`
+* she `SHE`
+* little `HREUL`
+* thought `THAUT`
+* who `WHO`
+* concealed. `KAUPB/SAOELD TP-PL`
+* till `T*EUL`
+* evening `AOEPG`
+* ventured `SREPB/KHURD`
+* out. `OUT TP-PL`
+* ran `RAPB`
+* streets `STRAOETS`
+* moonlight. `PHAOLGT TP-PL`
+* drew `TKRAOU`
+* up `UP`
+* height `HAOEUT`
+* upon `POPB`
+* walls, `WAULS KW-BG`
+* tickled `TEUBG/-LD`
+* back `PWABG`
+* very `SRE`
+* pleasantly. `PHRES/APBT/HREU TP-PL`
+* here `HAOER`
+* there, `THR KW-BG`
+* looked `HRAOBGD`
+* through `THRU`
+* highest `HAOEU/EFT`
+* windows `WO*EUPBDZ`
+* into `TPHAO`
+* rooms, `RAOPLS KW-BG`
+* over `OEFR`
+* roofs. `RAOFS TP-PL`
+* in, `TPH KW-BG`
 * saw `SAU`
 * what `WHA`
+* nobody `TPHOEB`
 * else `ELS`
-* saw, `SAU KW-BG`
-* should `SHO`
-* see! `SAOE SKHRAPL`
-* This `TH`
-* is, `S KW-BG`
+* could `KO`
+* see, `SAOE KW-BG`
+* indeed `TPHAOEPBD`
+* ought `OT`
+* see; `SAOE STPH*FPLT`
 * fact, `TPABGT KW-BG`
-* a `AEU`
-* base `PWAEUS`
-* world! `WORLD SKHRAPL`
+* bad `PWAD`
+* world, `WORLD KW-BG`
 * would `WO`
-* not `TPHOT`
+* care `KAEUR`
 * be `-B`
-* man `PHAPB`
-* if `TP`
-* it `T`
-* were `WR`
-* now `TPHOU`
-* once `WUPBS`
-* accepted `SEPD`
-* regarded `RARD/-D`
-* as `AZ`
-* something `S-G`
-* to `TO`
-* so! `SO SKHRAPL`
-* most `PHO*S`
-* unimaginable `XXX unimaginable`
+* men `PHEPB`
+* are `R`
+* some `SOPL`
+* importance. `PORPBS TP-PL`
+* most `PHOFT`
+* miserable `PHEUZ/-BL`
 * things `THEUPBGS`
-* with `W`
-* women, `WEUPL KW-BG`
-* men, `PHEPB KW-BG`
-* parents, `PARPBTS KW-BG`
-* sweet, `SWAOET KW-BG`
-* matchless `PHAFP/-LS`
-* children; `KHEURPB STPH*FPLT`
-* saw," `SAU KW-BG KR-GS`
-* said `SAEUD`
-* shadow, `SHAD/OE KW-BG`
-* "what `KR-GS WHA`
+* going `TKPW-G`
+* on `OPB`
+* between `TWAOEPB`
+* husbands `HUZ/-Z`
+* wives, `WEUFS KW-BG`
+* parents `PARPBTS`
+* children,—sweet, `KHEURPB KW-BG EPL/TKA*RB SWAOET KW-BG`
+* incomparable `EUPB/KPARBL`
+* children. `KHEURPB TP-PL`
+* have `SR`
+* seen `SAOEPB`
+* no `TPHO`
 * human `HAOUPL`
 * being `-BG`
-* must `PHUFT`
-* know, `TPHOE KW-BG`
-* But `PWUT`
-* they `THE`
-* all `AUL`
-* so `SO`
-* willingly `HR-G/HREU`
-* know--what `TPHOE H-PB H-PB WHA`
-* is `S`
-* bad `PWAD`
-* their `THAEUR`
-* neighbor. `TPHAEUB TP-PL`
-* Had `H`
-* written `WREUPB`
-* newspaper, `TPHUP KW-BG`
-* have `SR`
-* been `PW-PB`
-* read! `RAED SKHRAPL`
-* wrote `WRO`
-* direct `TKREBGT`
-* persons `PERPBS`
-* themselves, `TH*EPLS KW-BG`
-* there `THR`
-* was `WA`
-* consternation `KO*PBS/TPHAEUGS`
-* towns `TOUPBS`
-* came. `KAEUPL TP-PL`
-* afraid `A/TPRAEUD`
-* of `-F`
-* me, `PHE KW-BG`
-* yet `KWRET`
-* excessively `KPES/EUFL`
-* fond `TPOPBD`
-* me. `PHE TP-PL`
-* professors `PROEFRS`
-* made `PHAED`
-* professor `PROEFR`
-* me; `PHE STPH*FPLT`
-* tailors `TAEUL/ORS`
-* gave `TKPWAEUF`
-* me `PHE`
-* new `TPHU`
-* clothes--I `KHRO*ETS H-PB H-PB EU`
-* am `*PL`
-* well `WEL`
-* furnished; `TPURPB/EURBD STPH*FPLT`
-* master `PHAFRT`
-* mint `PHEUPBT`
-* struck `STRUBG`
-* coin `KOEUPB`
-* for `TPOR`
-* women `WEUPL`
-* handsome! `HAPBD/SOPL SKHRAPL`
-* became `PWAEUPL`
-* am. `*PL TP-PL`
-* bid `PWEUD`
-* you `U`
-* farewell. `TPAER/WEL TP-PL`
-* Here `HAOER`
-* my `PHEU`
-* card--I `KARD H-PB H-PB EU`
-* live `HREUF`
+* has `HAS`
+* power `POUR`
+* knowing, `TPHOEG KW-BG`

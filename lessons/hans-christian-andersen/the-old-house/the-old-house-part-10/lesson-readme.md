@@ -1,136 +1,127 @@
 # The Old House Part 10
 
+* looking `HRAOG`
+* just `SKWRUFT`
+* as `AZ`
+* serious, `SAOERS KW-BG`
+* when `WHEPB`
+* the `-T`
+* door `TKAOR`
+* opened, `OEPD KW-BG`
+* and `SKP`
+* your `KWROUR`
+* little `HREUL`
 * sister `ST-R`
-* Mary, `PHA*ER KW-BG`
+* Maria, `PHA/REU/KWRA KW-BG`
 * who `WHO`
 * is `S`
 * not `TPHOT`
 * two `TWO`
 * years `KWRAOERS`
-* old `OLD`
-* yet, `KWRET KW-BG`
-* And `SKP`
-* always `AULS`
-* dances `TKAPBS/-S`
-* when `WHEPB`
+* old, `OLD KW-BG`
+* was `WA`
+* brought `PWRAUT`
+* into `TPHAO`
+* room. `RAOPL TP-PL`
+* you `U`
+* know `TPHOE`
 * she `SHE`
+* always `AULZ`
+* dances `TKAPBS/-S`
 * hears `HAERS`
 * music `PHAOUFBG`
-* or `OR`
-* singing, `SEUPBG/-G KW-BG`
+* singing `SEUPBG/-G`
 * of `-F`
-* whatever `WHAF`
-* kind `KEUPBD`
-* it `T`
-* may `PHAE`
-* be, `-B KW-BG`
-* was `WA`
-* put `PUT`
-* into `TPHAO`
-* the `-T`
-* room--though `RAOPL H-PB H-PB THOE`
-* ought `OT`
-* to `TO`
-* have `SR`
-* been `PW-PB`
-* there--and `THR H-PB H-PB SKP`
-* then `THEPB`
-* began `TKPWAPB`
-* dance, `TKAPBS KW-BG`
-* But `PWUT`
-* could `KO`
-* keep `KAOEP`
-* time, `TAOEUPL KW-BG`
-* because `PWAU`
-* tones `TOEPBS`
-* were `WR`
+* any `TPHEU`
+* sort; `SORT STPH*FPLT`
 * so `SO`
-* long; `HROPBG STPH*FPLT`
-* stood, `STAOD KW-BG`
+* began `TKPWAPB`
+* to `TO`
+* dance `TKAPBS`
+* immediately, `PHAOELD KW-BG`
+* although `HR*T`
+* ought `OT`
+* have `SR`
+* done `TKOPB`
+* so, `SO KW-BG`
+* but `PWUT`
+* could `KO`
+* get `TKPWET`
+* right `RAOEUT`
+* time `TAOEUPL`
+* because `PWAU`
+* tune `TAOUPB`
+* slow; `SHROE STPH*FPLT`
+* stood `STAOD`
 * first `TPEURS`
 * on `OPB`
 * one `WUPB`
-* leg, `HREG KW-BG`
+* leg `HREG`
+* then `THEPB`
+* other, `OER KW-BG`
 * bent `PWEPBT`
 * her `HER`
 * head `HED`
-* forwards, `TPAORDZ KW-BG`
-* other `OER`
-* forwards--but `TPAORDZ H-PB H-PB PWUT`
-* all `AUL`
-* would `WO`
-* do. `TKO TP-PL`
-* you `U`
-* stood `STAOD`
 * very `SRE`
-* seriously `SAOERLS`
-* together, `TOGT KW-BG`
-* although `HR*T`
+* low, `HROE KW-BG`
+* it `T`
+* would `WO`
+* suit `SAOUT`
+* music. `PHAOUFBG TP-PL`
+* all `AUL`
+* grave, `TKPWRAEUF KW-BG`
 * difficult `TKEUFL`
-* enough; `TPHUF STPH*FPLT`
+* do `TKO`
 * I `EU`
 * laughed `HRAFD`
-* myself, `PHAO*EUS KW-BG`
+* myself `PHAO*EUS`
+* that `THA`
 * fell `TPEL`
-* off `OF`
+* down `TKOUPB`
+* from `TPR`
 * table, `TAEUBL KW-BG`
 * got `TKPWOT`
 * a `AEU`
-* bump, `PW*UPL KW-BG`
+* bruise, `PWRAOUZ KW-BG`
 * which `WEU`
-* still--for `STEUL H-PB H-PB TPOR`
-* right `RAOEUT`
-* me `PHE`
+* there `THR`
+* still; `STEUL STPH*FPLT`
 * laugh. `HRAF TP-PL`
-* whole `WHOEL`
-* now `TPHOU`
-* passes `PA*FS`
-* before `PW-F`
-* again `TKPWEPB`
-* in `TPH`
-* thought, `THAUT KW-BG`
+* this, `TH KW-BG`
 * everything `EFG`
-* that `THA`
-* lived `HREUFD`
-* see; `SAOE STPH*FPLT`
+* else `ELS`
+* seen, `SAOEPB KW-BG`
+* keeps `KAOEPS`
+* running `R*UPBG`
+* in `TPH`
+* my `PHEU`
+* head, `HED KW-BG`
 * these `THEZ`
-* are `R`
-* thoughts, `THAUTS KW-BG`
-* with `W`
-* what `WHA`
-* they `THE`
+* must `PHUFT`
+* be `-B`
+* old `OLD`
+* recollections `REBGT/-G/-S`
 * bring `PWREU`
+* many `PHAEPB`
+* thoughts `THAUTS`
+* with `W`
 * them. `THEPL TP-PL`
-* "Tell `KR-GS TEL`
-* if `TP`
+* tell `TEL`
+* me `PHE`
+* whether `WHR`
 * still `STEUL`
 * sing `SEUPBG`
-* Sundays? `SUPBDZ H-F`
-* Tell `TEL`
-* something `S-G`
+* Sundays, `SUPBDZ KW-BG`
 * about `PW`
-* little `HREUL`
-* Mary! `PHA*ER SKHRAPL`
 * how `HOU`
-* my `PHEU`
-* comrade, `KOPL/RAD KW-BG`
-* pewter `PAOU/TER`
-* soldier, `SHRERPBL KW-BG`
-* lives! `HREUFS SKHRAPL`
-* Yes, `KWRE KW-BG`
+* comrade `KOPL/RAD`
+* is, `S KW-BG`
+* other `OER`
+* tin `TEUPB`
+* soldier. `SHRERPBL TP-PL`
+* Ah, `HA*E KW-BG`
+* really `HROERL`
 * he `E`
-* happy `HAEP`
-* enough, `TPHUF KW-BG`
-* that's `TH-TS`
-* sure! `SHUR SKHRAPL`
+* happy; `HAEP STPH*FPLT`
 * cannot `K/TPHOT`
-* bear `PWAER`
-* any `TPHEU`
-* longer!" `HRORPBG SKHRAPL KR-GS`
-* "You `KR-GS U`
-* given `TKPWEUFPB`
-* away `A/WAEU`
-* as `AZ`
-* present!" `PREPBT SKHRAPL KR-GS`
-* said `SAEUD`
-* boy. `PWOEU TP-PL`
+* endure `EPB/TKAOUR`

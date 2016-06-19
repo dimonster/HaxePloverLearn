@@ -1,140 +1,128 @@
 # The Swineherd Part 5
 
-* keep `KAOEP`
-* the `-T`
-* kitchen-pot `K-FP H-PB POT`
-* myself." `PHAO*EUS TP-PL KR-GS`
-* "That `KR-GS THA`
-* must `PHUFT`
-* not `TPHOT`
-* be, `-B KW-BG`
-* either!" `AOERT SKHRAPL KR-GS`
+* him," `HEUPL KW-BG KR-GS`
 * said `SAEUD`
-* Princess. `PREUPB/ES TP-PL`
+* the `-T`
+* princess, `PREUPB/ES KW-BG`
+* "if `KR-GS TP`
+* he `E`
+* will `HR`
+* be `-B`
+* satisfied `SAED`
+* with `W`
+* ten `TEPB`
+* kisses `KEUS/-S`
+* from `TPR`
+* one `WUPB`
+* of `-F`
+* my `PHEU`
+* ladies." `HRAEUDZ TP-PL KR-GS`
+* "No, `KR-GS TPHO KW-BG`
+* thank `THAPBG`
+* you," `U KW-BG KR-GS`
+* swineherd: `XXX swineherd STPH-FPLT`
+* "ten `KR-GS TEPB`
+* or `OR`
+* I `EU`
+* keep `KAOEP`
+* pot." `POT TP-PL KR-GS`
+* "That `KR-GS THA`
+* is `S`
+* tiresome," `TAOEUR/SO*PL KW-BG KR-GS`
+* princess. `PREUPB/ES TP-PL`
 * "But `KR-GS PWUT`
-* do `TKO`
 * you `U`
-* all `AUL`
+* must `PHUFT`
 * stand `STAPBD`
 * before `PW-F`
-* me `PHE`
+* me, `PHE KW-BG`
+* so `SO`
 * that `THA`
-* no `TPHO`
-* one `WUPB`
-* may `PHAE`
+* nobody `TPHOEB`
+* can `K`
 * see `SAOE`
-* us." `US TP-PL KR-GS`
-* and `SKP`
-* court-ladies `KORT H-PB HRA*EDZ`
+* it." `T TP-PL KR-GS`
+* ladies `HRAEUDZ`
 * placed `PHRAEUFD`
 * themselves `TH*EPLS`
 * in `TPH`
 * front `TPROPBT`
-* of `-F`
-* her, `HER KW-BG`
+* her `HER`
+* and `SKP`
 * spread `SPRED`
 * out `OUT`
 * their `THAEUR`
-* dresses--the `TKRES/-S H-PB H-PB -T`
+* dresses, `TKRES/-S KW-BG`
+* she `SHE`
+* gave `TKPWAEUF`
 * swineherd `XXX swineherd`
-* got `TKPWOT`
-* ten `TEPB`
-* kisses, `KEUS/-S KW-BG`
-* Princess--the `PREUPB/ES H-PB H-PB -T`
-* kitchen-pot. `K-FP H-PB POT TP-PL`
+* received `SAOEFD`
+* pot. `POT TP-PL`
 * was `WA`
-* delightful! `TKHRAOEUT/-FL SKHRAPL`
+* a `AEU`
+* pleasure! `PHRERB SKHRAPL`
+* day `TKAEU`
+* night `TPHAOEUT`
+* water `WAUR`
 * pot `POT`
-* boiling `PWOEULG`
-* whole `WHOEL`
-* evening, `AOEPG KW-BG`
-* following `TPOLG`
-* day. `TKAEU TP-PL`
-* They `THE`
-* knew `TPHAOU`
-* perfectly `P-FRL`
-* well `WEL`
-* what `WHA`
-* cooking `KAOG`
-* at `AT`
-* every `EF`
+* boiling; `PWOEULG STPH*FPLT`
+* there `THR`
+* not `TPHOT`
+* single `SEUPBLG`
 * fire `TPAOEUR`
-* throughout `THROUT`
-* city, `STEU KW-BG`
-* from `TPR`
+* whole `WHOEL`
+* town `TOUPB`
+* which `WEU`
+* they `THE`
+* did `TK`
+* know `TPHOE`
+* what `WHA`
+* preparing `PRAOEPG`
+* on `OPB`
+* it, `T KW-BG`
 * chamberlain's `KHAPL/PWER/HREUPB AE S*/SP-S`
-* to `TO`
-* cobbler's; `KOB/HRER AE S*/SP-S STPH*FPLT`
+* as `AZ`
+* well `WEL`
+* shoemaker's. `XXX shoemaker AE S*/SP-S TP-PL`
 * danced `TKAPBS/-D`
 * clapped `KHRAP/-D`
-* hands. `HAPBDZ TP-PL`
-* "We `KR-GS WE`
-* know `TPHOE`
-* who `WHO`
-* has `HAS`
-* soup, `SOUP KW-BG`
-* pancakes `PAPB/KAEUBG/-S`
+* hands `HAPBDZ`
 * for `TPOR`
-* dinner `TKEURPB`
-* to-day, `TO H-PB TKAEU KW-BG`
-* cutlets, `KUT/HRET/-S KW-BG`
-* eggs. `EGS TP-PL`
-* How `HOU`
+* joy. `SKWROEU TP-PL`
+* "We `KR-GS WE`
+* who `WHO`
+* eat `AOET`
+* soup `SOUP`
+* pancakes; `PAPB/KAEUBG/-S STPH*FPLT`
+* we `WE`
+* porridge `PORPBLG`
+* cutlets; `KUT/HRET/-S STPH*FPLT`
+* oh, `O*ERBGS KW-BG`
+* how `HOU`
 * interesting!" `TR-G SKHRAPL KR-GS`
-* "Yes, `KR-GS KWRE KW-BG`
-* but `PWUT`
-* my `PHEU`
-* secret, `SKRET KW-BG`
-* I `EU`
-* am `*PL`
-* an `APB`
-* Emperor's `EPL/ROR AE S*/SP-S`
+* "Very `KR-GS SRE`
+* interesting, `TR-G KW-BG`
+* indeed," `TPHAOEPBD KW-BG KR-GS`
+* mistress `PHEUS/TRES`
+* household. `HOUS/HOLD TP-PL`
+* betray `PWE/TRAEU`
+* am `APL`
+* emperor's `EPL/ROR AE S*/SP-S`
 * daughter." `TKAUR TP-PL KR-GS`
-* swineherd--that `XXX swineherd H-PB H-PB THA`
-* is `S`
-* say--the `SAEU H-PB H-PB -T`
-* Prince, `PREUPBS KW-BG`
-* he `E`
-* other `OER`
+* "Of `KR-GS -F`
+* course `KORS`
+* not," `TPHOT KW-BG KR-GS`
+* all `AUL`
+* said. `SAEUD TP-PL`
+* swineherd—that `XXX swineherd EPL/TKA*RB THA`
+* to `TO`
+* say, `SAEU KW-BG`
+* prince—but `PREUPBS EPL/TKA*RB PWUT`
+* otherwise `O*ERZ`
 * than `THAPB`
-* ill-favored `EUL H-PB TPAEUFRD`
-* swineherd, `XXX swineherd KW-BG`
-* let `HRET`
-* a `AEU`
-* day `TKAEU`
-* pass `PAS`
+* real `RAEL`
+* swineherd—did `XXX swineherd EPL/TKA*RB TK`
+* waste `WAEFT`
 * without `WOUT`
-* working `WOG`
+* doing `TK*G`
 * something; `S-G STPH*FPLT`
-* last `HRAFT`
-* constructed `KRUBGTD`
-* rattle, `RA*LT KW-BG`
-* which, `WEU KW-BG`
-* when `WHEPB`
-* it `T`
-* swung `SWUPBG`
-* round, `ROUPBD KW-BG`
-* played `PHRAEUD`
-* waltzes `WAULGT/-S`
-* jig `SKWREUG`
-* tunes, `TAOUPBS KW-BG`
-* which `WEU`
-* have `SR`
-* ever `-FR`
-* been `PW-PB`
-* heard `HERD`
-* since `SEUPBS`
-* creation `KRAEGS`
-* world. `WORLD TP-PL`
-* "Ah, `KR-GS HA*E KW-BG`
-* superbe!" `XXX superbe SKHRAPL KR-GS`
-* Princess `PREUPB/ES`
-* she `SHE`
-* passed `PAFD`
-* by. `PWEU TP-PL`
-* "I `KR-GS EU`
-* never `TPHEF`
-* prettier `PRET/KWRER`
-* compositions! `KPOGS/-S SKHRAPL`
-* Go `TKPW`
-* ask `SK`

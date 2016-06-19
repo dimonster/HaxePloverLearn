@@ -1,130 +1,137 @@
 # The Swineherd Part 1
 
-* there `THR`
-* was `WA`
 * once `WUPBS`
+* upon `POPB`
 * a `AEU`
+* time `TAOEUPL`
+* lived `HREUFD`
 * poor `PAOR`
-* Prince, `PREUPBS KW-BG`
-* who `WHO`
-* had `H`
-* kingdom. `KEUPBG/TKOPL TP-PL`
+* prince; `PREUPBS STPH*FPLT`
 * his `HEUS`
 * kingdom `KEUPBG/TKOPL`
+* was `WA`
 * very `SRE`
 * small, `SPAUL KW-BG`
 * but `PWUT`
-* still `STEUL`
-* quite `KWAOEUT`
+* It `T`
 * large `HRARPBLG`
 * enough `TPHUF`
 * to `TO`
-* marry `PHAER`
-* upon; `POPB STPH*FPLT`
-* and `SKP`
-* he `E`
-* wished `WEURBD`
-* marry. `PHAER TP-PL`
-* it `T`
-* certainly `SERPBL`
-* rather `RAER`
-* cool `KAOL`
-* of `-F`
+* enable `TPHAEUBL`
 * him `HEUPL`
-* say `SAEU`
+* marry, `PHAER KW-BG`
+* and `SKP`
+* marry `PHAER`
+* he `E`
+* would. `WO TP-PL`
+* rather `RAER`
+* bold `PWOLD`
+* of `-F`
+* that `THA`
+* went `WEPBT`
+* asked `SK-D`
 * the `-T`
-* Emperor's `EPL/ROR AE S*/SP-S`
-* daughter, `TKAUR KW-BG`
+* emperor's `EPL/ROR AE S*/SP-S`
+* daughter: `TKAUR STPH-FPLT`
 * "Will `KR-GS HR`
 * you `U`
-* have `SR`
 * me?" `PHE H-F KR-GS`
-* So `SO`
-* did; `TK STPH*FPLT`
+* ventured `SREPB/KHURD`
+* do `TKO`
+* so, `SO KW-BG`
 * for `TPOR`
 * name `TPHAEUPL`
-* renowned `RE/TPHOUB/-D`
+* known `TPHOEPB`
 * far `TPAR`
-* wide; `WAOEUD STPH*FPLT`
+* wide, `WAOEUD KW-BG`
+* there `THR`
 * were `WR`
-* hundred `HUPBD`
+* hundreds `HUPBS`
 * princesses `PREUPB/ES/-S`
+* who `WHO`
 * would `WO`
-* answered, `APBSD KW-BG`
-* "Yes!" `KR-GS KWRE SKHRAPL KR-GS`
-* "Thank `KR-GS THAPBG`
-* kindly." `KAOEUPBD/HREU TP-PL KR-GS`
-* We `WE`
+* have `SR`
+* gladly `TKPWHRAD/HREU`
+* accepted `SEPD`
+* him, `HEUPL KW-BG`
+* she `SHE`
+* so? `SO H-F`
+* Now `TPHOU`
+* we `WE`
 * shall `SHAL`
-* see `SAOE`
-* what `WHA`
-* this `TH`
-* Princess `PREUPB/ES`
-* said. `SAEUD TP-PL`
-* Listen! `HREUFPB SKHRAPL`
-* happened `HAPD`
-* that `THA`
-* where `W-R`
-* Prince's `PREUPBS AE S*/SP-S`
+* see. `SAOE TP-PL`
+* On `OPB`
+* grave `TKPWRAEUF`
+* prince's `PREUPBS AE S*/SP-S`
 * father `TPAER`
-* lay `HRAEU`
-* buried, `PWUR/EUD KW-BG`
 * grew `TKPWRAOU`
-* rose `ROES`
-* tree--a `TRAOE H-PB H-PB AEU`
-* most `PHO*S`
+* rose-tree, `ROEZ H-PB TRAOE KW-BG`
+* most `PHOFT`
 * beautiful `PWAOUFL`
-* tree, `TRAOE KW-BG`
-* which `WEU`
-* blossomed `PWHROS/SOPLD`
+* its `EUTS`
+* kind. `KEUPBD TP-PL`
+* bloomed `PHRAOPL/-D`
 * only `OEPBL`
 * in `TPH`
-* every `EF`
 * five `TPEUF`
 * years, `KWRAOERS KW-BG`
-* even `AOEPB`
 * then `THEPB`
-* bore `PWOR`
+* had `H`
 * one `WUPB`
-* flower, `TPHRO*UR KW-BG`
-* rose! `ROES SKHRAPL`
-* smelt `SPHELT`
+* single `SEUPBLG`
+* rose `ROEZ`
+* it, `T KW-BG`
+* what `WHA`
+* rose! `ROEZ SKHRAPL`
+* such `SUFP`
 * sweet `SWAOET`
+* scent `SKEPBT`
+* instantly `EUPB/STAPBT/HREU`
+* forgot `TPAURGT`
 * all `AUL`
-* cares `KAEURS`
-* sorrows `SROE/-S`
-* forgotten `TPO*RGD`
-* by `PWEU`
-* inhaled `EUPB/HAEULD`
-* its `EUTS`
-* fragrance. `TPRAEUG/RAPBS TP-PL`
-* furthermore, `TPURT/PHOR KW-BG`
-* Prince `PREUPBS`
+* sorrow `SROE`
+* grief `TKPWRAOEF`
+* when `WHEPB`
+* smelt `SPHELT`
+* it. `T TP-PL`
+* also `HR-S`
 * nightingale, `TPHAOEUT/-G/TKPWAEL KW-BG`
+* which `WEU`
 * could `KO`
 * sing `SEUPBG`
-* such `SUFP`
-* manner `PHAERPB`
-* seemed `SAOEPLD`
 * as `AZ`
-* though `THOE`
-* melodies `PHEL/TKEU/KWREU/-S`
-* dwelt `TKWELT`
-* her `HER`
-* little `HREUL`
+* if `TP`
+* every `EF`
+* melody `PHEL/TKEU`
 * throat. `THROET TP-PL`
-* rose, `ROES KW-BG`
-* nightingale; `TPHAOEUT/-G/TKPWAEL STPH*FPLT`
-* they `THE`
-* accordingly `A/KORD/-G/HREU`
+* This `TH`
+* nightingale `TPHAOEUT/-G/TKPWAEL`
+* wished `WEURBD`
+* give `TKPWEUF`
+* princess; `PREUPB/ES STPH*FPLT`
+* therefore `TH-FR`
+* both `PWO*T`
 * put `PUT`
 * into `TPHAO`
+* big `PWEUG`
 * silver `SEUL/SRER`
-* caskets, `KAS/KETS KW-BG`
+* cases `KAEUSZ`
 * sent `SEPBT`
 * her. `HER TP-PL`
-* Emperor `EPL/ROR`
+* emperor `EPL/ROR`
+* ordered `ORD/-D`
 * them `THEPL`
-* brought `PWRAUT`
-* hall, `HA*L KW-BG`
+* be `-B`
+* carried `KAERD`
+* great `TKPWRAET`
+* hall `HAUL`
+* where `W-R`
+* princess `PREUPB/ES`
+* just `SKWRUFT`
 * playing `PHRA*EUG`
+* "Visitors `KR-GS SREUS/TORS`
+* are `R`
+* coming" `KO*G KR-GS`
+* with `W`
+* her `HER`
+* ladies-in-waiting; `HRAEUDZ H-PB TPH H-PB WAEUGT STPH*FPLT`

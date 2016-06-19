@@ -1,113 +1,123 @@
 # The Shadow Part 6
 
+* shadow `SHO*EUD`
+* turned; `TURPBD STPH*FPLT`
+* and `SKP`
+* if `TP`
+* any `TPHEU`
+* one `WUPB`
+* had `H`
+* observed, `OEBD KW-BG`
+* they `THE`
+* might `PHAOEUT`
+* have `SR`
+* seen `SAOEPB`
+* it `T`
+* go `TKPW`
+* straight `STRAEUT`
+* into `TPHAO`
 * the `-T`
+* half-opened `HAF H-PB OEPD`
+* door `TKAOR`
+* of `-F`
+* opposite `OP/SEUT`
+* balcony, `PWAL/KOEPB KW-BG`
+* as `AZ`
 * learned `HRERPBD`
 * man `PHAPB`
-* now `TPHOU`
-* came `KAEUPL`
-* there `THR`
-* and `SKP`
-* told `TOLD`
+* re-entered `XXX re H-PB SPWR-D`
 * his `HEUS`
-* story, `STOER KW-BG`
-* they `THE`
-* would `WO`
-* say `SAEU`
-* that `THA`
+* own `OEPB`
+* room, `RAOPL KW-BG`
+* let `HRET`
+* curtain `KUR/TAPB`
+* fall. `TPAL TP-PL`
+* next `TPHEGT`
+* morning `PHORPBG`
 * he `E`
-* was `WA`
-* imitating `EUPL/TAEUT/-G`
-* it, `T KW-BG`
-* had `H`
-* no `TPHO`
-* need `TPHAOED`
-* to `TO`
-* do. `TKO TP-PL`
-* would, `WO KW-BG`
-* therefore, `TH-FR KW-BG`
-* not `TPHOT`
-* talk `TAUBG`
-* about `PW`
-* it `T`
-* at `AT`
-* all; `AUL STPH*FPLT`
-* wisely `WAOEULS`
-* thought. `THAUT TP-PL`
-* in `TPH`
-* evening `AOEPG`
 * went `WEPBT`
 * out `OUT`
+* to `TO`
+* take `TAEUBG`
+* coffee `KOF/AOE`
+* read `RAED`
+* newspapers. `TPHUPS TP-PL`
+* "How `KR-GS HOU`
+* is `S`
+* this?" `TH H-F KR-GS`
+* exclaimed, `SKHRAEUPL/-D KW-BG`
+* stood `STAOD`
+* In `TPH`
+* sunshine. `S*UPB/SHAOEUPB TP-PL`
+* "I `KR-GS EU`
+* lost `HRO*S`
+* my `PHEU`
+* shadow. `SHO*EUD TP-PL`
+* So `SO`
+* really `HROERL`
+* did `TK`
+* away `A/WAEU`
+* yesterday `KWRED`
+* evening, `AOEPG KW-BG`
+* has `HAS`
+* not `TPHOT`
+* returned. `RURPBD TP-PL`
+* this `TH`
+* very `SRE`
+* annoying." `TPHOEUG TP-PL KR-GS`
+* certainly `SERPBL`
+* vex `SREBGS`
+* him, `HEUPL KW-BG`
+* much `PHUFP`
+* because `PWAU`
+* was `WA`
+* gone, `TKWOPB KW-BG`
+* but `PWUT`
+* knew `TPHAOU`
+* there `THR`
+* a `AEU`
+* story `STOER`
+* without `WOUT`
+* All `AUL`
+* people `PAOEPL`
+* at `AT`
+* home, `HOEPL KW-BG`
+* country, `KREU KW-BG`
+* story; `STOER STPH*FPLT`
+* when `WHEPB`
+* returned, `RURPBD KW-BG`
+* related `RAELTD`
+* adventures, `SREPBGS KW-BG`
+* would `WO`
+* say `SAEU`
+* only `OEPBL`
+* an `APB`
+* imitation; `EUPL/TAEUGS STPH*FPLT`
+* no `TPHO`
+* desire `STKAOEUR`
+* for `TPOR`
+* such `SUFP`
+* things `THEUPBGS`
+* be `-B`
+* said `SAEUD`
+* him. `HEUPL TP-PL`
+* decided `TKAOE/SAOEUD/-D`
+* speak `SPAOEBG`
+* all, `AUL KW-BG`
+* which `WEU`
+* sensible `SEPBS/-BL`
+* determination. `TKERPLGS TP-PL`
+* evening `AOEPG`
 * again `TKPWEPB`
 * on `OPB`
-* balcony. `PWAL/KOEPB TP-PL`
-* placed `PHRAEUFD`
+* taking `TAEUG`
+* care `KAEUR`
+* place `PHRAEUS`
 * light `HRAOEUT`
-* directly `TKREL`
 * behind `HEUPBD`
-* him, `HEUPL KW-BG`
-* for `TPOR`
-* knew `TPHAOU`
-* shadow `SHAD/OE`
-* always `AULS`
-* have `SR`
-* its `EUTS`
+* him; `HEUPL STPH*FPLT`
+* that `THA`
+* always `AULZ`
+* wants `WAPBTS`
 * master `PHAFRT`
-* a `AEU`
-* screen, `SKRAOEPB KW-BG`
-* but `PWUT`
-* could `KO`
-* entice `SPWAOEUS`
-* it. `T TP-PL`
-* made `PHAED`
-* himself `H*EUPLS`
-* little; `HREUL STPH*FPLT`
-* great: `TKPWRAET STPH-FPLT`
-* again. `TKPWEPB TP-PL`
-* said, `SAEUD KW-BG`
-* "Hem! `KR-GS HEPL SKHRAPL`
-* hem!" `HEPL SKHRAPL KR-GS`
-* of `-F`
-* use. `AOUS TP-PL`
-* vexatious; `SREBG/SAEURBS STPH*FPLT`
-* warm `WARPL`
-* lands `HRAPBDZ`
-* everything `EFG`
-* grows `TKPWRO*ES`
-* so `SO`
-* quickly; `KWEULG STPH*FPLT`
-* after `AF`
-* lapse `HRAPS`
-* eight `AET`
-* days `TKAEUS`
-* observed, `OEBD KW-BG`
-* great `TKPWRAET`
-* joy, `SKWROEU KW-BG`
-* new `TPHU`
-* sunshine. `S*UPB/SHAOEUPB TP-PL`
-* course `KORS`
-* three `THRAOE`
-* weeks `WAOEBGS`
-* very `SRE`
-* fair `TPAEUR`
-* shadow, `SHAD/OE KW-BG`
-* which, `WEU KW-BG`
-* when `WHEPB`
-* set `SET`
-* home `HOEPL`
-* northern `TPHORPB`
-* lands, `HRAPBDZ KW-BG`
-* grew `TKPWRAOU`
-* more `PHOR`
-* journey, `SKWRURPB KW-BG`
-* last `HRAFT`
-* long `HROPBG`
-* large, `HRARPBLG KW-BG`
-* than `THAPB`
-* sufficient. `SUF TP-PL`
-* then `THEPB`
-* home, `HOEPL KW-BG`
-* wrote `WRO`
-* books `PWAOBGS`
-* what `WHA`
-* true `TRAOU`
-* world, `WORLD KW-BG`
+* screen; `SKRAOEPB STPH*FPLT`

@@ -1,127 +1,130 @@
 # The Shadow Part 18
 
-* so `SO`
-* it `T`
-* is `S`
-* half `HAF`
-* done!" `TKOPB SKHRAPL KR-GS`
+* and `SKP`
+* friendly. `TPREPBLD TP-PL`
+* one `WUPB`
+* day `TKAEU`
 * the `-T`
-* shadow `SHAD/OE`
+* master `PHAFRT`
 * said `SAEUD`
-* THOU `THO*U`
 * to `TO`
-* its `EUTS`
-* former `TPORPL/*ER`
+* shadow, `SHO*EUD KW-BG`
+* "We `KR-GS WE`
+* have `SR`
+* grown `TKPWROEPB`
+* up `UP`
+* together `TOGT`
+* from `TPR`
+* our `OUR`
+* childhood, `KHAOEULD/H*D KW-BG`
+* now `TPHOU`
+* that `THA`
+* we `WE`
+* become `PW-BG`
+* travelling `TRAFLG`
+* companions, `KPAPB/KWROPBS KW-BG`
+* shall `SHAL`
+* not `TPHOT`
+* drink `TKREU`
+* good `TKPWAOD`
+* fellowship, `TPEL/OE/SHEUP KW-BG`
+* say `SAEU`
+* thee `THAOE`
+* thou `THO*U`
+* each `AOEFP`
+* other?" `OER H-F KR-GS`
+* "What `KR-GS WHA`
+* you `U`
+* is `S`
+* very `SRE`
+* straightforward `SRAOD`
+* kindly `KAOEUPBD/HREU`
+* meant," `PHEPBT KW-BG KR-GS`
+* who `WHO`
+* was `WA`
+* really `HROERL`
 * master. `PHAFRT TP-PL`
-* "This `KR-GS TH`
+* "I `KR-GS EU`
+* will `HR`
+* be `-B`
+* equally `KWAEL`
+* kind `KEUPBD`
+* straightforward. `SRAOD TP-PL`
+* are `R`
+* a `AEU`
+* learned `HRERPBD`
+* man, `PHAPB KW-BG`
+* know `TPHOE`
+* how `HOU`
+* wonderful `WUFL`
+* human `HAOUPL`
+* nature `TPHAEURT`
+* is. `S TP-PL`
+* There `THR`
+* some `SOPL`
+* men `PHEPB`
+* cannot `K/TPHOT`
+* endure `EPB/TKAOUR`
+* smell `SPHEL`
+* of `-F`
+* brown `PWROUPB`
+* paper; `PAEUP STPH*FPLT`
+* it `T`
+* makes `PHAEUBGS`
+* them `THEPL`
+* ill. `EUL TP-PL`
+* Others `OERS`
+* feel `TPAOEL`
+* shuddering `SHUD/ERG`
+* sensation `STPHAEUGS`
+* their `THAEUR`
+* marrow, `PHO*EUR KW-BG`
+* if `TP`
+* nail `TPHAEUL`
+* scratched `SKRAFPD`
+* on `OPB`
+* pane `PAEPB`
+* glass. `TKPWHRAS TP-PL`
+* I `EU`
+* myself `PHAO*EUS`
+* similar `SHRAR`
+* feeling `TPAOELG`
+* when `WHEPB`
+* hear `HAER`
+* any `TPHEU`
+* me. `PHE TP-PL`
+* crushed `KRURBD`
+* by `PWEU`
+* it, `T KW-BG`
+* as `AZ`
+* used `AOUFD`
+* in `TPH`
+* my `PHEU`
+* former `TPORPL/*ER`
+* position `POGS`
+* with `W`
+* you. `U TP-PL`
+* perceive `SPAOEF`
+* this `TH`
+* matter `PHAERT`
+* feeling, `TPAOELG KW-BG`
+* pride. `PRAOEUD TP-PL`
+* allow `HROU`
+* me; `PHE STPH*FPLT`
+* gladly `TKPWHRAD/HREU`
+* you, `U KW-BG`
+* therefore `TH-FR`
+* your `KWROUR`
+* wish `WEURB`
+* half `HAF`
+* fulfilled." `TPUL/TPEULD TP-PL KR-GS`
+* Then `THEPB`
+* shadow `SHO*EUD`
+* addressed `A/TKREFD`
+* his `HEUS`
+* thou. `THO*U TP-PL`
+* "It `KR-GS T`
+* going `TKPW-G`
 * rather `RAER`
 * too `TAO`
-* bad," `PWAD KW-BG KR-GS`
-* thought `THAUT`
-* he, `E KW-BG`
-* "that `KR-GS THA`
-* I `EU`
-* must `PHUFT`
-* say `SAEU`
-* you `U`
-* and `SKP`
-* he `E`
-* THOU," `THO*U KW-BG KR-GS`
-* but `PWUT`
-* was `WA`
-* now `TPHOU`
-* obliged `OB/HRAOEUPBLG/-D`
-* put `PUT`
-* up `UP`
-* with `W`
-* it. `T TP-PL`
-* they `THE`
-* came `KAEUPL`
-* a `AEU`
-* watering-place `WAT/ERG H-PB PHRAEUS`
-* where `W-R`
-* there `THR`
-* were `WR`
-* many `PHAEPB`
-* strangers, `STRAEUPB/SKWRERS KW-BG`
-* amongst `PHOPBGS`
-* them `THEPL`
-* princess, `PREUPB/ES KW-BG`
-* who `WHO`
-* troubled `TRUBLD`
-* seeing `SAOEG`
-* well; `WEL STPH*FPLT`
-* that `THA`
-* alarming! `A/HRARPLG SKHRAPL`
-* she `SHE`
-* directly `TKREL`
-* observed `OEBD`
-* stranger `STRAEURPBG`
-* had `H`
-* just `SKWRUFT`
-* come `KOPL`
-* quite `KWAOEUT`
-* different `TKEUFRT`
-* sort `SORT`
-* of `-F`
-* person `PERPB`
-* all `AUL`
-* others; `OERS STPH*FPLT`
-* "He `KR-GS E`
-* has `HAS`
-* here `HAOER`
-* in `TPH`
-* order `ORD`
-* get `TKPWET`
-* his `HEUS`
-* beard `PWAERD`
-* grow, `TKPWROE KW-BG`
-* say, `SAEU KW-BG`
-* see `SAOE`
-* real `RAEL`
-* cause, `KAUS KW-BG`
-* cannot `K/TPHOT`
-* cast `KA*S`
-* shadow." `SHAD/OE TP-PL KR-GS`
-* become `PW-BG`
-* inquisitive; `EPB/KWEUS/TEUF STPH*FPLT`
-* entered `*EPBTD`
-* into `TPHAO`
-* conversation `K-FRGS`
-* strange `STRAEUPBG`
-* gentleman, `SKWRA*PL KW-BG`
-* on `OPB`
-* their `THAEUR`
-* promenades. `PROPL/TPHAUDZ TP-PL`
-* As `AZ`
-* daughter `TKAUR`
-* king, `KEUPBG KW-BG`
-* needed `TPHAOETD`
-* not `TPHOT`
-* stand `STAPBD`
-* upon `POPB`
-* trifles, `TRAOEUFL/-S KW-BG`
-* said, `SAEUD KW-BG`
-* "Your `KR-GS KWROUR`
-* complaint `KPAEUPBT`
-* is, `S KW-BG`
-* shadow?" `SHAD/OE H-F KR-GS`
-* Royal `ROEUL`
-* Highness `HAOEU/-PBS`
-* be `-B`
-* improving `EUPL/PROFG`
-* considerably," `KRAEBL KW-BG KR-GS`
-* shadow, `SHAD/OE KW-BG`
-* "I `KR-GS EU`
-* know `TPHOE`
-* your `KWROUR`
-* clearly, `KAOERL KW-BG`
-* decreased, `TE/KRAOES/-D KW-BG`
-* are `R`
-* cured. `KAOURD TP-PL`
-* happen `HAP`
-* have `SR`
-* very `SRE`
-* unusual `TPHAOURB`
-* shadow! `SHAD/OE SKHRAPL`
-* Do `TKO`
+* far," `TPAR KW-BG KR-GS`

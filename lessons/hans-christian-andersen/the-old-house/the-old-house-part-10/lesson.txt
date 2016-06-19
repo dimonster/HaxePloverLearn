@@ -1,136 +1,202 @@
 The Old House Part 10
 
+'looking': HRAOG
+'just': SKWRUFT
+'as': AZ
+'serious,': SAOERS KW-BG
+'when': WHEPB
+'the': -T
+'door': TKAOR
+'opened,': OEPD KW-BG
+'and': SKP
+'your': KWROUR
+'little': HREUL
 'sister': ST-R
-'Mary,': PHA*ER KW-BG
+'Maria,': PHA/REU/KWRA KW-BG
 'who': WHO
 'is': S
 'not': TPHOT
 'two': TWO
 'years': KWRAOERS
-'old': OLD
-'yet,': KWRET KW-BG
-'And': SKP
-'always': AULS
+'old,': OLD KW-BG
+'was': WA
+'brought': PWRAUT
+'into': TPHAO
+'the': -T
+'room.': RAOPL TP-PL
+'You': U
+'know': TPHOE
+'she': SHE
+'always': AULZ
 'dances': TKAPBS/-S
 'when': WHEPB
 'she': SHE
 'hears': HAERS
 'music': PHAOUFBG
-'or': OR
-'singing,': SEUPBG/-G KW-BG
+'and': SKP
+'singing': SEUPBG/-G
 'of': -F
-'whatever': WHAF
-'kind': KEUPBD
-'it': T
-'may': PHAE
-'be,': -B KW-BG
-'was': WA
-'put': PUT
-'into': TPHAO
-'the': -T
-'room--though': RAOPL H-PB H-PB THOE
+'any': TPHEU
+'sort;': SORT STPH*FPLT
+'so': SO
+'she': SHE
+'began': TKPWAPB
+'to': TO
+'dance': TKAPBS
+'immediately,': PHAOELD KW-BG
+'although': HR*T
+'she': SHE
 'ought': OT
+'not': TPHOT
 'to': TO
 'have': SR
-'been': PW-PB
-'there--and': THR H-PB H-PB SKP
-'then': THEPB
-'began': TKPWAPB
-'dance,': TKAPBS KW-BG
-'But': PWUT
+'done': TKOPB
+'so,': SO KW-BG
+'but': PWUT
+'she': SHE
 'could': KO
-'keep': KAOEP
-'time,': TAOEUPL KW-BG
+'not': TPHOT
+'get': TKPWET
+'into': TPHAO
+'the': -T
+'right': RAOEUT
+'time': TAOEUPL
 'because': PWAU
-'tones': TOEPBS
-'were': WR
+'the': -T
+'tune': TAOUPB
+'was': WA
 'so': SO
-'long;': HROPBG STPH*FPLT
-'stood,': STAOD KW-BG
+'slow;': SHROE STPH*FPLT
+'so': SO
+'she': SHE
+'stood': STAOD
 'first': TPEURS
 'on': OPB
 'one': WUPB
-'leg,': HREG KW-BG
+'leg': HREG
+'and': SKP
+'then': THEPB
+'on': OPB
+'the': -T
+'other,': OER KW-BG
+'and': SKP
 'bent': PWEPBT
 'her': HER
 'head': HED
-'forwards,': TPAORDZ KW-BG
-'other': OER
-'forwards--but': TPAORDZ H-PB H-PB PWUT
-'all': AUL
-'would': WO
-'do.': TKO TP-PL
-'you': U
-'stood': STAOD
 'very': SRE
-'seriously': SAOERLS
-'together,': TOGT KW-BG
+'low,': HROE KW-BG
+'but': PWUT
+'it': T
+'would': WO
+'not': TPHOT
+'suit': SAOUT
+'the': -T
+'music.': PHAOUFBG TP-PL
+'You': U
+'all': AUL
+'stood': STAOD
+'looking': HRAOG
+'very': SRE
+'grave,': TKPWRAEUF KW-BG
 'although': HR*T
+'it': T
+'was': WA
+'very': SRE
 'difficult': TKEUFL
-'enough;': TPHUF STPH*FPLT
+'to': TO
+'do': TKO
+'so,': SO KW-BG
+'but': PWUT
 'I': EU
 'laughed': HRAFD
-'myself,': PHAO*EUS KW-BG
+'so': SO
+'to': TO
+'myself': PHAO*EUS
+'that': THA
+'I': EU
 'fell': TPEL
-'off': OF
+'down': TKOUPB
+'from': TPR
+'the': -T
 'table,': TAEUBL KW-BG
+'and': SKP
 'got': TKPWOT
 'a': AEU
-'bump,': PW*UPL KW-BG
+'bruise,': PWRAOUZ KW-BG
 'which': WEU
-'still--for': STEUL H-PB H-PB TPOR
+'is': S
+'there': THR
+'still;': STEUL STPH*FPLT
+'I': EU
+'know': TPHOE
+'it': T
+'was': WA
+'not': TPHOT
 'right': RAOEUT
-'me': PHE
+'to': TO
 'laugh.': HRAF TP-PL
-'whole': WHOEL
-'now': TPHOU
-'passes': PA*FS
-'before': PW-F
-'again': TKPWEPB
-'in': TPH
-'thought,': THAUT KW-BG
+'So': SO
+'all': AUL
+'this,': TH KW-BG
+'and': SKP
 'everything': EFG
+'else': ELS
 'that': THA
-'lived': HREUFD
-'see;': SAOE STPH*FPLT
+'I': EU
+'have': SR
+'seen,': SAOEPB KW-BG
+'keeps': KAOEPS
+'running': R*UPBG
+'in': TPH
+'my': PHEU
+'head,': HED KW-BG
+'and': SKP
 'these': THEZ
-'are': R
-'thoughts,': THAUTS KW-BG
-'with': W
-'what': WHA
-'they': THE
+'must': PHUFT
+'be': -B
+'the': -T
+'old': OLD
+'recollections': REBGT/-G/-S
+'that': THA
 'bring': PWREU
+'so': SO
+'many': PHAEPB
+'thoughts': THAUTS
+'with': W
 'them.': THEPL TP-PL
-'"Tell': KR-GS TEL
-'if': TP
+'Tell': TEL
+'me': PHE
+'whether': WHR
+'you': U
 'still': STEUL
 'sing': SEUPBG
-'Sundays?': SUPBDZ H-F
-'Tell': TEL
-'something': S-G
+'on': OPB
+'Sundays,': SUPBDZ KW-BG
+'and': SKP
+'tell': TEL
+'me': PHE
 'about': PW
+'your': KWROUR
 'little': HREUL
-'Mary!': PHA*ER SKHRAPL
+'sister': ST-R
+'Maria,': PHA/REU/KWRA KW-BG
+'and': SKP
 'how': HOU
 'my': PHEU
-'comrade,': KOPL/RAD KW-BG
-'pewter': PAOU/TER
-'soldier,': SHRERPBL KW-BG
-'lives!': HREUFS SKHRAPL
-'Yes,': KWRE KW-BG
+'old': OLD
+'comrade': KOPL/RAD
+'is,': S KW-BG
+'the': -T
+'other': OER
+'tin': TEUPB
+'soldier.': SHRERPBL TP-PL
+'Ah,': HA*E KW-BG
+'really': HROERL
 'he': E
-'happy': HAEP
-'enough,': TPHUF KW-BG
-'that's': TH-TS
-'sure!': SHUR SKHRAPL
+'must': PHUFT
+'be': -B
+'very': SRE
+'happy;': HAEP STPH*FPLT
+'I': EU
 'cannot': K/TPHOT
-'bear': PWAER
-'any': TPHEU
-'longer!"': HRORPBG SKHRAPL KR-GS
-'"You': KR-GS U
-'given': TKPWEUFPB
-'away': A/WAEU
-'as': AZ
-'present!"': PREPBT SKHRAPL KR-GS
-'said': SAEUD
-'boy.': PWOEU TP-PL
+'endure': EPB/TKAOUR

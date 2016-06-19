@@ -1,65 +1,105 @@
 The Happy Family Part 7
 
+'came': KAEUPL
+'out': OUT
+'no': TPHO
+'more;': PHOR STPH*FPLT
+'for': TPOR
+'they': THE
+'slept.': SHREPD TP-PL
+'The': -T
+'young': KWRUPBG
+'snail': STPHAEUL
+'pair': PAEUR
+'now': TPHOU
+'ruled': RAOULD
+'in': TPH
+'the': -T
+'forest,': TPOEFRT KW-BG
 'and': SKP
 'had': H
 'a': AEU
 'numerous': TPHAOUPLS
-'progeny,': PROPBLG/TPHEU KW-BG
-'but': PWUT
-'they': THE
+'progeny.': PROPBLG/TPHEU TP-PL
+'But': PWUT
+'as': AZ
+'the': -T
+'young': KWRUPBG
+'ones': WUPBZ
 'were': WR
 'never': TPHEF
-'boiled,': PWOEULD KW-BG
-'came': KAEUPL
-'on': OPB
-'the': -T
+'boiled': PWOEULD
+'or': OR
+'laid': HRAEUD
+'in': TPH
 'silver': SEUL/SRER
-'dishes;': TKEURBS STPH*FPLT
-'so': SO
-'from': TPR
-'this': TH
+'dishes,': TKEURBS KW-BG
+'they': THE
 'concluded': KAUPB/KAOUD/-D
 'that': THA
-'manor-house': PHA/TPHOR H-PB HOUS
+'the': -T
+'castle': KAFL
+'had': H
 'fallen': TPAUL/-PB
-'to': TO
-'ruins,': RAOUPBS KW-BG
+'into': TPHAO
+'decay,': TKE/KAEU KW-BG
+'and': SKP
+'that': THA
 'all': AUL
-'men': PHEPB
+'the': -T
+'people': PAOEPL
 'in': TPH
+'the': -T
 'world': WORLD
-'extinct;': EBGS/TEUPBG STPH*FPLT
+'were': WR
+'dead;': TKED STPH*FPLT
+'and': SKP
 'as': AZ
-'no': TPHO
-'one': WUPB
+'nobody': TPHOEB
 'contradicted': KR*EUBGT/-D
 'them,': THEPL KW-BG
-'so,': SO KW-BG
-'of': -F
-'course': KORS
-'it': T
-'was': WA
-'so.': SO TP-PL
+'they': THE
+'thought': THAUT
+'they': THE
+'must': PHUFT
+'be': -B
+'right.': RAOEUT TP-PL
+'And': SKP
+'the': -T
 'rain': RAEUPB
-'beat': PWAET
-'dock-leaves': TKOBG H-PB HREFS
-'make': PHAEUBG
-'drum-music': TKRUPL H-PB PHAOUFBG
+'fell': TPEL
+'upon': POPB
+'the': -T
+'burdock-leaves,': XXX burdock H-PB HREFS KW-BG
+'to': TO
+'play': PHRAEU
+'the': -T
+'drum': TKRUPL
 'for': TPOR
-'their': THAEUR
-'sake,': SAEUBG KW-BG
+'them,': THEPL KW-BG
+'and': SKP
+'the': -T
 'sun': SUPB
 'shone': SHO*EPB
-'order': ORD
-'give': TKPWEUF
+'to': TO
+'paint': PAEUPT
+'colors': KHRORS
+'on': OPB
+'the': -T
 'burdock': XXX burdock
-'forest': TPO*RS
-'color': KROR
-'sakes;': SAEUBGS STPH*FPLT
+'forest': TPOEFRT
+'for': TPOR
+'them,': THEPL KW-BG
+'and': SKP
+'they': THE
+'were': WR
 'very': SRE
-'happy,': HAEP KW-BG
+'happy;': HAEP STPH*FPLT
+'the': -T
 'whole': WHOEL
 'family': TPAEPL
-'happy;': HAEP STPH*FPLT
-'they,': THE KW-BG
-'indeed': TPHAOEPBD
+'were': WR
+'entirely': SPWAOEURL
+'and': SKP
+'perfectly': P-FRL
+'happy.': HAEP TP-PL

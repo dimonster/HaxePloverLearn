@@ -1,137 +1,142 @@
 # The Story Of A Mother Part 8
 
-* came. `KAEUPL TP-PL`
-* "How `KR-GS HOU`
-* hast `XXX hast`
-* thou `THO*U`
-* been `PW-PB`
-* able `ABL`
+* "Do `KR-GS TKO`
+* not `TPHOT`
+* touch `TUFP`
+* the `-T`
+* flower," `TPHRO*UR KW-BG KR-GS`
+* exclaimed `SKHRAEUPL/-D`
+* old `OLD`
+* woman; `WOPL STPH*FPLT`
+* "But `KR-GS PWUT`
+* place `PHRAEUS`
+* yourself `KWRO*URS`
+* here; `HAOER STPH*FPLT`
+* and `SKP`
+* when `WHEPB`
+* Death `TK*T`
+* comes—I `KOPLS EPL/TKA*RB EU`
+* expect `KP-PT`
+* him `HEUPL`
+* every `EF`
+* minute—do `PHEUPB EPL/TKA*RB TKO`
+* let `HRET`
+* pull `PUL`
+* up `UP`
+* that `THA`
+* plant, `PHRAPBT KW-BG`
+* but `PWUT`
+* threaten `THREFPB`
+* if `TP`
+* he `E`
+* does `TKOS`
+* you `U`
+* will `HR`
+* serve `SEFB`
+* other `OER`
+* flowers `TPHRO*URS`
+* in `TPH`
+* same `SAEUPL`
+* manner. `PHAERPB TP-PL`
+* This `TH`
+* make `PHAEUBG`
+* afraid; `A/TPRAEUD STPH*FPLT`
+* for `TPOR`
+* must `PHUFT`
+* account `K-T`
 * to `TO`
+* God `TKPWOD`
+* each `AOEFP`
+* of `-F`
+* them. `THEPL TP-PL`
+* None `TPHOPB`
+* can `K`
+* be `-B`
+* uprooted, `UP/RAOT/-D KW-BG`
+* unless `TPH-LS`
+* receives `SAOEFS`
+* permission `PERPLGS`
+* do `TKO`
+* so." `SO TP-PL KR-GS`
+* There `THR`
+* rushed `RURBD`
+* through `THRU`
+* hothouse `XXX hothouse`
+* a `AEU`
+* chill `KHEUL`
+* icy `AOEU/SEU`
+* coldness, `XXX coldness KW-BG`
+* blind `PWHRAOEUPBD`
+* mother `PHOER`
+* felt `TPELT`
+* had `H`
+* arrived. `A/REUFD TP-PL`
+* "how `KR-GS HOU`
+* did `TK`
 * find `TPEUPBD`
-* thy `THAO*EU`
+* your `KWROUR`
 * way `WAEU`
 * hither?" `H*EURT H-F KR-GS`
-* he `E`
-* asked. `SK-D TP-PL`
-* couldst `XXX couldst`
+* asked `SK-D`
+* he; `E STPH*FPLT`
+* could `KO`
 * come `KOPL`
-* quicker `KW*EURBG`
+* here `HAOER`
+* faster `TPA*FRT`
 * than `THAPB`
-* I?" `EU H-F KR-GS`
+* I `EU`
+* have?" `SR H-F KR-GS`
 * "I `KR-GS EU`
-* am `*PL`
-* a `AEU`
+* am `APL`
 * mother," `PHOER KW-BG KR-GS`
-* said `SAEUD`
-* she. `SHE TP-PL`
-* and `SKP`
-* Death `TK*T`
+* she `SHE`
+* answered. `APBSD TP-PL`
 * stretched `STREFPD`
 * out `OUT`
-* His `HEUS`
-* long `HROPBG`
+* his `HEUS`
 * hand `HAPBD`
 * towards `TORDZ`
-* the `-T`
-* fine `TPAOEUPB`
+* delicate `TKEL/KAT`
 * little `HREUL`
-* flower, `TPHRO*UR KW-BG`
-* but `PWUT`
-* she `SHE`
+* flower; `TPHRO*UR STPH*FPLT`
 * held `HELD`
 * her `HER`
 * hands `HAPBDZ`
-* fast `TPA*S`
-* around `ARPBD`
-* his, `HEUS KW-BG`
-* so `SO`
-* tight, `TAOEUT KW-BG`
-* yet `KWRET`
-* afraid `A/TPRAEUD`
-* that `THA`
+* tightly `TAO*EULT`
+* round `ROUPBD`
+* it, `T KW-BG`
+* it `T`
+* fast `TPAFT`
+* at `AT`
+* time, `TAOEUPL KW-BG`
+* with `W`
+* most `PHOFT`
+* anxious `KPUS`
+* care, `KAEUR KW-BG`
+* lest `HR*ES`
 * should `SHO`
-* touch `TUFP`
 * one `WUPB`
-* of `-F`
 * leaves. `HREFS TP-PL`
 * Then `THEPB`
-* blew `PWHRAOU`
-* on `OPB`
+* breathed `PWRAO*ETD`
+* upon `POPB`
 * hands, `HAPBDZ KW-BG`
-* felt `TPELT`
-* it `T`
-* was `WA`
+* breath `PWR*ET`
 * colder `KOERLD`
-* cold `KOELD`
 * wind, `WEUPBD KW-BG`
-* fell `TPEL`
+* sank `SA*PBG`
 * down `TKOUPB`
 * powerless. `POURLS TP-PL`
-* "Thou `KR-GS THO*U`
-* canst `XXX canst`
-* not `TPHOT`
-* do `TKO`
-* anything `TPHEUG`
+* "You `KR-GS U`
+* cannot `K/TPHOT`
+* prevail `PRE/SRAEUL`
 * against `STPWEPBS`
-* me!" `PHE SKHRAPL KR-GS`
+* me," `PHE KW-BG KR-GS`
+* said `SAEUD`
 * Death. `TK*T TP-PL`
-* "But `KR-GS PWUT`
-* OUR `OUR`
-* LORD `HRORD`
-* can!" `K SKHRAPL KR-GS`
+* mercy `PHER/SEU`
+* can," `K KW-BG KR-GS`
+* she. `SHE TP-PL`
 * only `OEPBL`
-* bidding!" `PWEUD/-G SKHRAPL KR-GS`
-* gardener, `TKPWARD/TPHER KW-BG`
-* I `EU`
-* take `TAEUBG`
-* all `AUL`
-* flowers `TPHRO*URS`
-* trees, `TRAOES KW-BG`
-* plant `PHRAPBT`
-* them `THEPL`
-* in `TPH`
-* great `TKPWRAET`
-* garden `TKPWA*RPB`
-* Paradise, `PAR/TKAOEUS KW-BG`
-* unknown `UPB/TPHOEPB`
-* land; `HRAPBD STPH*FPLT`
-* how `HOU`
-* they `THE`
-* grow `TKPWROE`
-* there, `THR KW-BG`
-* is `S`
-* there `THR`
-* dare `TKAEUR`
-* tell `TEL`
-* thee." `THAOE TP-PL KR-GS`
-* "Give `KR-GS TKPWEUF`
-* me `PHE`
-* back `PWABG`
-* my `PHEU`
-* child!" `KHAOEULD SKHRAPL KR-GS`
-* mother, `PHOER KW-BG`
-* wept `WEPT`
-* prayed. `PRAEUD TP-PL`
-* At `AT`
-* once `WUPBS`
-* seized `SAOEZ/-D`
-* hold `HOLD`
-* two `TWO`
-* beautiful `PWAOUFL`
-* close `KHROES`
-* by, `PWEU KW-BG`
-* with `W`
-* each `AOEFP`
-* hand, `HAPBD KW-BG`
-* cried `KRAOEUD`
-* Death, `TK*T KW-BG`
-* will `HR`
-* tear `TAER`
-* off, `OF KW-BG`
-* for `TPOR`
-* despair." `TKE/SPAEUR TP-PL KR-GS`
-* "Touch `KR-GS TUFP`
-* not!" `TPHOT SKHRAPL KR-GS`
-* say'st `SAEU AE XXX st`
-* art `ART`
-* unhappy, `UPB/HAEP KW-BG`
+* will," `HR KW-BG KR-GS`
+* replied `RE/PHRAOEUD`

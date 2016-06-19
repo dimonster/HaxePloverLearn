@@ -1,133 +1,137 @@
 # The Shadow Part 11
 
-* right. `RAOEUT TP-PL`
-* I `EU`
-* have `SR`
-* seen `SAOEPB`
-* everything `EFG`
-* and `SKP`
-* know `TPHOE`
-* everything!" `EFG SKHRAPL KR-GS`
-* "Poesy!" `KR-GS XXX Poesy SKHRAPL KR-GS`
-* cried `KRAOEUD`
+* of `-F`
 * the `-T`
 * learned `HRERPBD`
+* man, `PHAPB KW-BG`
+* which `WEU`
+* lay `HRAEU`
+* at `AT`
+* his `HEUS`
+* feet `TPAOET`
+* like `HRAOEUBG`
+* a `AEU`
+* poodle `PAOD/-L`
+* dog. `TKOG TP-PL`
+* This `TH`
+* was `WA`
+* done, `TKOPB KW-BG`
+* it `T`
+* might `PHAOEUT`
+* be `-B`
+* from `TPR`
+* pride, `PRAOEUD KW-BG`
+* or `OR`
+* perhaps `PRAPS`
+* that `THA`
+* new `TPHU`
+* shadow `SHO*EUD`
+* cling `KHREUPBG`
+* to `TO`
+* him, `HEUPL KW-BG`
+* but `PWUT`
+* prostrate `PROS/TRAEUT`
+* remained `RE/PHAEUPBD`
+* quite `KWAOEUT`
+* quiet `KWAO*EUT`
+* and `SKP`
+* rest, `REFT KW-BG`
+* in `TPH`
+* order `ORD`
+* listen, `HREUFPB KW-BG`
+* for `TPOR`
+* wanted `WAPBTD`
+* know `TPHOE`
+* how `HOU`
+* could `KO`
+* sent `SEPBT`
+* away `A/WAEU`
+* by `PWEU`
+* its `EUTS`
+* master, `PHAFRT KW-BG`
+* become `PW-BG`
+* man `PHAPB`
+* itself. `T/SEF TP-PL`
+* "Do `KR-GS TKO`
+* you `U`
+* know," `TPHOE KW-BG KR-GS`
+* said `SAEUD`
+* shadow, `SHO*EUD KW-BG`
+* "that `KR-GS THA`
+* house `HOUS`
+* opposite `OP/SEUT`
+* lived `HREUFD`
+* most `PHOFT`
+* glorious `TKPWHRORS`
+* creature `KRAOEFP`
+* world? `WORLD H-F`
+* poetry. `POEURT TP-PL`
+* I `EU`
+* there `THR`
+* three `THRAOE`
+* weeks, `WAOEBGS KW-BG`
+* more `PHOR`
+* thousand `THOUZ`
+* years, `KWRAOERS KW-BG`
+* read `RAED`
+* all `AUL`
+* has `HAS`
+* ever `-FR`
+* been `PW-PB`
+* written `WREUPB`
+* poetry `POEURT`
+* prose; `PROES STPH*FPLT`
+* may `PHAE`
+* say, `SAEU KW-BG`
+* truth, `TRAO*UT KW-BG`
+* saw `SAU`
+* learnt `HRERPBT`
+* everything." `EFG TP-PL KR-GS`
+* "Poetry!" `KR-GS POEURT SKHRAPL KR-GS`
+* exclaimed `SKHRAEUPL/-D`
 * man. `PHAPB TP-PL`
 * "Yes, `KR-GS KWRE KW-BG`
-* Yes, `KWRE KW-BG`
 * She `SHE`
-* often `OFPB`
-* dwells `TKWEL/-S`
-* a `AEU`
-* recluse `RE/KHRAOUS`
-* in `TPH`
-* large `HRARPBLG`
-* cities! `STEUS SKHRAPL`
-* Poesy! `XXX Poesy SKHRAPL`
-* her--a `HER H-PB H-PB AEU`
-* single `SEUPBLG`
+* lives `HREUFS`
+* as `AZ`
+* hermit `HERPLT`
+* great `TKPWRAET`
+* cities. `STEUS TP-PL`
+* Poetry! `POEURT SKHRAPL`
+* Well, `WEL KW-BG`
+* her `HER`
+* once `WUPBS`
+* very `SRE`
 * short `SHORT`
 * moment, `PHOEPLT KW-BG`
-* but `PWUT`
+* while `WHAOEUL`
 * sleep `SHRAOEP`
-* came `KAEUPL`
-* into `TPHAO`
+* weighed `WA*ED`
+* down `TKOUPB`
 * my `PHEU`
-* eyes! `AO*EUS SKHRAPL`
-* stood `STAOD`
-* on `OPB`
+* eyelids. `AOEULDZ TP-PL`
+* flashed `TPHRARBD`
+* upon `POPB`
+* me `PHE`
 * balcony `PWAL/KOEPB`
-* shone `SHO*EPB`
-* as `AZ`
-* Aurora `AU/ROE/RA`
-* Borealis `XXX Borealis`
-* shines. `SHAOEUPBS TP-PL`
-* go `TKPW`
-* on, `OPB KW-BG`
-* on--thou `OPB H-PB H-PB THO*U`
-* wert `XXX wert`
-* balcony, `PWAL/KOEPB KW-BG`
+* radiant `RAEUD/KWRAPBT`
+* aurora `AU/ROE/RA`
+* borealis, `XXX borealis KW-BG`
+* surrounded `SROUBD/-D`
+* with `W`
+* flowers `TPHRO*URS`
+* flames `TPHRAEUPLS`
+* fire. `TPAOEUR TP-PL`
+* Tell `TEL`
+* me, `PHE KW-BG`
+* were `WR`
+* on `OPB`
+* evening; `AOEPG STPH*FPLT`
 * went `WEPBT`
 * through `THRU`
-* doorway, `TKAOR/WAEU KW-BG`
-* then--" `THEPB H-PB H-PB KR-GS`
-* "Then `KR-GS THEPB`
-* was `WA`
-* antechamber," `AEPBT/KHAEUPL/PWER KW-BG KR-GS`
-* said `SAEUD`
-* shadow. `SHAD/OE TP-PL`
-* "You `KR-GS U`
-* always `AULS`
-* sat `SAT`
-* looked `HRAOBGD`
-* over `OEFR`
-* to `TO`
-* antechamber. `AEPBT/KHAEUPL/PWER TP-PL`
-* there `THR`
-* no `TPHO`
-* light; `HRAOEUT STPH*FPLT`
-* sort `SORT`
-* of `-F`
-* twilight, `TWAOEULGT KW-BG`
-* one `WUPB`
-* door `TKAOR`
-* open `OEP`
-* directly `TKREL`
-* opposite `OP/SEUT`
-* other `OER`
-* long `HROPBG`
-* row `ROE`
-* rooms `RAOPLS`
-* saloons, `SHRAOPB/-S KW-BG`
-* it `T`
-* lighted `HRAOEUT/-D`
-* up. `UP TP-PL`
-* should `SHO`
-* been `PW-PB`
-* completely `KPHRELT`
-* killed `KEULD`
-* if `TP`
-* had `H`
-* gone `TKWOPB`
-* maiden; `PHAEUD/EPB STPH*FPLT`
-* circumspect, `SEURBG/SPEBGT KW-BG`
-* took `TAOBG`
-* time `TAOEUPL`
-* think, `THEU KW-BG`
-* that `THA`
-* must `PHUFT`
-* do." `TKO TP-PL KR-GS`
-* "And `KR-GS SKP`
+* door, `TKAOR KW-BG`
 * what `WHA`
-* didst `XXX didst`
-* thou `THO*U`
-* then `THEPB`
+* did `TK`
 * see?" `SAOE H-F KR-GS`
-* asked `SK-D`
 * "I `KR-GS EU`
-* saw `SAU`
-* everything, `EFG KW-BG`
-* shall `SHAL`
-* tell `TEL`
-* all `AUL`
-* you: `U STPH-FPLT`
-* but--it `PWUT H-PB H-PB T`
-* is `S`
-* pride `PRAOEUD`
-* part--as `PART H-PB H-PB AZ`
-* free `TPRAOE`
-* man, `PHAPB KW-BG`
-* with `W`
-* knowledge `TPHOPBLG`
-* have, `SR KW-BG`
-* not `TPHOT`
-* speak `SPAOEBG`
-* position `POGS`
-* life, `HRAOEUF KW-BG`
-* excellent `KPHREPBT`
-* circumstances--I `SEURBGS H-PB H-PB EU`
-* certainly `SERPBL`
-* wish `WEURB`
-* you `U`
-* would `WO`
-* say `SAEU`
+* found `TPOUPBD`

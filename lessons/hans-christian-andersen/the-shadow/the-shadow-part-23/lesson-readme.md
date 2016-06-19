@@ -1,132 +1,128 @@
 # The Shadow Part 23
 
-* the `-T`
-* shadow. `SHAD/OE TP-PL`
-* "Be `KR-GS -B`
-* reasonable, `R-PBL KW-BG`
-* or `OR`
-* I `EU`
-* will `HR`
-* call `KAUL`
-* guard!" `TKPWARD SKHRAPL KR-GS`
-* "I `KR-GS EU`
-* go `TKPW`
-* directly `TKREL`
-* to `TO`
-* princess!" `PREUPB/ES SKHRAPL KR-GS`
-* said `SAEUD`
-* learned `HRERPBD`
-* man. `PHAPB TP-PL`
-* "but `KR-GS PWUT`
-* first!" `TPEURS SKHRAPL KR-GS`
-* "And `KR-GS SKP`
-* thou `THO*U`
-* wilt `WEULT`
-* prison!" `PREUZ SKHRAPL KR-GS`
-* and `SKP`
-* that `THA`
-* he `E`
-* was `WA`
-* obliged `OB/HRAOEUPBLG/-D`
-* do--for `TKO H-PB H-PB TPOR`
-* sentinels `SEPBT/TPHAL/-S`
-* obeyed `O/PWAEU/-D`
-* him `HEUPL`
-* whom `WHOPL`
-* they `THE`
-* knew `TPHAOU`
-* king's `KEUPBG AE S*/SP-S`
-* daughter `TKAUR`
-* marry. `PHAER TP-PL`
-* "You `KR-GS U`
-* tremble!" `TREPL/-BL SKHRAPL KR-GS`
-* princess, `PREUPB/ES KW-BG`
-* as `AZ`
-* shadow `SHAD/OE`
-* came `KAEUPL`
-* into `TPHAO`
-* her `HER`
-* chamber. `KHAEURPL TP-PL`
-* "Has `KR-GS HAS`
-* anything `TPHEUG`
-* happened? `HAPD H-F`
-* You `U`
-* must `PHUFT`
-* not `TPHOT`
-* be `-B`
-* unwell `XXX unwell`
-* this `TH`
-* evening, `AOEPG KW-BG`
-* now `TPHOU`
-* we `WE`
-* are `R`
-* have `SR`
-* our `OUR`
-* nuptials `TPHUP/-RBLS`
-* celebrated." `SEL/PWRAEUT/-D TP-PL KR-GS`
-* lived `HREUFD`
-* see `SAOE`
-* most `PHO*S`
-* cruel `KRAOUL`
-* thing `THEUPBG`
-* anyone `TPHEUPB`
-* can `K`
-* live `HREUF`
-* see!" `SAOE SKHRAPL KR-GS`
-* "Only `KR-GS OEPBL`
-* imagine--yes, `PHAPBLG H-PB H-PB KWRE KW-BG`
-* it `T`
-* is `S`
-* true, `TRAOU KW-BG`
-* such `SUFP`
 * a `AEU`
-* poor `PAOR`
-* shadow-skull `SHAD/OE H-PB SKUL`
-* cannot `K/TPHOT`
-* bear `PWAER`
-* much--only `PHUFP H-PB H-PB OEPBL`
-* think, `THEU KW-BG`
+* word `WORD`
+* about `PW`
+* it, `T KW-BG`
+* till `T*EUL`
+* she `SHE`
+* returned `RURPBD`
+* to `TO`
+* her `HER`
+* kingdom. `KEUPBG/TKOPL TP-PL`
+* "No `KR-GS TPHO`
+* one `WUPB`
+* shall `SHAL`
+* know," `TPHOE KW-BG KR-GS`
+* said `SAEUD`
+* the `-T`
+* shadow; `SHO*EUD STPH*FPLT`
+* "not `KR-GS TPHOT`
+* even `AOEPB`
 * my `PHEU`
-* has `HAS`
-* become `PW-BG`
-* mad; `PHAD STPH*FPLT`
-* thinks `THEUS`
-* man, `PHAPB KW-BG`
-* I--now `EU H-PB H-PB TPHOU`
-* only `OEPBL`
-* think--that `THEU H-PB H-PB THA`
-* am `*PL`
-* his `HEUS`
-* shadow!" `SHAD/OE SKHRAPL KR-GS`
-* "It `KR-GS T`
-* terrible!" `TERBL SKHRAPL KR-GS`
-* princess; `PREUPB/ES STPH*FPLT`
-* confined, `KAUPB/TPAOEUPBD KW-BG`
-* not?" `TPHOT H-F KR-GS`
-* "That `KR-GS THA`
-* is. `S TP-PL`
-* afraid `A/TPRAEUD`
-* never `TPHEF`
-* recover." `ROFR TP-PL KR-GS`
-* "Poor `KR-GS PAOR`
-* princess. `PREUPB/ES TP-PL`
-* "He `KR-GS E`
+* own `OEPB`
+* shadow;" `SHO*EUD STPH*FPLT KR-GS`
+* and `SKP`
+* he `E`
+* had `H`
 * very `SRE`
-* unfortunate; `TPHORPBT STPH*FPLT`
-* would `WO`
-* real `RAEL`
-* work `WORBG`
-* of `-F`
-* charity `KHAEURT`
-* deliver `THREUFR`
-* from `TPR`
-* little `HREUL`
-* life `HRAOEUF`
-* has, `HAS KW-BG`
-* and, `SKP KW-BG`
-* when `WHEPB`
-* think `THEU`
-* properly `PRORL`
+* particular `PHRAR`
+* reasons `R-PBS`
+* for `TPOR`
+* saying `SAEUG`
+* so. `SO TP-PL`
+* After `AF`
+* time, `TAOEUPL KW-BG`
+* princess `PREUPB/ES`
+* land `HRAPBD`
 * over `OEFR`
-* matter, `PHAERT KW-BG`
-* opinion `P-PB`
+* which `WEU`
+* reigned, `RAEPB/-D KW-BG`
+* shadow `SHO*EUD`
+* accompanied `A/K-PD`
+* her. `HER TP-PL`
+* "Listen `KR-GS HREUFPB`
+* friend," `TPREPBD KW-BG KR-GS`
+* learned `HRERPBD`
+* man; `PHAPB STPH*FPLT`
+* "now `KR-GS TPHOU`
+* that `THA`
+* I `EU`
+* am `APL`
+* as `AZ`
+* fortunate `TP-RPBT`
+* powerful `POURL`
+* any `TPHEU`
+* man `PHAPB`
+* can `K`
+* be, `-B KW-BG`
+* will `HR`
+* do `TKO`
+* something `S-G`
+* unusually `TPHAOURBL`
+* good `TKPWAOD`
+* you. `U TP-PL`
+* you `U`
+* live `HREUF`
+* in `TPH`
+* palace, `PAL/AS KW-BG`
+* drive `KRAOEUF`
+* with `W`
+* me `PHE`
+* royal `ROEUL`
+* carriage, `KAEURPBLG KW-BG`
+* have `SR`
+* hundred `HUPBD`
+* thousand `THOUZ`
+* dollars `TKHRARS`
+* year; `KWRAOER STPH*FPLT`
+* but `PWUT`
+* must `PHUFT`
+* allow `HROU`
+* every `EF`
+* call `KAUL`
+* shadow, `SHO*EUD KW-BG`
+* never `TPHEF`
+* venture `SREPBT/UR`
+* say `SAEU`
+* been `PW-PB`
+* man. `PHAPB TP-PL`
+* once `WUPBS`
+* year, `KWRAOER KW-BG`
+* when `WHEPB`
+* sit `SEUT`
+* balcony `PWAL/KOEPB`
+* sunshine, `S*UPB/SHAOEUPB KW-BG`
+* lie `HRAOEU`
+* at `AT`
+* feet `TPAOET`
+* becomes `PW-BGS`
+* do; `TKO STPH*FPLT`
+* tell `TEL`
+* going `TKPW-G`
+* marry `PHAER`
+* princess, `PREUPB/ES KW-BG`
+* our `OUR`
+* wedding `WEGD`
+* take `TAEUBG`
+* place `PHRAEUS`
+* this `TH`
+* evening." `AOEPG TP-PL KR-GS`
+* "Now, `KR-GS TPHOU KW-BG`
+* really, `HROERL KW-BG`
+* is `S`
+* too `TAO`
+* ridiculous," `REULGS KW-BG KR-GS`
+* "I `KR-GS EU`
+* cannot, `K/TPHOT KW-BG`
+* not, `TPHOT KW-BG`
+* submit `SPHEUT`
+* such `SUFP`
+* folly. `TPOL/HREU TP-PL`
+* It `T`
+* would `WO`
+* be `-B`
+* cheating `KHAOEGT`
+* whole `WHOEL`
+* country, `KREU KW-BG`
+* also. `HR-S TP-PL`

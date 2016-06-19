@@ -1,132 +1,137 @@
 # The Fir Tree Part 3
 
-* long `HROPBG`
-* and `SKP`
-* bare; `PWAEUR STPH*FPLT`
-* they `THE`
-* were `WR`
-* hardly `HA*RLD`
+* very `SRE`
+* much `PHUFP`
 * to `TO`
-* be `-B`
-* recognised; `REFD STPH*FPLT`
-* then `THEPB`
-* laid `HRAEUD`
+* know; `TPHOE STPH*FPLT`
+* so `SO`
 * in `TPH`
-* carts, `KARTS KW-BG`
 * the `-T`
-* horses `HORS/-S`
-* dragged `TKRAGD`
-* them `THEPL`
-* out `OUT`
-* of `-F`
-* wood. `WAOD TP-PL`
-* where `W-R`
-* did `TK`
-* go `TKPW`
-* to? `TO H-F`
-* What `WHA`
-* became `PWAEUPL`
-* them? `THEPL H-F`
 * spring, `SPREUPBG KW-BG`
 * when `WHEPB`
 * swallows `SWAL/OES`
+* and `SKP`
 * storks `STORBG/-S`
 * came, `KAEUPL KW-BG`
-* Tree `TRAOE`
-* asked `SK-D`
-* them, `THEPL KW-BG`
-* "Don't `KR-GS TKO*PB AE T*/SP-S`
+* it `T`
+* asked, `SK-D KW-BG`
+* "Do `KR-GS TKO`
 * you `U`
 * know `TPHOE`
-* Have `SR`
-* been `PW-PB`
+* where `W-R`
+* those `THOZ`
+* trees `TRAOES`
+* were `WR`
 * taken? `TAEPB H-F`
-* not `TPHOT`
-* met `PHET`
-* anywhere?" `TPHEUR H-F KR-GS`
-* anything `TPHEUG`
-* about `PW`
-* it; `T STPH*FPLT`
-* But `PWUT`
-* Stork `STORBG`
-* looked `HRAOBGD`
-* musing, `PHAOUFG KW-BG`
+* Did `TK`
+* meet `PHAOET`
+* them?" `THEPL H-F KR-GS`
+* knew `TPHAOU`
+* nothing, `TPHOG KW-BG`
+* but `PWUT`
+* stork, `STORBG KW-BG`
+* after `AF`
+* a `AEU`
+* little `HREUL`
+* reflection, `RE/TPHR*EBGS KW-BG`
 * nodded `TPHOD/-D`
 * his `HEUS`
 * head, `HED KW-BG`
 * said, `SAEUD KW-BG`
-* "Yes; `KR-GS KWRE STPH*FPLT`
+* "Yes, `KR-GS KWRE KW-BG`
 * I `EU`
 * think `THEU`
-* know; `TPHOE STPH*FPLT`
-* many `PHAEPB`
+* do. `TKO TP-PL`
+* met `PHET`
+* several `SEFRL`
+* new `TPHU`
 * ships `SHEUPS`
-* as `AZ`
-* was `WA`
-* flying `TPHRAOEUG`
-* hither `H*EURT`
+* flew `TPHRAOU`
 * from `TPR`
-* Egypt; `E/SKWREUPT STPH*FPLT`
-* on `OPB`
-* magnificent `PHAFPBT`
-* masts, `PHAFT/-S KW-BG`
-* venture `SREPB/TUR`
-* assert `A/SERT`
+* Egypt, `E/SKWREUPT KW-BG`
+* they `THE`
+* had `H`
+* fine `TPAOEUPB`
+* masts `PHAFT/-S`
 * that `THA`
-* it `T`
 * smelt `SPHELT`
-* so `SO`
+* like `HRAOEUBG`
 * fir. `TPEUR TP-PL`
-* may `PHAE`
-* congratulate `TKPWRAT/HRAEUT`
-* you, `U KW-BG`
-* for `TPOR`
-* lifted `HREUFTD`
-* themselves `TH*EPLS`
-* high `HAOEU`
-* most `PHO*S`
-* majestically!" `PHA/SKWR*ES/KHREU SKHRAPL KR-GS`
+* These `THEZ`
+* must `PHUFT`
+* have `SR`
+* been `PW-PB`
+* trees; `TRAOES STPH*FPLT`
+* assure `A/SHUR`
+* stately, `STAEULT KW-BG`
+* stately." `STAEULT TP-PL KR-GS`
 * "Oh, `KR-GS O*ERBGS KW-BG`
-* old `OLD`
-* enough `TPHUF`
-* fly `TPHRAOEU`
-* across `A/KROS`
-* sea! `SAE SKHRAPL`
 * how `HOU`
-* does `TKOS`
-* sea `SAE`
-* look `HRAOBG`
-* reality? `RAOELT H-F`
+* wish `WEURB`
+* tall `TAUL`
+* enough `TPHUF`
+* go `TKPW`
+* on `OPB`
+* sea," `SAE KW-BG KR-GS`
+* said `SAEUD`
+* fir-tree. `TPEUR H-PB TRAOE TP-PL`
+* "What `KR-GS WHA`
 * is `S`
+* sea, `SAE KW-BG`
+* what `WHA`
+* does `TKOS`
+* look `HRAOBG`
 * like?" `HRAOEUBG H-F KR-GS`
-* "That `KR-GS THA`
+* "It `KR-GS T`
 * would `WO`
 * take `TAEUBG`
-* a `AEU`
+* too `TAO`
 * time `TAOEUPL`
 * explain," `SPHRAEUPB KW-BG KR-GS`
-* said `SAEUD`
-* Stork, `STORBG KW-BG`
-* with `W`
-* these `THEZ`
-* words `WORDZ`
-* off `OF`
-* he `E`
-* went. `WEPBT TP-PL`
-* "Rejoice `KR-GS RE/SKWROEUS`
+* flying `TPHRAOEUG`
+* quickly `KWEULG`
+* away. `A/WAEU TP-PL`
+* "rejoice `KR-GS RE/SKWROEUS`
 * thy `THAO*EU`
-* growth!" `TKPWRO*ET SKHRAPL KR-GS`
-* Sunbeams. `SUPB/PWAOEPL/-S TP-PL`
-* vigorous `SREUG/RUS`
-* growth, `TKPWRO*ET KW-BG`
+* youth," `KWRAO*UT KW-BG KR-GS`
+* sunbeam; `SUPB/PWAOEPL STPH*FPLT`
 * fresh `TPRERB`
+* growth, `TKPWRO*UT KW-BG`
+* young `KWRUPBG`
 * life `HRAOEUF`
-* moveth `XXX moveth`
-* within `W-PB`
-* thee!" `THAOE SKHRAPL KR-GS`
-* Wind `WEUPBD`
+* thee." `THAOE TP-PL KR-GS`
+* wind `WEUPBD`
 * kissed `K*EUFD`
-* Tree, `TRAOE KW-BG`
-* Dew `TKAO*U`
-* wept `WEPT`
-* tears `TAERS`
+* tree, `TRAOE KW-BG`
+* dew `TKAO*U`
+* watered `WAURD`
+* with `W`
+* tears; `TAERS STPH*FPLT`
+* fir-tree `TPEUR H-PB TRAOE`
+* regarded `RARD/-D`
+* them `THEPL`
+* not. `TPHOT TP-PL`
+* Christmas-time `KREUS/PHAS H-PB TAOEUPL`
+* drew `TKRAOU`
+* near, `TPHAOER KW-BG`
+* many `PHAEPB`
+* cut `KUT`
+* down, `TKOUPB KW-BG`
+* some `SOPL`
+* even `AOEPB`
+* smaller `SPHAURL`
+* younger `KWRURPBG`
+* than `THAPB`
+* who `WHO`
+* enjoyed `EPB/SKWROEUD`
+* neither `TPHAOERT`
+* rest `REFT`
+* nor `TPH-R`
+* peace `PAES`
+* longing `HROPBG/-G`
+* leave `HREF`
+* its `EUTS`
+* forest `TPOEFRT`
+* home. `HOEPL TP-PL`
+* trees, `TRAOES KW-BG`
+* which `WEU`

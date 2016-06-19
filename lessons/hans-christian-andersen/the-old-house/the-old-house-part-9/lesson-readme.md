@@ -1,125 +1,125 @@
 # The Old House Part 9
 
+* Tanta-ra-ra." `TAPBT/SKWRA H-PB RA H-PB RA TP-PL KR-GS`
 * the `-T`
-* knights' `TPHAO*EUT/-S AE`
-* portraits `POR/TRAT/-S`
-* rattled, `RAT/-LD KW-BG`
+* swords `SOERDZ`
 * and `SKP`
-* silk `S*EULG`
-* gowns `TKPWOUPBS`
-* rustled; `RUS/-LD STPH*FPLT`
-* hog's `HOG AE S*/SP-S`
-* leather `HR*ET/ER`
-* spoke, `SPOEBG KW-BG`
+* armor `AR/PHOR`
+* on `OPB`
 * old `OLD`
+* knight's `TPHAO*EUT AE S*/SP-S`
+* pictures `P*EUFPS`
+* rattled. `RAT/-LD TP-PL`
+* silk `S*EULG`
+* dresses `TKRES/-S`
+* rustled, `RUS/-LD KW-BG`
+* leather `HRE/THER`
+* repeated `RE/PAOETD`
+* its `EUTS`
+* rhyme, `RAOEUPL KW-BG`
 * chairs `KHAEURS`
 * had `H`
 * gout `TKPWOUT`
 * in `TPH`
 * their `THAEUR`
-* legs `HREGS`
-* rheumatism `RAOUPL/TEUFPL`
-* backs: `PWABGS STPH-FPLT`
-* Ugh! `UG SKHRAPL`
-* it `T`
+* backs, `PWABGS KW-BG`
+* cried, `KRAOEUD KW-BG`
+* "Creak;" `KR-GS KRAEBG STPH*FPLT KR-GS`
+* It `T`
 * was `WA`
+* all `AUL`
 * exactly `ELG`
 * like `HRAOEUBG`
 * first `TPEURS`
-* time, `TAOEUPL KW-BG`
+* time; `TAOEUPL STPH*FPLT`
 * for `TPOR`
-* over `OEFR`
-* there `THR`
+* that `THA`
+* house, `HOUS KW-BG`
 * one `WUPB`
 * day `TKAEU`
 * hour `HOUR`
+* were `WR`
 * just `SKWRUFT`
 * another. `TPHOER TP-PL`
 * "I `KR-GS EU`
 * cannot `K/TPHOT`
 * bear `PWAER`
-* it!" `T SKHRAPL KR-GS`
+* any `TPHEU`
+* longer," `HRORPBG KW-BG KR-GS`
 * said `SAEUD`
-* pewter `PAOU/TER`
-* soldier. `SHRERPBL TP-PL`
+* tin `TEUPB`
+* soldier; `SHRERPBL STPH*FPLT`
 * have `SR`
-* shed `SHED`
-* tears! `TAERS SKHRAPL`
+* wept `WEPT`
+* tears `TAERS`
+* of `-F`
+* tin, `TEUPB KW-BG`
 * is `S`
-* too `TAO`
-* melancholy! `PHEL/KOL/HREU SKHRAPL`
-* Rather `RAER`
-* let `HRET`
+* so `SO`
+* melancholy `PHEL/KOL/HREU`
+* here. `HAOER TP-PL`
+* Let `HRET`
 * me `PHE`
 * go `TKPW`
 * to `TO`
-* wars `WARS`
+* wars, `WARS KW-BG`
 * lose `HRUZ`
-* arms `ARPLS`
-* legs! `HREGS SKHRAPL`
-* would `WO`
-* at `AT`
-* least `HRAO*ES`
-* be `-B`
+* an `APB`
+* arm `ARPL`
+* or `OR`
 * a `AEU`
-* change. `KHAEUPBG TP-PL`
+* leg, `HREG KW-BG`
+* would `WO`
+* be `-B`
+* some `SOPL`
+* change; `KHAEUPBG STPH*FPLT`
 * I `EU`
-* longer! `HRORPBG SKHRAPL`
-* Now, `TPHOU KW-BG`
+* it. `T TP-PL`
+* Now `TPHOU`
 * know `TPHOE`
 * what `WHA`
-* visit `SREUFT`
+* visits `SREUFTS`
 * from `TPR`
 * one's `W*UPBS`
-* thoughts, `THAUTS KW-BG`
-* with `W`
+* recollections, `REBGT/-G/-S KW-BG`
 * they `THE`
-* may `PHAE`
 * bring `PWREU`
-* them! `THEPL SKHRAPL`
+* with `W`
+* them. `THEPL TP-PL`
 * mine, `PHAOEUPB KW-BG`
 * You `U`
-* sure `SHUR`
-* no `TPHO`
-* pleasant `PHREFPBT`
-* thing `THEUPBG`
-* end; `EPBD STPH*FPLT`
-* last `HRAFT`
-* about `PW`
-* jump `SKWR*UPL`
-* down `TKOUPB`
-* drawers. `TKRAURS TP-PL`
+* may `PHAE`
+* believe `PWHREF`
+* not `TPHOT`
+* altogether `HR-GT`
+* pleasant. `PHREFPBT TP-PL`
+* very `SRE`
+* nearly `TPHAOERL`
+* jumping `SKWRUPL/-PG`
+* shelf. `SHEFL TP-PL`
 * saw `SAU`
-* all `AUL`
-* home `HOEPL`
-* so `SO`
-* distinctly, `TKEUS/TEUPBGT/HREU KW-BG`
+* your `KWROUR`
+* house `HOUS`
+* opposite, `OP/SEUT KW-BG`
 * as `AZ`
 * if `TP`
 * really `HROERL`
-* were `WR`
-* here; `HAOER STPH*FPLT`
-* again `TKPWEPB`
-* that `THA`
+* present. `PREPBT TP-PL`
 * Sunday `SUPBD`
-* morning; `PHORPBG STPH*FPLT`
+* morning, `PHORPBG KW-BG`
 * children `KHEURPB`
 * stood `STAOD`
-* before `PW-F`
-* table `TAEUBL`
-* sung `SUPBG`
-* your `KWROUR`
-* Psalms, `SAUPL/-S KW-BG`
-* do `TKO`
+* round `ROUPBD`
+* table, `TAEUBL KW-BG`
+* singing `SEUPBG/-G`
+* hymn `H*EUPL`
+* sing `SEUPBG`
 * every `EF`
 * morning. `PHORPBG TP-PL`
-* devoutly `TKWOUT/HREU`
-* folded `TPOELD/-D`
-* hands; `HAPBDZ STPH*FPLT`
+* standing `STAPBG`
+* quietly, `KWAO*EULT KW-BG`
+* hands `HAPBDZ`
+* folded, `TPOELD/-D KW-BG`
 * father `TPAER`
+* mother. `PHOER TP-PL`
 * mother `PHOER`
-* pious; `PAOEU/OUS STPH*FPLT`
-* then `THEPB`
-* door `TKAOR`
-* opened, `OEPD KW-BG`
-* little `HREUL`

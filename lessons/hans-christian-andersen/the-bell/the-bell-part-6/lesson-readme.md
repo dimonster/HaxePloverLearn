@@ -1,125 +1,120 @@
 # The Bell Part 6
 
-* a `AEU`
-* little `HREUL`
-* house, `HOUS KW-BG`
-* made `PHAED`
-* of `-F`
-* branches `PWRAFPBS`
+* trees `TRAOES`
 * and `SKP`
-* the `-T`
-* bark `PWARBG`
-* trees; `TRAOES STPH*FPLT`
+* branches; `PWRAFPBS STPH*FPLT`
+* a `AEU`
 * large `HRARPBLG`
-* wild `WAOEULD`
-* apple-tree `A*EPL H-PB TRAOE`
-* bent `PWEPBT`
+* crab-apple `KRAB H-PB A*EPL`
+* tree `TRAOE`
+* spread `SPRED`
+* its `EUTS`
+* branches `PWRAFPBS`
 * over `OEFR`
 * it, `T KW-BG`
 * as `AZ`
 * if `TP`
 * it `T`
-* would `WO`
-* shower `SHOUR`
-* down `TKOUPB`
-* all `AUL`
-* its `EUTS`
-* blessings `PWHREFGS`
+* intended `EUPB/TED/-D`
+* to `TO`
+* pour `POR`
+* All `AUL`
+* fruit `TPRAOUT`
 * on `OPB`
+* the `-T`
 * roof, `RAOF KW-BG`
-* where `W-R`
+* upon `POPB`
+* which `WEU`
 * roses `ROES/-S`
 * were `WR`
-* blooming. `PWHRAOPL/-G TP-PL`
+* blooming; `PWHRAOPL/-G STPH*FPLT`
 * long `HROPBG`
-* stems `STEPLS`
-* twined `TWEUPB/-D`
-* round `ROUPBD`
+* boughs `PWO*U/-S`
+* covered `KOFRD`
 * gable, `TKPWAEUBL KW-BG`
-* which `WEU`
-* there `THR`
-* hung `HUPBG`
-* small `SPAUL`
-* bell. `PWEL TP-PL`
+* where `W-R`
+* little `HREUL`
+* bell `PWEL`
 * was `WA`
-* that `THA`
-* people `PAOEPL`
+* hanging. `HAPBG/-G TP-PL`
+* this `TH`
+* one `WUPB`
+* they `THE`
 * had `H`
 * heard? `HERD H-F`
-* Yes, `KWRE KW-BG`
-* everybody `EFB`
-* unanimous `TPHAPLS`
-* subject, `SUBT KW-BG`
+* agreed `TKPWRAED`
+* that `THA`
+* must `PHUFT`
+* be `-B`
+* so, `SO KW-BG`
 * except `KPEPT`
-* one, `WUPB KW-BG`
 * who `WHO`
 * said `SAEUD`
-* bell `PWEL`
 * too `TAO`
-* fine `TPAOEUPB`
-* to `TO`
-* be `-B`
+* small `SPAUL`
+* thin `THEUPB`
 * heard `HERD`
 * at `AT`
-* so `SO`
-* great `TKPWRAET`
-* distance, `STKAPBS KW-BG`
-* besides `PW-DZ`
-* very `SRE`
-* different `TKEUFRT`
-* tones `TOEPBS`
-* those `THOZ`
-* could `KO`
-* move `PHOF`
-* human `HAOUPL`
-* heart `HART`
-* in `TPH`
 * such `SUFP`
-* manner. `PHAERPB TP-PL`
+* distance, `STKAPBS KW-BG`
+* quite `KWAOEUT`
+* different `TKEUFRT`
+* sound `SOUPBD`
+* so `SO`
+* touched `TUFPD`
+* men's `PHEPB AE S*/SP-S`
+* hearts. `HARTS TP-PL`
+* he `E`
+* spoke `SPOEBG`
 * king's `KEUPBG AE S*/SP-S`
-* son `SOPB`
-* spoke; `SPOEBG STPH*FPLT`
-* whereon `WROPB`
+* son, `SOPB KW-BG`
+* Therefore `TH-FR`
 * others `OERS`
-* said, `SAEUD KW-BG`
-* "Such `KR-GS SUFP`
-* always `AULS`
-* want `WAPBT`
-* wiser `WAOEUZ/ER`
+* always `AULZ`
+* wishes `WEURBS`
+* cleverer `KHR*EF/RER`
 * than `THAPB`
-* else." `ELS TP-PL KR-GS`
-* They `THE`
-* now `TPHOU`
+* other `OER`
+* people. `PAOEPL TP-PL`
 * let `HRET`
 * him `HEUPL`
 * go `TKPW`
 * alone; `A/HROEPB STPH*FPLT`
-* he `E`
-* went, `WEPBT KW-BG`
+* walked `WAUBGD`
+* on, `OPB KW-BG`
+* solitude `SOL/TAOUD`
+* of `-F`
+* wood `WAOD`
+* produced `PRO*UD`
+* feeling `TPAOELG`
+* reverence `R*EFRPBS`
+* in `TPH`
 * his `HEUS`
-* breast `PWR*ES`
-* filled `TPEULD`
-* more `PHOR`
-* with `W`
-* forest `TPO*RS`
-* solitude; `SOL/TAOUD STPH*FPLT`
-* but `PWUT`
+* breast; `PWREFT STPH*FPLT`
+* But `PWUT`
 * still `STEUL`
-* satisfied, `SAED KW-BG`
-* then, `THEPB KW-BG`
+* about `PW`
+* rejoiced, `RE/SKWROEUS/-D KW-BG`
+* sometimes, `STAOEUPLS KW-BG`
 * when `WHEPB`
 * wind `WEUPBD`
-* blew, `PWHRAOU KW-BG`
-* also `HR-S`
+* blew `PWHRAOU`
+* direction, `TKREBGS KW-BG`
+* could `KO`
 * hear `HAER`
+* sounds `SOUPDZ`
+* from `TPR`
+* confectioner's `KAUPB/TPEBGS/*ER AE S*/SP-S`
+* stall, `STAUL KW-BG`
 * singing `SEUPBG/-G`
-* sitting `SAO*EGT`
-* tea `TAE`
-* confectioner `KAUPB/TPEBGS/*ER`
-* tent; `TEPBT STPH*FPLT`
+* tea. `TAE TP-PL`
 * deep `TKAOEP`
-* sound `SOUPBD`
-* rose `ROES`
-* louder; `HROURD STPH*FPLT`
-* almost `HR-PL`
+* much `PHUFP`
+* stronger; `STRORPBG STPH*FPLT`
+* soon `SAOPB`
+* seemed `SAOEPLD`
 * an `APB`
+* organ `O*RPBG`
+* played `PHRAEUD`
+* accompaniment—the `ABG/KPAEPB/*PLT EPL/TKA*RB -T`
+* came `KAEUPL`

@@ -1,107 +1,105 @@
 # The Swineherd Part 2
 
-* at `AT`
-* "Visiting," `KR-GS SREUFT/-G KW-BG KR-GS`
-* with `W`
-* the `-T`
-* ladies `HRA*EDZ`
-* of `-F`
-* court; `KORT STPH*FPLT`
-* and `SKP`
 * when `WHEPB`
 * she `SHE`
 * saw `SAU`
-* caskets `KAS/KETS`
-* presents, `PREPBTS KW-BG`
+* the `-T`
+* large `HRARPBLG`
+* cases `KAEUSZ`
+* with `W`
+* presents `PREPBTS`
+* therein, `THR-PB KW-BG`
 * clapped `KHRAP/-D`
 * her `HER`
 * hands `HAPBDZ`
 * for `TPOR`
 * joy. `SKWROEU TP-PL`
-* "Ah, `KR-GS HA*E KW-BG`
-* if `TP`
+* "I `KR-GS EU`
+* wish `WEURB`
 * it `T`
 * were `WR`
-* But `PWUT`
 * a `AEU`
 * little `HREUL`
-* pussy-cat!" `PUS/SEU H-PB KAT SKHRAPL KR-GS`
-* said `SAEUD`
-* she; `SHE STPH*FPLT`
-* rose `ROES`
-* tree, `TRAOE KW-BG`
-* its `EUTS`
+* pussy `PUS/SEU`
+* cat," `KAT KW-BG KR-GS`
+* said. `SAEUD TP-PL`
+* But `PWUT`
+* then `THEPB`
+* rose-tree `ROEZ H-PB TRAOE`
 * beautiful `PWAOUFL`
-* came `KAEUPL`
-* to `TO`
-* view. `SRAOU TP-PL`
+* rose `ROEZ`
+* was `WA`
+* unpacked. `UPB/PABGD TP-PL`
 * "Oh, `KR-GS O*ERBGS KW-BG`
 * how `HOU`
-* prettily `PRET/HREU`
+* nicely `TPHAOEULS`
 * is `S`
-* made!" `PHAED SKHRAPL KR-GS`
-* all `AUL`
-* court `KORT`
-* ladies. `HRA*EDZ TP-PL`
-* "It `KR-GS T`
+* made," `PHAED KW-BG KR-GS`
+* exclaimed `SKHRAEUPL/-D`
+* ladies. `HRAEUDZ TP-PL`
+* "it `KR-GS T`
 * more `PHOR`
 * than `THAPB`
-* pretty," `PREUT KW-BG KR-GS`
-* Emperor, `EPL/ROR KW-BG`
-* charming!" `KHARPL/-G SKHRAPL KR-GS`
-* Princess `PREUPB/ES`
+* nice," `TPHAOEUS KW-BG KR-GS`
+* said `SAEUD`
+* emperor, `EPL/ROR KW-BG`
+* charming." `KHARPL/-G TP-PL KR-GS`
+* princess `PREUPB/ES`
 * touched `TUFPD`
-* it, `T KW-BG`
-* was `WA`
-* almost `HR-PL`
-* ready `R*ED`
+* and `SKP`
+* nearly `TPHAOERL`
+* began `TKPWAPB`
+* to `TO`
 * cry. `KRAOEU TP-PL`
-* "Fie, `KR-GS XXX Fie KW-BG`
-* papa!" `PA/PA SKHRAPL KR-GS`
-* she. `SHE TP-PL`
+* "For `KR-GS TPOR`
+* shame, `SHAEUPL KW-BG`
+* pa," `PA KW-BG KR-GS`
+* said, `SAEUD KW-BG`
 * not `TPHOT`
-* made `PHAED`
-* all, `AUL KW-BG`
+* artificial, `TPHR*EURBL KW-BG`
 * natural!" `TPHARL SKHRAPL KR-GS`
+* natural," `TPHARL KW-BG KR-GS`
+* repeated `RE/PAOETD`
+* all `AUL`
 * "Let `KR-GS HRET`
 * us `US`
+* first `TPEURS`
 * see `SAOE`
 * what `WHA`
-* in `TPH`
 * other `OER`
-* casket, `KAFBGT KW-BG`
+* case `KAEUS`
+* contains `KAUPB/TAEUPBS`
 * before `PW-F`
 * we `WE`
-* get `TKPWET`
-* into `TPHAO`
-* bad `PWAD`
-* humor," `HAOURPL KW-BG KR-GS`
-* Emperor. `EPL/ROR TP-PL`
-* so `SO`
+* are `R`
+* angry," `APBG/REU KW-BG KR-GS`
+* emperor; `EPL/ROR STPH*FPLT`
 * nightingale `TPHAOEUT/-G/TKPWAEL`
-* forth `TPO*RT`
+* taken `TAEPB`
+* out, `OUT KW-BG`
 * sang `SAPBG`
-* delightfully `TKHRAOEUT/-FL/HREU`
+* so `SO`
+* beautifully `PWAOUFL/HREU`
 * that `THA`
-* first `TPEURS`
 * no `TPHO`
 * one `WUPB`
 * could `KO`
+* possibly `POBL`
 * say `SAEU`
 * anything `TPHEUG`
-* ill-humored `EUL H-PB HAOURPL/-D`
-* her. `HER TP-PL`
-* "Superbe! `KR-GS XXX Superbe SKHRAPL`
-* Charmant!" `XXX Charmant SKHRAPL KR-GS`
-* exclaimed `SKHRAEUPL/-D`
-* ladies; `HRA*EDZ STPH*FPLT`
+* unkind `UPB/KAOEUPBD`
+* about `PW`
+* it. `T TP-PL`
+* "Superbe, `KR-GS XXX Superbe KW-BG`
+* charmant," `XXX charmant KW-BG KR-GS`
+* ladies `HRAEUDZ`
+* of `-F`
+* court, `KORT KW-BG`
 * they `THE`
-* used `AOUFD`
-* chatter `KHAT/ER`
+* prattled `PRAT/-LD`
 * French, `TPREFPB KW-BG`
-* each `AOEFP`
 * worse `WORS`
-* neighbor. `TPHAEUB TP-PL`
+* other. `OER TP-PL`
 * "How `KR-GS HOU`
 * much `PHUFP`
 * bird `PWEURD`
@@ -109,28 +107,26 @@
 * me `PHE`
 * musical `PHAO*UL`
 * box `PWOBGS`
-* belonged `PWHROPBGD`
-* our `OUR`
-* blessed `PWHR*EFD`
-* Empress," `*EPL/RES KW-BG KR-GS`
+* late `HRAEUT`
+* lamented `HRAPLT/-D`
+* empress," `EPL/PRES KW-BG KR-GS`
 * an `APB`
 * old `OLD`
-* knight. `TPHAO*EUT TP-PL`
-* "Oh `KR-GS O*ERBGS`
-* yes! `KWRE SKHRAPL`
-* These `THEZ`
-* are `R`
+* courtier, `XXX courtier KW-BG`
+* has `HAS`
+* exactly `ELG`
 * same `SAEUPL`
-* tones, `TOEPBS KW-BG`
+* tone, `TOEPB KW-BG`
 * execution." `SKAOUGS TP-PL KR-GS`
-* "Yes! `KR-GS KWRE SKHRAPL`
-* yes!" `KWRE SKHRAPL KR-GS`
-* he `E`
-* wept `WEPT`
+* "You `KR-GS U`
+* right," `RAOEUT KW-BG KR-GS`
+* cry `KRAOEU`
 * like `HRAOEUBG`
-* child `KHAOEULD`
-* remembrance. `RERPBS TP-PL`
-* "I `KR-GS EU`
-* will `HR`
-* still `STEUL`
+* child. `KHAOEULD TP-PL`
 * hope `HOEP`
+* princess. `PREUPB/ES TP-PL`
+* "Yes, `KR-GS KWRE KW-BG`
+* certainly `SERPBL`
+* replied `RE/PHRAOEUD`
+* those `THOZ`
+* who `WHO`

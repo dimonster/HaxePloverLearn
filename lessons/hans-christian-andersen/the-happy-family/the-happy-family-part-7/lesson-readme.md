@@ -1,65 +1,70 @@
 # The Happy Family Part 7
 
+* came `KAEUPL`
+* out `OUT`
+* no `TPHO`
+* more; `PHOR STPH*FPLT`
+* for `TPOR`
+* they `THE`
+* slept. `SHREPD TP-PL`
+* the `-T`
+* young `KWRUPBG`
+* snail `STPHAEUL`
+* pair `PAEUR`
+* now `TPHOU`
+* ruled `RAOULD`
+* in `TPH`
+* forest, `TPOEFRT KW-BG`
 * and `SKP`
 * had `H`
 * a `AEU`
 * numerous `TPHAOUPLS`
-* progeny, `PROPBLG/TPHEU KW-BG`
-* but `PWUT`
-* they `THE`
+* progeny. `PROPBLG/TPHEU TP-PL`
+* But `PWUT`
+* as `AZ`
+* ones `WUPBZ`
 * were `WR`
 * never `TPHEF`
-* boiled, `PWOEULD KW-BG`
-* came `KAEUPL`
-* on `OPB`
-* the `-T`
+* boiled `PWOEULD`
+* or `OR`
+* laid `HRAEUD`
 * silver `SEUL/SRER`
-* dishes; `TKEURBS STPH*FPLT`
-* so `SO`
-* from `TPR`
-* this `TH`
+* dishes, `TKEURBS KW-BG`
 * concluded `KAUPB/KAOUD/-D`
 * that `THA`
-* manor-house `PHA/TPHOR H-PB HOUS`
+* castle `KAFL`
 * fallen `TPAUL/-PB`
-* to `TO`
-* ruins, `RAOUPBS KW-BG`
+* into `TPHAO`
+* decay, `TKE/KAEU KW-BG`
 * all `AUL`
-* men `PHEPB`
-* in `TPH`
+* people `PAOEPL`
 * world `WORLD`
-* extinct; `EBGS/TEUPBG STPH*FPLT`
-* as `AZ`
-* no `TPHO`
-* one `WUPB`
+* dead; `TKED STPH*FPLT`
+* nobody `TPHOEB`
 * contradicted `KR*EUBGT/-D`
 * them, `THEPL KW-BG`
-* so, `SO KW-BG`
-* of `-F`
-* course `KORS`
-* it `T`
-* was `WA`
-* so. `SO TP-PL`
+* thought `THAUT`
+* must `PHUFT`
+* be `-B`
+* right. `RAOEUT TP-PL`
 * rain `RAEUPB`
-* beat `PWAET`
-* dock-leaves `TKOBG H-PB HREFS`
-* make `PHAEUBG`
-* drum-music `TKRUPL H-PB PHAOUFBG`
-* for `TPOR`
-* their `THAEUR`
-* sake, `SAEUBG KW-BG`
+* fell `TPEL`
+* upon `POPB`
+* burdock-leaves, `XXX burdock H-PB HREFS KW-BG`
+* to `TO`
+* play `PHRAEU`
+* drum `TKRUPL`
 * sun `SUPB`
 * shone `SHO*EPB`
-* order `ORD`
-* give `TKPWEUF`
+* paint `PAEUPT`
+* colors `KHRORS`
+* on `OPB`
 * burdock `XXX burdock`
-* forest `TPO*RS`
-* color `KROR`
-* sakes; `SAEUBGS STPH*FPLT`
+* forest `TPOEFRT`
 * very `SRE`
-* happy, `HAEP KW-BG`
+* happy; `HAEP STPH*FPLT`
 * whole `WHOEL`
 * family `TPAEPL`
-* happy; `HAEP STPH*FPLT`
-* they, `THE KW-BG`
-* indeed `TPHAOEPBD`
+* entirely `SPWAOEURL`
+* perfectly `P-FRL`
+* happy. `HAEP TP-PL`
