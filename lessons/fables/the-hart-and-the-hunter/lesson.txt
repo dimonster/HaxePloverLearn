@@ -30,7 +30,7 @@ The Hart and the Hunter
 'these,': THEZ KW-BG
 'with': W
 'such': SUFP
-'antlers!': APBT/HRER/-S SKHRAPL
+'antlers!': APBT/HRERZ SKHRAPL
 'I': EU
 'wish': WEURB
 'I': EU
@@ -97,7 +97,7 @@ The Hart and the Hunter
 'going,': TKPW-G KW-BG
 'he': E
 'passed': PAFD
-'under': *UPD
+'under': *UPBD
 'some': SOPL
 'trees': TRAOES
 'with': W
@@ -108,7 +108,7 @@ The Hart and the Hunter
 'in': TPH
 'which': WEU
 'his': HEUS
-'antlers': APBT/HRER/-S
+'antlers': APBT/HRERZ
 'were': WR
 'caught,': KAUT KW-BG
 'so': SO
@@ -130,7 +130,7 @@ The Hart and the Hunter
 'despise': STKPAOEUZ
 'what': WHA
 'is': S
-'most': PHO*S
+'most': PHOEFT
 'useful': AOUFL
 'to': TO
 'us."': US TP-PL KR-GS

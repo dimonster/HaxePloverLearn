@@ -1,7 +1,7 @@
 The Hart in the Ox-Stall
 
 'A': AEU
-'Hart': HART
+'Hart': HA*RT
 'hotly': HOT/HREU
 'pursued': PUR/SAOUD
 'by': PWEU
@@ -46,7 +46,7 @@ The Hart in the Ox-Stall
 'had': H
 'seen': SAOEPB
 'the': -T
-'Hart.': HART TP-PL
+'Hart.': HA*RT TP-PL
 'The': -T
 'stable': STABL
 'boys,': PWOEUS KW-BG
@@ -115,7 +115,7 @@ The Hart in the Ox-Stall
 'they': THE
 'discovered': SKOFD
 'the': -T
-'Hart,': HART KW-BG
+'Hart,': HA*RT KW-BG
 'and': SKP
 'soon': SAOPB
 'made': PHAED
