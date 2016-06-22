@@ -3,7 +3,7 @@ The Horse, Hunter, and Stag
 'A': AEU
 'quarrel': KWARL
 'had': H
-'arisen': A/REUS/EPB
+'arisen': A/REUS/*EPB
 'between': TWAOEPB
 'the': -T
 'Horse': HORS
@@ -56,7 +56,7 @@ The Horse, Hunter, and Stag
 'that': THA
 'I': EU
 'may': PHAEU
-'guide': TPWAOEUD
+'guide': TKPWAOEUD
 'you': U
 'with': W
 'these': THEZ
@@ -79,7 +79,7 @@ The Horse, Hunter, and Stag
 'steady': ST*ED
 'upon': POPB
 'you': U
-'as': AS
+'as': AZ
 'we': WE
 'follow': TPOL
 'after': AF
@@ -123,7 +123,7 @@ The Horse, Hunter, and Stag
 'and': SKP
 'remove': RE/PHOF
 'those': THOZ
-'things': THEUBGS
+'things': THEUPBGS
 'from': TPR
 'my': PHEU
 'mouth': PHO*UT
@@ -150,7 +150,7 @@ The Horse, Hunter, and Stag
 'to': TO
 'keep': KAOEP
 'you': U
-'as': AS
+'as': AZ
 'you': U
 'are': R
 'at': AT
