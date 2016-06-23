@@ -101,7 +101,7 @@
 * still `STEUL`
 * wish `WEURB`
 * sleep; `SHRAOEP STPH*FPLT`
-* fallen `TPAUL/-PB`
+* fallen `TPAUL/*EPB`
 * asleep, `A/HRAOEP KW-BG`
 * rough `RUF`
 * dog `TKOG`

@@ -70,7 +70,7 @@
 * as `AZ`
 * soon `SAOPB`
 * had `H`
-* fallen `TPAUL/-PB`
+* fallen `TPAUL/*EPB`
 * asleep, `A/HRAOEP KW-BG`
 * however, `HOUF KW-BG`
 * drew `TKRAOU`

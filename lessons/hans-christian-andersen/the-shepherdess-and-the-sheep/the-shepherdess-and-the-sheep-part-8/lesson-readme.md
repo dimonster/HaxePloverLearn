@@ -42,7 +42,7 @@
 * floor; `TPHRAOR STPH*FPLT`
 * he `E`
 * had `H`
-* fallen `TPAUL/-PB`
+* fallen `TPAUL/*EPB`
 * down `TKOUPB`
 * from `TPR`
 * table `TAEUBL`

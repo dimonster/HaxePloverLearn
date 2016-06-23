@@ -129,5 +129,5 @@
 * cut `KUT`
 * out `OUT`
 * newly `TPHAOUL`
-* fallen `TPAUL/-PB`
+* fallen `TPAUL/*EPB`
 * snow, `STPHOE KW-BG`

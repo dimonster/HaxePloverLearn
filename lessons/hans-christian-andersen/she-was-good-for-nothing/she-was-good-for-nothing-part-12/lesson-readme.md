@@ -100,7 +100,7 @@
 * days `TKAEUS`
 * trial, `TRAOEUL KW-BG`
 * misfortune `PHEUS/TPOR/TAOUPB`
-* fallen `TPAUL/-PB`
+* fallen `TPAUL/*EPB`
 * upon `POPB`
 * them. `THEPL TP-PL`
 * "We `KR-GS WE`

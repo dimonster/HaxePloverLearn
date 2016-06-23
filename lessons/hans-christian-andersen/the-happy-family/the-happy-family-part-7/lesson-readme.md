@@ -33,7 +33,7 @@
 * concluded `KAUPB/KAOUD/-D`
 * that `THA`
 * castle `KAFL`
-* fallen `TPAUL/-PB`
+* fallen `TPAUL/*EPB`
 * into `TPHAO`
 * decay, `TKE/KAEU KW-BG`
 * all `AUL`

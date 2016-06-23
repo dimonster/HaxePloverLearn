@@ -113,7 +113,7 @@ The Neighbouring Families Part 17
 'picked': PEUGD
 'up': UP
 'the': -T
-'fallen': TPAUL/-PB
+'fallen': TPAUL/*EPB
 'rose-leaves': ROEZ H-PB HREFS
 'and': SKP
 'preserved': PREFBD

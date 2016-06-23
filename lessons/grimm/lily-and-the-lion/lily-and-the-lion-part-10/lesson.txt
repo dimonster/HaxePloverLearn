@@ -57,7 +57,7 @@ Lily and the Lion Part 10
 'the': -T
 'prince': PREUPBS
 'had': H
-'fallen': TPAUL/-PB
+'fallen': TPAUL/*EPB
 'asleep,': A/HRAOEP KW-BG
 'she': SHE
 'was': WA

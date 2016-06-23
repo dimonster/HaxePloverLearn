@@ -94,7 +94,7 @@
 * tossed `TOS/-D`
 * air `AEUR`
 * it. `T TP-PL`
-* fallen `TPAUL/-PB`
+* fallen `TPAUL/*EPB`
 * down `TKOUPB`
 * again `TKPWEPB`
 * without `WOUT`

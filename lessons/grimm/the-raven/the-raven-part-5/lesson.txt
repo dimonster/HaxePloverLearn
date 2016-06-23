@@ -97,7 +97,7 @@ The Raven Part 5
 'know': TPHOE
 'he': E
 'has': HAS
-'fallen': TPAUL/-PB
+'fallen': TPAUL/*EPB
 'asleep,': A/HRAOEP KW-BG
 'and': SKP
 'will': HR

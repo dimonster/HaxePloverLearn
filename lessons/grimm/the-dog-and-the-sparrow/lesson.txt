@@ -981,7 +981,7 @@
 'and': SKP
 'they': THE
 'have': SR
-'fallen': TPAUL/-PB
+'fallen': TPAUL/*EPB
 'upon': POPB
 'our': OUR
 'corn': KORPB

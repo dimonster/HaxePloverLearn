@@ -94,7 +94,7 @@ The Happy Family Part 4
 'castle,': KAFL KW-BG
 'perhaps,': PRAPS KW-BG
 'has': HAS
-'fallen': TPAUL/-PB
+'fallen': TPAUL/*EPB
 'to': TO
 'decay,"': TKE/KAEU KW-BG KR-GS
 'said': SAEUD

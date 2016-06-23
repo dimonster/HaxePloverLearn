@@ -3311,7 +3311,7 @@
 'picked': PEUGD
 'up': UP
 'the': -T
-'fallen': TPAUL/-PB
+'fallen': TPAUL/*EPB
 'rose-leaves': ROEZ H-PB HREFS
 'and': SKP
 'preserved': PREFBD

@@ -116,7 +116,7 @@
 * sure, `SHUR KW-BG`
 * they `THE`
 * have `SR`
-* fallen `TPAUL/-PB`
+* fallen `TPAUL/*EPB`
 * our `OUR`
 * corn `KORPB`
 * loft, `HRO*FT KW-BG`

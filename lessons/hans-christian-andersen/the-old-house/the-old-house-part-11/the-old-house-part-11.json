@@ -197,6 +197,6 @@
 "TEUPB": "tin",
 "SHRERPBL": "soldier",
 "H": "had",
-"TPAUL/-PB": "fallen",
+"TPAUL/*EPB": "fallen",
 "THRU": "through"
 }

@@ -81,7 +81,7 @@
 * linden-leaf, `XXX linden H-PB HRAOEF KW-BG`
 * which `WEU`
 * had `H`
-* fallen `TPAUL/-PB`
+* fallen `TPAUL/*EPB`
 * from `TPR`
 * tree `TRAOE`
 * man's `PHAPB AE S*/SP-S`

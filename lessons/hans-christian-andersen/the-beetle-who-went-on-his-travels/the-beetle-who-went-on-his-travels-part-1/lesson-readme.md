@@ -60,7 +60,7 @@
 * and, `SKP KW-BG`
 * back, `PWABG KW-BG`
 * dashed `TKARBD`
-* fallen `TPAUL/-PB`
+* fallen `TPAUL/*EPB`
 * foe, `TPOE KW-BG`
 * saved `SAFD`
 * crown `KROUPB`

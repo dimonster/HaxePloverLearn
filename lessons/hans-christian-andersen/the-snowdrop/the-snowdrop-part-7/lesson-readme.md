@@ -9,7 +9,7 @@
 * It `T`
 * must `PHUFT`
 * have `SR`
-* fallen `TPAUL/-PB`
+* fallen `TPAUL/*EPB`
 * out `OUT`
 * while `WHAOEUL`
 * room `RAOPL`

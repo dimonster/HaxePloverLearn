@@ -111,7 +111,7 @@
 * However, `HOUF KW-BG`
 * dead, `TKED KW-BG`
 * only `OEPBL`
-* fallen `TPAUL/-PB`
+* fallen `TPAUL/*EPB`
 * into `TPHAO`
 * deep `TKAOEP`
 * sleep; `SHRAOEP STPH*FPLT`

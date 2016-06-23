@@ -149,7 +149,7 @@ She Was Good for Nothing Part 12
 'when': WHEPB
 'misfortune': PHEUS/TPOR/TAOUPB
 'had': H
-'fallen': TPAUL/-PB
+'fallen': TPAUL/*EPB
 'upon': POPB
 'them.': THEPL TP-PL
 '"We': KR-GS WE

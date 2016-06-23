@@ -198,5 +198,5 @@ The Old House Part 11
 'tin': TEUPB
 'soldier': SHRERPBL
 'had': H
-'fallen': TPAUL/-PB
+'fallen': TPAUL/*EPB
 'through': THRU

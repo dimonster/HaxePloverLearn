@@ -59,7 +59,7 @@
 * "It `KR-GS T`
 * must `PHUFT`
 * have `SR`
-* fallen `TPAUL/-PB`
+* fallen `TPAUL/*EPB`
 * in `TPH`
 * storm `STORPL`
 * last `HRAFT`

@@ -1637,7 +1637,7 @@
 'daughter': TKAUR
 'who': WHO
 'was': WA
-'fallen': TPAUL/-PB
+'fallen': TPAUL/*EPB
 'violently': SRAOEUL/HREPBT/HREU
 'in': TPH
 'love': HRUF

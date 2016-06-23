@@ -28,7 +28,7 @@
 "TPAEUD/-G": "fading",
 "REFT/-D": "rested",
 "TPAEULD": "failed",
-"TPAUL/-PB": "fallen",
+"TPAUL/*EPB": "fallen",
 "TPAEPL": "family",
 "RE/PAOET": "repeat",
 "RE/PHOF": "remove",

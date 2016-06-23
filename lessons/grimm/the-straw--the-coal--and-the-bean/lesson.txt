@@ -165,7 +165,7 @@
 'better': PWOERT
 'fate': TPAEUT
 'have': SR
-'fallen': TPAUL/-PB
+'fallen': TPAUL/*EPB
 'to': TO
 'my': PHEU
 'lot?'': HROT H-F AE

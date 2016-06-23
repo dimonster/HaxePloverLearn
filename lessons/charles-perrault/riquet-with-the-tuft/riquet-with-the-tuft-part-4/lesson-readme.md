@@ -69,7 +69,7 @@
 * Tuft, `TUFT KW-BG`
 * who `WHO`
 * having `SR-G`
-* fallen `TPAUL/-PB`
+* fallen `TPAUL/*EPB`
 * in `TPH`
 * love `HRUF`
 * by `PWEU`

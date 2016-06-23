@@ -271,7 +271,7 @@
 'she': SHE
 'would': WO
 'have': SR
-'fallen': TPAUL/-PB
+'fallen': TPAUL/*EPB
 'backward': PWABG/WARD
 'among': PHOPBG
 'the': -T

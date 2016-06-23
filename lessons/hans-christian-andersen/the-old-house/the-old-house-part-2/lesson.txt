@@ -112,7 +112,7 @@ The Old House Part 2
 'in': TPH
 'some': SOPL
 'places': PHRAEUFS
-'fallen': TPAUL/-PB
+'fallen': TPAUL/*EPB
 'off,': OF KW-BG
 'and': SKP
 'fancy': TPAPB/SEU

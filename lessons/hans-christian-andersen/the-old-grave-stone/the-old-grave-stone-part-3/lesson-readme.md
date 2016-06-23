@@ -77,7 +77,7 @@
 * father `TPAER`
 * man's `PHAPB AE S*/SP-S`
 * house. `HOUS TP-PL`
-* fallen `TPAUL/-PB`
+* fallen `TPAUL/*EPB`
 * into `TPHAO`
 * sleep `SHRAOEP`
 * death `TK*T`

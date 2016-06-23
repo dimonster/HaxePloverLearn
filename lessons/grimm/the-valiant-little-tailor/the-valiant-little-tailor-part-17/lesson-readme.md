@@ -4,7 +4,7 @@
 * that `THA`
 * he `E`
 * had `H`
-* fallen `TPAUL/-PB`
+* fallen `TPAUL/*EPB`
 * asleep, `A/HRAOEP KW-BG`
 * she `SHE`
 * got `TKPWOT`

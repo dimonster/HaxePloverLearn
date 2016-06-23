@@ -96,7 +96,7 @@
 * trees `TRAOES`
 * laurels `HRAURLS`
 * grew `TKPWRAOU`
-* fallen `TPAUL/-PB`
+* fallen `TPAUL/*EPB`
 * marble `PHAERBL`
 * columns, `KHRUPLS KW-BG`
 * desolate `TKES/HRAT`

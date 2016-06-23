@@ -352,7 +352,7 @@
 'earth': *ERT
 'which': WEU
 'had': H
-'fallen': TPAUL/-PB
+'fallen': TPAUL/*EPB
 'out': OUT
 'of': -F
 'it.': T TP-PL

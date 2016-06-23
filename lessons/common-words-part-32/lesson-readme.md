@@ -29,7 +29,7 @@
 * fading `TPAEUD/-G`
 * rested `REFT/-D`
 * failed `TPAEULD`
-* fallen `TPAUL/-PB`
+* fallen `TPAUL/*EPB`
 * family `TPAEPL`
 * repeat `RE/PAOET`
 * remove `RE/PHOF`

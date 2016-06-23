@@ -73,7 +73,7 @@ Everything in the Right Place Part 2
 'she': SHE
 'would': WO
 'have': SR
-'fallen': TPAUL/-PB
+'fallen': TPAUL/*EPB
 'backward': PWABG/WARD
 'among': PHOPBG
 'the': -T

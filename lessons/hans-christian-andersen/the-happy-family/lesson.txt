@@ -692,7 +692,7 @@
 'castle,': KAFL KW-BG
 'perhaps,': PRAPS KW-BG
 'has': HAS
-'fallen': TPAUL/-PB
+'fallen': TPAUL/*EPB
 'to': TO
 'decay,"': TKE/KAEU KW-BG KR-GS
 'said': SAEUD
@@ -1238,7 +1238,7 @@
 'the': -T
 'castle': KAFL
 'had': H
-'fallen': TPAUL/-PB
+'fallen': TPAUL/*EPB
 'into': TPHAO
 'decay,': TKE/KAEU KW-BG
 'and': SKP

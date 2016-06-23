@@ -138,7 +138,7 @@ Little Tiny or Thumbelina Part 14
 'last': HRAFT
 'he': E
 'had': H
-'fallen': TPAUL/-PB
+'fallen': TPAUL/*EPB
 'to': TO
 'the': -T
 'earth,': *ERT KW-BG

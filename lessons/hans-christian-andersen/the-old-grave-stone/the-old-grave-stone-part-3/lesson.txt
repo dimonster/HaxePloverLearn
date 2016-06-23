@@ -109,7 +109,7 @@ The Old Grave-Stone Part 3
 'house.': HOUS TP-PL
 'Martha': PHAR/THA
 'had': H
-'fallen': TPAUL/-PB
+'fallen': TPAUL/*EPB
 'into': TPHAO
 'the': -T
 'sleep': SHRAOEP

@@ -113,7 +113,7 @@
 * sighing, `SAOEU/-G KW-BG`
 * know `TPHOE`
 * has `HAS`
-* fallen `TPAUL/-PB`
+* fallen `TPAUL/*EPB`
 * asleep.' `A/HRAOEP TP-PL AE`
 * When `WHEPB`
 * entered `SPWR-D`

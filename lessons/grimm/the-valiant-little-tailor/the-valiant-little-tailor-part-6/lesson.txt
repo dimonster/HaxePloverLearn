@@ -151,7 +151,7 @@ The Valiant Little Tailor Part 6
 'When': WHEPB
 'he': E
 'had': H
-'fallen': TPAUL/-PB
+'fallen': TPAUL/*EPB
 'down': TKOUPB
 'again': TKPWEPB
 'without': WOUT

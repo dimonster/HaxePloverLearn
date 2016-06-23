@@ -92,7 +92,7 @@
 * when `WHEPB`
 * he `E`
 * has `HAS`
-* fallen `TPAUL/-PB`
+* fallen `TPAUL/*EPB`
 * asleep `A/HRAOEP`
 * go `TKPW`
 * in, `TPH KW-BG`

@@ -31,7 +31,7 @@
 * Carabas, `XXX Carabas KW-BG`
 * as `AZ`
 * daughter `TKAUR`
-* fallen `TPAUL/-PB`
+* fallen `TPAUL/*EPB`
 * violently `SRAOEUL/HREPBT/HREU`
 * in `TPH`
 * love `HRUF`

@@ -100,7 +100,7 @@
 * journey `SKWRURPB`
 * countries. `KUPBTS TP-PL`
 * last `HRAFT`
-* fallen `TPAUL/-PB`
+* fallen `TPAUL/*EPB`
 * earth, `*ERT KW-BG`
 * remember `REB`
 * more, `PHOR KW-BG`

@@ -10,7 +10,7 @@ The Snowdrop Part 7
 'it': T
 'must': PHUFT
 'have': SR
-'fallen': TPAUL/-PB
+'fallen': TPAUL/*EPB
 'out': OUT
 'while': WHAOEUL
 'the': -T

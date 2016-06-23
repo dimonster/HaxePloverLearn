@@ -92,7 +92,7 @@ Riquet With the Tuft Part 4
 'Tuft,': TUFT KW-BG
 'who': WHO
 'having': SR-G
-'fallen': TPAUL/-PB
+'fallen': TPAUL/*EPB
 'in': TPH
 'love': HRUF
 'with': W

@@ -310,7 +310,7 @@
 'in': TPH
 'some': SOPL
 'places': PHRAEUFS
-'fallen': TPAUL/-PB
+'fallen': TPAUL/*EPB
 'off,': OF KW-BG
 'and': SKP
 'fancy': TPAPB/SEU
@@ -2196,7 +2196,7 @@
 'tin': TEUPB
 'soldier': SHRERPBL
 'had': H
-'fallen': TPAUL/-PB
+'fallen': TPAUL/*EPB
 'through': THRU
 'a': AEU
 'crack': KRABG

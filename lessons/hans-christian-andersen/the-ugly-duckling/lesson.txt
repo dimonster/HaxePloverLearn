@@ -3197,7 +3197,7 @@
 'in': TPH
 'the': -T
 'newly': TPHAOUL
-'fallen': TPAUL/-PB
+'fallen': TPAUL/*EPB
 'snow.': STPHOE TP-PL
 'It': T
 'would': WO

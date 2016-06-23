@@ -1887,7 +1887,7 @@
 'as': AZ
 'he': E
 'had': H
-'fallen': TPAUL/-PB
+'fallen': TPAUL/*EPB
 'asleep,': A/HRAOEP KW-BG
 'however,': HOUF KW-BG
 'she': SHE

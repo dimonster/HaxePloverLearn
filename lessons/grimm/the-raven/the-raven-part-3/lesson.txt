@@ -157,7 +157,7 @@ The Raven Part 3
 'know': TPHOE
 'he': E
 'has': HAS
-'fallen': TPAUL/-PB
+'fallen': TPAUL/*EPB
 'asleep.'': A/HRAOEP TP-PL AE
 'When': WHEPB
 'she': SHE

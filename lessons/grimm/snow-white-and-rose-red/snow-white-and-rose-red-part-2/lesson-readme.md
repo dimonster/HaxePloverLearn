@@ -99,7 +99,7 @@
 * precipice, `PRES/PEUS KW-BG`
 * certainly `SERPBL`
 * have `SR`
-* fallen `TPAUL/-PB`
+* fallen `TPAUL/*EPB`
 * it `T`
 * darkness `TKARBG/-PBS`
 * gone `TKWOPB`

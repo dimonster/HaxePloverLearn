@@ -106,7 +106,7 @@
 * flower-pot, `TPHRO*UR H-PB POT KW-BG`
 * lump `HRUFRP`
 * earth `*ERT`
-* fallen `TPAUL/-PB`
+* fallen `TPAUL/*EPB`
 * out `OUT`
 * it. `T TP-PL`
 * been `PW-PB`

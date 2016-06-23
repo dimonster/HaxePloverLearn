@@ -125,5 +125,5 @@
 * open `OEP`
 * full `TPUL`
 * holes. `HOELS TP-PL`
-* fallen `TPAUL/-PB`
+* fallen `TPAUL/*EPB`
 * through `THRU`

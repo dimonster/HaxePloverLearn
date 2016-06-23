@@ -80,7 +80,7 @@
 * When `WHEPB`
 * old `OLD`
 * folks `TPOBG`
-* fallen `TPAUL/-PB`
+* fallen `TPAUL/*EPB`
 * asleep, `A/HRAOEP KW-BG`
 * got `TKPWOT`
 * up, `UP KW-BG`

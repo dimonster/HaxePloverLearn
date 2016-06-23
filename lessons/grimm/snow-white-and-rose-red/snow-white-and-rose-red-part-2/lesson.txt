@@ -147,7 +147,7 @@ Snow-White and Rose-Red Part 2
 'would': WO
 'certainly': SERPBL
 'have': SR
-'fallen': TPAUL/-PB
+'fallen': TPAUL/*EPB
 'into': TPHAO
 'it': T
 'in': TPH

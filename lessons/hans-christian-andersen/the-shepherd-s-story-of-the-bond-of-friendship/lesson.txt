@@ -1689,7 +1689,7 @@
 'the': -T
 'water—Anastasia': WAUR EPL/TKA*RB APB/STAEUS/KWRA
 'had': H
-'fallen': TPAUL/-PB
+'fallen': TPAUL/*EPB
 'in;': TPH STPH*FPLT
 'but': PWUT
 'in': TPH

@@ -137,7 +137,7 @@
 'grew': TKPWRAOU
 'among': PHOPBG
 'the': -T
-'fallen': TPAUL/-PB
+'fallen': TPAUL/*EPB
 'marble': PHAERBL
 'columns,': KHRUPLS KW-BG
 'and': SKP

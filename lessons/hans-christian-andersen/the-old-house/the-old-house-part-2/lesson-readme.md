@@ -81,7 +81,7 @@
 * plaster `PHRAFRT`
 * some `SOPL`
 * places `PHRAEUFS`
-* fallen `TPAUL/-PB`
+* fallen `TPAUL/*EPB`
 * off, `OF KW-BG`
 * fancy `TPAPB/SEU`
 * all `AUL`

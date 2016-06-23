@@ -924,7 +924,7 @@
 'they': THE
 'would': WO
 'have': SR
-'fallen': TPAUL/-PB
+'fallen': TPAUL/*EPB
 'to': TO
 'the': -T
 'ground': TKPWROUPBD

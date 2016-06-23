@@ -40,7 +40,7 @@ The Happy Family Part 7
 'the': -T
 'castle': KAFL
 'had': H
-'fallen': TPAUL/-PB
+'fallen': TPAUL/*EPB
 'into': TPHAO
 'decay,': TKE/KAEU KW-BG
 'and': SKP

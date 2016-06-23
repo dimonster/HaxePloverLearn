@@ -14,7 +14,7 @@
 * golden `TKOELD/*EPB`
 * ball `PWAUL`
 * has `HAS`
-* fallen `TPAUL/-PB`
+* fallen `TPAUL/*EPB`
 * into `TPHAO`
 * the `-T`
 * spring.' `SPREUPBG TP-PL AE`

@@ -555,7 +555,7 @@
 'know': TPHOE
 'he': E
 'has': HAS
-'fallen': TPAUL/-PB
+'fallen': TPAUL/*EPB
 'asleep.'': A/HRAOEP TP-PL AE
 'When': WHEPB
 'she': SHE
@@ -717,7 +717,7 @@
 'know': TPHOE
 'he': E
 'has': HAS
-'fallen': TPAUL/-PB
+'fallen': TPAUL/*EPB
 'asleep.'': A/HRAOEP TP-PL AE
 'She': SHE
 'went': WEPBT
@@ -895,7 +895,7 @@
 'know': TPHOE
 'he': E
 'has': HAS
-'fallen': TPAUL/-PB
+'fallen': TPAUL/*EPB
 'asleep,': A/HRAOEP KW-BG
 'and': SKP
 'will': HR

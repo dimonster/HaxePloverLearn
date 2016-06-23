@@ -124,7 +124,7 @@ The Valiant Little Tailor Part 16
 'when': WHEPB
 'he': E
 'has': HAS
-'fallen': TPAUL/-PB
+'fallen': TPAUL/*EPB
 'asleep': A/HRAOEP
 'shall': SHAL
 'go': TKPW

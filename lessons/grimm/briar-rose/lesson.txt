@@ -764,7 +764,7 @@
 'but': PWUT
 'had': H
 'only': OEPBL
-'fallen': TPAUL/-PB
+'fallen': TPAUL/*EPB
 'into': TPHAO
 'a': AEU
 'deep': TKAOEP

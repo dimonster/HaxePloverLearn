@@ -82,7 +82,7 @@
 * few `TPAOU`
 * picked `PEUGD`
 * up `UP`
-* fallen `TPAUL/-PB`
+* fallen `TPAUL/*EPB`
 * rose-leaves `ROEZ H-PB HREFS`
 * preserved `PREFBD`
 * them. `THEPL TP-PL`

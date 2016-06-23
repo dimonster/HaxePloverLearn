@@ -52,7 +52,7 @@
 * off, `OF KW-BG`
 * would `WO`
 * have `SR`
-* fallen `TPAUL/-PB`
+* fallen `TPAUL/*EPB`
 * backward `PWABG/WARD`
 * among `PHOPBG`
 * rushes, `RURBS KW-BG`

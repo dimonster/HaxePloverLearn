@@ -47,7 +47,7 @@
 * evening `AOEPG`
 * came, `KAEUPL KW-BG`
 * had `H`
-* fallen `TPAUL/-PB`
+* fallen `TPAUL/*EPB`
 * asleep, `A/HRAOEP KW-BG`
 * was `WA`
 * led `HRED`

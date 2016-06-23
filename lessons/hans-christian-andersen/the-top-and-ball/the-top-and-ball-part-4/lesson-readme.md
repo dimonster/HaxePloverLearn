@@ -8,7 +8,7 @@
 * rain-droppings `RAEUPB H-PB TROPG/-S`
 * that `THA`
 * had `H`
-* fallen `TPAUL/-PB`
+* fallen `TPAUL/*EPB`
 * down `TKOUPB`
 * from `TPR`
 * the `-T`

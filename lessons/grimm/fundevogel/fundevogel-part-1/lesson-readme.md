@@ -39,7 +39,7 @@
 * for `TPOR`
 * mother `PHOER`
 * had `H`
-* fallen `TPAUL/-PB`
+* fallen `TPAUL/*EPB`
 * asleep `A/HRAOEP`
 * under `*UPBD`
 * tree `TRAOE`

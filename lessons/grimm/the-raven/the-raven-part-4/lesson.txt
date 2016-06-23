@@ -119,7 +119,7 @@ The Raven Part 4
 'know': TPHOE
 'he': E
 'has': HAS
-'fallen': TPAUL/-PB
+'fallen': TPAUL/*EPB
 'asleep.'': A/HRAOEP TP-PL AE
 'She': SHE
 'went': WEPBT

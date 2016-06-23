@@ -90,7 +90,7 @@
 'dashed': TKARBD
 'over': OEFR
 'the': -T
-'fallen': TPAUL/-PB
+'fallen': TPAUL/*EPB
 'foe,': TPOE KW-BG
 'and': SKP
 'saved': SAFD

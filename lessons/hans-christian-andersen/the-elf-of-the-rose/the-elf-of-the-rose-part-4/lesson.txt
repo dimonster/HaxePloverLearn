@@ -119,7 +119,7 @@ The Elf of the Rose Part 4
 'linden-leaf,': XXX linden H-PB HRAOEF KW-BG
 'which': WEU
 'had': H
-'fallen': TPAUL/-PB
+'fallen': TPAUL/*EPB
 'from': TPR
 'the': -T
 'tree': TRAOE

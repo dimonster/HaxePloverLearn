@@ -1357,7 +1357,7 @@
 'when': WHEPB
 'I': EU
 'have': SR
-'fallen': TPAUL/-PB
+'fallen': TPAUL/*EPB
 'asleep,': A/HRAOEP KW-BG
 'the': -T
 'great': TKPWRAET

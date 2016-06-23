@@ -156,7 +156,7 @@ The Ass's Brains
 'would': WO
 'never': TPHEF
 'have': SR
-'fallen': TPAUL/-PB
+'fallen': TPAUL/*EPB
 'into': TPHAO
 'your': KWROUR
 'trap."': TRAP TP-PL KR-GS

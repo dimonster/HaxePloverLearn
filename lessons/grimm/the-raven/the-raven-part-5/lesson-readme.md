@@ -72,7 +72,7 @@
 * 'I `AE EU`
 * know `TPHOE`
 * has `HAS`
-* fallen `TPAUL/-PB`
+* fallen `TPAUL/*EPB`
 * asleep, `A/HRAOEP KW-BG`
 * will `HR`
 * not `TPHOT`

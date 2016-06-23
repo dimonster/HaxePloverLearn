@@ -88,7 +88,7 @@
 * wings, `WEUPBGS KW-BG`
 * or `OR`
 * have `SR`
-* fallen `TPAUL/-PB`
+* fallen `TPAUL/*EPB`
 * ground `TKPWROUPBD`
 * below. `PWHRO TP-PL`
 * "Look `KR-GS HRAOBG`

@@ -1084,7 +1084,7 @@
 'and': SKP
 'treading': TRAOED/-G
 'on': OPB
-'fallen': TPAUL/-PB
+'fallen': TPAUL/*EPB
 'branches': PWRAFPBS
 'that': THA
 'crackled': KRABG/-LD

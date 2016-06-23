@@ -57,7 +57,7 @@ Fundevogel Part 1
 'the': -T
 'mother': PHOER
 'had': H
-'fallen': TPAUL/-PB
+'fallen': TPAUL/*EPB
 'asleep': A/HRAOEP
 'under': *UPBD
 'the': -T

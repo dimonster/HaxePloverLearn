@@ -69,7 +69,7 @@
 * nobleman's `XXX nobleman AE S*/SP-S`
 * castle, `KAFL KW-BG`
 * perhaps, `PRAPS KW-BG`
-* fallen `TPAUL/-PB`
+* fallen `TPAUL/*EPB`
 * decay," `TKE/KAEU KW-BG KR-GS`
 * snail-father, `STPHAEUL H-PB TPAER KW-BG`
 * "or `KR-GS OR`

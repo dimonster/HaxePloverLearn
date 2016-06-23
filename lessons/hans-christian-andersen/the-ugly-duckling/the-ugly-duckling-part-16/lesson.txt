@@ -199,4 +199,4 @@ The Ugly Duckling Part 16
 'in': TPH
 'the': -T
 'newly': TPHAOUL
-'fallen': TPAUL/-PB
+'fallen': TPAUL/*EPB
