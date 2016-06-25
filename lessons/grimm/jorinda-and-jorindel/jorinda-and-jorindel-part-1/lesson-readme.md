@@ -78,7 +78,7 @@
 * come `KOPL`
 * again: `TKPWEPB STPH-FPLT`
 * pretty `PREUT`
-* maiden `PHAEUD/EPB`
+* maiden `PHAEUD/*EPB`
 * space `SPAEUS`
 * changed `KHAEUPBGD`
 * into `TPHAO`

@@ -120,7 +120,7 @@
 * its `EUTS`
 * beams `PWAOEPLS`
 * on `OPB`
-* maiden `PHAEUD/EPB`
+* maiden `PHAEUD/*EPB`
 * beyond `KWROPBD`
 * when `WHEPB`
 * psalms `SAUPL/-S`

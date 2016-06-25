@@ -15,7 +15,7 @@
 * again, `TKPWEPB KW-BG`
 * a `AEU`
 * charming `KHARPL/-G`
-* maiden, `PHAEUD/EPB KW-BG`
+* maiden, `PHAEUD/*EPB KW-BG`
 * fresh `TPRERB`
 * as `AZ`
 * rose, `ROEZ KW-BG`

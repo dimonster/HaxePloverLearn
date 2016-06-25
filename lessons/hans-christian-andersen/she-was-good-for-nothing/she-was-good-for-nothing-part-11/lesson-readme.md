@@ -16,7 +16,7 @@
 * then, `THEPB KW-BG`
 * marry `PHAER`
 * a `AEU`
-* maiden `PHAEUD/EPB`
+* maiden `PHAEUD/*EPB`
 * who `WHO`
 * honors `HO*RPBS`
 * esteems `E/STAOEPL/-S`

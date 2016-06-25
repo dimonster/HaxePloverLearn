@@ -59,7 +59,7 @@ The Shadow Part 12
 'too': TAO
 'near': TPHAOER
 'the': -T
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'myself,': PHAO*EUS KW-BG
 'but': PWUT
 'I': EU

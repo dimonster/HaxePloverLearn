@@ -47,7 +47,7 @@
 * kissed `K*EUFD`
 * me." `PHE TP-PL KR-GS`
 * "Little `KR-GS HREUL`
-* maiden," `PHAEUD/EPB KW-BG KR-GS`
+* maiden," `PHAEUD/*EPB KW-BG KR-GS`
 * said `SAEUD`
 * lord-in-waiting, `HRORD H-PB TPH H-PB WAEUGT KW-BG`
 * "I `KR-GS EU`

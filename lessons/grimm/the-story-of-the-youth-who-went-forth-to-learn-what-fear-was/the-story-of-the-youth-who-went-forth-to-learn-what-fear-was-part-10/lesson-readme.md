@@ -14,7 +14,7 @@
 * the `-T`
 * most `PHOFT`
 * beautiful `PWAOUFL`
-* maiden `PHAEUD/EPB`
+* maiden `PHAEUD/*EPB`
 * sun `SUPB`
 * shone `SHO*EPB`
 * on. `OPB TP-PL`

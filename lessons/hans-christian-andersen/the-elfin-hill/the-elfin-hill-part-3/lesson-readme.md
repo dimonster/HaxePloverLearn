@@ -125,7 +125,7 @@
 * away `A/WAEU`
 * invitations. `EUPB/SREU/TAEUGS/-S TP-PL`
 * elfin `XXX elfin`
-* maidens `PHAEUD/EPB/-S`
+* maidens `PHAEUD/*EPB/-S`
 * we're `WAOER`
 * already `HR-R`
 * dancing `TKAPBS/-G`

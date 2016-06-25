@@ -2146,7 +2146,7 @@
 "HOU": "how",
 "AEU": "a",
 "PAOR": "poor",
-"PHAEUD/EPB": "maiden",
+"PHAEUD/*EPB": "maiden",
 "H": "had",
 "KOPL": "come",
 "SKP": "and",

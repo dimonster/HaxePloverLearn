@@ -99,7 +99,7 @@
 * draught, `TRAFT KW-BG`
 * how `HOU`
 * poor `PAOR`
-* maiden `PHAEUD/EPB`
+* maiden `PHAEUD/*EPB`
 * come `KOPL`
 * spoken `SPOEPB`
 * took `TAOBG`

@@ -193,7 +193,7 @@ Little Tiny or Thumbelina Part 1
 'and': SKP
 'graceful': TKPWRAEUS/-FL
 'little': HREUL
-'maiden.': PHAEUD/EPB TP-PL
+'maiden.': PHAEUD/*EPB TP-PL
 'She': SHE
 'was': WA
 'scarcely': SKAEURS/HREU

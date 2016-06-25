@@ -179,7 +179,7 @@
 'troops': TRAOPS
 'of': -F
 'charming': KHARPL/-G
-'maidens,': PHAEUD/EPB/-S KW-BG
+'maidens,': PHAEUD/*EPB/-S KW-BG
 'and': SKP
 'of': -F
 'brave': PWRAEUF

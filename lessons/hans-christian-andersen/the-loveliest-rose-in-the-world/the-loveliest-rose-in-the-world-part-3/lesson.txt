@@ -197,6 +197,6 @@ The Loveliest Rose in the World Part 3
 'appeared.': A/PAOERD TP-PL
 'A': AEU
 'young': KWRUPBG
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'knelt': TPHELT
 'at': AT

@@ -143,7 +143,7 @@ By the Almshouse Window Part 2
 'on,': OPB KW-BG
 'thou': THO*U
 'little': HREUL
-'maiden!': PHAEUD/EPB SKHRAPL
+'maiden!': PHAEUD/*EPB SKHRAPL
 'Soon': SAOPB
 'the': -T
 'years': KWRAOERS

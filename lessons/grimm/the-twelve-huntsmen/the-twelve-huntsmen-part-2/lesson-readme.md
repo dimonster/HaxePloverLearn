@@ -71,7 +71,7 @@
 * kingdom, `KEUPBG/TKOPL KW-BG`
 * until `TPH-L`
 * young `KWRUPBG`
-* maidens `PHAEUD/EPB/-S`
+* maidens `PHAEUD/*EPB/-S`
 * were `WR`
 * found `TPOUPBD`
 * who `WHO`

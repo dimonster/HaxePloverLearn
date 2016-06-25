@@ -126,7 +126,7 @@ The Pink Part 8
 'you': U
 'see': SAOE
 'the': -T
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'who': WHO
 'brought': PWRAUT
 'me': PHE

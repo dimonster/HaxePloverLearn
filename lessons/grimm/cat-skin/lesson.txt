@@ -724,7 +724,7 @@
 'up,': UP KW-BG
 'and': SKP
 'the': -T
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'awoke': A/WOEBG
 'and': SKP
 'was': WA

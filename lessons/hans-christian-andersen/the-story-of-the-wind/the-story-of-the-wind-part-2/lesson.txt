@@ -27,7 +27,7 @@ The Story of the Wind Part 2
 'fair': TPAEUR
 'and': SKP
 'delicate': TKEL/KAT
-'maidens—Ida,': PHAEUD/EPB/-S EPL/TKA*RB XXX Ida KW-BG
+'maidens—Ida,': PHAEUD/*EPB/-S EPL/TKA*RB XXX Ida KW-BG
 'Joanna,': SKWROE/APB/KWRA KW-BG
 'and': SKP
 'Anna': APB/TPHA

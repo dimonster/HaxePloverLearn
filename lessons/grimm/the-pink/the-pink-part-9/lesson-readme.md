@@ -33,7 +33,7 @@
 * might `PHAOEUT`
 * become `PW-BG`
 * a `AEU`
-* maiden, `PHAEUD/EPB KW-BG`
+* maiden, `PHAEUD/*EPB KW-BG`
 * stood `STAOD`
 * there `THR`
 * looking `HRAOG`
@@ -109,7 +109,7 @@
 * died. `TKAOEUD TP-PL`
 * his `HEUS`
 * married `PHAERD`
-* maiden `PHAEUD/EPB`
+* maiden `PHAEUD/*EPB`
 * whom `WHOPL`
 * with `W`
 * him `HEUPL`

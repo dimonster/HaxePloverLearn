@@ -1796,7 +1796,7 @@
 'saw': SAU
 'the': -T
 'enchanted': EPB/HAPBT/-D
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'drive': KRAOEUF
 'round': ROUPBD
 'her': HER
@@ -2261,7 +2261,7 @@
 'room': RAOPL
 'where': W-R
 'the': -T
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'was': WA
 'sitting,': SAO*EGT KW-BG
 'with': W

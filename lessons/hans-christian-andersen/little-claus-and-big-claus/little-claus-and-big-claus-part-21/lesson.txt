@@ -80,7 +80,7 @@ Little Claus and Big Claus Part 21
 'told': TOLD
 'by': PWEU
 'the': -T
-'sea-maiden': SAE H-PB PHAEUD/EPB
+'sea-maiden': SAE H-PB PHAEUD/*EPB
 'to': TO
 'go': TKPW
 'a': AEU

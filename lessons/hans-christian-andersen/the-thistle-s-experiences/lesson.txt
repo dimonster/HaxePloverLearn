@@ -379,7 +379,7 @@
 'of': -F
 'the': -T
 'Scottish': SKOT/EURB
-'maiden.': PHAEUD/EPB TP-PL
+'maiden.': PHAEUD/*EPB TP-PL
 'And': SKP
 'if': TP
 'the': -T
@@ -552,7 +552,7 @@
 'the': -T
 'fair': TPAEUR
 'Scottish': SKOT/EURB
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'had': H
 'also': HR-S
 'now': TPHOU

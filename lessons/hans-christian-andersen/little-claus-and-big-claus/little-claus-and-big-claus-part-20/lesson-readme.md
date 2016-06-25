@@ -64,7 +64,7 @@
 * sack `SABG`
 * opened, `OEPD KW-BG`
 * sweetest `SWAOET/EFT`
-* maiden `PHAEUD/EPB`
+* maiden `PHAEUD/*EPB`
 * came `KAEUPL`
 * towards `TORDZ`
 * me. `PHE TP-PL`

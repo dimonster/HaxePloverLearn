@@ -89,7 +89,7 @@ Little Tiny or Thumbelina Part 15
 'good,': TKPWAOD KW-BG
 'pretty': PREUT
 'little': HREUL
-'maiden,"': PHAEUD/EPB KW-BG KR-GS
+'maiden,"': PHAEUD/*EPB KW-BG KR-GS
 'said': SAEUD
 'the': -T
 'swallow;': SWO*EUL STPH*FPLT

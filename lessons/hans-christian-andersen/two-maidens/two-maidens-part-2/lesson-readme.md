@@ -5,7 +5,7 @@
 * be `-B`
 * miscalled `PHEUS/KAULD`
 * "rammers. `KR-GS XXX rammers TP-PL`
-* "Maiden `KR-GS PHAEUD/EPB`
+* "Maiden `KR-GS PHAEUD/*EPB`
 * is `S`
 * a `AEU`
 * human `HAOUPL`
@@ -54,7 +54,7 @@
 * scale `SKAEL`
 * what `WHA`
 * ten `TEPB`
-* maidens `PHAEUD/EPB/-S`
+* maidens `PHAEUD/*EPB/-S`
 * effect `TPEBT`
 * in `TPH`
 * similar `SHRAR`
@@ -64,7 +64,7 @@
 * marry `PHAER`
 * me `PHE`
 * as `AZ`
-* maiden, `PHAEUD/EPB KW-BG`
+* maiden, `PHAEUD/*EPB KW-BG`
 * whether `WHR`
 * he `E`
 * have `SR`
@@ -110,7 +110,7 @@
 * notice," `TPH-TS KW-BG KR-GS`
 * said, `SAEUD KW-BG`
 * "that `KR-GS THA`
-* 'maiden' `AE PHAEUD/EPB AE`
+* 'maiden' `AE PHAEUD/*EPB AE`
 * common `KPHOPB`
 * enough, `TPHUF KW-BG`
 * not `TPHOT`

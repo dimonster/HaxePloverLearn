@@ -5,14 +5,14 @@
 * ever `-FR`
 * seen `SAOEPB`
 * a `AEU`
-* maiden? `PHAEUD/EPB H-F`
+* maiden? `PHAEUD/*EPB H-F`
 * I `EU`
 * mean `PHAOEPB`
 * what `WHA`
 * our `OUR`
 * pavers `PAEUFRS`
 * call `KAUL`
-* maiden, `PHAEUD/EPB KW-BG`
+* maiden, `PHAEUD/*EPB KW-BG`
 * thing `THEUPBG`
 * with `W`
 * which `WEU`
@@ -23,7 +23,7 @@
 * paving-stones `PAEUFG H-PB STOEBS`
 * in `TPH`
 * roads. `ROEDZ TP-PL`
-* maiden `PHAEUD/EPB`
+* maiden `PHAEUD/*EPB`
 * of `-F`
 * this `TH`
 * kind `KEUPBD`
@@ -51,11 +51,11 @@
 * waist, `WAEUFT KW-BG`
 * forms `TPORPLS`
 * arms `ARPLS`
-* maiden. `PHAEUD/EPB TP-PL`
+* maiden. `PHAEUD/*EPB TP-PL`
 * shed `SHED`
 * stood `STAOD`
 * two `TWO`
-* Maidens `PHAEUD/EPB/-S`
+* Maidens `PHAEUD/*EPB/-S`
 * kind. `KEUPBD TP-PL`
 * had `H`
 * their `THAEUR`
@@ -76,7 +76,7 @@
 * longer `HRORPBG`
 * be `-B`
 * called `KAULD`
-* "maidens," `KR-GS PHAEUD/EPB/-S KW-BG KR-GS`
+* "maidens," `KR-GS PHAEUD/*EPB/-S KW-BG KR-GS`
 * but `PWUT`
 * "hand-rammers," `KR-GS HAPBD H-PB XXX rammers KW-BG KR-GS`
 * word `WORD`
@@ -94,7 +94,7 @@
 * by `PWEU`
 * name `TPHAEUPL`
 * "the `KR-GS -T`
-* maiden." `PHAEUD/EPB TP-PL KR-GS`
+* maiden." `PHAEUD/*EPB TP-PL KR-GS`
 * Now, `TPHOU KW-BG`
 * there `THR`
 * are `R`
@@ -125,7 +125,7 @@
 * women `WEUPL`
 * associated `SOERBD`
 * themselves. `TH*EPLS TP-PL`
-* "maidens" `KR-GS PHAEUD/EPB/-S KR-GS`
+* "maidens" `KR-GS PHAEUD/*EPB/-S KR-GS`
 * paver `PAFR`
 * folk, `TPOEBG KW-BG`
 * determined `TKERPLD`

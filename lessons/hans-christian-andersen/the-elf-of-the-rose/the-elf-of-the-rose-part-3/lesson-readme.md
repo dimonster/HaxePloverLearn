@@ -108,7 +108,7 @@
 * wicked `WEUBGD`
 * brother `PWROER`
 * beautiful `PWAOUFL`
-* maiden. `PHAEUD/EPB TP-PL`
+* maiden. `PHAEUD/*EPB TP-PL`
 * drew `TKRAOU`
 * sharp `SHARP`
 * knife, `TPHAOEUF KW-BG`

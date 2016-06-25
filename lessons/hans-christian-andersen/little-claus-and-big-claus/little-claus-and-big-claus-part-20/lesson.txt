@@ -90,7 +90,7 @@ Little Claus and Big Claus Part 20
 'the': -T
 'sweetest': SWAOET/EFT
 'little': HREUL
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'came': KAEUPL
 'towards': TORDZ
 'me.': PHE TP-PL

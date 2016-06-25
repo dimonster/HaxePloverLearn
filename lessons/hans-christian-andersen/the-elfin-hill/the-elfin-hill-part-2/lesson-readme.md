@@ -56,7 +56,7 @@
 * opened, `OEPD KW-BG`
 * an `APB`
 * old `OLD`
-* maiden, `PHAEUD/EPB KW-BG`
+* maiden, `PHAEUD/*EPB KW-BG`
 * hollow `HOL/OE`
 * behind, `HEUPBD KW-BG`
 * came `KAEUPL`

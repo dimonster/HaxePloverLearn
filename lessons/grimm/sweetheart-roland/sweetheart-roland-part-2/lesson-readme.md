@@ -99,7 +99,7 @@
 * escape `E/SKAEUP`
 * pursues `PUR/SAOUS`
 * us.' `US TP-PL AE`
-* maiden `PHAEUD/EPB`
+* maiden `PHAEUD/*EPB`
 * fetched `TPEFP/-D`
 * took `TAOBG`
 * dead `TKED`

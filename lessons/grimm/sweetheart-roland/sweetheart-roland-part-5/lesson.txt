@@ -142,7 +142,7 @@ Sweetheart Roland Part 5
 'he': E
 'forgot': TPAURGT
 'the': -T
-'maiden.': PHAEUD/EPB TP-PL
+'maiden.': PHAEUD/*EPB TP-PL
 'The': -T
 'poor': PAOR
 'girl': TKPWEURL

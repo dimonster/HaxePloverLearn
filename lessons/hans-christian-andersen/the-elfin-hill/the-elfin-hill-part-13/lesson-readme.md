@@ -26,7 +26,7 @@
 * said `SAEUD`
 * old `OLD`
 * elfin `XXX elfin`
-* maiden `PHAEUD/EPB`
+* maiden `PHAEUD/*EPB`
 * who `WHO`
 * acted `ABGD`
 * as `AZ`

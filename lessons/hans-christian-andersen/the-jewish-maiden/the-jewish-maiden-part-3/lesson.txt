@@ -22,7 +22,7 @@ The Jewish Maiden Part 3
 'of': -F
 'the': -T
 'grown-up': TKPWR*UP
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'was': WA
 'still': STEUL
 'the': -T

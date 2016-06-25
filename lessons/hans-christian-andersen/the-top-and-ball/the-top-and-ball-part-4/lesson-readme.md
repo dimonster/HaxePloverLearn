@@ -125,7 +125,7 @@
 * is `S`
 * long `HROPBG`
 * time `TAOEUPL`
-* maiden." `PHAEUD/EPB TP-PL KR-GS`
+* maiden." `PHAEUD/*EPB TP-PL KR-GS`
 * top `TOP`
 * nothing, `TPHOG KW-BG`
 * thought `THAUT`

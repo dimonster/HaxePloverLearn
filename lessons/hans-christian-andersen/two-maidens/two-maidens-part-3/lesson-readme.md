@@ -19,7 +19,7 @@
 * would `WO`
 * surrender `SREPBD/UR`
 * my `PHEU`
-* maiden `PHAEUD/EPB`
+* maiden `PHAEUD/*EPB`
 * name." `TPHAEUPL TP-PL KR-GS`
 * "No, `KR-GS TPHO KW-BG`
 * certainly `SERPBL`
@@ -61,7 +61,7 @@
 * there `THR`
 * a `AEU`
 * law `HRAU`
-* 'maiden' `AE PHAEUD/EPB AE`
+* 'maiden' `AE PHAEUD/*EPB AE`
 * 'hand-rammer,' `AE HAPBD H-PB XXX rammer KW-BG AE`
 * why, `KWR KW-BG`
 * she `SHE`
@@ -83,7 +83,7 @@
 * reminds `RAO*EUPBDZ`
 * one `WUPB`
 * little `HREUL`
-* maidens." `PHAEUD/EPB/-S TP-PL KR-GS`
+* maidens." `PHAEUD/*EPB/-S TP-PL KR-GS`
 * "But `KR-GS PWUT`
 * rather `RAER`
 * chopped `KHOPD`
@@ -94,7 +94,7 @@
 * all `AUL`
 * went `WEPBT`
 * work. `WORBG TP-PL`
-* Maidens `PHAEUD/EPB/-S`
+* Maidens `PHAEUD/*EPB/-S`
 * rode—that `ROED EPL/TKA*RB THA`
 * is, `S KW-BG`
 * were `WR`
@@ -116,7 +116,7 @@
 * pronouncing `PRO/TPHOUPBS/-G`
 * whole `WHOEL`
 * word `WORD`
-* "maiden;" `KR-GS PHAEUD/EPB STPH*FPLT KR-GS`
+* "maiden;" `KR-GS PHAEUD/*EPB STPH*FPLT KR-GS`
 * broke `PWROEBG`
 * off `OF`
 * short, `SHORT KW-BG`

@@ -191,7 +191,7 @@
 'and': SKP
 'graceful': TKPWRAEUS/-FL
 'little': HREUL
-'maiden.': PHAEUD/EPB TP-PL
+'maiden.': PHAEUD/*EPB TP-PL
 'She': SHE
 'was': WA
 'scarcely': SKAEURS/HREU
@@ -291,7 +291,7 @@
 'Here': HAOER
 'the': -T
 'little': HREUL
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'sat': SAT
 'and': SKP
 'rowed': ROE/-D
@@ -437,7 +437,7 @@
 'the': -T
 'pretty': PREUT
 'little': HREUL
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'in': TPH
 'her': HER
 'elegant': EL/TKPWAPBT
@@ -819,7 +819,7 @@
 'at': AT
 'the': -T
 'little': HREUL
-'maiden.': PHAEUD/EPB TP-PL
+'maiden.': PHAEUD/*EPB TP-PL
 'As': AZ
 'soon': SAOPB
 'as': AZ
@@ -876,7 +876,7 @@
 'which': WEU
 'the': -T
 'little': HREUL
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'stood,': STAOD KW-BG
 'and': SKP
 'gnawed': TPHA*U/-D
@@ -2628,7 +2628,7 @@
 'you,': U KW-BG
 'pretty': PREUT
 'little': HREUL
-'maiden,"': PHAEUD/EPB KW-BG KR-GS
+'maiden,"': PHAEUD/*EPB KW-BG KR-GS
 'said': SAEUD
 'the': -T
 'sick': SEUBG
@@ -2887,7 +2887,7 @@
 'good,': TKPWAOD KW-BG
 'pretty': PREUT
 'little': HREUL
-'maiden,"': PHAEUD/EPB KW-BG KR-GS
+'maiden,"': PHAEUD/*EPB KW-BG KR-GS
 'said': SAEUD
 'the': -T
 'swallow;': SWO*EUL STPH*FPLT
@@ -4053,7 +4053,7 @@
 'the': -T
 'prettiest': PRET/KWREFT
 'little': HREUL
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'he': E
 'had': H
 'ever': -FR

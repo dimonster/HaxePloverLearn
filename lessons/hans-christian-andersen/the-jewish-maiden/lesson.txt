@@ -376,7 +376,7 @@
 'lived': HREUFD
 'a': AEU
 'poor': PAOR
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'of': -F
 'the': -T
 'Jewish': SKWRAOURB
@@ -420,7 +420,7 @@
 'of': -F
 'the': -T
 'grown-up': TKPWR*UP
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'was': WA
 'still': STEUL
 'the': -T
@@ -1781,7 +1781,7 @@
 'of': -F
 'the': -T
 'Jewish': SKWRAOURB
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'beyond': KWROPBD
 'the': -T
 'wall.': WAUL TP-PL

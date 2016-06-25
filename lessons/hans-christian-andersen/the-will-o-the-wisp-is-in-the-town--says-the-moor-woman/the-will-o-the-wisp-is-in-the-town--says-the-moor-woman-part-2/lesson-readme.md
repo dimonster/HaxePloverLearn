@@ -48,7 +48,7 @@
 * itself, `T/SEF KW-BG`
 * as `AZ`
 * beautiful `PWAOUFL`
-* maiden, `PHAEUD/EPB KW-BG`
+* maiden, `PHAEUD/*EPB KW-BG`
 * with `W`
 * wreath `WRAO*ET`
 * of `-F`

@@ -71,7 +71,7 @@
 * stood `STAOD`
 * beautiful `PWAOUFL`
 * slender `SHRERPBD`
-* maiden. `PHAEUD/EPB TP-PL`
+* maiden. `PHAEUD/*EPB TP-PL`
 * was `WA`
 * him `HEUPL`
 * as `AZ`

@@ -77,7 +77,7 @@
 * So `SO`
 * shook `SHAOBG`
 * little `HREUL`
-* maiden `PHAEUD/EPB`
+* maiden `PHAEUD/*EPB`
 * went `WEPBT`
 * garden `TKPWA*RPB`
 * back `PWABG`

@@ -112,7 +112,7 @@
 'when': WHEPB
 'any': TPHEU
 'pretty': PREUT
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'came': KAEUPL
 'within': W-PB
 'that': THA
@@ -164,7 +164,7 @@
 'was': WA
 'once': WUPBS
 'a': AEU
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'whose': WHOZ
 'name': TPHAEUPL
 'was': WA
@@ -1113,7 +1113,7 @@
 'other': OER
 'lads,': HRADZ KW-BG
 'whose': WHOZ
-'maidens': PHAEUD/EPB/-S
+'maidens': PHAEUD/*EPB/-S
 'had': H
 'been': PW-PB
 'forced': TPOFRD

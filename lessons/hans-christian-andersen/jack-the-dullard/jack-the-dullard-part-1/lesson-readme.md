@@ -40,7 +40,7 @@
 * King's `KEUPBG AE S*/SP-S`
 * daughter; `TKAUR STPH*FPLT`
 * for `TPOR`
-* maiden `PHAEUD/EPB`
+* maiden `PHAEUD/*EPB`
 * question `KWE`
 * publicly `PUB/HREU`
 * announced `A/TPHOUPBS/-D`

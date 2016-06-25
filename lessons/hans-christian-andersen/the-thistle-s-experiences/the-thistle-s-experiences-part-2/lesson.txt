@@ -181,7 +181,7 @@ The Thistle's Experiences Part 2
 'of': -F
 'the': -T
 'Scottish': SKOT/EURB
-'maiden.': PHAEUD/EPB TP-PL
+'maiden.': PHAEUD/*EPB TP-PL
 'And': SKP
 'if': TP
 'the': -T

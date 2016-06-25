@@ -41,7 +41,7 @@
 * thought `THAUT`
 * her `HER`
 * prettiest `PRET/KWREFT`
-* maiden `PHAEUD/EPB`
+* maiden `PHAEUD/*EPB`
 * had `H`
 * ever `-FR`
 * seen. `SAOEPB TP-PL`

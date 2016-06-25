@@ -147,7 +147,7 @@ Lily and the Lion Part 11
 'how': HOU
 'a': AEU
 'poor': PAOR
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'had': H
 'come': KOPL
 'and': SKP

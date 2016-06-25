@@ -15,10 +15,10 @@ The Lion and the Statue
 'and': SKP
 'lions': HRAOEU/O*PBS
 'in': TPH
-'general.': KWREPBL TP-PL
+'general.': SKWREPBL TP-PL
 'The': -T
 'Man': PHAPB
-'contended': KOPB/TEPBD/-D
+'contended': KAUPB/TEPBD/-D
 'that': THA
 'he': E
 'and': SKP

@@ -18,7 +18,7 @@
 * Here `HAOER`
 * lies `HRAO*EUS`
 * a `AEU`
-* maiden `PHAEUD/EPB`
+* maiden `PHAEUD/*EPB`
 * of `-F`
 * another `TPHOER`
 * description. `SKREUPG TP-PL`

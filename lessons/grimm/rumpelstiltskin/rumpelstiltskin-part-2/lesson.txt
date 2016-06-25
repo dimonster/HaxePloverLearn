@@ -74,7 +74,7 @@ Rumpelstiltskin Part 2
 'necklace,'': TPHEBG/HRAS KW-BG AE
 'replied': RE/PHRAOEUD
 'the': -T
-'maiden.': PHAEUD/EPB TP-PL
+'maiden.': PHAEUD/*EPB TP-PL
 'He': E
 'took': TAOBG
 'her': HER

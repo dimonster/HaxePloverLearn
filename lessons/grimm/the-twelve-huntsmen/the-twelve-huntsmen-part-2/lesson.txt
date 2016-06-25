@@ -95,7 +95,7 @@ The Twelve Huntsmen Part 2
 'until': TPH-L
 'eleven': HREFPB
 'young': KWRUPBG
-'maidens': PHAEUD/EPB/-S
+'maidens': PHAEUD/*EPB/-S
 'were': WR
 'found': TPOUPBD
 'who': WHO
@@ -128,7 +128,7 @@ The Twelve Huntsmen Part 2
 'and': SKP
 'the': -T
 'eleven': HREFPB
-'maidens': PHAEUD/EPB/-S
+'maidens': PHAEUD/*EPB/-S
 'had': H
 'to': TO
 'put': PUT

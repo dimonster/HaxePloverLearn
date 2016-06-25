@@ -87,7 +87,7 @@ The Elfin Hill Part 8
 'men-servants': PHEPB H-PB SER/SRAPBTS
 'and': SKP
 'the': -T
-'maidens': PHAEUD/EPB/-S
+'maidens': PHAEUD/*EPB/-S
 'singing': SEUPBG/-G
 'songs,': SOPBGS KW-BG
 'and': SKP
@@ -105,7 +105,7 @@ The Elfin Hill Part 8
 'the': -T
 'old': OLD
 'elfin': XXX elfin
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'a': AEU
 'kiss,': KEUS KW-BG
 'such': SUFP

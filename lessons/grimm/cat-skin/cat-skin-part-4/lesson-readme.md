@@ -86,7 +86,7 @@
 * So `SO`
 * took `TAOBG`
 * up, `UP KW-BG`
-* maiden `PHAEUD/EPB`
+* maiden `PHAEUD/*EPB`
 * awoke `A/WOEBG`
 * greatly `TKPWRAELT`
 * frightened, `TPRAOEUPBD KW-BG`

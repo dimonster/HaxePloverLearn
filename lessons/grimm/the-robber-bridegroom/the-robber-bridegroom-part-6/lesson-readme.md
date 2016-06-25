@@ -107,7 +107,7 @@
 * 'Turn `AE TURPB`
 * back, `PWABG KW-BG`
 * young `KWRUPBG`
-* maiden `PHAEUD/EPB`
+* maiden `PHAEUD/*EPB`
 * fair, `TPAEUR KW-BG`
 * Linger `HREURPBG`
 * this `TH`

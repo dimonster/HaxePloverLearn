@@ -119,7 +119,7 @@ The Thorny Road of Honor Part 2
 'fame!': TPAEUPL SKHRAPL
 'Seven': SEFPB
 'cities': STEUS
-'contended': KOPB/TEPBD/-D
+'contended': KAUPB/TEPBD/-D
 'for': TPOR
 'the': -T
 'honor': HO*RPB
@@ -132,7 +132,7 @@ The Thorny Road of Honor Part 2
 'to': TO
 'say,': SAEU KW-BG
 'they': THE
-'contended': KOPB/TEPBD/-D
+'contended': KAUPB/TEPBD/-D
 'after': AF
 'his': HEUS
 'death!': TK*T SKHRAPL

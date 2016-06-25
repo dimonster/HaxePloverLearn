@@ -17,7 +17,7 @@
 * in `TPH`
 * face `TPAEUS`
 * grown-up `TKPWR*UP`
-* maiden `PHAEUD/EPB`
+* maiden `PHAEUD/*EPB`
 * still `STEUL`
 * same `SAEUPL`
 * as `AZ`

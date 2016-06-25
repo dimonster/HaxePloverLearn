@@ -25,7 +25,7 @@
 * fair `TPAEUR`
 * and `SKP`
 * delicate `TKEL/KAT`
-* maidens—Ida, `PHAEUD/EPB/-S EPL/TKA*RB XXX Ida KW-BG`
+* maidens—Ida, `PHAEUD/*EPB/-S EPL/TKA*RB XXX Ida KW-BG`
 * Joanna, `SKWROE/APB/KWRA KW-BG`
 * Anna `APB/TPHA`
 * Dorothea; `XXX Dorothea STPH*FPLT`

@@ -47,7 +47,7 @@
 * pea-blossom `PAE H-PB PWHROFPL`
 * full `TPUL`
 * bloom. `PHRAOPL TP-PL`
-* maiden `PHAEUD/EPB`
+* maiden `PHAEUD/*EPB`
 * bent `PWEPBT`
 * down `TKOUPB`
 * gently `SKWREPBT/HREU`

@@ -56,7 +56,7 @@ Sweetheart Roland Part 8
 'Then': THEPB
 'the': -T
 'faithful': TPA*EUT/-FL
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'held': HELD
 'her': HER
 'wedding': WEGD

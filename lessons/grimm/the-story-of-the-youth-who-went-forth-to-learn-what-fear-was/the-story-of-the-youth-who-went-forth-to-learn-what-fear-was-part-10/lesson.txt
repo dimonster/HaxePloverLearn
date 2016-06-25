@@ -14,7 +14,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was Part 10
 'the': -T
 'most': PHOFT
 'beautiful': PWAOUFL
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'the': -T
 'sun': SUPB
 'shone': SHO*EPB

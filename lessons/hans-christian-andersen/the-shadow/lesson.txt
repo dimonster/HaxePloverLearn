@@ -694,7 +694,7 @@
 'a': AEU
 'beautiful': PWAOUFL
 'slender': SHRERPBD
-'maiden.': PHAEUD/EPB TP-PL
+'maiden.': PHAEUD/*EPB TP-PL
 'It': T
 'was': WA
 'to': TO
@@ -2257,7 +2257,7 @@
 'too': TAO
 'near': TPHAOER
 'the': -T
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'myself,': PHAO*EUS KW-BG
 'but': PWUT
 'I': EU

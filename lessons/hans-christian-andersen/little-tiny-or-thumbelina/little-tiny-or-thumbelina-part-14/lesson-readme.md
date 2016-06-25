@@ -28,7 +28,7 @@
 * you, `U KW-BG`
 * pretty `PREUT`
 * little `HREUL`
-* maiden," `PHAEUD/EPB KW-BG KR-GS`
+* maiden," `PHAEUD/*EPB KW-BG KR-GS`
 * said `SAEUD`
 * the `-T`
 * sick `SEUBG`

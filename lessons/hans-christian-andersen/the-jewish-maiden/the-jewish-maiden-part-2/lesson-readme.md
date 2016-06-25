@@ -125,7 +125,7 @@
 * household, `HOUS/HOLD KW-BG`
 * lived `HREUFD`
 * poor `PAOR`
-* maiden `PHAEUD/EPB`
+* maiden `PHAEUD/*EPB`
 * faith, `PHA*EUT KW-BG`
 * servant. `SEFB/APBT TP-PL`
 * hair `HAEUR`

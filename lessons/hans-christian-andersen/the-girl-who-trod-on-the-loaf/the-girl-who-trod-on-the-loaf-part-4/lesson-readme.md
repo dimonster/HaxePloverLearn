@@ -1,6 +1,6 @@
 # The Girl Who Trod On The Loaf Part 4
 
-* maidens, `PHAEUD/EPB/-S KW-BG`
+* maidens, `PHAEUD/*EPB/-S KW-BG`
 * who `WHO`
 * are `R`
 * well-known, `WEL H-PB TPHOEPB KW-BG`

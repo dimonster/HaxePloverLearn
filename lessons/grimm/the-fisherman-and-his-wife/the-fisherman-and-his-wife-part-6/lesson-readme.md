@@ -42,7 +42,7 @@
 * stood `STAOD`
 * six `SEUBGS`
 * fair `TPAEUR`
-* maidens, `PHAEUD/EPB/-S KW-BG`
+* maidens, `PHAEUD/*EPB/-S KW-BG`
 * head `HED`
 * taller `TAURL`
 * than `THAPB`

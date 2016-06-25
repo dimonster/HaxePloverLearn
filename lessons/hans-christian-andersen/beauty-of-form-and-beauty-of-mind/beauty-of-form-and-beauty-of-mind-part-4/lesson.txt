@@ -27,7 +27,7 @@ Beauty of Form and Beauty of Mind Part 4
 'eyes': AO*EUS
 'of': -F
 'a': AEU
-'maiden;': PHAEUD/EPB STPH*FPLT
+'maiden;': PHAEUD/*EPB STPH*FPLT
 'and': SKP
 'he': E
 'said': SAEUD

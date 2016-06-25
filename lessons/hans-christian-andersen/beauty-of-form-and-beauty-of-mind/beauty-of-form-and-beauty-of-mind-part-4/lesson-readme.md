@@ -22,7 +22,7 @@
 * deep-blue `TKAOEP H-PB PWHRU`
 * eyes `AO*EUS`
 * a `AEU`
-* maiden; `PHAEUD/EPB STPH*FPLT`
+* maiden; `PHAEUD/*EPB STPH*FPLT`
 * he `E`
 * said `SAEUD`
 * this `TH`

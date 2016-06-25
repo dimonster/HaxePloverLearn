@@ -64,7 +64,7 @@
 * saw-mills `SAU H-PB PHEULS`
 * going, `TKPW-G KW-BG`
 * men-servants `PHEPB H-PB SER/SRAPBTS`
-* maidens `PHAEUD/EPB/-S`
+* maidens `PHAEUD/*EPB/-S`
 * singing `SEUPBG/-G`
 * songs, `SOPBGS KW-BG`
 * dancing `TKAPBS/-G`
@@ -78,7 +78,7 @@
 * goblin `TKPWOB/HREUPB`
 * gave `TKPWAEUF`
 * elfin `XXX elfin`
-* maiden `PHAEUD/EPB`
+* maiden `PHAEUD/*EPB`
 * kiss, `KEUS KW-BG`
 * such `SUFP`
 * tremendous `TREPLD`

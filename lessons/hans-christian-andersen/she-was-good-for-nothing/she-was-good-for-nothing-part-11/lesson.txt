@@ -16,7 +16,7 @@ She Was Good for Nothing Part 11
 'then,': THEPB KW-BG
 'marry': PHAER
 'a': AEU
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'who': WHO
 'honors': HO*RPBS
 'and': SKP

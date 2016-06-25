@@ -77,7 +77,7 @@
 * young `KWRUPBG`
 * laboring `HRAEUB/-G`
 * men `PHEPB`
-* maidens `PHAEUD/EPB/-S`
+* maidens `PHAEUD/*EPB/-S`
 * standing `STAPBG`
 * together `TOGT`
 * chatting, `KHAGT KW-BG`

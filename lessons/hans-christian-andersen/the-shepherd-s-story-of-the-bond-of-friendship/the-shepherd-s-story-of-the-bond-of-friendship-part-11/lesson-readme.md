@@ -125,7 +125,7 @@
 * gradually `TKPWRAD/WAEL`
 * become `PW-BG`
 * beautiful `PWAOUFL`
-* maiden, `PHAEUD/EPB KW-BG`
+* maiden, `PHAEUD/*EPB KW-BG`
 * now `TPHOU`
 * stout, `STOUT KW-BG`
 * strong `STROPBG`

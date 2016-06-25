@@ -122,7 +122,7 @@
 * sat `SAT`
 * delicate `TKEL/KAT`
 * graceful `TKPWRAEUS/-FL`
-* maiden. `PHAEUD/EPB TP-PL`
+* maiden. `PHAEUD/*EPB TP-PL`
 * scarcely `SKAEURS/HREU`
 * half `HAF`
 * long `HROPBG`

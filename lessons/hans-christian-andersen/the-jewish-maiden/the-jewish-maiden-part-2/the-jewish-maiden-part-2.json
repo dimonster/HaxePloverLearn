@@ -177,7 +177,7 @@
 "HREUFD": "lived",
 "AEU": "a",
 "PAOR": "poor",
-"PHAEUD/EPB": "maiden",
+"PHAEUD/*EPB": "maiden",
 "-F": "of",
 "-T": "the",
 "SKWRAOURB": "Jewish",

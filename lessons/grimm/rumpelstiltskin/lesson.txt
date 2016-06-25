@@ -161,7 +161,7 @@
 'that': THA
 'the': -T
 'poor': PAOR
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'said': SAEUD
 'that': THA
 'it': T
@@ -272,7 +272,7 @@
 'necklace,'': TPHEBG/HRAS KW-BG AE
 'replied': RE/PHRAOEUD
 'the': -T
-'maiden.': PHAEUD/EPB TP-PL
+'maiden.': PHAEUD/*EPB TP-PL
 'He': E
 'took': TAOBG
 'her': HER

@@ -31,7 +31,7 @@
 * to `TO`
 * those `THOZ`
 * domestic `PHEFBG`
-* maidens `PHAEUD/EPB/-S`
+* maidens `PHAEUD/*EPB/-S`
 * who `WHO`
 * have `SR`
 * pretty `PREUT`
@@ -51,7 +51,7 @@
 * when, `WHEPB KW-BG`
 * close `KHROES`
 * by `PWEU`
-* maiden, `PHAEUD/EPB KW-BG`
+* maiden, `PHAEUD/*EPB KW-BG`
 * saw `SAU`
 * pod, `POD KW-BG`
 * withered `WEU/THER/-D`

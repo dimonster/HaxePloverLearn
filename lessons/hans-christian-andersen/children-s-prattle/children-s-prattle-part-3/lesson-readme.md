@@ -31,7 +31,7 @@
 * with `W`
 * paper." `PAEUP TP-PL KR-GS`
 * little `HREUL`
-* maiden `PHAEUD/EPB`
+* maiden `PHAEUD/*EPB`
 * looked `HRAOBGD`
 * exceedingly `EBGS/AOED/TKPWHREU`
 * proud, `PROUD KW-BG`

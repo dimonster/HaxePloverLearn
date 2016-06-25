@@ -135,7 +135,7 @@ The Beetle Who Went on His Travels Part 8
 'and': SKP
 'the': -T
 'beetle': PWAO*ELT
-'maidens': PHAEUD/EPB/-S
+'maidens': PHAEUD/*EPB/-S
 'tittered': XXX tittered
 'again,': TKPWEPB KW-BG
 'this': TH

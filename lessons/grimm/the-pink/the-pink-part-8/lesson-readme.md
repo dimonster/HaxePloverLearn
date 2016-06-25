@@ -79,7 +79,7 @@
 * 'Father, `AE TPAER KW-BG`
 * will `HR`
 * you `U`
-* maiden `PHAEUD/EPB`
+* maiden `PHAEUD/*EPB`
 * who `WHO`
 * brought `PWRAUT`
 * me `PHE`

@@ -440,7 +440,7 @@
 'And': SKP
 'the': -T
 'little': HREUL
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'looked': HRAOBGD
 'exceedingly': EBGS/AOED/TKPWHREU
 'proud,': PROUD KW-BG

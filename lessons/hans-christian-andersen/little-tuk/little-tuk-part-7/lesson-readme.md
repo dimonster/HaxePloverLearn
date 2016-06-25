@@ -90,7 +90,7 @@
 * hair, `HAEUR KW-BG`
 * grown `TKPWROEPB`
 * up `UP`
-* maiden `PHAEUD/EPB`
+* maiden `PHAEUD/*EPB`
 * all `AUL`
 * once, `WUPBS KW-BG`
 * without `WOUT`

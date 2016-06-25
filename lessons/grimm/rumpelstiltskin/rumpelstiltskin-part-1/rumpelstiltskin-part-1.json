@@ -162,7 +162,7 @@
 "THA": "that",
 "-T": "the",
 "PAOR": "poor",
-"PHAEUD/EPB": "maiden",
+"PHAEUD/*EPB": "maiden",
 "SAEUD": "said",
 "THA": "that",
 "T": "it",

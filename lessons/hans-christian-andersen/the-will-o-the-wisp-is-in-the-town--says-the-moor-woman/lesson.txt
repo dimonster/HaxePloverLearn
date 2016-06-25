@@ -261,7 +261,7 @@
 'as': AZ
 'a': AEU
 'beautiful': PWAOUFL
-'maiden,': PHAEUD/EPB KW-BG
+'maiden,': PHAEUD/*EPB KW-BG
 'with': W
 'a': AEU
 'wreath': WRAO*ET
@@ -2299,7 +2299,7 @@
 'quite': KWAOEUT
 'a': AEU
 'pretty': PREUT
-'elf-maiden,': *EFL H-PB PHAEUD/EPB KW-BG
+'elf-maiden,': *EFL H-PB PHAEUD/*EPB KW-BG
 'and': SKP
 'have': SR
 'danced': TKAPBS/-D
@@ -2326,7 +2326,7 @@
 'and': SKP
 'met': PHET
 'the': -T
-'Story-maiden,': STOER H-PB PHAEUD/EPB KW-BG
+'Story-maiden,': STOER H-PB PHAEUD/*EPB KW-BG
 'who': WHO
 'was': WA
 'always': AULZ
@@ -3730,7 +3730,7 @@
 'shorter.': SHORT/*ER TP-PL
 'The': -T
 'little': HREUL
-'elf-maidens': *EFL H-PB PHAEUD/EPB/-S
+'elf-maidens': *EFL H-PB PHAEUD/*EPB/-S
 'whirled': WHEURL/-D
 'round': ROUPBD
 'three': THRAOE
@@ -3774,7 +3774,7 @@
 'Each': AOEFP
 'of': -F
 'the': -T
-'elf-maidens': *EFL H-PB PHAEUD/EPB/-S
+'elf-maidens': *EFL H-PB PHAEUD/*EPB/-S
 'gave': TKPWAEUF
 'a': AEU
 'little': HREUL

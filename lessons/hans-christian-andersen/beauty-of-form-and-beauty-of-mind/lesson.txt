@@ -625,7 +625,7 @@
 'eyes': AO*EUS
 'of': -F
 'a': AEU
-'maiden;': PHAEUD/EPB STPH*FPLT
+'maiden;': PHAEUD/*EPB STPH*FPLT
 'and': SKP
 'he': E
 'said': SAEUD

@@ -87,7 +87,7 @@
 * fame! `TPAEUPL SKHRAPL`
 * Seven `SEFPB`
 * cities `STEUS`
-* contended `KOPB/TEPBD/-D`
+* contended `KAUPB/TEPBD/-D`
 * for `TPOR`
 * honor `HO*RPB`
 * giving `TKPWEUFG`

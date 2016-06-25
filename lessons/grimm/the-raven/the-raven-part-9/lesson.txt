@@ -198,5 +198,5 @@ The Raven Part 9
 'saw': SAU
 'the': -T
 'enchanted': EPB/HAPBT/-D
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'drive': KRAOEUF

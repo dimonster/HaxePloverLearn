@@ -93,7 +93,7 @@ Little Tiny or Thumbelina Part 2
 'Here': HAOER
 'the': -T
 'little': HREUL
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'sat': SAT
 'and': SKP
 'rowed': ROE/-D

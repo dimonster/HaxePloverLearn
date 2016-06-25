@@ -114,7 +114,7 @@ Jorinda and Jorindel Part 1
 'when': WHEPB
 'any': TPHEU
 'pretty': PREUT
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'came': KAEUPL
 'within': W-PB
 'that': THA
@@ -166,7 +166,7 @@ Jorinda and Jorindel Part 1
 'was': WA
 'once': WUPBS
 'a': AEU
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'whose': WHOZ
 'name': TPHAEUPL
 'was': WA

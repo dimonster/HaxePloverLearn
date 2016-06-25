@@ -68,7 +68,7 @@
 * sitting `SAO*EGT`
 * as `AZ`
 * any `TPHEU`
-* maiden, `PHAEUD/EPB KW-BG`
+* maiden, `PHAEUD/*EPB KW-BG`
 * wishing `WEURBG`
 * only `OEPBL`
 * for `TPOR`

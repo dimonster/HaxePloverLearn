@@ -163,7 +163,7 @@ Rumpelstiltskin Part 1
 'that': THA
 'the': -T
 'poor': PAOR
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'said': SAEUD
 'that': THA
 'it': T

@@ -112,7 +112,7 @@ The Pink Part 3
 'and': SKP
 'took': TAOBG
 'the': -T
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'aside,': A/SAOEUD KW-BG
 'and': SKP
 'said:': SAEUD STPH-FPLT

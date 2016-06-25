@@ -102,7 +102,7 @@
 * their `THAEUR`
 * mother, `PHOER KW-BG`
 * and `SKP`
-* maidens `PHAEUD/EPB/-S`
+* maidens `PHAEUD/*EPB/-S`
 * tittered `XXX tittered`
 * again, `TKPWEPB KW-BG`
 * this `TH`

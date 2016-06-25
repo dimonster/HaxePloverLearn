@@ -79,7 +79,7 @@
 * great `TKPWRAET`
 * peril. `P*ERL TP-PL`
 * took `TAOBG`
-* maiden `PHAEUD/EPB`
+* maiden `PHAEUD/*EPB`
 * aside, `A/SAOEUD KW-BG`
 * said: `SAEUD STPH-FPLT`
 * 'Tonight `AE TOPBT`

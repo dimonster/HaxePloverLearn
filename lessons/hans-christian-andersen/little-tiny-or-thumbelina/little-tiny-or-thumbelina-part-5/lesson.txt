@@ -21,7 +21,7 @@ Little Tiny or Thumbelina Part 5
 'at': AT
 'the': -T
 'little': HREUL
-'maiden.': PHAEUD/EPB TP-PL
+'maiden.': PHAEUD/*EPB TP-PL
 'As': AZ
 'soon': SAOPB
 'as': AZ
@@ -78,7 +78,7 @@ Little Tiny or Thumbelina Part 5
 'which': WEU
 'the': -T
 'little': HREUL
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'stood,': STAOD KW-BG
 'and': SKP
 'gnawed': TPHA*U/-D

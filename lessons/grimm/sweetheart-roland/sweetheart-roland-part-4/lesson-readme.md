@@ -65,7 +65,7 @@
 * until `TPH-L`
 * daybreak. `TKAEU/PWRAEBG TP-PL`
 * Then `THEPB`
-* maiden `PHAEUD/EPB`
+* maiden `PHAEUD/*EPB`
 * changed `KHAEUPBGD`
 * beautiful `PWAOUFL`
 * flower `TPHRO*UR`

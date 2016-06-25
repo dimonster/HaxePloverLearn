@@ -57,7 +57,7 @@
 * how `HOU`
 * shines!" `SHAOEUPBS SKHRAPL KR-GS`
 * said `SAEUD`
-* maiden `PHAEUD/EPB`
+* maiden `PHAEUD/*EPB`
 * sparrow. `SPAEUR/ROE TP-PL`
 * "I `KR-GS EU`
 * suppose `SPOS`

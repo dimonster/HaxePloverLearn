@@ -195,7 +195,7 @@ The Elfin Hill Part 3
 'invitations.': EUPB/SREU/TAEUGS/-S TP-PL
 'The': -T
 'elfin': XXX elfin
-'maidens': PHAEUD/EPB/-S
+'maidens': PHAEUD/*EPB/-S
 'we're': WAOER
 'already': HR-R
 'dancing': TKAPBS/-G

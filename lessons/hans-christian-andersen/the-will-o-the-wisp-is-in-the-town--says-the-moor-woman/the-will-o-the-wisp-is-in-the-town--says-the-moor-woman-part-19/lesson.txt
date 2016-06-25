@@ -132,7 +132,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman Part 19
 'shorter.': SHORT/*ER TP-PL
 'The': -T
 'little': HREUL
-'elf-maidens': *EFL H-PB PHAEUD/EPB/-S
+'elf-maidens': *EFL H-PB PHAEUD/*EPB/-S
 'whirled': WHEURL/-D
 'round': ROUPBD
 'three': THRAOE
@@ -176,7 +176,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman Part 19
 'Each': AOEFP
 'of': -F
 'the': -T
-'elf-maidens': *EFL H-PB PHAEUD/EPB/-S
+'elf-maidens': *EFL H-PB PHAEUD/*EPB/-S
 'gave': TKPWAEUF
 'a': AEU
 'little': HREUL

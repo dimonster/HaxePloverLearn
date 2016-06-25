@@ -5,7 +5,7 @@ Two Maidens Part 2
 'be': -B
 'miscalled': PHEUS/KAULD
 '"rammers.': KR-GS XXX rammers TP-PL
-'"Maiden': KR-GS PHAEUD/EPB
+'"Maiden': KR-GS PHAEUD/*EPB
 'is': S
 'a': AEU
 'human': HAOUPL
@@ -68,7 +68,7 @@ Two Maidens Part 2
 'scale': SKAEL
 'what': WHA
 'ten': TEPB
-'maidens': PHAEUD/EPB/-S
+'maidens': PHAEUD/*EPB/-S
 'effect': TPEBT
 'in': TPH
 'a': AEU
@@ -81,7 +81,7 @@ Two Maidens Part 2
 'me': PHE
 'as': AZ
 'a': AEU
-'maiden,': PHAEUD/EPB KW-BG
+'maiden,': PHAEUD/*EPB KW-BG
 'but': PWUT
 'whether': WHR
 'he': E
@@ -161,7 +161,7 @@ Two Maidens Part 2
 '"that': KR-GS THA
 'the': -T
 'name': TPHAEUPL
-''maiden'': AE PHAEUD/EPB AE
+''maiden'': AE PHAEUD/*EPB AE
 'is': S
 'common': KPHOPB
 'enough,': TPHUF KW-BG

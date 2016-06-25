@@ -64,7 +64,7 @@
 * me `PHE`
 * daughter `TKAUR`
 * wife.' `WAOEUF TP-PL AE`
-* maiden `PHAEUD/EPB`
+* maiden `PHAEUD/*EPB`
 * laughed, `HRAFD KW-BG`
 * said: `SAEUD STPH-FPLT`
 * 'He `AE E`

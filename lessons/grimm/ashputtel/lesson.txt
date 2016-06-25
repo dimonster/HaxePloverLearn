@@ -678,7 +678,7 @@
 'but': PWUT
 'the': -T
 'little': HREUL
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'ran': RAPB
 'out': OUT
 'at': AT
@@ -921,7 +921,7 @@
 'But': PWUT
 'the': -T
 'little': HREUL
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'went': WEPBT
 'out': OUT
 'into': TPHAO
@@ -1312,7 +1312,7 @@
 'where': W-R
 'the': -T
 'beautiful': PWAOUFL
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'lived.': HREUFD TP-PL
 'But': PWUT
 'she': SHE
@@ -1356,7 +1356,7 @@
 'that': THA
 'the': -T
 'unknown': UPB/TPHOEPB
-'maiden,': PHAEUD/EPB KW-BG
+'maiden,': PHAEUD/*EPB KW-BG
 'who': WHO
 'had': H
 'been': PW-PB

@@ -1058,7 +1058,7 @@
 'bloom.': PHRAOPL TP-PL
 'The': -T
 'little': HREUL
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'bent': PWEPBT
 'down': TKOUPB
 'and': SKP
@@ -1267,7 +1267,7 @@
 'But': PWUT
 'the': -T
 'young': KWRUPBG
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'stood': STAOD
 'at': AT
 'the': -T

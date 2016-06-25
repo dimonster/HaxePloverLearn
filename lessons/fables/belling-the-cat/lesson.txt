@@ -6,7 +6,7 @@ Belling the Cat
 'mice': PHAOEUS
 'had': H
 'a': AEU
-'general': KWREPBL
+'general': SKWREPBL
 'council': KUPB/SEUL
 'to': TO
 'consider': KR
@@ -138,7 +138,7 @@ Belling the Cat
 'proposal': PROEL
 'met': PHET
 'with': W
-'general': KWREPBL
+'general': SKWREPBL
 'applause,': A/PHRAUS KW-BG
 'until': TPH-L
 'an': APB

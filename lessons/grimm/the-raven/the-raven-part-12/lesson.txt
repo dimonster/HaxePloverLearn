@@ -63,7 +63,7 @@ The Raven Part 12
 'room': RAOPL
 'where': W-R
 'the': -T
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'was': WA
 'sitting,': SAO*EGT KW-BG
 'with': W

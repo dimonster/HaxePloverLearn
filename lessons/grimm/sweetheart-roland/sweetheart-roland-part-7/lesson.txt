@@ -149,7 +149,7 @@ Sweetheart Roland Part 7
 'When': WHEPB
 'the': -T
 'faithful': TPA*EUT/-FL
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'heard': HERD
 'of': -F
 'this,': TH KW-BG

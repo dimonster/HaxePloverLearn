@@ -123,5 +123,5 @@
 * foot `TPAOT`
 * saw `SAU`
 * enchanted `EPB/HAPBT/-D`
-* maiden `PHAEUD/EPB`
+* maiden `PHAEUD/*EPB`
 * drive `KRAOEUF`

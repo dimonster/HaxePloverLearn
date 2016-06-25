@@ -122,7 +122,7 @@
 * fair `TPAEUR`
 * hand `HAPBD`
 * Scottish `SKOT/EURB`
-* maiden. `PHAEUD/EPB TP-PL`
+* maiden. `PHAEUD/*EPB TP-PL`
 * honored, `HOPB/ORD KW-BG`
 * what `WHA`
 * were `WR`

@@ -153,7 +153,7 @@
 "-T": "the",
 "TPAEUR": "fair",
 "SKOT/EURB": "Scottish",
-"PHAEUD/EPB": "maiden",
+"PHAEUD/*EPB": "maiden",
 "H": "had",
 "HR-S": "also",
 "TPHOU": "now",

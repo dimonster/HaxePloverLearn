@@ -74,7 +74,7 @@
 * quite `KWAOEUT`
 * a `AEU`
 * pretty `PREUT`
-* elf-maiden, `*EFL H-PB PHAEUD/EPB KW-BG`
+* elf-maiden, `*EFL H-PB PHAEUD/*EPB KW-BG`
 * have `SR`
 * danced `TKAPBS/-D`
 * in `TPH`
@@ -89,7 +89,7 @@
 * into `TPHAO`
 * forest `TPOEFRT`
 * met `PHET`
-* Story-maiden, `STOER H-PB PHAEUD/EPB KW-BG`
+* Story-maiden, `STOER H-PB PHAEUD/*EPB KW-BG`
 * who `WHO`
 * always `AULZ`
 * to `TO`

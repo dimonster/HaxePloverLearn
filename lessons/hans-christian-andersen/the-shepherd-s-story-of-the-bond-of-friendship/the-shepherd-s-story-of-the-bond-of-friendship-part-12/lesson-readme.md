@@ -117,7 +117,7 @@
 * most `PHOFT`
 * beautiful `PWAOUFL`
 * innocent `TPH-PBT`
-* maidens, `PHAEUD/EPB/-S KW-BG`
+* maidens, `PHAEUD/*EPB/-S KW-BG`
 * she `SHE`
 * shall `SHAL`
 * consecrate `KOPBS/KRAEUT`

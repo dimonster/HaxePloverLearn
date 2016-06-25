@@ -103,7 +103,7 @@
 * hand `HAPBD`
 * fair `TPAEUR`
 * Scottish `SKOT/EURB`
-* maiden `PHAEUD/EPB`
+* maiden `PHAEUD/*EPB`
 * also `HR-S`
 * heart `HART`
 * lady `HRA*ED`

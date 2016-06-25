@@ -53,7 +53,7 @@
 * opinion. `P-PB TP-PL`
 * But `PWUT`
 * young `KWRUPBG`
-* maiden `PHAEUD/EPB`
+* maiden `PHAEUD/*EPB`
 * stood `STAOD`
 * open `OEP`
 * garret `TKPWAEUR/RET`

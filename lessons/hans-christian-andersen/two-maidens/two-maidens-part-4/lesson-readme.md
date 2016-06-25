@@ -6,7 +6,7 @@
 * called `KAULD`
 * each `AOEFP`
 * other `OER`
-* "maiden," `KR-GS PHAEUD/EPB KW-BG KR-GS`
+* "maiden," `KR-GS PHAEUD/*EPB KW-BG KR-GS`
 * And `SKP`
 * praised `PRA*EUFD`
 * the `-T`
@@ -25,8 +25,8 @@
 * those `THOZ`
 * who `WHO`
 * were `WR`
-* maidens `PHAEUD/EPB/-S`
-* maidens. `PHAEUD/EPB/-S TP-PL`
+* maidens `PHAEUD/*EPB/-S`
+* maidens. `PHAEUD/*EPB/-S TP-PL`
 * remained `RE/PHAEUPBD`
 * as `AZ`
 * were; `WR STPH*FPLT`
@@ -48,5 +48,5 @@
 * must `PHUFT`
 * have `SR`
 * a `AEU`
-* maiden `PHAEUD/EPB`
+* maiden `PHAEUD/*EPB`
 * bride. `PWRAOEUD TP-PL`

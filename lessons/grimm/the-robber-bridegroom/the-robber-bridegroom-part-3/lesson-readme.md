@@ -1,7 +1,7 @@
 # The Robber Bridegroom Part 3
 
 * young `KWRUPBG`
-* maiden `PHAEUD/EPB`
+* maiden `PHAEUD/*EPB`
 * fair, `TPAEUR KW-BG`
 * Linger `HREURPBG`
 * not `TPHOT`

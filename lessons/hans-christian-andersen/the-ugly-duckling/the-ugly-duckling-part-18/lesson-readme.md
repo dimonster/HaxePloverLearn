@@ -13,7 +13,7 @@
 * hens, `HEPB/-S KW-BG`
 * pushed `PURBD`
 * about `PW`
-* maiden `PHAEUD/EPB`
+* maiden `PHAEUD/*EPB`
 * who `WHO`
 * feeds `TPAOEDZ`
 * poultry, `POL/TREU KW-BG`

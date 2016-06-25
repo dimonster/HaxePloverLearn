@@ -56,7 +56,7 @@
 * never `TPHEF`
 * forgotten, `TPORGTD KW-BG`
 * let `HRET`
-* maiden `PHAEUD/EPB`
+* maiden `PHAEUD/*EPB`
 * as `AZ`
 * may. `PHAE TP-PL`
 * But `PWUT`

@@ -60,7 +60,7 @@
 * heap `HAOEP`
 * set `SET`
 * fire. `TPAOEUR TP-PL`
-* maidens `PHAEUD/EPB/-S`
+* maidens `PHAEUD/*EPB/-S`
 * danced, `TKAPBS/-D KW-BG`
 * sung `SUPBG`
 * circle `KOEURBG`
@@ -104,7 +104,7 @@
 * lamb `HRAPL`
 * from `TPR`
 * among `PHOPBG`
-* maidens. `PHAEUD/EPB/-S TP-PL`
+* maidens. `PHAEUD/*EPB/-S TP-PL`
 * There `THR`
 * greater `TKPWRAERT`
 * mirth `PH*EURT`

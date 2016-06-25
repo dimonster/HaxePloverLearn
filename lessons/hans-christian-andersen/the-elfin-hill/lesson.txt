@@ -273,7 +273,7 @@
 'an': APB
 'old': OLD
 'elfin': XXX elfin
-'maiden,': PHAEUD/EPB KW-BG
+'maiden,': PHAEUD/*EPB KW-BG
 'hollow': HOL/OE
 'behind,': HEUPBD KW-BG
 'came': KAEUPL
@@ -593,7 +593,7 @@
 'invitations.': EUPB/SREU/TAEUGS/-S TP-PL
 'The': -T
 'elfin': XXX elfin
-'maidens': PHAEUD/EPB/-S
+'maidens': PHAEUD/*EPB/-S
 'we're': WAOER
 'already': HR-R
 'dancing': TKAPBS/-G
@@ -1485,7 +1485,7 @@
 'men-servants': PHEPB H-PB SER/SRAPBTS
 'and': SKP
 'the': -T
-'maidens': PHAEUD/EPB/-S
+'maidens': PHAEUD/*EPB/-S
 'singing': SEUPBG/-G
 'songs,': SOPBGS KW-BG
 'and': SKP
@@ -1503,7 +1503,7 @@
 'the': -T
 'old': OLD
 'elfin': XXX elfin
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'a': AEU
 'kiss,': KEUS KW-BG
 'such': SUFP
@@ -2427,7 +2427,7 @@
 'the': -T
 'old': OLD
 'elfin': XXX elfin
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'who': WHO
 'acted': ABGD
 'as': AZ

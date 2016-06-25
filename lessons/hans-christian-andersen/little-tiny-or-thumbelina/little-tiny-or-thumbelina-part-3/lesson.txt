@@ -39,7 +39,7 @@ Little Tiny or Thumbelina Part 3
 'the': -T
 'pretty': PREUT
 'little': HREUL
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'in': TPH
 'her': HER
 'elegant': EL/TKPWAPBT

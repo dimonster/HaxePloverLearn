@@ -154,7 +154,7 @@ The Thistle's Experiences Part 3
 'the': -T
 'fair': TPAEUR
 'Scottish': SKOT/EURB
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'had': H
 'also': HR-S
 'now': TPHOU

@@ -159,7 +159,7 @@ The Story of the Year Part 7
 'green.': TKPWRAOEPB TP-PL
 'The': -T
 'little': HREUL
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'strewed': STRAOU/-D
 'flowers': TPHRO*URS
 'in': TPH

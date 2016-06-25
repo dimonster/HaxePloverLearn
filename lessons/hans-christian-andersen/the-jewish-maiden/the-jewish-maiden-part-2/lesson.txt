@@ -178,7 +178,7 @@ The Jewish Maiden Part 2
 'lived': HREUFD
 'a': AEU
 'poor': PAOR
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'of': -F
 'the': -T
 'Jewish': SKWRAOURB

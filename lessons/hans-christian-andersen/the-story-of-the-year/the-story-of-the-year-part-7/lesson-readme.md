@@ -115,7 +115,7 @@
 * lovely `HROFL`
 * delicate `TKEL/KAT`
 * green. `TKPWRAOEPB TP-PL`
-* maiden `PHAEUD/EPB`
+* maiden `PHAEUD/*EPB`
 * strewed `STRAOU/-D`
 * her `HER`
 * path. `PA*T TP-PL`

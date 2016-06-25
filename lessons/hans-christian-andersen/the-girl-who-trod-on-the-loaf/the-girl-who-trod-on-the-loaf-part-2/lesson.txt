@@ -108,7 +108,7 @@ The Girl Who Trod on the Loaf Part 2
 'laboring': HRAEUB/-G
 'men': PHEPB
 'and': SKP
-'maidens': PHAEUD/EPB/-S
+'maidens': PHAEUD/*EPB/-S
 'standing': STAPBG
 'together': TOGT
 'chatting,': KHAGT KW-BG

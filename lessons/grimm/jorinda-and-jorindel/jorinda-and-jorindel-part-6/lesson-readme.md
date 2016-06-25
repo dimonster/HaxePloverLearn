@@ -77,7 +77,7 @@
 * good `TKPWAOD`
 * lads, `HRADZ KW-BG`
 * whose `WHOZ`
-* maidens `PHAEUD/EPB/-S`
+* maidens `PHAEUD/*EPB/-S`
 * been `PW-PB`
 * forced `TPOFRD`
 * sing `SEUPBG`

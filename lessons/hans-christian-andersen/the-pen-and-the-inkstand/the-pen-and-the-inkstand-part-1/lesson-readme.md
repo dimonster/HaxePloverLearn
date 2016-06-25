@@ -114,7 +114,7 @@
 * descriptions `SKREUFPGS`
 * troops `TRAOPS`
 * charming `KHARPL/-G`
-* maidens, `PHAEUD/EPB/-S KW-BG`
+* maidens, `PHAEUD/*EPB/-S KW-BG`
 * brave `PWRAEUF`
 * knights `TPHAO*EUT/-S`
 * prancing `PRAPBS/-G`

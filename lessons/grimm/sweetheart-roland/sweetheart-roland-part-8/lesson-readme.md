@@ -47,7 +47,7 @@
 * heart. `HART TP-PL`
 * Then `THEPB`
 * faithful `TPA*EUT/-FL`
-* maiden `PHAEUD/EPB`
+* maiden `PHAEUD/*EPB`
 * held `HELD`
 * wedding `WEGD`
 * with `W`

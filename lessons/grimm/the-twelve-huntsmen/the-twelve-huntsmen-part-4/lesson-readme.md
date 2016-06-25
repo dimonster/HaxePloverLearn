@@ -14,7 +14,7 @@
 * said `SAEUD`
 * to `TO`
 * her `HER`
-* maidens: `PHAEUD/EPB/-S STPH-FPLT`
+* maidens: `PHAEUD/*EPB/-S STPH-FPLT`
 * 'Show `AE SHOE`
 * some `SOPL`
 * strength, `STREPG KW-BG`

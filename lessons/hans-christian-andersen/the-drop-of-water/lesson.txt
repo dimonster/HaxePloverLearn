@@ -505,7 +505,7 @@
 'as': AZ
 'any': TPHEU
 'little': HREUL
-'maiden,': PHAEUD/EPB KW-BG
+'maiden,': PHAEUD/*EPB KW-BG
 'and': SKP
 'wishing': WEURBG
 'only': OEPBL

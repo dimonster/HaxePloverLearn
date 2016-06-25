@@ -9,7 +9,7 @@
 * said `SAEUD`
 * the `-T`
 * little `HREUL`
-* maiden; `PHAEUD/EPB STPH*FPLT`
+* maiden; `PHAEUD/*EPB STPH*FPLT`
 * "but `KR-GS PWUT`
 * I `EU`
 * think `THEU`

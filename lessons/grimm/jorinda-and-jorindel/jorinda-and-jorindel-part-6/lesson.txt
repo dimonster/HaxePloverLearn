@@ -115,7 +115,7 @@ Jorinda and Jorindel Part 6
 'other': OER
 'lads,': HRADZ KW-BG
 'whose': WHOZ
-'maidens': PHAEUD/EPB/-S
+'maidens': PHAEUD/*EPB/-S
 'had': H
 'been': PW-PB
 'forced': TPOFRD

@@ -97,7 +97,7 @@
 * fascinated `TPAS/TPHAEUTD`
 * him `HEUPL`
 * forgot `TPAURGT`
-* maiden. `PHAEUD/EPB TP-PL`
+* maiden. `PHAEUD/*EPB TP-PL`
 * poor `PAOR`
 * remained `RE/PHAEUPBD`
 * there `THR`

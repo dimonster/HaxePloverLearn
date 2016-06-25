@@ -56,7 +56,7 @@ The Fox Without a Tail
 'foxes': TPOBGS/-S
 'to': TO
 'a': AEU
-'general': KWREPBL
+'general': SKWREPBL
 'meeting': PHAOEGT
 'to': TO
 'consider': KR

@@ -341,7 +341,7 @@
 'pursues': PUR/SAOUS
 'us.'': US TP-PL AE
 'The': -T
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'fetched': TPEFP/-D
 'the': -T
 'magic': PHA/SKWREUBG
@@ -694,7 +694,7 @@
 'daybreak.': TKAEU/PWRAEBG TP-PL
 'Then': THEPB
 'the': -T
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'changed': KHAEUPBGD
 'herself': H*ERS
 'into': TPHAO
@@ -940,7 +940,7 @@
 'he': E
 'forgot': TPAURGT
 'the': -T
-'maiden.': PHAEUD/EPB TP-PL
+'maiden.': PHAEUD/*EPB TP-PL
 'The': -T
 'poor': PAOR
 'girl': TKPWEURL
@@ -1347,7 +1347,7 @@
 'When': WHEPB
 'the': -T
 'faithful': TPA*EUT/-FL
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'heard': HERD
 'of': -F
 'this,': TH KW-BG
@@ -1454,7 +1454,7 @@
 'Then': THEPB
 'the': -T
 'faithful': TPA*EUT/-FL
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'held': HELD
 'her': HER
 'wedding': WEGD

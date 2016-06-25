@@ -26,7 +26,7 @@
 * any `TPHEU`
 * men `PHEPB`
 * or `OR`
-* maidens `PHAEUD/EPB/-S`
+* maidens `PHAEUD/*EPB/-S`
 * who `WHO`
 * paused `PAUS/-D`
 * in `TPH`

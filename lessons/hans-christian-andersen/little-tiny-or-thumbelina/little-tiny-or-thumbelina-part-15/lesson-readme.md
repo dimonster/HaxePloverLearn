@@ -64,7 +64,7 @@
 * good, `TKPWAOD KW-BG`
 * pretty `PREUT`
 * little `HREUL`
-* maiden," `PHAEUD/EPB KW-BG KR-GS`
+* maiden," `PHAEUD/*EPB KW-BG KR-GS`
 * said `SAEUD`
 * swallow; `SWO*EUL STPH*FPLT`
 * flew `TPHRAOU`

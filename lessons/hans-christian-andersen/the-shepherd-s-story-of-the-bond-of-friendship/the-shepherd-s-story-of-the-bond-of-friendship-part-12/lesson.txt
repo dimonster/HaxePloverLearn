@@ -184,7 +184,7 @@ The Shepherd's Story of the Bond of Friendship Part 12
 'most': PHOFT
 'innocent': TPH-PBT
 'of': -F
-'maidens,': PHAEUD/EPB/-S KW-BG
+'maidens,': PHAEUD/*EPB/-S KW-BG
 'and': SKP
 'she': SHE
 'shall': SHAL

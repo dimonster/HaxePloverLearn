@@ -7,7 +7,7 @@
 * said `SAEUD`
 * to `TO`
 * the `-T`
-* maiden: `PHAEUD/EPB STPH-FPLT`
+* maiden: `PHAEUD/*EPB STPH-FPLT`
 * 'I `AE EU`
 * will `HR`
 * go `TKPW`

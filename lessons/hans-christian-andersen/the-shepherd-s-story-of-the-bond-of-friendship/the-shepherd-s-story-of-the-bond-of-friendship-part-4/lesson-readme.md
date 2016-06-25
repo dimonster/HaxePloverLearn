@@ -43,7 +43,7 @@
 * most `PHOFT`
 * beautiful `PWAOUFL`
 * virtuous `SREURT/WOUS`
-* maiden `PHAEUD/EPB`
+* maiden `PHAEUD/*EPB`
 * neighborhood `TPHAOD`
 * chosen `KHOEFPB`
 * perform `PORPL`

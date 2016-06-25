@@ -866,7 +866,7 @@
 'kissed': K*EUFD
 'me."': PHE TP-PL KR-GS
 '"Little': KR-GS HREUL
-'maiden,"': PHAEUD/EPB KW-BG KR-GS
+'maiden,"': PHAEUD/*EPB KW-BG KR-GS
 'said': SAEUD
 'the': -T
 'lord-in-waiting,': HRORD H-PB TPH H-PB WAEUGT KW-BG
@@ -1007,7 +1007,7 @@
 'said': SAEUD
 'the': -T
 'little': HREUL
-'maiden;': PHAEUD/EPB STPH*FPLT
+'maiden;': PHAEUD/*EPB STPH*FPLT
 '"but': KR-GS PWUT
 'I': EU
 'think': THEU

@@ -293,7 +293,7 @@
 'until': TPH-L
 'eleven': HREFPB
 'young': KWRUPBG
-'maidens': PHAEUD/EPB/-S
+'maidens': PHAEUD/*EPB/-S
 'were': WR
 'found': TPOUPBD
 'who': WHO
@@ -326,7 +326,7 @@
 'and': SKP
 'the': -T
 'eleven': HREFPB
-'maidens': PHAEUD/EPB/-S
+'maidens': PHAEUD/*EPB/-S
 'had': H
 'to': TO
 'put': PUT
@@ -612,7 +612,7 @@
 'said': SAEUD
 'to': TO
 'her': HER
-'maidens:': PHAEUD/EPB/-S STPH-FPLT
+'maidens:': PHAEUD/*EPB/-S STPH-FPLT
 ''Show': AE SHOE
 'some': SOPL
 'strength,': STREPG KW-BG

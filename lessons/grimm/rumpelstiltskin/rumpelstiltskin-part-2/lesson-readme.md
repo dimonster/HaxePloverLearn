@@ -64,7 +64,7 @@
 * 'My `AE PHEU`
 * necklace,' `TPHEBG/HRAS KW-BG AE`
 * replied `RE/PHRAOEUD`
-* maiden. `PHAEUD/EPB TP-PL`
+* maiden. `PHAEUD/*EPB TP-PL`
 * he `E`
 * took `TAOBG`
 * at `AT`

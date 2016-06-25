@@ -63,7 +63,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman Part 2
 'as': AZ
 'a': AEU
 'beautiful': PWAOUFL
-'maiden,': PHAEUD/EPB KW-BG
+'maiden,': PHAEUD/*EPB KW-BG
 'with': W
 'a': AEU
 'wreath': WRAO*ET

@@ -36,7 +36,7 @@ The Butterfly Part 3
 'to': TO
 'those': THOZ
 'domestic': PHEFBG
-'maidens': PHAEUD/EPB/-S
+'maidens': PHAEUD/*EPB/-S
 'who': WHO
 'have': SR
 'a': AEU
@@ -63,7 +63,7 @@ The Butterfly Part 3
 'close': KHROES
 'by': PWEU
 'the': -T
-'maiden,': PHAEUD/EPB KW-BG
+'maiden,': PHAEUD/*EPB KW-BG
 'he': E
 'saw': SAU
 'a': AEU

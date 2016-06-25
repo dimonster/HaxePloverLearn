@@ -90,7 +90,7 @@
 * spirits. `SPEURTS TP-PL`
 * on, `OPB KW-BG`
 * Thou `THO*U`
-* maiden! `PHAEUD/EPB SKHRAPL`
+* maiden! `PHAEUD/*EPB SKHRAPL`
 * Soon `SAOPB`
 * years `KWRAOERS`
 * will `HR`

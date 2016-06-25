@@ -74,7 +74,7 @@
 * home'; `HOEPL AE STPH*FPLT`
 * see `SAOE`
 * where `W-R`
-* maiden `PHAEUD/EPB`
+* maiden `PHAEUD/*EPB`
 * lived. `HREUFD TP-PL`
 * slipped `SHREUPD`
 * away `A/WAEU`
@@ -99,7 +99,7 @@
 * told `TOLD`
 * him `HEUPL`
 * unknown `UPB/TPHOEPB`
-* maiden, `PHAEUD/EPB KW-BG`
+* maiden, `PHAEUD/*EPB KW-BG`
 * who `WHO`
 * had `H`
 * been `PW-PB`

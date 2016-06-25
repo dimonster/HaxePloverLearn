@@ -16,7 +16,7 @@
 * Roman `RO*EPB`
 * girl, `TKPWEURL KW-BG`
 * noble `TPHOEBL`
-* maiden; `PHAEUD/EPB STPH*FPLT`
+* maiden; `PHAEUD/*EPB STPH*FPLT`
 * for `TPOR`
 * first `TPEURS`
 * time `TAOEUPL`

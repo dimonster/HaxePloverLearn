@@ -100,7 +100,7 @@
 * well `WEL`
 * be `-B`
 * shorter. `SHORT/*ER TP-PL`
-* elf-maidens `*EFL H-PB PHAEUD/EPB/-S`
+* elf-maidens `*EFL H-PB PHAEUD/*EPB/-S`
 * whirled `WHEURL/-D`
 * round `ROUPBD`
 * three `THRAOE`

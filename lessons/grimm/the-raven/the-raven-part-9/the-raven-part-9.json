@@ -197,6 +197,6 @@
 "SAU": "saw",
 "-T": "the",
 "EPB/HAPBT/-D": "enchanted",
-"PHAEUD/EPB": "maiden",
+"PHAEUD/*EPB": "maiden",
 "KRAOEUF": "drive"
 }

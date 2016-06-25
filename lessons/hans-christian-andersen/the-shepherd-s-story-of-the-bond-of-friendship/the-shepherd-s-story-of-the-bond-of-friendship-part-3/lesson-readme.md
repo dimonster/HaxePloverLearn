@@ -123,7 +123,7 @@
 * stiff `STEUF`
 * congealed `KAUPB/SKWRAOELD`
 * blood. `PWHRAOD TP-PL`
-* maiden `PHAEUD/EPB`
+* maiden `PHAEUD/*EPB`
 * be `-B`
 * sister. `ST-R TP-PL`
 * How `HOU`

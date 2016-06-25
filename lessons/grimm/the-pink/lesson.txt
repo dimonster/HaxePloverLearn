@@ -510,7 +510,7 @@
 'and': SKP
 'took': TAOBG
 'the': -T
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'aside,': A/SAOEUD KW-BG
 'and': SKP
 'said:': SAEUD STPH-FPLT
@@ -805,7 +805,7 @@
 'said': SAEUD
 'to': TO
 'the': -T
-'maiden:': PHAEUD/EPB STPH-FPLT
+'maiden:': PHAEUD/*EPB STPH-FPLT
 ''I': AE EU
 'will': HR
 'go': TKPW
@@ -1524,7 +1524,7 @@
 'you': U
 'see': SAOE
 'the': -T
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'who': WHO
 'brought': PWRAUT
 'me': PHE
@@ -1636,7 +1636,7 @@
 'might': PHAOEUT
 'become': PW-BG
 'a': AEU
-'maiden,': PHAEUD/EPB KW-BG
+'maiden,': PHAEUD/*EPB KW-BG
 'and': SKP
 'she': SHE
 'stood': STAOD
@@ -1773,7 +1773,7 @@
 'married': PHAERD
 'the': -T
 'beautiful': PWAOUFL
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'whom': WHOPL
 'he': E
 'had': H

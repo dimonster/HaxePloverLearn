@@ -172,7 +172,7 @@ The Elf of the Rose Part 3
 'of': -F
 'the': -T
 'beautiful': PWAOUFL
-'maiden.': PHAEUD/EPB TP-PL
+'maiden.': PHAEUD/*EPB TP-PL
 'He': E
 'drew': TKRAOU
 'out': OUT

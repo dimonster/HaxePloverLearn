@@ -33,7 +33,7 @@
 "-T": "the",
 "PHEPB": "men",
 "OR": "or",
-"PHAEUD/EPB/-S": "maidens",
+"PHAEUD/*EPB/-S": "maidens",
 "WHO": "who",
 "PAUS/-D": "paused",
 "TPH": "in",

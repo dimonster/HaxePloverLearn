@@ -20,7 +20,7 @@ Two Maidens Part 3
 'would': WO
 'surrender': SREPBD/UR
 'my': PHEU
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'name."': TPHAEUPL TP-PL KR-GS
 '"No,': KR-GS TPHO KW-BG
 'certainly': SERPBL
@@ -71,7 +71,7 @@ Two Maidens Part 3
 'law': HRAU
 'that': THA
 'the': -T
-''maiden'': AE PHAEUD/EPB AE
+''maiden'': AE PHAEUD/*EPB AE
 'is': S
 'to': TO
 'be': -B
@@ -117,7 +117,7 @@ Two Maidens Part 3
 'a': AEU
 'little': HREUL
 'of': -F
-'maidens."': PHAEUD/EPB/-S TP-PL KR-GS
+'maidens."': PHAEUD/*EPB/-S TP-PL KR-GS
 '"But': KR-GS PWUT
 'I': EU
 'would': WO
@@ -137,7 +137,7 @@ Two Maidens Part 3
 'to': TO
 'work.': WORBG TP-PL
 'The': -T
-'Maidens': PHAEUD/EPB/-S
+'Maidens': PHAEUD/*EPB/-S
 'rode—that': ROED EPL/TKA*RB THA
 'is,': S KW-BG
 'they': THE
@@ -177,7 +177,7 @@ Two Maidens Part 3
 'the': -T
 'whole': WHOEL
 'word': WORD
-'"maiden;"': KR-GS PHAEUD/EPB STPH*FPLT KR-GS
+'"maiden;"': KR-GS PHAEUD/*EPB STPH*FPLT KR-GS
 'but': PWUT
 'they': THE
 'broke': PWROEBG

@@ -114,7 +114,7 @@ Ashputtel Part 7
 'where': W-R
 'the': -T
 'beautiful': PWAOUFL
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'lived.': HREUFD TP-PL
 'But': PWUT
 'she': SHE
@@ -158,7 +158,7 @@ Ashputtel Part 7
 'that': THA
 'the': -T
 'unknown': UPB/TPHOEPB
-'maiden,': PHAEUD/EPB KW-BG
+'maiden,': PHAEUD/*EPB KW-BG
 'who': WHO
 'had': H
 'been': PW-PB

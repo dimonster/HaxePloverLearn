@@ -8,8 +8,8 @@ The Lion in Love
 'love': HOF
 'with': W
 'a': AEU
-'beautiful': WAOUFL
-'maiden': PHAEUD/EPB
+'beautiful': PWAOUFL
+'maiden': PHAEUD/*EPB
 'and': SKP
 'proposed': PROEPD
 'marriage': PHAERPBLG

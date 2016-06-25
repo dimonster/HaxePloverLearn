@@ -31,7 +31,7 @@
 * saw `SAU`
 * pretty `PREUT`
 * little `HREUL`
-* maiden `PHAEUD/EPB`
+* maiden `PHAEUD/*EPB`
 * elegant `EL/TKPWAPBT`
 * bed, `PWED KW-BG`
 * could `KO`

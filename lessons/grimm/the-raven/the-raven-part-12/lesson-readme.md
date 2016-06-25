@@ -46,7 +46,7 @@
 * entered `SPWR-D`
 * room `RAOPL`
 * where `W-R`
-* maiden `PHAEUD/EPB`
+* maiden `PHAEUD/*EPB`
 * was `WA`
 * sitting, `SAO*EGT KW-BG`
 * golden `TKOELD/*EPB`

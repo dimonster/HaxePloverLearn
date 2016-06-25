@@ -59,7 +59,7 @@
 * ashes, `ARBS KW-BG`
 * but `PWUT`
 * little `HREUL`
-* maiden `PHAEUD/EPB`
+* maiden `PHAEUD/*EPB`
 * ran `RAPB`
 * out `OUT`
 * back `PWABG`

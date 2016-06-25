@@ -18,7 +18,7 @@ The Ugly Duckling Part 18
 'about': PW
 'by': PWEU
 'the': -T
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'who': WHO
 'feeds': TPAOEDZ
 'the': -T

@@ -48,7 +48,7 @@ The Shepherd's Story of the Bond of Friendship Part 4
 'beautiful': PWAOUFL
 'and': SKP
 'virtuous': SREURT/WOUS
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'in': TPH
 'the': -T
 'neighborhood': TPHAOD

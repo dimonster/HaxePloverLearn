@@ -51,7 +51,7 @@
 * approached `A/PROEFPD`
 * too `TAO`
 * near `TPHAOER`
-* maiden `PHAEUD/EPB`
+* maiden `PHAEUD/*EPB`
 * myself, `PHAO*EUS KW-BG`
 * But `PWUT`
 * cautious, `KAURBS KW-BG`

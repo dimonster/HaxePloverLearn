@@ -63,7 +63,7 @@
 * that `THA`
 * told `TOLD`
 * by `PWEU`
-* sea-maiden `SAE H-PB PHAEUD/EPB`
+* sea-maiden `SAE H-PB PHAEUD/*EPB`
 * to `TO`
 * go `TKPW`
 * a `AEU`

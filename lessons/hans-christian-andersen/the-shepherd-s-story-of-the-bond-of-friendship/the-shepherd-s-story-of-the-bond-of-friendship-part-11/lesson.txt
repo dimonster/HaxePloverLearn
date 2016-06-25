@@ -187,7 +187,7 @@ The Shepherd's Story of the Bond of Friendship Part 11
 'become': PW-BG
 'a': AEU
 'beautiful': PWAOUFL
-'maiden,': PHAEUD/EPB KW-BG
+'maiden,': PHAEUD/*EPB KW-BG
 'and': SKP
 'I': EU
 'was': WA

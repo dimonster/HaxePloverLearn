@@ -78,7 +78,7 @@ The Neighbouring Families Part 16
 'shines!"': SHAOEUPBS SKHRAPL KR-GS
 'said': SAEUD
 'the': -T
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'sparrow.': SPAEUR/ROE TP-PL
 '"I': KR-GS EU
 'suppose': SPOS
@@ -159,7 +159,7 @@ The Neighbouring Families Part 16
 'Thither': TH*EURT
 'flew': TPHRAOU
 'the': -T
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'sparrow,': SPAEUR/ROE KW-BG
 'for': TPOR
 'she': SHE

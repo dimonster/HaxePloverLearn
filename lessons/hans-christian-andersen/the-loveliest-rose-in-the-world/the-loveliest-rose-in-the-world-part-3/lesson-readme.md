@@ -120,5 +120,5 @@
 * face `TPAEUS`
 * appeared. `A/PAOERD TP-PL`
 * young `KWRUPBG`
-* maiden `PHAEUD/EPB`
+* maiden `PHAEUD/*EPB`
 * knelt `TPHELT`

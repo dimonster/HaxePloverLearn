@@ -225,7 +225,7 @@
 'fair': TPAEUR
 'and': SKP
 'delicate': TKEL/KAT
-'maidens—Ida,': PHAEUD/EPB/-S EPL/TKA*RB XXX Ida KW-BG
+'maidens—Ida,': PHAEUD/*EPB/-S EPL/TKA*RB XXX Ida KW-BG
 'Joanna,': SKWROE/APB/KWRA KW-BG
 'and': SKP
 'Anna': APB/TPHA
@@ -487,7 +487,7 @@
 'the': -T
 'men': PHEPB
 'and': SKP
-'maidens': PHAEUD/EPB/-S
+'maidens': PHAEUD/*EPB/-S
 'danced,': TKAPBS/-D KW-BG
 'and': SKP
 'sung': SUPBG
@@ -558,7 +558,7 @@
 'from': TPR
 'among': PHOPBG
 'the': -T
-'maidens.': PHAEUD/EPB/-S TP-PL
+'maidens.': PHAEUD/*EPB/-S TP-PL
 'There': THR
 'was': WA
 'greater': TKPWRAERT
@@ -632,7 +632,7 @@
 'the': -T
 'men': PHEPB
 'or': OR
-'maidens': PHAEUD/EPB/-S
+'maidens': PHAEUD/*EPB/-S
 'who': WHO
 'paused': PAUS/-D
 'in': TPH

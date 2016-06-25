@@ -3,7 +3,7 @@
 'ever': -FR
 'seen': SAOEPB
 'a': AEU
-'maiden?': PHAEUD/EPB H-F
+'maiden?': PHAEUD/*EPB H-F
 'I': EU
 'mean': PHAOEPB
 'what': WHA
@@ -11,7 +11,7 @@
 'pavers': PAEUFRS
 'call': KAUL
 'a': AEU
-'maiden,': PHAEUD/EPB KW-BG
+'maiden,': PHAEUD/*EPB KW-BG
 'a': AEU
 'thing': THEUPBG
 'with': W
@@ -25,7 +25,7 @@
 'the': -T
 'roads.': ROEDZ TP-PL
 'A': AEU
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'of': -F
 'this': TH
 'kind': KEUPBD
@@ -65,13 +65,13 @@
 'arms': ARPLS
 'of': -F
 'the': -T
-'maiden.': PHAEUD/EPB TP-PL
+'maiden.': PHAEUD/*EPB TP-PL
 'In': TPH
 'the': -T
 'shed': SHED
 'stood': STAOD
 'two': TWO
-'Maidens': PHAEUD/EPB/-S
+'Maidens': PHAEUD/*EPB/-S
 'of': -F
 'this': TH
 'kind.': KEUPBD TP-PL
@@ -96,14 +96,14 @@
 'come': KOPL
 'that': THA
 'the': -T
-'Maidens': PHAEUD/EPB/-S
+'Maidens': PHAEUD/*EPB/-S
 'were': WR
 'no': TPHO
 'longer': HRORPBG
 'to': TO
 'be': -B
 'called': KAULD
-'"maidens,"': KR-GS PHAEUD/EPB/-S KW-BG KR-GS
+'"maidens,"': KR-GS PHAEUD/*EPB/-S KW-BG KR-GS
 'but': PWUT
 '"hand-rammers,"': KR-GS HAPBD H-PB XXX rammers KW-BG KR-GS
 'which': WEU
@@ -134,7 +134,7 @@
 'name': TPHAEUPL
 'of': -F
 '"the': KR-GS -T
-'maiden."': PHAEUD/EPB TP-PL KR-GS
+'maiden."': PHAEUD/*EPB TP-PL KR-GS
 'Now,': TPHOU KW-BG
 'there': THR
 'are': R
@@ -175,7 +175,7 @@
 'women': WEUPL
 'the': -T
 'two': TWO
-'Maidens': PHAEUD/EPB/-S
+'Maidens': PHAEUD/*EPB/-S
 'in': TPH
 'the': -T
 'shed': SHED
@@ -183,7 +183,7 @@
 'themselves.': TH*EPLS TP-PL
 'They': THE
 'were': WR
-'"maidens"': KR-GS PHAEUD/EPB/-S KR-GS
+'"maidens"': KR-GS PHAEUD/*EPB/-S KR-GS
 'among': PHOPBG
 'the': -T
 'paver': PAFR
@@ -203,7 +203,7 @@
 'be': -B
 'miscalled': PHEUS/KAULD
 '"rammers.': KR-GS XXX rammers TP-PL
-'"Maiden': KR-GS PHAEUD/EPB
+'"Maiden': KR-GS PHAEUD/*EPB
 'is': S
 'a': AEU
 'human': HAOUPL
@@ -266,7 +266,7 @@
 'scale': SKAEL
 'what': WHA
 'ten': TEPB
-'maidens': PHAEUD/EPB/-S
+'maidens': PHAEUD/*EPB/-S
 'effect': TPEBT
 'in': TPH
 'a': AEU
@@ -279,7 +279,7 @@
 'me': PHE
 'as': AZ
 'a': AEU
-'maiden,': PHAEUD/EPB KW-BG
+'maiden,': PHAEUD/*EPB KW-BG
 'but': PWUT
 'whether': WHR
 'he': E
@@ -359,7 +359,7 @@
 '"that': KR-GS THA
 'the': -T
 'name': TPHAEUPL
-''maiden'': AE PHAEUD/EPB AE
+''maiden'': AE PHAEUD/*EPB AE
 'is': S
 'common': KPHOPB
 'enough,': TPHUF KW-BG
@@ -418,7 +418,7 @@
 'would': WO
 'surrender': SREPBD/UR
 'my': PHEU
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'name."': TPHAEUPL TP-PL KR-GS
 '"No,': KR-GS TPHO KW-BG
 'certainly': SERPBL
@@ -469,7 +469,7 @@
 'law': HRAU
 'that': THA
 'the': -T
-''maiden'': AE PHAEUD/EPB AE
+''maiden'': AE PHAEUD/*EPB AE
 'is': S
 'to': TO
 'be': -B
@@ -515,7 +515,7 @@
 'a': AEU
 'little': HREUL
 'of': -F
-'maidens."': PHAEUD/EPB/-S TP-PL KR-GS
+'maidens."': PHAEUD/*EPB/-S TP-PL KR-GS
 '"But': KR-GS PWUT
 'I': EU
 'would': WO
@@ -535,7 +535,7 @@
 'to': TO
 'work.': WORBG TP-PL
 'The': -T
-'Maidens': PHAEUD/EPB/-S
+'Maidens': PHAEUD/*EPB/-S
 'rode—that': ROED EPL/TKA*RB THA
 'is,': S KW-BG
 'they': THE
@@ -575,7 +575,7 @@
 'the': -T
 'whole': WHOEL
 'word': WORD
-'"maiden;"': KR-GS PHAEUD/EPB STPH*FPLT KR-GS
+'"maiden;"': KR-GS PHAEUD/*EPB STPH*FPLT KR-GS
 'but': PWUT
 'they': THE
 'broke': PWROEBG
@@ -604,7 +604,7 @@
 'called': KAULD
 'each': AOEFP
 'other': OER
-'"maiden,"': KR-GS PHAEUD/EPB KW-BG KR-GS
+'"maiden,"': KR-GS PHAEUD/*EPB KW-BG KR-GS
 'and': SKP
 'praised': PRA*EUFD
 'the': -T
@@ -625,10 +625,10 @@
 'those': THOZ
 'who': WHO
 'were': WR
-'maidens': PHAEUD/EPB/-S
+'maidens': PHAEUD/*EPB/-S
 'were': WR
 'called': KAULD
-'maidens.': PHAEUD/EPB/-S TP-PL
+'maidens.': PHAEUD/*EPB/-S TP-PL
 'And': SKP
 'they': THE
 'remained': RE/PHAEUPBD
@@ -657,7 +657,7 @@
 'must': PHUFT
 'have': SR
 'a': AEU
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'for': TPOR
 'his': HEUS
 'bride.': PWRAOEUD TP-PL

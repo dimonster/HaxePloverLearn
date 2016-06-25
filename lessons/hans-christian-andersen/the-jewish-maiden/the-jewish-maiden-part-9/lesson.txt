@@ -183,7 +183,7 @@ The Jewish Maiden Part 9
 'of': -F
 'the': -T
 'Jewish': SKWRAOURB
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'beyond': KWROPBD
 'the': -T
 'wall.': WAUL TP-PL

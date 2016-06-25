@@ -5,7 +5,7 @@ Two Maidens Part 1
 'ever': -FR
 'seen': SAOEPB
 'a': AEU
-'maiden?': PHAEUD/EPB H-F
+'maiden?': PHAEUD/*EPB H-F
 'I': EU
 'mean': PHAOEPB
 'what': WHA
@@ -13,7 +13,7 @@ Two Maidens Part 1
 'pavers': PAEUFRS
 'call': KAUL
 'a': AEU
-'maiden,': PHAEUD/EPB KW-BG
+'maiden,': PHAEUD/*EPB KW-BG
 'a': AEU
 'thing': THEUPBG
 'with': W
@@ -27,7 +27,7 @@ Two Maidens Part 1
 'the': -T
 'roads.': ROEDZ TP-PL
 'A': AEU
-'maiden': PHAEUD/EPB
+'maiden': PHAEUD/*EPB
 'of': -F
 'this': TH
 'kind': KEUPBD
@@ -67,13 +67,13 @@ Two Maidens Part 1
 'arms': ARPLS
 'of': -F
 'the': -T
-'maiden.': PHAEUD/EPB TP-PL
+'maiden.': PHAEUD/*EPB TP-PL
 'In': TPH
 'the': -T
 'shed': SHED
 'stood': STAOD
 'two': TWO
-'Maidens': PHAEUD/EPB/-S
+'Maidens': PHAEUD/*EPB/-S
 'of': -F
 'this': TH
 'kind.': KEUPBD TP-PL
@@ -98,14 +98,14 @@ Two Maidens Part 1
 'come': KOPL
 'that': THA
 'the': -T
-'Maidens': PHAEUD/EPB/-S
+'Maidens': PHAEUD/*EPB/-S
 'were': WR
 'no': TPHO
 'longer': HRORPBG
 'to': TO
 'be': -B
 'called': KAULD
-'"maidens,"': KR-GS PHAEUD/EPB/-S KW-BG KR-GS
+'"maidens,"': KR-GS PHAEUD/*EPB/-S KW-BG KR-GS
 'but': PWUT
 '"hand-rammers,"': KR-GS HAPBD H-PB XXX rammers KW-BG KR-GS
 'which': WEU
@@ -136,7 +136,7 @@ Two Maidens Part 1
 'name': TPHAEUPL
 'of': -F
 '"the': KR-GS -T
-'maiden."': PHAEUD/EPB TP-PL KR-GS
+'maiden."': PHAEUD/*EPB TP-PL KR-GS
 'Now,': TPHOU KW-BG
 'there': THR
 'are': R
@@ -177,7 +177,7 @@ Two Maidens Part 1
 'women': WEUPL
 'the': -T
 'two': TWO
-'Maidens': PHAEUD/EPB/-S
+'Maidens': PHAEUD/*EPB/-S
 'in': TPH
 'the': -T
 'shed': SHED
@@ -185,7 +185,7 @@ Two Maidens Part 1
 'themselves.': TH*EPLS TP-PL
 'They': THE
 'were': WR
-'"maidens"': KR-GS PHAEUD/EPB/-S KR-GS
+'"maidens"': KR-GS PHAEUD/*EPB/-S KR-GS
 'among': PHOPBG
 'the': -T
 'paver': PAFR

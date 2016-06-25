@@ -19,7 +19,7 @@
 * look `HRAOBG`
 * at `AT`
 * little `HREUL`
-* maiden. `PHAEUD/EPB TP-PL`
+* maiden. `PHAEUD/*EPB TP-PL`
 * as `AZ`
 * soon `SAOPB`
 * caught `KAUT`
@@ -56,7 +56,7 @@
 * held `HELD`
 * leaf `HRAOEF`
 * on `OPB`
-* maiden `PHAEUD/EPB`
+* maiden `PHAEUD/*EPB`
 * stood, `STAOD KW-BG`
 * gnawed `TPHA*U/-D`
 * away `A/WAEU`

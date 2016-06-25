@@ -17,7 +17,7 @@ The Psyche Part 5
 'girl,': TKPWEURL KW-BG
 'the': -T
 'noble': TPHOEBL
-'maiden;': PHAEUD/EPB STPH*FPLT
+'maiden;': PHAEUD/*EPB STPH*FPLT
 'and': SKP
 'for': TPOR
 'the': -T

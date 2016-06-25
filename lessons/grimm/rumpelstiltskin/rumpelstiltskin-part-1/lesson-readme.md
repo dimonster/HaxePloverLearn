@@ -100,7 +100,7 @@
 * it `T`
 * vain `SRA*EUPB`
 * poor `PAOR`
-* maiden `PHAEUD/EPB`
+* maiden `PHAEUD/*EPB`
 * said `SAEUD`
 * only `OEPBL`
 * silly `SEUL/HREU`

@@ -67,7 +67,7 @@
 * Tiny `TOEUPB`
 * boat. `PWOET TP-PL`
 * little `HREUL`
-* maiden `PHAEUD/EPB`
+* maiden `PHAEUD/*EPB`
 * sat `SAT`
 * rowed `ROE/-D`
 * from `TPR`

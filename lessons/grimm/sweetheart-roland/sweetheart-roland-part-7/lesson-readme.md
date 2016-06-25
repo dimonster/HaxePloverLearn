@@ -97,7 +97,7 @@
 * of `-F`
 * bridal `PWRAOEU/TKAL`
 * pair. `PAEUR TP-PL`
-* maiden `PHAEUD/EPB`
+* maiden `PHAEUD/*EPB`
 * heard `HERD`
 * this, `TH KW-BG`
 * grew `TKPWRAOU`
