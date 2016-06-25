@@ -154,7 +154,7 @@ The Lion in Love
 'him': HEUPL
 'do': TKO
 'his': HEUS
-'worst.': WO*RS TP-PL
+'worst.': WOFRT TP-PL
 'Love': HOF
 'can': K
 'tame': TAEUPL

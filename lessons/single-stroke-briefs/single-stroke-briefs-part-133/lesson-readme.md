@@ -33,7 +33,7 @@
 * worries `WO*ERS`
 * worry `WOER`
 * worse `WORS`
-* worst `WO*RS`
+* worst `WOFRT`
 * wort `WORT`
 * worth `WO*RT`
 * would've `WO*UF`

@@ -11,7 +11,7 @@
 * heart `HART`
 * eight `AET`
 * wants `WAPBTS`
-* worst `WO*RS`
+* worst `WOFRT`
 * walls `WAULS`
 * paper `PAEUP`
 * worse `WORS`
