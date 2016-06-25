@@ -192,7 +192,7 @@ Clever Elsie Part 1
 'herself': H*ERS
 'any': TPHEU
 'unexpected': UPB/EBGS/PEBGD
-'injury.': SKWR*R TP-PL
+'injury.': SKWRAOUR TP-PL
 'Then': THEPB
 'she': SHE
 'placed': PHRAEUFD

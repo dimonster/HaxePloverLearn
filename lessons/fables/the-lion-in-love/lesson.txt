@@ -58,7 +58,7 @@ The Lion in Love
 'honoured': HOPB/OURD
 'by': PWEU
 'your': KWROUR
-'Majesty's': PHA/SKWREFT/KWREU AE S
+'Majesty's': PHAPBLG/STEU/AES
 'proposal,': PROEL KW-BG
 'but': PWUT
 'you': U
@@ -86,7 +86,7 @@ The Lion in Love
 'do': TKO
 'her': HER
 'some': SOPL
-'injury.': SKWR*R TP-PL
+'injury.': SKWRAOUR TP-PL
 'Might': PHAOEUT
 'I': EU
 'venture': SREPB/TUR
@@ -94,7 +94,7 @@ The Lion in Love
 'suggest': SUG
 'that': THA
 'your': KWROUR
-'Majesty': PHA/SKWREFT/KWREU
+'Majesty': PHAPBLG/STEU
 'should': SHO
 'have': SR
 'your': KWROUR

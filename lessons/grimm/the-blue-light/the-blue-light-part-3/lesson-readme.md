@@ -13,7 +13,7 @@
 * soldier `SHRERPBL`
 * fell `TPEL`
 * without `WOUT`
-* injury `SKWR*R`
+* injury `SKWRAOUR`
 * On `OPB`
 * moist `PHOEUFT`
 * ground, `TKPWROUPBD KW-BG`

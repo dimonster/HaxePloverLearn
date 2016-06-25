@@ -147,7 +147,7 @@ The Ass's Brains
 'brains?"': PWRAEUPBS H-F KR-GS
 '"Brains,': KR-GS PWRAEUPBS KW-BG
 'your': KWROUR
-'Majesty!': PHA/SKWREFT/KWREU SKHRAPL
+'Majesty!': PHAPBLG/STEU SKHRAPL
 'it': T
 'had': H
 'none,': TPHOPB KW-BG

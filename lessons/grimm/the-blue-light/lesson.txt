@@ -412,7 +412,7 @@
 'soldier': SHRERPBL
 'fell': TPEL
 'without': WOUT
-'injury': SKWR*R
+'injury': SKWRAOUR
 'on': OPB
 'the': -T
 'moist': PHOEUFT

@@ -41,7 +41,7 @@
 * alive, `A/HRAOEUF KW-BG`
 * suffered `SUFRD`
 * no `TPHO`
-* injury `SKWR*R`
+* injury `SKWRAOUR`
 * whatever, `WHAF KW-BG`
 * for `TPOR`
 * in `TPH`

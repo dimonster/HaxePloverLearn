@@ -1153,7 +1153,7 @@
 'down': TKOUPB
 'again': TKPWEPB
 'without': WOUT
-'injury,': SKWR*R KW-BG
+'injury,': SKWRAOUR KW-BG
 'the': -T
 'giant': SKWRAOEUPBT
 'said:': SAEUD STPH-FPLT

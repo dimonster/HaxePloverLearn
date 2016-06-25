@@ -23,7 +23,7 @@
 * injured `SKWR*RD`
 * injuries `SKWR*RS`
 * injuring `SKWR*RG`
-* injury `SKWR*R`
+* injury `SKWRAOUR`
 * ink `*UPBG`
 * inn `TPH*PB`
 * inner `EURPB`

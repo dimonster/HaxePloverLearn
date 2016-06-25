@@ -123,5 +123,5 @@
 * do `TKO`
 * any `TPHEU`
 * unexpected `UPB/EBGS/PEBGD`
-* injury. `SKWR*R TP-PL`
+* injury. `SKWRAOUR TP-PL`
 * placed `PHRAEUFD`

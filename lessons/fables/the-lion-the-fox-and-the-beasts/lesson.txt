@@ -112,7 +112,7 @@ The Lion, the Fox, and the Beasts
 '"I': KR-GS EU
 'beg': PWEG
 'your': KWROUR
-'Majesty's': PHA/SKWREFT/KWREU AE S
+'Majesty's': PHAPBLG/STEU/AES
 'pardon,"': PARD KW-RBGTS
 'said': SAEUD
 'the': -T

@@ -98,7 +98,7 @@
 * down `TKOUPB`
 * again `TKPWEPB`
 * without `WOUT`
-* injury, `SKWR*R KW-BG`
+* injury, `SKWRAOUR KW-BG`
 * said: `SAEUD STPH-FPLT`
 * 'What `AE WHA`
 * is `S`

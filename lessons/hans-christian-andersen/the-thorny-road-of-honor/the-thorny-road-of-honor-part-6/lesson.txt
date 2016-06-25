@@ -171,7 +171,7 @@ The Thorny Road of Honor Part 6
 'was': WA
 'rewarded': RE/WARD/-D
 'with': W
-'injury,': SKWR*R KW-BG
+'injury,': SKWRAOUR KW-BG
 'loss': HROS
 'and': SKP
 'sorrow.': SROE TP-PL

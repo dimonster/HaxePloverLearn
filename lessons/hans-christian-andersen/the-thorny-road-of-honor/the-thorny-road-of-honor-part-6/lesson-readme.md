@@ -118,7 +118,7 @@
 * stars, `STARS KW-BG`
 * was `WA`
 * rewarded `RE/WARD/-D`
-* injury, `SKWR*R KW-BG`
+* injury, `SKWRAOUR KW-BG`
 * loss `HROS`
 * sorrow. `SROE TP-PL`
 * going `TKPW-G`
