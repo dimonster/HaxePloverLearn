@@ -53,7 +53,7 @@ Avaricious and Envious
 'had': H
 'twice': TWAOEUS
 'as': AZ
-'much.': UFP TP-PL
+'much.': PHUFP TP-PL
 'The': -T
 'Avaricious': A*F/REURBS
 'man': PHAPB

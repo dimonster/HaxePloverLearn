@@ -30,7 +30,7 @@ The Man and His Two Wives
 'loved': HROFD
 'him': HEUPL
 'very': SRE
-'much,': UFP KW-BG
+'much,': PHUFP KW-BG
 'and': SKP
 'desired': STKAOEURD
 'to': TO

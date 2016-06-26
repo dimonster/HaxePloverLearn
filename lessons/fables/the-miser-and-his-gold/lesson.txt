@@ -140,7 +140,7 @@ The Miser and His Gold
 'you': U
 'just': SKWRUFT
 'as': AZ
-'much': UFP
+'much': PHUFP
 'good."': TKPWAOD TP-PL KR-GS
 'Wealth': W*ELT
 'unused': UPB/AOUS/-D

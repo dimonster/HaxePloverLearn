@@ -24,7 +24,7 @@ The Fisher and the Little Fish
 'Fish.': TPEURB TP-PL
 '"I': KR-GS EU
 'am': APL
-'much': UFP
+'much': PHUFP
 'too': TAO
 'small': SPHAUL
 'for': TPOR

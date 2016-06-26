@@ -92,7 +92,7 @@ The Fox and the Lion
 'the': -T
 'Lion': HRO*EUPB
 'without': WOUT
-'much': UFP
+'much': PHUFP
 'ceremony.': SER/PHOEPB TP-PL
 'Familiarity': TPAPLT
 'breeds': PWRAOEDZ

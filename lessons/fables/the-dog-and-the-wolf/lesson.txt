@@ -125,7 +125,7 @@ The Dog and the Wolf
 'neck': TPHEBG
 'was': WA
 'very': SRE
-'much': UFP
+'much': PHUFP
 'worn': WORPB
 'away,': A/WAEU KW-BG
 'so': SO

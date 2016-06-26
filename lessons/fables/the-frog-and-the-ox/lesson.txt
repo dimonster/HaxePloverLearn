@@ -108,7 +108,7 @@ The Frog and the Ox
 'asked': SK-D
 'he.': E TP-PL
 '"Oh,': KR-GS OERBGS
-'much': UFP
+'much': PHUFP
 'bigger': PWEURG
 'than': THAPB
 'that,"': THA KW-RBGTS

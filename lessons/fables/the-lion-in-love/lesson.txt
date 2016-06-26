@@ -116,7 +116,7 @@ The Lion in Love
 'Lion': HRO*EUPB
 'was': WA
 'so': SO
-'much': UFP
+'much': PHUFP
 'in': TPH
 'love': HOF
 'that': THA

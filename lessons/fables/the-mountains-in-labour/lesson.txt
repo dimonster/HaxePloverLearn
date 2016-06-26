@@ -126,7 +126,7 @@ The Mountains in Labour
 'used': AOUFD
 'to': TO
 'say:': SAEU STPH-FPLT
-'"Much': KR-GS UFP
+'"Much': KR-GS PHUFP
 'outcry,': AOUT/KRAOEU KW-BG
 'little': HREUL
 'outcome."': KWUPL TP-PL KR-GS

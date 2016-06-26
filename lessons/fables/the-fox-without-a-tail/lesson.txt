@@ -104,7 +104,7 @@ The Fox Without a Tail
 'the': -T
 'dogs;': TKOGS STPH*FPLT
 'how': HOU
-'much': UFP
+'much': PHUFP
 'it': T
 'was': WA
 'in': TPH

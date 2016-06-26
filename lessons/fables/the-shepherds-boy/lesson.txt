@@ -80,7 +80,7 @@ The Shepherd's Boy
 'the': -T
 'boy': PWOEU
 'so': SO
-'much': UFP
+'much': PHUFP
 'that': THA
 'a': AEU
 'few': TPAOU
