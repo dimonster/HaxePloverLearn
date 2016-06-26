@@ -1191,7 +1191,7 @@
 'I': EU
 'am': APL
 'not': TPHOT
-'mistaken,': SPHAEUPB KW-BG
+'mistaken,': SPHA*EUPB KW-BG
 'our': OUR
 'wedding': WEGD
 'took': TAOBG

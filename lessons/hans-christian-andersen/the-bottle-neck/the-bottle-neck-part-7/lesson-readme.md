@@ -115,7 +115,7 @@
 * see `SAOE`
 * again, `TKPWEPB KW-BG`
 * but `PWUT`
-* mistaken. `SPHAEUPB TP-PL`
+* mistaken. `SPHA*EUPB TP-PL`
 * fell `TPEL`
 * among `PHOPBG`
 * rushes `RURBS`

@@ -132,7 +132,7 @@
 * healthy. `HOEUFLT TP-PL`
 * If `TP`
 * am `APL`
-* mistaken, `SPHAEUPB KW-BG`
+* mistaken, `SPHA*EUPB KW-BG`
 * wedding `WEGD`
 * took `TAOBG`
 * place `PHRAEUS`

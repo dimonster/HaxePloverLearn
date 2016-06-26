@@ -25,7 +25,7 @@
 * could `KO`
 * Not `TPHOT`
 * be `-B`
-* mistaken. `SPHAEUPB TP-PL`
+* mistaken. `SPHA*EUPB TP-PL`
 * Then `THEPB`
 * said `SAEUD`
 * swineherd, `XXX swineherd KW-BG`

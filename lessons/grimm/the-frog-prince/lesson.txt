@@ -860,7 +860,7 @@
 'But': PWUT
 'she': SHE
 'was': WA
-'mistaken;': SPHAEUPB STPH*FPLT
+'mistaken;': SPHA*EUPB STPH*FPLT
 'for': TPOR
 'when': WHEPB
 'night': TPHAOEUT

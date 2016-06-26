@@ -96,7 +96,7 @@ The Man and His Two Wives
 'like': HAOEUBG
 'to': TO
 'be': -B
-'mistaken': SPHAEUPB
+'mistaken': SPHA*EUPB
 'for': TPOR
 'his': HEUS
 'mother.': PHOER TP-PL

@@ -53,7 +53,7 @@
 * are `R`
 * huntsmen.' `HUPBTS/PH*EPB TP-PL AE`
 * continued: `T-PBD STPH-FPLT`
-* mistaken, `SPHAEUPB KW-BG`
+* mistaken, `SPHA*EUPB KW-BG`
 * girls.' `TKPWEURLS TP-PL AE`
 * king `KEUPBG`
 * 'That `AE THA`

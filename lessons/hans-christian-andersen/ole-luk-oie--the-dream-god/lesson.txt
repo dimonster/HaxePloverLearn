@@ -529,7 +529,7 @@
 'but': PWUT
 'they': THE
 'were': WR
-'mistaken;': SPHAEUPB STPH*FPLT
+'mistaken;': SPHA*EUPB STPH*FPLT
 'for': TPOR
 'they': THE
 'were': WR

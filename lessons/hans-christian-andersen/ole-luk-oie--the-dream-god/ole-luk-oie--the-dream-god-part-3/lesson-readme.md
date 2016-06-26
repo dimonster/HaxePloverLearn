@@ -95,7 +95,7 @@
 * looked `HRAOBGD`
 * like `HRAOEUBG`
 * copy, `KOEUP KW-BG`
-* mistaken; `SPHAEUPB STPH*FPLT`
+* mistaken; `SPHA*EUPB STPH*FPLT`
 * for `TPOR`
 * leaning `HRAOEPBG`
 * side `SAOEUD`

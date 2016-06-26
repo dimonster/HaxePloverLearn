@@ -168,7 +168,7 @@ The Bottle Neck Part 7
 'but': PWUT
 'she': SHE
 'was': WA
-'mistaken.': SPHAEUPB TP-PL
+'mistaken.': SPHA*EUPB TP-PL
 'It': T
 'fell': TPEL
 'among': PHOPBG

@@ -473,7 +473,7 @@
 'continued:': T-PBD STPH-FPLT
 ''You': AE U
 'are': R
-'mistaken,': SPHAEUPB KW-BG
+'mistaken,': SPHA*EUPB KW-BG
 'they': THE
 'are': R
 'twelve': TWEFL

@@ -50,7 +50,7 @@
 * more.' `PHOR TP-PL AE`
 * But `PWUT`
 * she `SHE`
-* mistaken; `SPHAEUPB STPH*FPLT`
+* mistaken; `SPHA*EUPB STPH*FPLT`
 * for `TPOR`
 * when `WHEPB`
 * came `KAEUPL`

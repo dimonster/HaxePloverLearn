@@ -828,7 +828,7 @@
 'could': KO
 'not': TPHOT
 'be': -B
-'mistaken.': SPHAEUPB TP-PL
+'mistaken.': SPHA*EUPB TP-PL
 'Then': THEPB
 'said': SAEUD
 'the': -T
