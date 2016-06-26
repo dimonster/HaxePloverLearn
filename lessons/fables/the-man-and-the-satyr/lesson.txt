@@ -50,7 +50,7 @@ The Man and the Satyr
 'forest': TPO*RS
 'in': TPH
 'the': -T
-'morning.': PHORPG TP-PL
+'morning.': PHORPBG TP-PL
 'As': AZ
 'he': E
 'went': WEPBT

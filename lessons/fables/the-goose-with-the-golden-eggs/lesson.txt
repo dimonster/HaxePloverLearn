@@ -71,7 +71,7 @@ The Goose With the Golden Eggs
 'pure': PAOUR
 'gold.': TKPWOELD TP-PL
 'Every': EF
-'morning': PHORPG
+'morning': PHORPBG
 'the': -T
 'same': SAEUPL
 'thing': THEUPBG

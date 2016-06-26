@@ -15,7 +15,7 @@ The Woodman and the Serpent
 'he': E
 'saw': SAU
 'something': S-G
-'black': PWHABG
+'black': PWHRABG
 'lying': HRAOEUG
 'on': OPB
 'the': -T

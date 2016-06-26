@@ -40,7 +40,7 @@ The Man and His Two Wives
 'herself.': H*ERS TP-PL
 'Now': TPHOU
 'the': -T
-'Man's': PHAPB AE S
+'Man's': PHAPB/AES
 'hair': HAEUR
 'was': WA
 'turning': TURPBG
@@ -102,7 +102,7 @@ The Man and His Two Wives
 'mother.': PHOER TP-PL
 'So': SO
 'every': EF
-'morning': PHORPG
+'morning': PHORPBG
 'she': SHE
 'used': AOUFD
 'to': TO
@@ -116,13 +116,13 @@ The Man and His Two Wives
 'many': PHAEPB
 'of': -F
 'the': -T
-'black': PWHABG
+'black': PWHRABG
 'ones': WUPBZ
 'as': AZ
 'she': SHE
 'could.': KO TP-PL
 'The': -T
-'consequence': KWEPS
+'consequence': KWEPBS
 'was': WA
 'the': -T
 'Man': PHAPB

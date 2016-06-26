@@ -51,7 +51,7 @@ The Milkmaid and Her Pail
 'lay': HRAEU
 'eggs': EGS
 'each': AOEFP
-'morning,': PHORPG KW-BG
+'morning,': PHORPBG KW-BG
 'which': WEU
 'I': EU
 'will': HR
