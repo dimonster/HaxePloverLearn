@@ -11,7 +11,7 @@ The Horse and the Ass
 'the': -T
 'Horse': HORS
 'prancing': PRAPBS/-G
-'along': A/HROPG
+'along': A/HROPBG
 'in': TPH
 'its': EUTS
 'fine': TPAOEUPB

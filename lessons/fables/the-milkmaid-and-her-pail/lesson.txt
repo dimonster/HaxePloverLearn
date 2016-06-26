@@ -19,7 +19,7 @@ The Milkmaid and Her Pail
 'As': AS
 'she': SHE
 'went': WEPBT
-'along': A/HROPG
+'along': A/HROPBG
 'she': SHE
 'began': TKPWAPB
 'calculating': KHRAEUGT

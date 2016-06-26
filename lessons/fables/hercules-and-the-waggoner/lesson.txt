@@ -8,7 +8,7 @@ Hercules and the Waggoner
 'a': AEU
 'heavy': HOEUF
 'load': HROD
-'along': A/HROPG
+'along': A/HROPBG
 'a': AEU
 'very': SRE
 'muddy': PHUD/TKEU

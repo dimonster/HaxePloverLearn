@@ -54,7 +54,7 @@ The Man and the Satyr
 'As': AS
 'he': E
 'went': WEPBT
-'along': A/HROPG
+'along': A/HROPBG
 'to': TO
 'the': -T
 'Satyr's': SAEURT AES

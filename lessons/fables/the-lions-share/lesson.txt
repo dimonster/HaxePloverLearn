@@ -5,7 +5,7 @@ The Lion's Share
 'went': WEPBT
 'once': WUPBS
 'a-hunting': A H-PB HUPBT/-G
-'along': A/HROPG
+'along': A/HROPBG
 'with': W
 'the': -T
 'Fox,': TPOBGS KW-BG

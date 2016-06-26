@@ -23,7 +23,7 @@ The Ant and the Grasshopper
 'passed': PAFD
 'by,': PWEU KW-BG
 'bearing': PWAERG
-'along': A/HROPG
+'along': A/HROPBG
 'with': W
 'great': TKWRAET
 'toil': TOEUL
