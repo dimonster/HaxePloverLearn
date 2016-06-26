@@ -40,7 +40,7 @@ The Fox and the Mask
 'a': AEU
 'Mask': PHAFBG
 'such': SUFP
-'as': AS
+'as': AZ
 'actors': A*RBGTS
 'use': AOUS
 'to': TO

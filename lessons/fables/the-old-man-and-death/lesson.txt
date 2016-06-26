@@ -51,7 +51,7 @@ The Old Man and Death
 'and': SKP
 'take': TAEUBG
 'me!"': PHE SKHRAPL KR-GS
-'As': AS
+'As': AZ
 'he': E
 'spoke,': SPOEBG KW-BG
 'Death,': TK*T KW-BG

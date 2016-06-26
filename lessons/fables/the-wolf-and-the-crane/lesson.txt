@@ -97,9 +97,9 @@ The Wolf and the Crane
 'open': OEP
 'his': HEUS
 'jaws': SKWRAUS
-'as': AS
+'as': AZ
 'wide': WAOEUD
-'as': AS
+'as': AZ
 'he': E
 'could.': KO TP-PL
 'Then': THEPB

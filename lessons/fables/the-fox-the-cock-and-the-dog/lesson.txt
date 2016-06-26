@@ -116,16 +116,16 @@ The Fox, the Cock, and the Dog
 'soon?"': SAOPB H-F KR-GS
 'he': E
 'continued,': T-PBD KW-BG
-'as': AS
+'as': AZ
 'the': -T
 'Fox': TPOBGS
 'began': TKPWAPB
 'to': TO
 'turn': TURPB
 'away': A/WAEU
-'as': AS
+'as': AZ
 'soon': SAOPB
-'as': AS
+'as': AZ
 'he': E
 'had': H
 'heard': HERD

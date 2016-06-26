@@ -26,7 +26,7 @@ The Hart and the Hunter
 'such': SUFP
 'noble': TPHOEBL
 'horns': HORPBS
-'as': AS
+'as': AZ
 'these,': THEZ KW-BG
 'with': W
 'such': SUFP

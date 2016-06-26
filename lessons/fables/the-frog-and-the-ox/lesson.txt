@@ -26,9 +26,9 @@ The Frog and the Ox
 'monster!': PHOPBS/TER SKHRAPL
 'It': T
 'was': WA
-'as': AS
+'as': AZ
 'big': PWEUG
-'as': AS
+'as': AZ
 'a': AEU
 'mountain,': PHOUPB/TAEUPB KW-BG
 'with': W
@@ -81,7 +81,7 @@ The Frog and the Ox
 'make': PAEUBG
 'myself': PHAO*EUS
 'quite': KWAOEUT
-'as': AS
+'as': AZ
 'broad;': PWRAUD STPH*FPLT
 'just': SKWRUFT
 'you': U
@@ -101,9 +101,9 @@ The Frog and the Ox
 'out.': OUT TP-PL
 '"Was': KR-GS WA
 'he': E
-'as': AS
+'as': AZ
 'big': PWEUG
-'as': AS
+'as': AZ
 'that?"': THA H-F KR-GS
 'asked': SK-D
 'he.': E TP-PL
@@ -132,9 +132,9 @@ The Frog and the Ox
 'the': -T
 'Ox': O*BGS
 'was': WA
-'as': AS
+'as': AZ
 'big': PWEUG
-'as': AS
+'as': AZ
 'that.': THAFP
 '"Bigger,': KR-GS PWEURG KW-BG
 'father,': TPAER KW-BG
@@ -171,9 +171,9 @@ The Frog and the Ox
 'Ox': O*BGS
 'is': S
 'not': TPHOT
-'as': AS
+'as': AZ
 'big': PWEUG
-'as': AS
+'as': AZ
 'this.': TH-FP
 'But': PWUT
 'at': AT

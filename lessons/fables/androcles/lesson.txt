@@ -14,7 +14,7 @@ Androcles
 'to': TO
 'the': -T
 'forest.': TPO*RS TP-PL
-'As': AS
+'As': AZ
 'he': E
 'was': WA
 'wandering': WAPBGD
@@ -53,7 +53,7 @@ Androcles
 'up': UP
 'to': TO
 'him.': HEUPL TP-PL
-'As': AS
+'As': AZ
 'he': E
 'came': KAEUPL
 'near,': TPHAOER KW-BG
@@ -206,9 +206,9 @@ Androcles
 'his': HEUS
 'victim.': SREUPL TP-PL
 'But': PWUT
-'as': AS
+'as': AZ
 'soon': SAOPB
-'as': AS
+'as': AZ
 'he': E
 'came': KAEUPL
 'near': TPHAOER

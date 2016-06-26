@@ -55,9 +55,9 @@ The Man and the Wooden God
 'still': STEUL
 'he': E
 'remained': RE/PHAEUPBD
-'as': AS
+'as': AZ
 'unlucky': UPB/HREUBG/KWREU
-'as': AS
+'as': AZ
 'ever.': -FR TP-PL
 'One': WUPB
 'day': TKAEU

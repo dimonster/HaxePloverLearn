@@ -34,7 +34,7 @@ The Tree and the Reed
 'in': TPH
 'the': -T
 'air': AEUR
-'as': AS
+'as': AZ
 'I': EU
 'do?"': TKO H-F KR-GS
 '"I': KR-GS EU

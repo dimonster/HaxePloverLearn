@@ -34,7 +34,7 @@ The Sick Lion
 'and': SKP
 'drew': TKRAOU
 'nearer': TPHAOER/*ER
-'as': AS
+'as': AZ
 'he': E
 'grew': TKPWRAOU
 'more': PHOR

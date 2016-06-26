@@ -52,7 +52,7 @@ The Man and His Two Wives
 'did': TK
 'not': TPHOT
 'like,': HAOEUBG KW-BG
-'as': AS
+'as': AZ
 'it': T
 'made': PHAED
 'him': HEUPL
@@ -112,13 +112,13 @@ The Man and His Two Wives
 'and': SKP
 'pick': PEUBG
 'out': OUT
-'as': AS
+'as': AZ
 'many': PHAEPB
 'of': -F
 'the': -T
 'black': PWHABG
 'ones': WUPBZ
-'as': AS
+'as': AZ
 'she': SHE
 'could.': KO TP-PL
 'The': -T

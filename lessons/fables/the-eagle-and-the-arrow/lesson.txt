@@ -67,7 +67,7 @@ The Eagle and the Arrow
 '"Alas!"': KR-GS A/HRAS SKHRAPL KR-GS
 'it': T
 'cried,': KRAOEUD KW-BG
-'as': AS
+'as': AZ
 'it': T
 'died,': TKAOEUD KW-BG
 '"We': KR-GS WE

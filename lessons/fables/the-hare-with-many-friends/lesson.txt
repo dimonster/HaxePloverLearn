@@ -189,7 +189,7 @@ The Hare With Many Friends
 'the': -T
 'present': PREPBT
 'occasion,': KWAEUGS KW-BG
-'as': AS
+'as': AZ
 'hounds': HOUPBDZ
 'have': SR
 'been': PW-PB
@@ -197,15 +197,15 @@ The Hare With Many Friends
 'to': TO
 'eat': AOET
 'sheep': SHAOEP
-'as': AS
+'as': AZ
 'well': WEL
-'as': AS
+'as': AZ
 'hares."': HA*ER/-FPS KR-GS
 'The': -T
 'Hare': HA*ER
 'then': THEPB
 'applied,': A/PHRAOEUD KW-BG
-'as': AS
+'as': AZ
 'a': AEU
 'last': HRAFT
 'hope,': HOEP KW-BG
@@ -221,7 +221,7 @@ The Hare With Many Friends
 'to': TO
 'help': HEP
 'her,': HER KW-BG
-'as': AS
+'as': AZ
 'he': E
 'did': TK
 'not': TPHOT
@@ -232,7 +232,7 @@ The Hare With Many Friends
 'responsibility': SPOBLT
 'upon': POPB
 'himself,': H*EUPLS KW-BG
-'as': AS
+'as': AZ
 'so': SO
 'many': PHAEPB
 'older': OERLD

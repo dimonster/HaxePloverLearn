@@ -46,7 +46,7 @@ The Dog and the Wolf
 'not': TPHOT
 'work': WORBG
 'steadily': STED/HREU
-'as': AS
+'as': AZ
 'I': EU
 'do,': TKO KW-BG
 'and': SKP

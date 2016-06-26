@@ -98,7 +98,7 @@ The Lion and the Statue
 'easily': AOELS
 'represent': REPT
 'things': THEUBGS
-'as': AS
+'as': AZ
 'we': WE
 'wish': WEURB
 'them': THEPL

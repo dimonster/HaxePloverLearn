@@ -47,9 +47,9 @@ The Ass and the Lapdog
 'and': SKP
 'frisked': TPREUS/-BGD
 'about': PW
-'as': AS
+'as': AZ
 'happy': HAEP
-'as': AS
+'as': AZ
 'could': KO
 'be.': -B TP-PL
 'The': -T

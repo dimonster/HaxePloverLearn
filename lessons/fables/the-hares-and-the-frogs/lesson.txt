@@ -16,9 +16,9 @@ The Hares and the Frogs
 'where': W-R
 'to': TO
 'go.': TKPW-FP
-'As': AS
+'As': AZ
 'soon': SAOPB
-'as': AS
+'as': AZ
 'they': THE
 'saw': SAU
 'a': AEU
@@ -73,7 +73,7 @@ The Hares and the Frogs
 'fear.': TPAOER TP-PL
 'But': PWUT
 'just': SKWRUFT
-'as': AS
+'as': AZ
 'they': THE
 'got': TKPWOT
 'near': TPHAOER
@@ -114,7 +114,7 @@ The Hares and the Frogs
 'not': TPHOT
 'so': SO
 'bad': PWAD
-'as': AS
+'as': AZ
 'they': THE
 'seem:': SAOEPL STPH-FPLT
 '"There': KR-GS THR

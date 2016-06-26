@@ -58,7 +58,7 @@ The Fisher
 'bagpipes': PWAG/PAOEUPZ
 'again,': TKPWEPB KW-BG
 'and,': ABD KW-BG
-'as': AS
+'as': AZ
 'he': E
 'played,': PHRAEUD KW-BG
 'the': -T
@@ -92,7 +92,7 @@ The Fisher
 'you': U
 'must': PHUFT
 'do': TKO
-'as': AS
+'as': AZ
 'he': E
 'bids': PWEUDZ
 'you."': U TP-PL KR-GS

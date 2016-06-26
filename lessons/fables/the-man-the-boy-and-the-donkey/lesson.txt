@@ -13,7 +13,7 @@ The Man, the Boy, and the Donkey
 'Donkey': TOPB/KEU
 'to': TO
 'market.': PHARBGT TP-PL
-'As': AS
+'As': AZ
 'they': THE
 'were': WR
 'walking': WAUG

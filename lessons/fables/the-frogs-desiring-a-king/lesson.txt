@@ -4,9 +4,9 @@ The Frogs Desiring a King
 'Frogs': TPROGS
 'were': WR
 'living': HREUFG
-'as': AS
+'as': AZ
 'happy': HAEP
-'as': AS
+'as': AZ
 'could': KO
 'be': -B
 'in': TPH

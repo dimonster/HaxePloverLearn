@@ -139,13 +139,13 @@ The Miser and His Gold
 'do': TKO
 'you': U
 'just': SKWRUFT
-'as': AS
+'as': AZ
 'much': UFP
 'good."': TKPWAOD TP-PL KR-GS
 'Wealth': W*ELT
 'unused': UPB/AOUS/-D
 'might': PHAOEUT
-'as': AS
+'as': AZ
 'well': WEL
 'not': TPHOT
 'exist.': KP*EUS TP-PL

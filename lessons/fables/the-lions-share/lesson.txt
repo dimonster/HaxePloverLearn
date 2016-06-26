@@ -83,7 +83,7 @@ The Lion's Share
 'in': TPH
 'my': PHEU
 'capacity': KPAFT
-'as': AS
+'as': AZ
 'King': KEUPBG
 'of': -F
 'Beasts;': PWAOEFTS STPH*FPLT
@@ -91,7 +91,7 @@ The Lion's Share
 'second': SEBGD
 'is': S
 'mine': PHAOEUP
-'as': AS
+'as': AZ
 'arbiter;': ARB/TER STPH*FPLT
 'another': TPHOER
 'share': SHAEUR
@@ -105,13 +105,13 @@ The Lion's Share
 'the': -T
 'chase;': KHAEUS STPH*FPLT
 'and': SKP
-'as': AS
+'as': AZ
 'for': TPOR
 'the': -T
 'fourth': TPO*URT
 'quarter,': KWAR/TER KW-BG
 'well,': WEL KW-BG
-'as': AS
+'as': AZ
 'for': TPOR
 'that,': THA KW-BG
 'I': EU
@@ -134,7 +134,7 @@ The Lion's Share
 'grumbled': TKPWRUPL/-BLD
 'the': -T
 'Fox': TPOBGS
-'as': AS
+'as': AZ
 'he': E
 'walked': WAUBGD
 'away': A/WAEU

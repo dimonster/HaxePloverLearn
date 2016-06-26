@@ -51,9 +51,9 @@ The Woodman and the Serpent
 'he': E
 'hurried': HUR/EUD
 'home.': HOEPL TP-PL
-'As': AS
+'As': AZ
 'soon': SAOPB
-'as': AS
+'as': AZ
 'he': E
 'got': TKPWOT
 'indoors': EUPB/TKAORS

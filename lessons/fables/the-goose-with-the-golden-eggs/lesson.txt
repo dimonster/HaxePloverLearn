@@ -26,9 +26,9 @@ The Goose With the Golden Eggs
 'up': UP
 'it': T
 'was': WA
-'as': AS
+'as': AZ
 'heavy': HOEUF
-'as': AS
+'as': AZ
 'lead': HRAOED
 'and': SKP
 'he': E
@@ -85,7 +85,7 @@ The Goose With the Golden Eggs
 'selling': SELG
 'his': HEUS
 'eggs.': EGS TP-PL
-'As': AS
+'As': AZ
 'he': E
 'grew': TKPWRAOU
 'rich': REUFP

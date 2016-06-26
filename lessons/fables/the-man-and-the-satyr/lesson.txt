@@ -13,7 +13,7 @@ The Man and the Satyr
 'bitter': PWEURT
 'winter's': WEURPBT AES
 'night.': TPHAOEUT TP-PL
-'As': AS
+'As': AZ
 'he': E
 'was': WA
 'roaming': ROEPLG
@@ -51,7 +51,7 @@ The Man and the Satyr
 'in': TPH
 'the': -T
 'morning.': PHORPG TP-PL
-'As': AS
+'As': AZ
 'he': E
 'went': WEPBT
 'along': A/HROPBG

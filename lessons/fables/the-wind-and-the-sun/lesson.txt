@@ -47,7 +47,7 @@ The Wind and the Sun
 'shall': SHAL
 'be': -B
 'regarded': RARD/-D
-'as': AS
+'as': AZ
 'the': -T
 'stronger.': STRORPBG TP-PL
 'You': U
@@ -65,9 +65,9 @@ The Wind and the Sun
 'began': TKPWAPB
 'to': TO
 'blow': PWHROE
-'as': AS
+'as': AZ
 'hard': HARD
-'as': AS
+'as': AZ
 'it': T
 'could': KO
 'upon': POPB

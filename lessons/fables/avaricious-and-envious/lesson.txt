@@ -52,7 +52,7 @@ Avaricious and Envious
 'neighbour': TPHAEUB
 'had': H
 'twice': TWAOEUS
-'as': AS
+'as': AZ
 'much.': UFP TP-PL
 'The': -T
 'Avaricious': A*F/REURBS
