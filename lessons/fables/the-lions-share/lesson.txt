@@ -150,8 +150,8 @@ The Lion's Share
 'in': TPH
 'a': AEU
 'low': HROE
-'growl': TKPWROUL
-'."You': TP-PL KR-GS U
+'growl."': TKPWROUL TP-PL KR-GS
+'You': U
 'may': PHAEU
 'share': SHAEUR
 'the': -T
