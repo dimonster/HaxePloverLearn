@@ -67,7 +67,7 @@ The Lion's Share
 'his': HEUS
 'stand': STAPBD
 'in': TPH
-'front': TPROPT
+'front': TPROPBT
 'of': -F
 'the': -T
 'carcass': KAR/KAS

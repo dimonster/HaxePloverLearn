@@ -23,7 +23,7 @@ The Two Fellows and the Bear
 'to': TO
 'be': -B
 'in': TPH
-'front,': TPROPT KW-BG
+'front,': TPROPBT KW-BG
 'and': SKP
 'he': E
 'seized': SAOEZ/-D
