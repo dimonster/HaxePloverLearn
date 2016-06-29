@@ -36,7 +36,6 @@
 * you `U`
 * yet `KWRET`
 * yes `KWRE`
-* ins `EUPBS`
 * law `HRAU`
 * lay `HRAEU`
 * act `ABGT`
