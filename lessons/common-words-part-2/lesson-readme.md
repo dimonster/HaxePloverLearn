@@ -24,7 +24,6 @@
 * hat `HAT`
 * new `TPHU`
 * ago `AG`
-* nos `TPHO/-S`
 * nod `TPHOD`
 * nor `TPH-R`
 * not `TPHOT`

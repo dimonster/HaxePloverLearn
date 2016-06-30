@@ -23,7 +23,6 @@
 * two `TWO`
 * was `WA`
 * art `ART`
-* ups `UPS`
 * use `AOUS`
 * wed `WED`
 * bar `PWAR`
