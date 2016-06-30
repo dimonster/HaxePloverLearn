@@ -64,7 +64,7 @@ Mother Holle Part 12
 'quickly': KWEULG
 'fetched': TPEFP/-D
 'great': TKPWRAET
-'stones': STOEBS
+'stones': STOEPBS
 'with': W
 'which': WEU
 'they': THE
@@ -83,7 +83,7 @@ Mother Holle Part 12
 'away,': A/WAEU KW-BG
 'but': PWUT
 'the': -T
-'stones': STOEBS
+'stones': STOEPBS
 'were': WR
 'so': SO
 'heavy': HOEUF

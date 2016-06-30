@@ -22,7 +22,7 @@ Common Words Part 28
 'stored': STORD
 'cannot': K/TPHOT
 'animal': PHAPBL
-'stones': STOEBS
+'stones': STOEPBS
 'caring': KARG
 'sticks': STEUBGZ
 'casing': KAEUS/-G

@@ -82,7 +82,7 @@ Ole the Tower-Keeper Part 3
 'pavement,': PAEUFPLT KW-BG
 'the': -T
 'paving': PAEUFG
-'stones,': STOEBS KW-BG
+'stones,': STOEPBS KW-BG
 'those': THOZ
 'fragments': TPRAPLTS
 'of': -F
@@ -180,7 +180,7 @@ Ole the Tower-Keeper Part 3
 'strata,': STRA/TA KW-BG
 'in': TPH
 'the': -T
-'pebble-stones,': PEBL H-PB STOEBS KW-BG
+'pebble-stones,': PEBL H-PB STOEPBS KW-BG
 'for': TPOR
 'each': AOEFP
 'separate': SERPT

@@ -13,7 +13,7 @@
 * been `PW-PB`
 * turned `TURPBD`
 * into `TPHAO`
-* stones `STOEBS`
+* stones `STOEPBS`
 * awoke, `A/WOEBG KW-BG`
 * took `TAOBG`
 * their `THAEUR`

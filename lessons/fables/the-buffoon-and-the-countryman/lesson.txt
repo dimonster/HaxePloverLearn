@@ -98,7 +98,7 @@ The Buffoon and the Countryman
 'hissed': H*EUS/-D
 'and': SKP
 'threw': THRAOU
-'stones': STOEBS
+'stones': STOEPBS
 'at': AT
 'him': HEUPL
 'to': TO

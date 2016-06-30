@@ -86,7 +86,7 @@
 * herself `H*ERS`
 * one `WUPB`
 * high `HAOEU`
-* corner-stones `KRORPB H-PB STOEBS`
+* corner-stones `KRORPB H-PB STOEPBS`
 * bridge. `PWREUPBLG TP-PL`
 * she `SHE`
 * still `STEUL`

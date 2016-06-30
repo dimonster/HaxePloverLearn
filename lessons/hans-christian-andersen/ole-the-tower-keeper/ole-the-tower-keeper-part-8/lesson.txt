@@ -29,7 +29,7 @@ Ole the Tower-Keeper Part 8
 'and': SKP
 'saw': SAU
 'the': -T
-'stones': STOEBS
+'stones': STOEPBS
 'break': PWRAEBG
 'loose': HRAOS
 'high': HAOEU
@@ -119,7 +119,7 @@ Ole the Tower-Keeper Part 8
 'few': TPAOU
 'of': -F
 'these': THEZ
-'stones,': STOEBS KW-BG
+'stones,': STOEPBS KW-BG
 'which': WEU
 'then': THEPB
 'came': KAEUPL

@@ -108,7 +108,7 @@ The Flying Trunk Part 1
 'sea': SAE
 'instead': STPHED
 'of': -F
-'stones,': STOEBS KW-BG
+'stones,': STOEPBS KW-BG
 'making': PHAEUG
 'ducks': TKUBGZ
 'and': SKP

@@ -73,7 +73,7 @@
 * look `HRAOBG`
 * some `SOPL`
 * big `PWEUG`
-* stones, `STOEBS KW-BG`
+* stones, `STOEPBS KW-BG`
 * we `WE`
 * will `HR`
 * fill `TPEUL`
@@ -89,7 +89,7 @@
 * seven `SEFPB`
 * kids `KEUDZ`
 * dragged `TKRAGD`
-* stones `STOEBS`
+* stones `STOEPBS`
 * thither `TH*EURT`
 * speed, `SPAOED KW-BG`
 * put `PUT`

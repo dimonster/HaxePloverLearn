@@ -101,7 +101,7 @@
 * down, `TKOUPB KW-BG`
 * pulpit, `PUL/PEUT KW-BG`
 * monuments, `PHOPB/AOUPLTS KW-BG`
-* grave-stones `TKPWRAEUF H-PB STOEBS`
+* grave-stones `TKPWRAEUF H-PB STOEPBS`
 * sold. `SOELD TP-PL`
 * My `PHEU`
 * father `TPAER`
@@ -113,7 +113,7 @@
 * two `TWO`
 * used `AOUFD`
 * for `TPOR`
-* paving-stones, `PAEUFG H-PB STOEBS KW-BG`
+* paving-stones, `PAEUFG H-PB STOEPBS KW-BG`
 * one `WUPB`
 * preserved `PREFBD`
 * whole, `WHOEL KW-BG`

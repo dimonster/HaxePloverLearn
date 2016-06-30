@@ -72,7 +72,7 @@ The Toad Part 1
 'forth': TPO*RT
 'between': TWAOEPB
 'the': -T
-'stones': STOEBS
+'stones': STOEPBS
 'in': TPH
 'the': -T
 'sides': SAOEUDZ
@@ -154,7 +154,7 @@ The Toad Part 1
 'called': KAULD
 'the': -T
 'wet': WET
-'stones.': STOEBS TP-PL
+'stones.': STOEPBS TP-PL
 'The': -T
 'Mother-Frog': PHOER H-PB TPROG
 'had': H

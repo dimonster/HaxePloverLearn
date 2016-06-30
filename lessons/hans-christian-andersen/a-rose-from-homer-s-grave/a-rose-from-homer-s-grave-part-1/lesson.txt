@@ -133,7 +133,7 @@ A Rose From Homer's Grave Part 1
 'a': AEU
 'heap': HAOEP
 'of': -F
-'stones,': STOEBS KW-BG
+'stones,': STOEPBS KW-BG
 'and': SKP
 'said,': SAEUD KW-BG
 '"Here': KR-GS HAOER

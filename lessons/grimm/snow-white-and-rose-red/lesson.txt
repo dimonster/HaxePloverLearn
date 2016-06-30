@@ -2003,7 +2003,7 @@
 'full': TPUL
 'of': -F
 'precious': PRERBS
-'stones,': STOEBS KW-BG
+'stones,': STOEPBS KW-BG
 'and': SKP
 'slipped': SHREUPD
 'away': A/WAEU
@@ -2057,7 +2057,7 @@
 'bag': PWAG
 'of': -F
 'precious': PRERBS
-'stones': STOEBS
+'stones': STOEPBS
 'in': TPH
 'a': AEU
 'clean': KHAOEPB
@@ -2080,7 +2080,7 @@
 'upon': POPB
 'the': -T
 'brilliant': PWREULT
-'stones;': STOEBS STPH*FPLT
+'stones;': STOEPBS STPH*FPLT
 'they': THE
 'glittered': TKPWHREUT/ERD
 'and': SKP

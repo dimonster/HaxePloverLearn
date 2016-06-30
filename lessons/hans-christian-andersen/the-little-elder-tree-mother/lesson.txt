@@ -2210,7 +2210,7 @@
 'round': ROUPBD
 'the': -T
 'old': OLD
-'stones.': STOEBS TP-PL
+'stones.': STOEPBS TP-PL
 'The': -T
 'dark-blue': TKARBG H-PB PWHRU
 'sea': SAE

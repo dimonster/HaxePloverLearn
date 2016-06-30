@@ -96,7 +96,7 @@
 * roots, `RAOTS KW-BG`
 * climbed `KHRAOEUPLD`
 * wet `WET`
-* stones, `STOEBS KW-BG`
+* stones, `STOEPBS KW-BG`
 * where `W-R`
 * water-snakes `WAUR H-PB STPHAEUBGS`
 * wriggling `WREUG/-LG`

@@ -116,7 +116,7 @@
 * thoughts, `THAUTS KW-BG`
 * these `THEZ`
 * reacted `RAOEBGTD`
-* stones, `STOEBS KW-BG`
+* stones, `STOEPBS KW-BG`
 * as `AZ`
 * if `TP`
 * they `THE`

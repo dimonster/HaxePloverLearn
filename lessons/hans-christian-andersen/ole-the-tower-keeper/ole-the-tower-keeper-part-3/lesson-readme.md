@@ -67,7 +67,7 @@
 * street `STRAOET`
 * pavement, `PAEUFPLT KW-BG`
 * paving `PAEUFG`
-* stones, `STOEBS KW-BG`
+* stones, `STOEPBS KW-BG`
 * fragments `TPRAPLTS`
 * oldest `OELD/EFT`
 * remains `RE/PHAEUPBS`
@@ -127,7 +127,7 @@
 * must `PHUFT`
 * different `TKEUFRT`
 * strata, `STRA/TA KW-BG`
-* pebble-stones, `PEBL H-PB STOEBS KW-BG`
+* pebble-stones, `PEBL H-PB STOEPBS KW-BG`
 * each `AOEFP`
 * separate `SERPT`
 * period. `PAOERD TP-PL`

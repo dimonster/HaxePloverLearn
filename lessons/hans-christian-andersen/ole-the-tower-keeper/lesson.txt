@@ -480,7 +480,7 @@
 'pavement,': PAEUFPLT KW-BG
 'the': -T
 'paving': PAEUFG
-'stones,': STOEBS KW-BG
+'stones,': STOEPBS KW-BG
 'those': THOZ
 'fragments': TPRAPLTS
 'of': -F
@@ -578,7 +578,7 @@
 'strata,': STRA/TA KW-BG
 'in': TPH
 'the': -T
-'pebble-stones,': PEBL H-PB STOEBS KW-BG
+'pebble-stones,': PEBL H-PB STOEPBS KW-BG
 'for': TPOR
 'each': AOEFP
 'separate': SERPT
@@ -1427,7 +1427,7 @@
 'and': SKP
 'saw': SAU
 'the': -T
-'stones': STOEBS
+'stones': STOEPBS
 'break': PWRAEBG
 'loose': HRAOS
 'high': HAOEU
@@ -1517,7 +1517,7 @@
 'few': TPAOU
 'of': -F
 'these': THEZ
-'stones,': STOEBS KW-BG
+'stones,': STOEPBS KW-BG
 'which': WEU
 'then': THEPB
 'came': KAEUPL

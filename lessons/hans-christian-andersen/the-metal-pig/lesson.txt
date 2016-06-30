@@ -2247,7 +2247,7 @@
 'on': OPB
 'the': -T
 'hard': HARD
-'stones': STOEBS
+'stones': STOEPBS
 'it': T
 'was': WA
 'a': AEU

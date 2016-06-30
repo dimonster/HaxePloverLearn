@@ -592,7 +592,7 @@
 'of': -F
 'the': -T
 'white': WHAOEUT
-'pebble-stones': PEBL H-PB STOEBS
+'pebble-stones': PEBL H-PB STOEPBS
 'out': OUT
 'of': -F
 'his': HEUS
@@ -2872,7 +2872,7 @@
 'pearls': PERLS
 'and': SKP
 'precious': PRERBS
-'stones': STOEBS
+'stones': STOEPBS
 'ran': RAPB
 'about': PW
 'the': -T

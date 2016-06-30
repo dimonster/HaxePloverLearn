@@ -194,7 +194,7 @@ Hansel and Gretel Part 3
 'of': -F
 'the': -T
 'white': WHAOEUT
-'pebble-stones': PEBL H-PB STOEBS
+'pebble-stones': PEBL H-PB STOEPBS
 'out': OUT
 'of': -F
 'his': HEUS

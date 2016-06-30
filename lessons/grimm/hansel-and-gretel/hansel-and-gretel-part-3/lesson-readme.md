@@ -126,5 +126,5 @@
 * constantly `SKA*PBLT`
 * throwing `THROEG`
 * one `WUPB`
-* pebble-stones `PEBL H-PB STOEBS`
+* pebble-stones `PEBL H-PB STOEPBS`
 * pocket `POBGT`

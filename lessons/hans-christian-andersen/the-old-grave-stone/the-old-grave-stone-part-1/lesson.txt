@@ -166,7 +166,7 @@ The Old Grave-Stone Part 1
 'monuments,': PHOPB/AOUPLTS KW-BG
 'and': SKP
 'the': -T
-'grave-stones': TKPWRAEUF H-PB STOEBS
+'grave-stones': TKPWRAEUF H-PB STOEPBS
 'sold.': SOELD TP-PL
 'My': PHEU
 'father': TPAER
@@ -183,7 +183,7 @@ The Old Grave-Stone Part 1
 'and': SKP
 'used': AOUFD
 'for': TPOR
-'paving-stones,': PAEUFG H-PB STOEBS KW-BG
+'paving-stones,': PAEUFG H-PB STOEPBS KW-BG
 'but': PWUT
 'that': THA
 'one': WUPB

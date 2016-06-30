@@ -350,7 +350,7 @@
 'mound,': PHOUPBD KW-BG
 'with': W
 'the': -T
-'stones': STOEBS
+'stones': STOEPBS
 'on': OPB
 'which': WEU
 'no': TPHO

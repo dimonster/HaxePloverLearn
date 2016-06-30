@@ -5,7 +5,7 @@
 * gold `TKPWOELD`
 * and `SKP`
 * precious `PRERBS`
-* stones `STOEBS`
+* stones `STOEPBS`
 * which `WEU`
 * had `H`
 * been `PW-PB`

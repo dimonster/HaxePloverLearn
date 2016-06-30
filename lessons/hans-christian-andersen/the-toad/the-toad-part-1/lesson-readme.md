@@ -52,7 +52,7 @@
 * grew `TKPWRAOU`
 * forth `TPO*RT`
 * between `TWAOEPB`
-* stones `STOEBS`
+* stones `STOEPBS`
 * sides `SAOEUDZ`
 * below `PWHRO`
 * dwelt `TKWELT`
@@ -97,7 +97,7 @@
 * dry `TKRAOEU`
 * place," `PHRAEUS KW-BG KR-GS`
 * wet `WET`
-* stones. `STOEBS TP-PL`
+* stones. `STOEPBS TP-PL`
 * Mother-Frog `PHOER H-PB TPROG`
 * once `WUPBS`
 * traveller. `TRAFL/HRER TP-PL`

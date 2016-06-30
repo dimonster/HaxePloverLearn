@@ -20,7 +20,7 @@
 * picked `PEUGD`
 * up `UP`
 * some `SOPL`
-* stones. `STOEBS TP-PL`
+* stones. `STOEPBS TP-PL`
 * Then `THEPB`
 * he `E`
 * climbed `KHRAOEUPLD`

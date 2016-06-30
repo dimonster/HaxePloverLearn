@@ -10,7 +10,7 @@
 * twined `TWEUPB/-D`
 * round `ROUPBD`
 * old `OLD`
-* stones. `STOEBS TP-PL`
+* stones. `STOEPBS TP-PL`
 * dark-blue `TKARBG H-PB PWHRU`
 * sea `SAE`
 * was `WA`

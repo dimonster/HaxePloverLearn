@@ -52,7 +52,7 @@
 * quickly `KWEULG`
 * fetched `TPEFP/-D`
 * great `TKPWRAET`
-* stones `STOEBS`
+* stones `STOEPBS`
 * with `W`
 * which `WEU`
 * they `THE`

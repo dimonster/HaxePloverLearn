@@ -26,7 +26,7 @@
 * years, `KWRAOERS KW-BG`
 * and `SKP`
 * saw `SAU`
-* stones `STOEBS`
+* stones `STOEPBS`
 * break `PWRAEBG`
 * loose `HRAOS`
 * high `HAOEU`
@@ -86,7 +86,7 @@
 * into `TPHAO`
 * few `TPAOU`
 * these `THEZ`
-* stones, `STOEBS KW-BG`
+* stones, `STOEPBS KW-BG`
 * which `WEU`
 * came `KAEUPL`
 * calendar `KAL/TKAR`

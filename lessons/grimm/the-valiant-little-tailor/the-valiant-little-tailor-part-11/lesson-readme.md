@@ -65,7 +65,7 @@
 * gathered `TKPWAERD`
 * two `TWO`
 * pocketsful `XXX pocketsful`
-* stones, `STOEBS KW-BG`
+* stones, `STOEPBS KW-BG`
 * with `W`
 * these `THEZ`
 * climbed `KHRAOEUPLD`

@@ -1871,7 +1871,7 @@
 'were': WR
 'full': TPUL
 'of': -F
-'stones:': STOEBS STPH-FPLT
+'stones:': STOEPBS STPH-FPLT
 'I': EU
 'shall': SHAL
 'be': -B

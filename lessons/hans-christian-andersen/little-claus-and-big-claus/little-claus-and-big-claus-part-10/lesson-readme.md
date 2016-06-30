@@ -59,7 +59,7 @@
 * heavy `HOEUF`
 * if `TP`
 * full `TPUL`
-* stones: `STOEBS STPH-FPLT`
+* stones: `STOEPBS STPH-FPLT`
 * tired `TAOEURD`
 * roll `ROL`
 * any `TPHEU`

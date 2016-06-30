@@ -7,7 +7,7 @@
 * move `PHOF`
 * about, `PW KW-BG`
 * the `-T`
-* stones `STOEBS`
+* stones `STOEPBS`
 * in `TPH`
 * his `HEUS`
 * stomach `STUPL`
@@ -35,7 +35,7 @@
 * feels `TPAOELS`
 * like `HRAOEUBG`
 * big `PWEUG`
-* stones.' `STOEBS TP-PL AE`
+* stones.' `STOEPBS TP-PL AE`
 * When `WHEPB`
 * he `E`
 * got `TKPWOT`

@@ -41,7 +41,7 @@
 * slept `SHREPD`
 * on `OPB`
 * hard `HARD`
-* stones `STOEBS`
+* stones `STOEPBS`
 * it `T`
 * royal `ROEUL`
 * couch, `KOUFP KW-BG`

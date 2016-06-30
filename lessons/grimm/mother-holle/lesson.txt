@@ -2262,7 +2262,7 @@
 'quickly': KWEULG
 'fetched': TPEFP/-D
 'great': TKPWRAET
-'stones': STOEBS
+'stones': STOEPBS
 'with': W
 'which': WEU
 'they': THE
@@ -2281,7 +2281,7 @@
 'away,': A/WAEU KW-BG
 'but': PWUT
 'the': -T
-'stones': STOEBS
+'stones': STOEPBS
 'were': WR
 'so': SO
 'heavy': HOEUF

@@ -5,7 +5,7 @@ Snow-White and Rose-Red Part 11
 'full': TPUL
 'of': -F
 'precious': PRERBS
-'stones,': STOEBS KW-BG
+'stones,': STOEPBS KW-BG
 'and': SKP
 'slipped': SHREUPD
 'away': A/WAEU
@@ -59,7 +59,7 @@ Snow-White and Rose-Red Part 11
 'bag': PWAG
 'of': -F
 'precious': PRERBS
-'stones': STOEBS
+'stones': STOEPBS
 'in': TPH
 'a': AEU
 'clean': KHAOEPB
@@ -82,7 +82,7 @@ Snow-White and Rose-Red Part 11
 'upon': POPB
 'the': -T
 'brilliant': PWREULT
-'stones;': STOEBS STPH*FPLT
+'stones;': STOEPBS STPH*FPLT
 'they': THE
 'glittered': TKPWHREUT/ERD
 'and': SKP

@@ -10,7 +10,7 @@ The Man and the Wooden God
 'worship': WOR/SH-P
 'stocks': STOBGS
 'and': SKP
-'stones': STOEBS
+'stones': STOEPBS
 'and': SKP
 'idols,': AOEUD/O*L/-S KW-BG
 'and': SKP

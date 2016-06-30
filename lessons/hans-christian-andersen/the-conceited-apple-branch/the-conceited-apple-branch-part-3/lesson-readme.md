@@ -43,7 +43,7 @@
 * to `TO`
 * grow `TKPWROE`
 * between `TWAOEPB`
-* paving-stones, `PAEUFG H-PB STOEBS KW-BG`
+* paving-stones, `PAEUFG H-PB STOEPBS KW-BG`
 * shooting `SHAOGT`
 * up `UP`
 * everywhere, `WEFR KW-BG`

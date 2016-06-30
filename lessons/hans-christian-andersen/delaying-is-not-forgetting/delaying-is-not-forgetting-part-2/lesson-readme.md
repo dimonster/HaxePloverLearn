@@ -55,7 +55,7 @@
 * yourself `KWRO*URS`
 * put `PUT`
 * little `HREUL`
-* stones `STOEBS`
+* stones `STOEPBS`
 * under `*UPBD`
 * each `AOEFP`
 * of `-F`

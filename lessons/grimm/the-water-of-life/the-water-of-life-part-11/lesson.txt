@@ -82,7 +82,7 @@ The Water of Life Part 11
 'gold': TKPWOELD
 'and': SKP
 'precious': PRERBS
-'stones': STOEBS
+'stones': STOEPBS
 'for': TPOR
 'his': HEUS
 'youngest': KWRUPBG/EFT

@@ -8,7 +8,7 @@ The Wolf and the Seven Little Kids Part 6
 'move': PHOF
 'about,': PW KW-BG
 'the': -T
-'stones': STOEBS
+'stones': STOEPBS
 'in': TPH
 'his': HEUS
 'stomach': STUPL
@@ -39,7 +39,7 @@ The Wolf and the Seven Little Kids Part 6
 'feels': TPAOELS
 'like': HRAOEUBG
 'big': PWEUG
-'stones.'': STOEBS TP-PL AE
+'stones.'': STOEPBS TP-PL AE
 'And': SKP
 'when': WHEPB
 'he': E
@@ -56,7 +56,7 @@ The Wolf and the Seven Little Kids Part 6
 'drink,': TKREU KW-BG
 'the': -T
 'heavy': HOEUF
-'stones': STOEBS
+'stones': STOEPBS
 'made': PHAED
 'him': HEUPL
 'fall': TPAUL

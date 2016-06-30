@@ -74,7 +74,7 @@ Hansel and Gretel Part 15
 'pearls': PERLS
 'and': SKP
 'precious': PRERBS
-'stones': STOEBS
+'stones': STOEPBS
 'ran': RAPB
 'about': PW
 'the': -T

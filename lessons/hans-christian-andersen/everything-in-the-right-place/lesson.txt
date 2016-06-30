@@ -113,7 +113,7 @@
 'of': -F
 'the': -T
 'high': HAOEU
-'corner-stones': KRORPB H-PB STOEBS
+'corner-stones': KRORPB H-PB STOEPBS
 'of': -F
 'the': -T
 'bridge.': PWREUPBLG TP-PL

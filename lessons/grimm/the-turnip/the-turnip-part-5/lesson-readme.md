@@ -44,7 +44,7 @@
 * simples, `S*EUPL/-S KW-BG`
 * birds, `PWEURDZ KW-BG`
 * precious `PRERBS`
-* stones. `STOEBS TP-PL`
+* stones. `STOEPBS TP-PL`
 * Wert `XXX Wert`
 * thou `THO*U`
 * but `PWUT`

@@ -65,7 +65,7 @@
 * of `-F`
 * gold `TKPWOELD`
 * precious `PRERBS`
-* stones `STOEBS`
+* stones `STOEPBS`
 * his `HEUS`
 * youngest `KWRUPBG/EFT`
 * son; `SOPB STPH*FPLT`

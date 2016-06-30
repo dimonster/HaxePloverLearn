@@ -245,7 +245,7 @@
 'trips': TREUPS
 'against': STPWEPBS
 'no': TPHO
-'stones,': STOEBS KW-BG
+'stones,': STOEPBS KW-BG
 'saves': SAFS
 'shoe-leather,': SHAOU H-PB HRE/THER KW-BG
 'and': SKP

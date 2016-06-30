@@ -20,7 +20,7 @@
 * ram `RAPL`
 * down `TKOUPB`
 * the `-T`
-* paving-stones `PAEUFG H-PB STOEBS`
+* paving-stones `PAEUFG H-PB STOEPBS`
 * in `TPH`
 * roads. `ROEDZ TP-PL`
 * maiden `PHAEUD/*EPB`

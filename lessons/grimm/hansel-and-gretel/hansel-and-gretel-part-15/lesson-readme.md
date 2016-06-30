@@ -57,7 +57,7 @@
 * until `TPH-L`
 * pearls `PERLS`
 * precious `PRERBS`
-* stones `STOEBS`
+* stones `STOEPBS`
 * ran `RAPB`
 * about `PW`
 * room, `RAOPL KW-BG`

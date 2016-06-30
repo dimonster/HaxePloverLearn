@@ -5,7 +5,7 @@
 * full `TPUL`
 * of `-F`
 * precious `PRERBS`
-* stones, `STOEBS KW-BG`
+* stones, `STOEPBS KW-BG`
 * and `SKP`
 * slipped `SHREUPD`
 * away `A/WAEU`
@@ -44,7 +44,7 @@
 * emptied `EPL/TEUD`
 * out `OUT`
 * bag `PWAG`
-* stones `STOEBS`
+* stones `STOEPBS`
 * clean `KHAOEPB`
 * spot, `SPOT KW-BG`
 * not `TPHOT`
@@ -61,7 +61,7 @@
 * shone `SHO*EPB`
 * upon `POPB`
 * brilliant `PWREULT`
-* stones; `STOEBS STPH*FPLT`
+* stones; `STOEPBS STPH*FPLT`
 * glittered `TKPWHREUT/ERD`
 * sparkled `SPAR/K-LD`
 * with `W`

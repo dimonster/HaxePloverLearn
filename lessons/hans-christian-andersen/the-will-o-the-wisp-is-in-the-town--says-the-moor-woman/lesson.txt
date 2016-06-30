@@ -1390,7 +1390,7 @@
 'reacted': RAOEBGTD
 'upon': POPB
 'the': -T
-'stones,': STOEBS KW-BG
+'stones,': STOEPBS KW-BG
 'as': AZ
 'if': TP
 'they': THE

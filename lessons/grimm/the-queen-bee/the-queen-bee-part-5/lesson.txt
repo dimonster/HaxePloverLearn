@@ -15,7 +15,7 @@ The Queen Bee Part 5
 'been': PW-PB
 'turned': TURPBD
 'into': TPHAO
-'stones': STOEBS
+'stones': STOEPBS
 'awoke,': A/WOEBG KW-BG
 'and': SKP
 'took': TAOBG

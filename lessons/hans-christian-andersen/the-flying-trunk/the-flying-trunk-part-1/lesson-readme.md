@@ -78,7 +78,7 @@
 * into `TPHAO`
 * sea `SAE`
 * instead `STPHED`
-* stones, `STOEBS KW-BG`
+* stones, `STOEPBS KW-BG`
 * making `PHAEUG`
 * ducks `TKUBGZ`
 * drakes `TKRAEUBG/-S`

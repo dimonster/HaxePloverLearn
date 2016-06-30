@@ -92,7 +92,7 @@
 * bowed `PWOE/-D`
 * head `HED`
 * heap `HAOEP`
-* stones, `STOEBS KW-BG`
+* stones, `STOEPBS KW-BG`
 * said, `SAEUD KW-BG`
 * "Here `KR-GS HAOER`
 * rests `REFTS`

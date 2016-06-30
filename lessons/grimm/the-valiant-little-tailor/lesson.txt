@@ -2082,7 +2082,7 @@
 'two': TWO
 'pocketsful': XXX pocketsful
 'of': -F
-'stones,': STOEBS KW-BG
+'stones,': STOEPBS KW-BG
 'and': SKP
 'with': W
 'these': THEZ

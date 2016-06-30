@@ -92,7 +92,7 @@
 * turfy `XXX turfy`
 * mound, `PHOUPBD KW-BG`
 * with `W`
-* stones `STOEBS`
+* stones `STOEPBS`
 * on `OPB`
 * Runic `XXX Runic`
 * record `RORD`

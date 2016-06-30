@@ -895,7 +895,7 @@
 'for': TPOR
 'some': SOPL
 'big': PWEUG
-'stones,': STOEBS KW-BG
+'stones,': STOEPBS KW-BG
 'and': SKP
 'we': WE
 'will': HR
@@ -917,7 +917,7 @@
 'kids': KEUDZ
 'dragged': TKRAGD
 'the': -T
-'stones': STOEBS
+'stones': STOEPBS
 'thither': TH*EURT
 'with': W
 'all': AUL
@@ -978,7 +978,7 @@
 'and': SKP
 'as': AZ
 'the': -T
-'stones': STOEBS
+'stones': STOEPBS
 'in': TPH
 'his': HEUS
 'stomach': STUPL
@@ -1006,7 +1006,7 @@
 'move': PHOF
 'about,': PW KW-BG
 'the': -T
-'stones': STOEBS
+'stones': STOEPBS
 'in': TPH
 'his': HEUS
 'stomach': STUPL
@@ -1037,7 +1037,7 @@
 'feels': TPAOELS
 'like': HRAOEUBG
 'big': PWEUG
-'stones.'': STOEBS TP-PL AE
+'stones.'': STOEPBS TP-PL AE
 'And': SKP
 'when': WHEPB
 'he': E
@@ -1054,7 +1054,7 @@
 'drink,': TKREU KW-BG
 'the': -T
 'heavy': HOEUF
-'stones': STOEBS
+'stones': STOEPBS
 'made': PHAED
 'him': HEUPL
 'fall': TPAUL
