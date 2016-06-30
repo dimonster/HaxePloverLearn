@@ -21,7 +21,7 @@
 * in `TPH`
 * midst `PHEUDZ`
 * them. `THEPL TP-PL`
-* 'Unlucky `AE UPB/HREUBG/KWREU`
+* 'Unlucky `AE UPB/HROEUBG`
 * wretch `WREFP`
 * that `THA`
 * I `EU`

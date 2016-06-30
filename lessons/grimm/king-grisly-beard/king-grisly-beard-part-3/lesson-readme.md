@@ -53,7 +53,7 @@
 * been `PW-PB`
 * thine.' `THAOEUPB TP-PL AE`
 * 'Ah! `AE HA*E SKHRAPL`
-* unlucky `UPB/HREUBG/KWREU`
+* unlucky `UPB/HROEUBG`
 * wretch `WREFP`
 * that `THA`
 * I `EU`

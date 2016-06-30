@@ -25,7 +25,7 @@
 * empty. `EPLT TP-PL`
 * 'What `AE WHA`
 * an `APB`
-* unlucky `UPB/HREUBG/KWREU`
+* unlucky `UPB/HROEUBG`
 * wretch `WREFP`
 * I `EU`
 * am!' `APL SKHRAPL AE`
@@ -74,7 +74,7 @@
 * force, `TPORS KW-BG`
 * down `TKOUPB`
 * dead. `TKED TP-PL`
-* 'Unlucky `AE UPB/HREUBG/KWREU`
+* 'Unlucky `AE UPB/HROEUBG`
 * sparrow. `SPAEUR/ROE TP-PL`
 * went `WEPBT`
 * on `OPB`

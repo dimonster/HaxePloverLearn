@@ -68,7 +68,7 @@
 * give `TKPWEUF`
 * little `HREUL`
 * Princess `PREUPB/ES`
-* unlucky `UPB/HREUBG/KWREU`
+* unlucky `UPB/HROEUBG`
 * gift, `TKPWEUFT KW-BG`
 * went, `WEPBT KW-BG`
 * soon `SAOPB`

@@ -56,7 +56,7 @@ The Man and the Wooden God
 'he': E
 'remained': RE/PHAEUPBD
 'as': AZ
-'unlucky': UPB/HREUBG/KWREU
+'unlucky': UPB/HROEUBG
 'as': AZ
 'ever.': -FR TP-PL
 'One': WUPB

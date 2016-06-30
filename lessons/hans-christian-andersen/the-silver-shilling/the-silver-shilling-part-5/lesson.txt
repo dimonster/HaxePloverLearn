@@ -32,7 +32,7 @@ The Silver Shilling Part 5
 'woman': WOPL
 'a': AEU
 'most': PHOFT
-'unlucky': UPB/HREUBG/KWREU
+'unlucky': UPB/HROEUBG
 'shilling.': SHEULG TP-PL
 ''I': AE EU
 'am': APL

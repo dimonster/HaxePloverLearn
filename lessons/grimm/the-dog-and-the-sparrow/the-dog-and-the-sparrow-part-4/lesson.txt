@@ -29,7 +29,7 @@ The Dog and the Sparrow Part 4
 'empty.': EPLT TP-PL
 ''What': AE WHA
 'an': APB
-'unlucky': UPB/HREUBG/KWREU
+'unlucky': UPB/HROEUBG
 'wretch': WREFP
 'I': EU
 'am!'': APL SKHRAPL AE
@@ -105,7 +105,7 @@ The Dog and the Sparrow Part 4
 'fell': TPEL
 'down': TKOUPB
 'dead.': TKED TP-PL
-''Unlucky': AE UPB/HREUBG/KWREU
+''Unlucky': AE UPB/HROEUBG
 'wretch': WREFP
 'that': THA
 'I': EU

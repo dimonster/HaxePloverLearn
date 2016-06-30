@@ -91,7 +91,7 @@ The Sleeping Beauty in the Wood Part 2
 'little': HREUL
 'Princess': PREUPB/ES
 'some': SOPL
-'unlucky': UPB/HREUBG/KWREU
+'unlucky': UPB/HROEUBG
 'gift,': TKPWEUFT KW-BG
 'went,': WEPBT KW-BG
 'as': AZ

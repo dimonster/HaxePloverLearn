@@ -627,7 +627,7 @@
 'empty.': EPLT TP-PL
 ''What': AE WHA
 'an': APB
-'unlucky': UPB/HREUBG/KWREU
+'unlucky': UPB/HROEUBG
 'wretch': WREFP
 'I': EU
 'am!'': APL SKHRAPL AE
@@ -703,7 +703,7 @@
 'fell': TPEL
 'down': TKOUPB
 'dead.': TKED TP-PL
-''Unlucky': AE UPB/HREUBG/KWREU
+''Unlucky': AE UPB/HROEUBG
 'wretch': WREFP
 'that': THA
 'I': EU
@@ -819,7 +819,7 @@
 'on': OPB
 'the': -T
 'spot.': SPOT TP-PL
-''Unlucky': AE UPB/HREUBG/KWREU
+''Unlucky': AE UPB/HROEUBG
 'wretch': WREFP
 'that': THA
 'I': EU
@@ -1023,7 +1023,7 @@
 'midst': PHEUDZ
 'of': -F
 'them.': THEPL TP-PL
-''Unlucky': AE UPB/HREUBG/KWREU
+''Unlucky': AE UPB/HROEUBG
 'wretch': WREFP
 'that': THA
 'I': EU

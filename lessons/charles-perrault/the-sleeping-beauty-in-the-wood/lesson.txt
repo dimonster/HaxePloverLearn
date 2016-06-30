@@ -289,7 +289,7 @@
 'little': HREUL
 'Princess': PREUPB/ES
 'some': SOPL
-'unlucky': UPB/HREUBG/KWREU
+'unlucky': UPB/HROEUBG
 'gift,': TKPWEUFT KW-BG
 'went,': WEPBT KW-BG
 'as': AZ

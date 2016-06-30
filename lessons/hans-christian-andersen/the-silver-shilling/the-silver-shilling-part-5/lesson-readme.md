@@ -31,7 +31,7 @@
 * the `-T`
 * woman `WOPL`
 * most `PHOFT`
-* unlucky `UPB/HREUBG/KWREU`
+* unlucky `UPB/HROEUBG`
 * shilling. `SHEULG TP-PL`
 * 'I `AE EU`
 * Am `APL`

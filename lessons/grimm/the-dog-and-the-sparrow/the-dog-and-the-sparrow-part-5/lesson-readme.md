@@ -18,7 +18,7 @@
 * him `HEUPL`
 * on `OPB`
 * spot. `SPOT TP-PL`
-* 'Unlucky `AE UPB/HREUBG/KWREU`
+* 'Unlucky `AE UPB/HROEUBG`
 * wretch `WREFP`
 * that `THA`
 * I `EU`

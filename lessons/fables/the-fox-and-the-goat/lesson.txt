@@ -2,7 +2,7 @@ The Fox and the Goat
 
 'By': PWEU
 'an': APB
-'unlucky': UPB/HREUBG/KWREU
+'unlucky': UPB/HROEUBG
 'chance': KHAPBS
 'a': AEU
 'Fox': TPOBGS

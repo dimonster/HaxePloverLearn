@@ -21,7 +21,7 @@ The Dog and the Sparrow Part 5
 'on': OPB
 'the': -T
 'spot.': SPOT TP-PL
-''Unlucky': AE UPB/HREUBG/KWREU
+''Unlucky': AE UPB/HROEUBG
 'wretch': WREFP
 'that': THA
 'I': EU

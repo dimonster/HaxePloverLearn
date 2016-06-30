@@ -25,7 +25,7 @@ The Dog and the Sparrow Part 6
 'midst': PHEUDZ
 'of': -F
 'them.': THEPL TP-PL
-''Unlucky': AE UPB/HREUBG/KWREU
+''Unlucky': AE UPB/HROEUBG
 'wretch': WREFP
 'that': THA
 'I': EU
