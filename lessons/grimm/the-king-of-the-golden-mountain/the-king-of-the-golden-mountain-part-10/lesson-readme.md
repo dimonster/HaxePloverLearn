@@ -93,7 +93,7 @@
 * alone, `A/HROEPB KW-BG`
 * saw `SAU`
 * that `THA`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * finger. `TPURPBG TP-PL`
 * can `K`
 * never `TPHEF`

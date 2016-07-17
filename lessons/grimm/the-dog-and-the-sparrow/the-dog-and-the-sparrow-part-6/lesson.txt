@@ -42,7 +42,7 @@ The Dog and the Sparrow Part 6
 'was': WA
 'almost': HR-PL
 'all': AUL
-'gone.': TKWOPB TP-PL
+'gone.': TKPWOPB TP-PL
 ''Not': AE TPHOT
 'wretch': WREFP
 'enough': TPHUF

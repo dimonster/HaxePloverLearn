@@ -6,7 +6,7 @@
 * brothers, `PWROERS KW-BG`
 * sisters, `ST-RS KW-BG`
 * were `WR`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * to `TO`
 * the `-T`
 * play; `PHRAEU STPH*FPLT`

@@ -76,7 +76,7 @@ Iron Hans Part 4
 'but': PWUT
 'it': T
 'was': WA
-'gone.': TKWOPB TP-PL
+'gone.': TKPWOPB TP-PL
 'She': SHE
 'called': KAULD
 'the': -T

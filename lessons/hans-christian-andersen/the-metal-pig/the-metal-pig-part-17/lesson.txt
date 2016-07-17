@@ -102,7 +102,7 @@ The Metal Pig Part 17
 'he.': E TP-PL
 '"Bellissima': KR-GS PWEL/HREUS/PHA/TPHR-RB
 'is': S
-'gone.': TKWOPB TP-PL
+'gone.': TKPWOPB TP-PL
 'Open': OEP
 'the': -T
 'door,': TKAOR KW-BG

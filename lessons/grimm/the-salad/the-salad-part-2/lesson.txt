@@ -26,7 +26,7 @@ The Salad Part 2
 'When': WHEPB
 'he': E
 'had': H
-'gone': TKWOPB
+'gone': TKPWOPB
 'a': AEU
 'hundred': HUPBD
 'steps': STEPS

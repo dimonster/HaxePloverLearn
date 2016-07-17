@@ -85,7 +85,7 @@
 * moonlight, `PHAOLGT KW-BG`
 * heard `HERD`
 * nightingale, `TPHAOEUT/-G/TKPWAEL KW-BG`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * into `TPHAO`
 * forest `TPOEFRT`
 * met `PHET`

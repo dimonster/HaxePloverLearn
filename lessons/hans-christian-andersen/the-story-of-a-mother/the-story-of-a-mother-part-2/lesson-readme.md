@@ -63,9 +63,9 @@
 * round `ROUPBD`
 * room. `RAOPL TP-PL`
 * man `PHAPB`
-* gone, `TKWOPB KW-BG`
+* gone, `TKPWOPB KW-BG`
 * child—it `KHAOEULD EPL/TKA*RB T`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * too!—the `TAO SKHRAPL EPL/TKA*RB -T`
 * taken `TAEPB`
 * it `T`
@@ -123,6 +123,6 @@
 * tell `TEL`
 * me `PHE`
 * way `WAEU`
-* gone," `TKWOPB KW-BG KR-GS`
+* gone," `TKPWOPB KW-BG KR-GS`
 * mother; `PHOER STPH*FPLT`
 * "tell `KR-GS TEL`

@@ -6,7 +6,7 @@
 'and': SKP
 'sisters,': ST-RS KW-BG
 'were': WR
-'gone': TKWOPB
+'gone': TKPWOPB
 'to': TO
 'the': -T
 'play;': PHRAEU STPH*FPLT
@@ -957,7 +957,7 @@
 'Where's': W-R AE S*/SP-S
 'my': PHEU
 'humor?': HAOURPL H-F
-'Gone,': TKWOPB KW-BG
+'Gone,': TKPWOPB KW-BG
 'I': EU
 'fear,': TPAOER KW-BG
 'And': SKP

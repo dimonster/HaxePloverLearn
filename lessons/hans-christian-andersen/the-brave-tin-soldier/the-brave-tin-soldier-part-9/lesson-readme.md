@@ -56,7 +56,7 @@
 * instantly `EUPB/STAPBT/HREU`
 * in `TPH`
 * flames `TPHRAEUPLS`
-* gone. `TKWOPB TP-PL`
+* gone. `TKPWOPB TP-PL`
 * soldier `SHRERPBL`
 * melted `PHELT/-D`
 * down `TKOUPB`

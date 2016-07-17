@@ -174,7 +174,7 @@ The Swineherd Part 4
 'when': WHEPB
 'she': SHE
 'had': H
-'gone': TKWOPB
+'gone': TKPWOPB
 'a': AEU
 'little': HREUL
 'distance,': STKAPBS KW-BG

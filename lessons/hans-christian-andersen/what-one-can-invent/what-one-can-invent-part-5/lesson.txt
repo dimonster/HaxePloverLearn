@@ -169,7 +169,7 @@ What One Can Invent Part 5
 'bees': PWAOES
 'must': PHUFT
 'have': SR
-'gone': TKWOPB
+'gone': TKPWOPB
 'with': W
 'her.': HER TP-PL
 'It': T

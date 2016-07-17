@@ -27,7 +27,7 @@
 * explanation. `SHRAPBGS TP-PL`
 * None `TPHOPB`
 * had `H`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * far `TPAR`
 * enough, `TPHUF KW-BG`
 * nor `TPH-R`

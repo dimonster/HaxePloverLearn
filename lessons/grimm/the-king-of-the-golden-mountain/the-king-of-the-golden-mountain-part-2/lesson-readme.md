@@ -19,7 +19,7 @@
 * his `HEUS`
 * wealth `W*ELT`
 * was `WA`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * to `TO`
 * bottom `PWOPLT`
 * sea, `SAE KW-BG`

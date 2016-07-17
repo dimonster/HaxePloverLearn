@@ -96,7 +96,7 @@ The Bell Part 2
 'that': THA
 'they': THE
 'had': H
-'gone': TKWOPB
+'gone': TKPWOPB
 'as': AZ
 'far': TPAR
 'as': AZ

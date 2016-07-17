@@ -38,7 +38,7 @@
 * one `WUPB`
 * of `-F`
 * them `THEPL`
-* gone. `TKWOPB TP-PL`
+* gone. `TKPWOPB TP-PL`
 * became `PWAEUPL`
 * very `SRE`
 * angry `APBG/REU`

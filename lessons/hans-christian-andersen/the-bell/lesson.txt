@@ -294,7 +294,7 @@
 'that': THA
 'they': THE
 'had': H
-'gone': TKWOPB
+'gone': TKPWOPB
 'as': AZ
 'far': TPAR
 'as': AZ
@@ -430,7 +430,7 @@
 'of': -F
 'them': THEPL
 'had': H
-'gone': TKWOPB
+'gone': TKPWOPB
 'far': TPAR
 'enough,': TPHUF KW-BG
 'nor': TPH-R

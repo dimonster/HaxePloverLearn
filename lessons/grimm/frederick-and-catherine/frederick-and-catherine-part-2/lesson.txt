@@ -42,7 +42,7 @@ Frederick and Catherine Part 2
 'steak.': STAEBG TP-PL
 ''It's': AE T AE S*/SP-S
 'all': AUL
-'gone,': TKWOPB KW-BG
+'gone,': TKPWOPB KW-BG
 'and': SKP
 '"what': KR-GS WHA
 'can't': K-PBT

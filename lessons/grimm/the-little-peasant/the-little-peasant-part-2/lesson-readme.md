@@ -98,7 +98,7 @@
 * someone `SWUPB`
 * had `H`
 * stolen `STOEL/EPB`
-* gone. `TKWOPB TP-PL`
+* gone. `TKPWOPB TP-PL`
 * away.' `A/WAEU TP-PL AE`
 * peasant, `PEFPBT KW-BG`
 * however, `HOUF KW-BG`

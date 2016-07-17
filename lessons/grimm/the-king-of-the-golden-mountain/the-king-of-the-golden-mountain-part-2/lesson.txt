@@ -19,7 +19,7 @@ The King of the Golden Mountain Part 2
 'his': HEUS
 'wealth': W*ELT
 'was': WA
-'gone': TKWOPB
+'gone': TKPWOPB
 'to': TO
 'the': -T
 'bottom': PWOPLT

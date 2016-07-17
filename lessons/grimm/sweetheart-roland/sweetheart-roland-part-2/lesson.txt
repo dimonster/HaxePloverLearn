@@ -58,7 +58,7 @@ Sweetheart Roland Part 2
 'When': WHEPB
 'she': SHE
 'had': H
-'gone': TKWOPB
+'gone': TKPWOPB
 'away,': A/WAEU KW-BG
 'the': -T
 'girl': TKPWEURL

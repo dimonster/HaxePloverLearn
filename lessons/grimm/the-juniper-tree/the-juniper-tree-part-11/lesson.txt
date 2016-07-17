@@ -123,7 +123,7 @@ The Juniper-Tree Part 11
 'when': WHEPB
 'I': EU
 'was': WA
-'gone;': TKWOPB STPH*FPLT
+'gone;': TKPWOPB STPH*FPLT
 'two': TWO
 'more': PHOR
 'men': PHEPB

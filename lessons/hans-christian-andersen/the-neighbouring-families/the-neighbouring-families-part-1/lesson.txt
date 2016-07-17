@@ -156,7 +156,7 @@ The Neighbouring Families Part 1
 'the': -T
 'picture': P*EUFP
 'was': WA
-'gone.': TKWOPB TP-PL
+'gone.': TKPWOPB TP-PL
 'Two': TWO
 'feathers': TP*ET/ERS
 'which': WEU

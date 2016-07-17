@@ -1026,7 +1026,7 @@
 'when': WHEPB
 'they': THE
 'were': WR
-'gone,': TKWOPB KW-BG
+'gone,': TKPWOPB KW-BG
 'she': SHE
 'had': H
 'not': TPHOT
@@ -2220,7 +2220,7 @@
 'shot.': SHOT TP-PL
 'Years': KWRAOERS
 'had': H
-'gone': TKWOPB
+'gone': TKPWOPB
 'by': PWEU
 'when,': WHEPB KW-BG
 'one': WUPB

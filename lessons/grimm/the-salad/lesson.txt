@@ -224,7 +224,7 @@
 'When': WHEPB
 'he': E
 'had': H
-'gone': TKWOPB
+'gone': TKPWOPB
 'a': AEU
 'hundred': HUPBD
 'steps': STEPS
@@ -1152,7 +1152,7 @@
 'as': AZ
 'they': THE
 'were': WR
-'gone,': TKWOPB KW-BG
+'gone,': TKPWOPB KW-BG
 'he': E
 'climbed': KHRAOEUPLD
 'to': TO

@@ -106,7 +106,7 @@
 * some `SOPL`
 * money," `PHUPB KW-BG KR-GS`
 * dog. `TKOG TP-PL`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * moment, `PHOEPLT KW-BG`
 * presently `PREPBLT`
 * returned, `RURPBD KW-BG`

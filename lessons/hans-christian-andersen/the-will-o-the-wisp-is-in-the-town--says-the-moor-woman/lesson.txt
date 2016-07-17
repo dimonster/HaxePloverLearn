@@ -136,7 +136,7 @@
 'and': SKP
 'everything': EFG
 'seemed': SAOEPLD
-'gone,': TKWOPB KW-BG
+'gone,': TKPWOPB KW-BG
 'and': SKP
 'the': -T
 'enemy's': EPB/PHEU AE S*/SP-S
@@ -164,7 +164,7 @@
 'were': WR
 'past': PAFT
 'and': SKP
-'gone—so': TKWOPB EPL/TKA*RB SO
+'gone—so': TKPWOPB EPL/TKA*RB SO
 'people': PAOEPL
 'said;': SAEUD STPH*FPLT
 'yet': KWRET
@@ -190,7 +190,7 @@
 'be': -B
 'dead,': TKED KW-BG
 'or': OR
-'gone': TKWOPB
+'gone': TKPWOPB
 'away': A/WAEU
 'with': W
 'many': PHAEPB
@@ -914,7 +914,7 @@
 'it': T
 'may': PHAE
 'have': SR
-'gone': TKWOPB
+'gone': TKPWOPB
 'away.': A/WAEU TP-PL
 '"I': KR-GS EU
 'will': HR
@@ -1818,7 +1818,7 @@
 'And': SKP
 'she': SHE
 'was': WA
-'gone.': TKWOPB TP-PL
+'gone.': TKPWOPB TP-PL
 'The': -T
 'man': PHAPB
 'was': WA
@@ -1992,7 +1992,7 @@
 'the': -T
 'children': KHEURPB
 'have': SR
-'gone': TKWOPB
+'gone': TKPWOPB
 'beyond': KWROPBD
 'that.': THA TP-PL
 'Give': TKPWEUF
@@ -2125,7 +2125,7 @@
 'the': -T
 'Moor-woman': PHO*R H-PB WOPL
 'was': WA
-'gone.': TKWOPB TP-PL
+'gone.': TKPWOPB TP-PL
 'It': T
 'struck': STRUBG
 'twelve': TWEFL
@@ -2319,7 +2319,7 @@
 'nightingale,': TPHAOEUT/-G/TKPWAEL KW-BG
 'and': SKP
 'have': SR
-'gone': TKWOPB
+'gone': TKPWOPB
 'into': TPHAO
 'the': -T
 'forest': TPOEFRT

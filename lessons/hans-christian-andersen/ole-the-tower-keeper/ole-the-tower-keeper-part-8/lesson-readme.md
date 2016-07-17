@@ -95,7 +95,7 @@
 * for `TPOR`
 * me, `PHE KW-BG`
 * had `H`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * quite `KWAOEUT`
 * beyond `KWROPBD`
 * all `AUL`

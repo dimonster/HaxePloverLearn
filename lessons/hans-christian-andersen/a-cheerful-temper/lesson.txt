@@ -573,7 +573,7 @@
 'grew;': TKPWRAOU STPH*FPLT
 'it': T
 'is': S
-'gone': TKWOPB
+'gone': TKPWOPB
 'now,': TPHOU KW-BG
 'but': PWUT
 'a': AEU

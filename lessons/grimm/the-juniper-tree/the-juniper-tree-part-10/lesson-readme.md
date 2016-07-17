@@ -120,7 +120,7 @@
 * grieved `TKPWRAOEF/-D`
 * when `WHEPB`
 * I `EU`
-* gone; `TKWOPB STPH*FPLT`
+* gone; `TKPWOPB STPH*FPLT`
 * sister `ST-R`
 * loved `HROFD`
 * best `PWEFT`

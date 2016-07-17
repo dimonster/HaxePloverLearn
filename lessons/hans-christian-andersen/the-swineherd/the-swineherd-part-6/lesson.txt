@@ -69,7 +69,7 @@ The Swineherd Part 6
 'lady,': HRA*ED KW-BG
 'who': WHO
 'had': H
-'gone': TKWOPB
+'gone': TKPWOPB
 'down': TKOUPB
 'to': TO
 'ask': SK

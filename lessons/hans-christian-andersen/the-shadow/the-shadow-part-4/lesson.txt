@@ -142,7 +142,7 @@ The Shadow Part 4
 'But': PWUT
 'she': SHE
 'was': WA
-'gone—the': TKWOPB EPL/TKA*RB -T
+'gone—the': TKPWOPB EPL/TKA*RB -T
 'brightness': XXX brightness
 'had': H
 'disappeared;': TKEUS/PAOERD STPH*FPLT

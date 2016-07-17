@@ -109,7 +109,7 @@
 * once `WUPBS`
 * rose-tree `ROEZ H-PB TRAOE`
 * grew; `TKPWRAOU STPH*FPLT`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * now, `TPHOU KW-BG`
 * little `HREUL`
 * bit `PWEUT`

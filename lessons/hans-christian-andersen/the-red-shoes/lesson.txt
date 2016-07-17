@@ -2161,7 +2161,7 @@
 'the': -T
 'room': RAOPL
 'had': H
-'gone': TKWOPB
+'gone': TKPWOPB
 'to': TO
 'the': -T
 'church.': KHUFRPB TP-PL

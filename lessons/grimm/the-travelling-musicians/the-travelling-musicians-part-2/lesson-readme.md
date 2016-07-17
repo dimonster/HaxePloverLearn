@@ -3,7 +3,7 @@
 * they `THE`
 * had `H`
 * not `TPHOT`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * far `TPAR`
 * before `PW-F`
 * saw `SAU`

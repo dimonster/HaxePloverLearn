@@ -109,7 +109,7 @@
 * should `SHO`
 * now `TPHOU`
 * she `SHE`
-* gone, `TKWOPB KW-BG`
+* gone, `TKPWOPB KW-BG`
 * she, `SHE KW-BG`
 * his `HEUS`
 * dead `TKED`

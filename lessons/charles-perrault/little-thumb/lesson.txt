@@ -1111,7 +1111,7 @@
 'money': PHUPB
 'was': WA
 'all': AUL
-'gone,': TKWOPB KW-BG
+'gone,': TKPWOPB KW-BG
 'they': THE
 'fell': TPEL
 'again': TKPWEPB

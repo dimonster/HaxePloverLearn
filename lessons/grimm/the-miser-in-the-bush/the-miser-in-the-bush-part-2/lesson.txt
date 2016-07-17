@@ -194,7 +194,7 @@ The Miser in the Bush Part 2
 'He': E
 'had': H
 'not': TPHOT
-'gone': TKWOPB
+'gone': TKPWOPB
 'far': TPAR
 'before': PW-F
 'he': E

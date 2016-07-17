@@ -175,7 +175,7 @@ The Little Peasant Part 3
 'tired': TAOEURD
 'and': SKP
 'has': HAS
-'gone': TKWOPB
+'gone': TKPWOPB
 'to': TO
 'sleep.'': SHRAOEP TP-PL AE
 'In': TPH

@@ -89,7 +89,7 @@ Fundevogel Part 2
 'when': WHEPB
 'he': E
 'was': WA
-'gone': TKWOPB
+'gone': TKPWOPB
 'the': -T
 'children': KHEURPB
 'were': WR

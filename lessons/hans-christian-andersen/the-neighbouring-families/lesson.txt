@@ -154,7 +154,7 @@
 'the': -T
 'picture': P*EUFP
 'was': WA
-'gone.': TKWOPB TP-PL
+'gone.': TKPWOPB TP-PL
 'Two': TWO
 'feathers': TP*ET/ERS
 'which': WEU

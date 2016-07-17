@@ -97,7 +97,7 @@
 * high!" `HAOEU SKHRAPL KR-GS`
 * Moor-woman `PHO*R H-PB WOPL`
 * was `WA`
-* gone. `TKWOPB TP-PL`
+* gone. `TKPWOPB TP-PL`
 * It `T`
 * struck `STRUBG`
 * twelve `TWEFL`

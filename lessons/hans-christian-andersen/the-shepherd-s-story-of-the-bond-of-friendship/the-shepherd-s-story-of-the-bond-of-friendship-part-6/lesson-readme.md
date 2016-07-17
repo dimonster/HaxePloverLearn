@@ -25,7 +25,7 @@
 * and `SKP`
 * When `WHEPB`
 * were `WR`
-* gone, `TKWOPB KW-BG`
+* gone, `TKPWOPB KW-BG`
 * she `SHE`
 * had `H`
 * not `TPHOT`

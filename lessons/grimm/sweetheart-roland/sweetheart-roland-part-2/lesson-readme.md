@@ -43,7 +43,7 @@
 * off. `OF TP-PL`
 * When `WHEPB`
 * had `H`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * away, `A/WAEU KW-BG`
 * girl `TKPWEURL`
 * got `TKPWOT`

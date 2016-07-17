@@ -53,7 +53,7 @@
 * curtsied; `XXX curtsied STPH*FPLT`
 * looked `HRAOBGD`
 * round `ROUPBD`
-* gone, `TKWOPB KW-BG`
+* gone, `TKPWOPB KW-BG`
 * wither. `W*EUT/ER TP-PL`
 * guards `TKPWARDZ`
 * that `THA`

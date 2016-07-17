@@ -155,7 +155,7 @@ The Raven Part 12
 'Meanwhile': PHAOEPB/WHAOEUL
 'he': E
 'had': H
-'gone': TKWOPB
+'gone': TKPWOPB
 'outside': OUDZ
 'again': TKPWEPB
 'and': SKP

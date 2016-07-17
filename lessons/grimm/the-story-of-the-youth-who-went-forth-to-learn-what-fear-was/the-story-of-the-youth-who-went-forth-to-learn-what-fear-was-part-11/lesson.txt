@@ -167,7 +167,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was Part 11
 'for': TPOR
 'card-playing': KARD H-PB PHRA*EUG
 'has': HAS
-'gone,'': TKWOPB KW-BG AE
+'gone,'': TKPWOPB KW-BG AE
 'and': SKP
 'he': E
 'struck': STRUBG

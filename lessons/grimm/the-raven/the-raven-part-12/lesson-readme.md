@@ -105,7 +105,7 @@
 * find `TPEUPBD`
 * nowhere. `TPHO/WR TP-PL`
 * Meanwhile `PHAOEPB/WHAOEUL`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * outside `OUDZ`
 * again `TKPWEPB`
 * horse `HORS`

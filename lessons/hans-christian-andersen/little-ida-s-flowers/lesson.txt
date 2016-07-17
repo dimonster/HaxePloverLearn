@@ -300,7 +300,7 @@
 'the': -T
 'court': KORT
 'are': R
-'gone': TKWOPB
+'gone': TKPWOPB
 'into': TPHAO
 'the': -T
 'town,': TOUPB KW-BG

@@ -154,7 +154,7 @@ The Willow-Wren and the Bear Part 1
 'lady': HRA*ED
 'Queen': KWAOEPB
 'have': SR
-'gone': TKWOPB
+'gone': TKPWOPB
 'away': A/WAEU
 'again.'': TKPWEPB TP-PL AE
 'So': SO

@@ -108,7 +108,7 @@
 * weather `WHR*`
 * warm, `WARPL KW-BG`
 * not `TPHOT`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * far `TPAR`
 * before `PW-F`
 * said, `SAEUD KW-BG`

@@ -28,7 +28,7 @@ The Shepherd's Story of the Bond of Friendship Part 6
 'when': WHEPB
 'they': THE
 'were': WR
-'gone,': TKWOPB KW-BG
+'gone,': TKPWOPB KW-BG
 'she': SHE
 'had': H
 'not': TPHOT

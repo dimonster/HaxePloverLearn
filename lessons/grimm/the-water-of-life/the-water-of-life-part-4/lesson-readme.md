@@ -11,7 +11,7 @@
 * had `H`
 * thus `THUS`
 * been `PW-PB`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * a `AEU`
 * long `HROPBG`
 * time, `TAOEUPL KW-BG`

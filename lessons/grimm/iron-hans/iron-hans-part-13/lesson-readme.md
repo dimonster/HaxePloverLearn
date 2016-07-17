@@ -64,7 +64,7 @@
 * all, `AUL KW-BG`
 * it `T`
 * would `WO`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * badly `PWAD/HREU`
 * without `WOUT`
 * me." `PHE TP-PL KR-GS`

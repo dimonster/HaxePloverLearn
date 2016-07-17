@@ -55,7 +55,7 @@ Ole-Luk-Oie, the Dream-God Part 4
 'after': AF
 'Ole-Luk-Oie': O/HRAEU H-PB XXX Luk H-PB XXX Oie
 'was': WA
-'gone,': TKWOPB KW-BG
+'gone,': TKPWOPB KW-BG
 'and': SKP
 'Hjalmar': XXX Hjalmar
 'looked': HRAOBGD

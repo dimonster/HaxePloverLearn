@@ -5,7 +5,7 @@ Our Aunt Part 7
 'the': -T
 'people': PAOEPL
 'had': H
-'gone': TKWOPB
+'gone': TKPWOPB
 'away,': A/WAEU KW-BG
 'up': UP
 'stairs': STAEURS

@@ -37,7 +37,7 @@
 * beds, `PWEDZ KW-BG`
 * both `PWO*T`
 * were `WR`
-* gone. `TKWOPB TP-PL`
+* gone. `TKPWOPB TP-PL`
 * Then `THEPB`
 * terribly `TER/PWHREU`
 * alarmed, `A/HRARPLD KW-BG`
@@ -54,7 +54,7 @@
 * sees `SAO*ES`
 * that `THA`
 * are `R`
-* gone? `TKWOPB H-F`
+* gone? `TKPWOPB H-F`
 * they `THE`
 * must `PHUFT`
 * be `-B`

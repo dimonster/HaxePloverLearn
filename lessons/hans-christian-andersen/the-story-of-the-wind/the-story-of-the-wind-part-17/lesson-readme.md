@@ -85,7 +85,7 @@
 * able, `ABL KW-BG`
 * 'Whir-r-r, `AE WHEUR H-PB R*/SP-S H-PB R*/SP-S KW-BG`
 * whir-r-r. `WHEUR H-PB R*/SP-S H-PB R*/SP-S TP-PL`
-* Gone `TKWOPB`
+* Gone `TKPWOPB`
 * away! `A/WAEU SKHRAPL`
 * away!' `A/WAEU SKHRAPL AE`
 * Ida `XXX Ida`

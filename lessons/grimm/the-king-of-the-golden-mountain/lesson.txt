@@ -217,7 +217,7 @@
 'his': HEUS
 'wealth': W*ELT
 'was': WA
-'gone': TKWOPB
+'gone': TKPWOPB
 'to': TO
 'the': -T
 'bottom': PWOPLT
@@ -1320,7 +1320,7 @@
 'their': THAEUR
 'power': POUR
 'is': S
-'gone,': TKWOPB KW-BG
+'gone,': TKPWOPB KW-BG
 'and': SKP
 'I': EU
 'shall': SHAL
@@ -1926,7 +1926,7 @@
 'the': -T
 'ring': REUPBG
 'was': WA
-'gone': TKWOPB
+'gone': TKPWOPB
 'from': TPR
 'his': HEUS
 'finger.': TPURPBG TP-PL

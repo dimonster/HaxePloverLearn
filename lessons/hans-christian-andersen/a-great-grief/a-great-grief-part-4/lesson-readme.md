@@ -44,7 +44,7 @@
 * others `OERS`
 * seen `SAOEPB`
 * grave `TKPWRAEUF`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * away; `A/WAEU STPH*FPLT`
 * then `THEPB`
 * sat `SAT`

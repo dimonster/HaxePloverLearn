@@ -240,7 +240,7 @@
 'steak.': STAEBG TP-PL
 ''It's': AE T AE S*/SP-S
 'all': AUL
-'gone,': TKWOPB KW-BG
+'gone,': TKPWOPB KW-BG
 'and': SKP
 '"what': KR-GS WHA
 'can't': K-PBT
@@ -676,7 +676,7 @@
 'as': AZ
 'he': E
 'was': WA
-'gone,': TKWOPB KW-BG
+'gone,': TKPWOPB KW-BG
 'there': THR
 'came': KAEUPL
 'by': PWEU
@@ -1082,7 +1082,7 @@
 'where': W-R
 'it': T
 'had': H
-'gone;': TKWOPB STPH*FPLT
+'gone;': TKPWOPB STPH*FPLT
 'so': SO
 'she': SHE
 'said,': SAEUD KW-BG

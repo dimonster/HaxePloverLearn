@@ -69,7 +69,7 @@
 * past; `PAFT STPH*FPLT`
 * handsome `HAPBD/SOPL`
 * man `PHAPB`
-* gone, `TKWOPB KW-BG`
+* gone, `TKPWOPB KW-BG`
 * has `HAS`
 * withered `WEU/THER/-D`
 * in `TPH`

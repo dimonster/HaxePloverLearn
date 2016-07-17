@@ -185,7 +185,7 @@ The Master Cat or Puss in Boots Part 6
 'King': KEUPBG
 'had': H
 'then': THEPB
-'gone': TKWOPB
+'gone': TKPWOPB
 'over': OEFR
 'belonged': PWHROPBGD
 'to': TO

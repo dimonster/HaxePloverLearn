@@ -78,7 +78,7 @@ Frederick and Catherine Part 4
 'as': AZ
 'he': E
 'was': WA
-'gone,': TKWOPB KW-BG
+'gone,': TKPWOPB KW-BG
 'there': THR
 'came': KAEUPL
 'by': PWEU

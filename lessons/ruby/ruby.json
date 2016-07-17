@@ -17,7 +17,7 @@
 "A*E STPHAT/RA AE": "'sinatra'",
 "A*E TPHO/KO/TKPWEU/REU AE": "'nokogiri'",
 "A*E TKWAOEUZ AE": "'devise'",
-"TKPWRAUP": "group",
+"TKPWRAOUP": "group",
 "KHR-PB PRUBGS": ":production",
 "KHR-PB SREPLT": ":development",
 "KHR-PB TEF": ":test",

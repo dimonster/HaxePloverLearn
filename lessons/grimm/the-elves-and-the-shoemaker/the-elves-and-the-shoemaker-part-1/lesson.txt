@@ -33,7 +33,7 @@ The Elves and the Shoemaker Part 1
 'the': -T
 'world': WORLD
 'was': WA
-'gone,': TKWOPB KW-BG
+'gone,': TKPWOPB KW-BG
 'save': SAF
 'just': SKWRUFT
 'leather': HRE/THER

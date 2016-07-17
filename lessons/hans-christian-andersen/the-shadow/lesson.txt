@@ -740,7 +740,7 @@
 'But': PWUT
 'she': SHE
 'was': WA
-'gone—the': TKWOPB EPL/TKA*RB -T
+'gone—the': TKPWOPB EPL/TKA*RB -T
 'brightness': XXX brightness
 'had': H
 'disappeared;': TKEUS/PAOERD STPH*FPLT
@@ -1094,7 +1094,7 @@
 'the': -T
 'shadow': SHO*EUD
 'was': WA
-'gone,': TKWOPB KW-BG
+'gone,': TKPWOPB KW-BG
 'but': PWUT
 'because': PWAU
 'he': E
@@ -2516,7 +2516,7 @@
 'If': TP
 'you': U
 'had': H
-'gone': TKWOPB
+'gone': TKPWOPB
 'there,': THR KW-BG
 'you': U
 'would': WO
@@ -4716,7 +4716,7 @@
 'place."': PHRAEUS TP-PL KR-GS
 '"I': KR-GS EU
 'have': SR
-'gone': TKWOPB
+'gone': TKPWOPB
 'through': THRU
 'the': -T
 'most': PHOFT
@@ -4734,7 +4734,7 @@
 'my': PHEU
 'shadow': SHO*EUD
 'has': HAS
-'gone': TKWOPB
+'gone': TKPWOPB
 'mad;': PHAD STPH*FPLT
 'I': EU
 'suppose': SPOS

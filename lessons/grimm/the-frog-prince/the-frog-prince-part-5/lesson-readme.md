@@ -40,7 +40,7 @@
 * 'at `AE AT`
 * last `HRAFT`
 * is `S`
-* gone, `TKWOPB KW-BG`
+* gone, `TKPWOPB KW-BG`
 * I `EU`
 * shall `SHAL`
 * be `-B`

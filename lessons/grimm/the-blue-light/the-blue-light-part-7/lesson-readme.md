@@ -124,7 +124,7 @@
 * who `WHO`
 * entreaty `SPWRAOE/TEU`
 * dwarf `TKWAFR`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * outside `OUDZ`
 * gate, `TKPWAET KW-BG`
 * brought `PWRAUT`

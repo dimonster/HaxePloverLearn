@@ -21,7 +21,7 @@
 * four `TPOUR`
 * weeks `WAOEBGS`
 * had `H`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * by, `PWEU KW-BG`
 * Hansel `HAPB/SEL`
 * still `STEUL`

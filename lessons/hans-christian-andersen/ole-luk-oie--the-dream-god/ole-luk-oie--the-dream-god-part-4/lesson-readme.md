@@ -45,7 +45,7 @@
 * But `PWUT`
 * after `AF`
 * Ole-Luk-Oie `O/HRAEU H-PB XXX Luk H-PB XXX Oie`
-* gone, `TKWOPB KW-BG`
+* gone, `TKPWOPB KW-BG`
 * Hjalmar `XXX Hjalmar`
 * in `TPH`
 * the `-T`

@@ -36,7 +36,7 @@
 * gold `TKPWOELD`
 * golf `TKPWOFL`
 * golfer `TKPWOFR`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * gong `TKPWOPBG`
 * gonna `KPW*G`
 * goo `TKPWAO`

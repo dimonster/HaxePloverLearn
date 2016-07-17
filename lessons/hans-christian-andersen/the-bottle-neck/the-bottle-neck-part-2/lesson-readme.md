@@ -83,7 +83,7 @@
 * seems `SAOEPLS`
 * happened `HAPD`
 * yesterday. `KWRED TP-PL`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * through `THRU`
 * great `TKPWRAET`
 * deal `TKAOEL`

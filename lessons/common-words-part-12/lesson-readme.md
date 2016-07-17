@@ -28,7 +28,7 @@
 * nose `TPHOES`
 * fill `TPEUL`
 * call `KAUL`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * lead `HRAOED`
 * just `SKWRUFT`
 * calm `KAUPL`

@@ -61,7 +61,7 @@
 * when `WHEPB`
 * he `E`
 * had `H`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * little `HREUL`
 * way, `WAEU KW-BG`
 * came `KAEUPL`

@@ -77,7 +77,7 @@
 * quite `KWAOEUT`
 * alone. `A/HROEPB TP-PL`
 * This `TH`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * on `OPB`
 * time, `TAOEUPL KW-BG`
 * servant, `SEFB/APBT KW-BG`

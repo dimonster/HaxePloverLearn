@@ -96,7 +96,7 @@
 * soup; `SOUP STPH*FPLT`
 * soon `SAOPB`
 * cook `KAOBG`
-* gone, `TKWOPB KW-BG`
+* gone, `TKPWOPB KW-BG`
 * golden `TKOELD/*EPB`
 * brooch `PWRAOFP`
 * dish. `TKEURB TP-PL`

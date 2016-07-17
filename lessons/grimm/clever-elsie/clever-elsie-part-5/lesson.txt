@@ -157,7 +157,7 @@ Clever Elsie Part 5
 'After': AF
 'Hans': HAPBS
 'had': H
-'gone': TKWOPB
+'gone': TKPWOPB
 'away,': A/WAEU KW-BG
 'she': SHE
 'cooked': KAOBGD

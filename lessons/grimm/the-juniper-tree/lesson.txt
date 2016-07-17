@@ -1098,7 +1098,7 @@
 'wife,': WAOEUF KW-BG
 ''he': AE E
 'is': S
-'gone': TKWOPB
+'gone': TKPWOPB
 'into': TPHAO
 'the': -T
 'country': KREU
@@ -1118,7 +1118,7 @@
 ''What': AE WHA
 'has': HAS
 'he': E
-'gone': TKWOPB
+'gone': TKPWOPB
 'there': THR
 'for,': TPOR KW-BG
 'and': SKP
@@ -1382,7 +1382,7 @@
 'the': -T
 'bones': PWOEPBS
 'were': WR
-'gone.': TKWOPB TP-PL
+'gone.': TKPWOPB TP-PL
 'Little': HREUL
 'Marleen': XXX Marleen
 'now': TPHOU
@@ -1442,7 +1442,7 @@
 'when': WHEPB
 'I': EU
 'was': WA
-'gone;': TKWOPB STPH*FPLT
+'gone;': TKPWOPB STPH*FPLT
 'My': PHEU
 'sister': ST-R
 'loved': HROFD
@@ -1664,7 +1664,7 @@
 'when': WHEPB
 'I': EU
 'was': WA
-'gone;': TKWOPB STPH*FPLT
+'gone;': TKPWOPB STPH*FPLT
 'My': PHEU
 'sister': ST-R
 'loved': HROFD
@@ -1724,7 +1724,7 @@
 'when': WHEPB
 'I': EU
 'was': WA
-'gone;': TKWOPB STPH*FPLT
+'gone;': TKPWOPB STPH*FPLT
 'My': PHEU
 'sister': ST-R
 'loved': HROFD
@@ -1986,7 +1986,7 @@
 'when': WHEPB
 'I': EU
 'was': WA
-'gone;': TKWOPB STPH*FPLT
+'gone;': TKPWOPB STPH*FPLT
 'My': PHEU
 'sister': ST-R
 'loved': HROFD
@@ -2121,7 +2121,7 @@
 'when': WHEPB
 'I': EU
 'was': WA
-'gone;': TKWOPB STPH*FPLT
+'gone;': TKPWOPB STPH*FPLT
 'two': TWO
 'more': PHOR
 'men': PHEPB
@@ -2320,7 +2320,7 @@
 'when': WHEPB
 'I': EU
 'was': WA
-'gone;': TKWOPB STPH*FPLT
+'gone;': TKPWOPB STPH*FPLT
 'My': PHEU
 'sister': ST-R
 'loved': HROFD
@@ -2598,7 +2598,7 @@
 'when': WHEPB
 'I': EU
 'was': WA
-'gone;': TKWOPB STPH*FPLT
+'gone;': TKPWOPB STPH*FPLT
 ''Look,': AE HRAOBG KW-BG
 'mother,'': PHOER KW-BG AE
 'said': SAEUD
@@ -2823,7 +2823,7 @@
 'when': WHEPB
 'I': EU
 'was': WA
-'gone;': TKWOPB STPH*FPLT
+'gone;': TKPWOPB STPH*FPLT
 'then': THEPB
 'the': -T
 'woman': WOPL

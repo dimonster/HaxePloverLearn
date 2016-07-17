@@ -78,7 +78,7 @@
 * said `SAEUD`
 * he. `E TP-PL`
 * "Bellissima `KR-GS PWEL/HREUS/PHA/TPHR-RB`
-* gone. `TKWOPB TP-PL`
+* gone. `TKPWOPB TP-PL`
 * Open `OEP`
 * door, `TKAOR KW-BG`
 * me." `PHE TP-PL KR-GS`

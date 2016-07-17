@@ -100,7 +100,7 @@
 * mixed `PHEUGD`
 * up, `UP KW-BG`
 * picture `P*EUFP`
-* gone. `TKWOPB TP-PL`
+* gone. `TKPWOPB TP-PL`
 * Two `TWO`
 * feathers `TP*ET/ERS`
 * fluttering `TPHRUT/ERG`

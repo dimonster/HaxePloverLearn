@@ -1427,7 +1427,7 @@
 'that': THA
 'she': SHE
 'had': H
-'gone': TKWOPB
+'gone': TKPWOPB
 'into': TPHAO
 'the': -T
 'church,': KHUFRPB KW-BG
@@ -2287,7 +2287,7 @@
 'Fire-drum.': TPAOEUR H-PB TKRUPL TP-PL
 '"Peter': KR-GS PAOERT
 'has': HAS
-'gone': TKWOPB
+'gone': TKPWOPB
 'clear': KHRAOER
 'out': OUT
 'of': -F
@@ -2437,9 +2437,9 @@
 'but': PWUT
 'inwardly.': EUPB/WARD/HREU TP-PL
 '"Charlotte's': KR-GS KHARL/OT AE S*/SP-S
-'gone!': TKWOPB SKHRAPL
+'gone!': TKPWOPB SKHRAPL
 'Charlotte's': KHARL/OT AE S*/SP-S
-'gone!': TKWOPB SKHRAPL
+'gone!': TKPWOPB SKHRAPL
 'and': SKP
 'now': TPHOU
 'the': -T

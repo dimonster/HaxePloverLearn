@@ -15,7 +15,7 @@
 * the `-T`
 * dwarfs `TKWAR/-FS`
 * had `H`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * home, `HOEPL KW-BG`
 * they `THE`
 * found `TPOUPBD`

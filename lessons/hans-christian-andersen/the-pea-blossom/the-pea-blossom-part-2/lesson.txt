@@ -117,7 +117,7 @@ The Pea Blossom Part 2
 'and': SKP
 'he': E
 'was': WA
-'gone': TKWOPB
+'gone': TKPWOPB
 'in': TPH
 'a': AEU
 'moment.': PHOEPLT TP-PL

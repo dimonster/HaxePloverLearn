@@ -110,7 +110,7 @@ The White Snake Part 1
 'alone.': A/HROEPB TP-PL
 'This': TH
 'had': H
-'gone': TKWOPB
+'gone': TKPWOPB
 'on': OPB
 'for': TPOR
 'a': AEU

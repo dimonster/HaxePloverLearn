@@ -1377,7 +1377,7 @@
 'the': -T
 'dwarf': TKWAFR
 'had': H
-'gone': TKWOPB
+'gone': TKPWOPB
 'outside': OUDZ
 'the': -T
 'gate,': TKPWAET KW-BG

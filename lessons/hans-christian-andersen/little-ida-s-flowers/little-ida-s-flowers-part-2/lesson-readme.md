@@ -72,7 +72,7 @@
 * as `AZ`
 * soon `SAOPB`
 * court `KORT`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * into `TPHAO`
 * run `RUPB`
 * castle, `KAFL KW-BG`

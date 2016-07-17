@@ -188,7 +188,7 @@ Snowdrop Part 4
 'the': -T
 'night': TPHAOEUT
 'was': WA
-'gone.': TKWOPB TP-PL
+'gone.': TKPWOPB TP-PL
 'In': TPH
 'the': -T
 'morning': PHORPBG

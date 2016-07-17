@@ -14,7 +14,7 @@
 * "Now `KR-GS TPHOU`
 * he `E`
 * is `S`
-* gone, `TKWOPB KW-BG`
+* gone, `TKPWOPB KW-BG`
 * will `HR`
 * soon `SAOPB`
 * be `-B`

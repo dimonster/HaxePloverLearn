@@ -108,7 +108,7 @@
 * nature, `TPHAEURT KW-BG`
 * but `PWUT`
 * certainly `SERPBL`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * forth `TPO*RT`
 * world `WORLD`
 * descriptions `SKREUFPGS`

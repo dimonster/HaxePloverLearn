@@ -746,8 +746,8 @@
 ''He': AE E
 'is': S
 'called': KAULD
-'All-gone.'': AUL H-PB TKWOPB TP-PL AE
-''All-gone,'': AE AUL H-PB TKWOPB KW-BG AE
+'All-gone.'': AUL H-PB TKPWOPB TP-PL AE
+''All-gone,'': AE AUL H-PB TKPWOPB KW-BG AE
 'cried': KRAOEUD
 'the': -T
 'mouse': PHOUS
@@ -766,7 +766,7 @@
 'it': T
 'in': TPH
 'print.': PREUPBT TP-PL
-'All-gone;': AUL H-PB TKWOPB STPH*FPLT
+'All-gone;': AUL H-PB TKPWOPB STPH*FPLT
 'what': WHA
 'can': K
 'that': THA
@@ -940,7 +940,7 @@
 'eat': AOET
 'you': U
 'too.'': TAO TP-PL AE
-''All-gone'': AE AUL H-PB TKWOPB AE
+''All-gone'': AE AUL H-PB TKPWOPB AE
 'was': WA
 'already': HR-R
 'on': OPB

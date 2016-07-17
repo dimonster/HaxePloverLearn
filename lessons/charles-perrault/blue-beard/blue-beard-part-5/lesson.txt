@@ -141,7 +141,7 @@ Blue Beard Part 5
 'the': -T
 'blood': PWHRAOD
 'was': WA
-'gone': TKWOPB
+'gone': TKPWOPB
 'off': OF
 'from': TPR
 'one': WUPB

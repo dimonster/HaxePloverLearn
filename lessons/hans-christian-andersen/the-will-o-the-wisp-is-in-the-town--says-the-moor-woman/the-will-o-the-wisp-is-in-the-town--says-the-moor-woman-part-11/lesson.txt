@@ -127,7 +127,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman Part 11
 'the': -T
 'Moor-woman': PHO*R H-PB WOPL
 'was': WA
-'gone.': TKWOPB TP-PL
+'gone.': TKPWOPB TP-PL
 'It': T
 'struck': STRUBG
 'twelve': TWEFL

@@ -22,7 +22,7 @@
 * But `PWUT`
 * mother `PHOER`
 * she `SHE`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * into `TPHAO`
 * church, `KHUFRPB KW-BG`
 * seen `SAOEPB`

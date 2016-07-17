@@ -110,7 +110,7 @@
 * stood `STAOD`
 * before, `PW-F KW-BG`
 * were `WR`
-* gone. `TKWOPB TP-PL`
+* gone. `TKPWOPB TP-PL`
 * felt `TPELT`
 * lighthearted `XXX lighthearted`
 * happy `HAEP`

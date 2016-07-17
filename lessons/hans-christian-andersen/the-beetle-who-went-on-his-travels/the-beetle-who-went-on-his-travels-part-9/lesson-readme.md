@@ -93,7 +93,7 @@
 * complete `KPHRAOET`
 * vagabond. `SRAG/PWOPBD TP-PL`
 * has `HAS`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * left `HREFT`
 * burden `PWURD`
 * upon `POPB`

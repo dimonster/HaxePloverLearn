@@ -32,7 +32,7 @@
 * but `PWUT`
 * when `WHEPB`
 * it `T`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * on `OPB`
 * a `AEU`
 * while, `WHAOEUL KW-BG`

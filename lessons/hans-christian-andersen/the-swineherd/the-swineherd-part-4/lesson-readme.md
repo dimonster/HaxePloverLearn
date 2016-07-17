@@ -116,7 +116,7 @@
 * princess, `PREUPB/ES KW-BG`
 * walked `WAUBGD`
 * off. `OF TP-PL`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * little `HREUL`
 * distance, `STKAPBS KW-BG`
 * bells `PWELS`

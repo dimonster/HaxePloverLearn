@@ -142,7 +142,7 @@ Cat and Mouse in Partnership Part 5
 'eat': AOET
 'you': U
 'too.'': TAO TP-PL AE
-''All-gone'': AE AUL H-PB TKWOPB AE
+''All-gone'': AE AUL H-PB TKPWOPB AE
 'was': WA
 'already': HR-R
 'on': OPB

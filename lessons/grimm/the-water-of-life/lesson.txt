@@ -226,7 +226,7 @@
 'when': WHEPB
 'he': E
 'had': H
-'gone': TKWOPB
+'gone': TKPWOPB
 'on': OPB
 'his': HEUS
 'way': WAEU
@@ -609,7 +609,7 @@
 'had': H
 'thus': THUS
 'been': PW-PB
-'gone': TKWOPB
+'gone': TKPWOPB
 'a': AEU
 'long': HROPBG
 'time,': TAOEUPL KW-BG

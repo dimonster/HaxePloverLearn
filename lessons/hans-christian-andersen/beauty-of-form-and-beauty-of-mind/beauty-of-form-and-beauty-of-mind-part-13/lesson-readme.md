@@ -46,7 +46,7 @@
 * look `HRAOBG`
 * at. `AT TP-PL`
 * "He's `KR-GS E AE S*/SP-S`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * extreme," `KPAO*EPL KW-BG KR-GS`
 * said `SAEUD`
 * mamma-in-law; `PHAPL/PHA H-PB TPH H-PB HRAU STPH*FPLT`

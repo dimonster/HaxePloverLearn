@@ -57,7 +57,7 @@
 * lady, `HRA*ED KW-BG`
 * who `WHO`
 * had `H`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * to `TO`
 * him. `HEUPL TP-PL`
 * believe `PWHREF`

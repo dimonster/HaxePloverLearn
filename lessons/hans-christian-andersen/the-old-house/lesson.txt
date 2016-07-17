@@ -2160,7 +2160,7 @@
 'but': PWUT
 'he': E
 'was': WA
-'gone,': TKWOPB KW-BG
+'gone,': TKPWOPB KW-BG
 'and': SKP
 'could': KO
 'not': TPHOT

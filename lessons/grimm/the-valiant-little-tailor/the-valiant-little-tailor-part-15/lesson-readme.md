@@ -114,5 +114,5 @@
 * before `PW-F`
 * would `WO`
 * have `SR`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * heart `HART`

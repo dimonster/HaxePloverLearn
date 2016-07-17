@@ -102,7 +102,7 @@
 * fallen `TPAUL/*EPB`
 * it `T`
 * darkness `TKARBG/-PBS`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * only `OEPBL`
 * few `TPAOU`
 * paces `PAEUS/-S`

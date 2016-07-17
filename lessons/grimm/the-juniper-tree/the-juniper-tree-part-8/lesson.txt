@@ -44,7 +44,7 @@ The Juniper-Tree Part 8
 'when': WHEPB
 'I': EU
 'was': WA
-'gone;': TKWOPB STPH*FPLT
+'gone;': TKPWOPB STPH*FPLT
 'My': PHEU
 'sister': ST-R
 'loved': HROFD

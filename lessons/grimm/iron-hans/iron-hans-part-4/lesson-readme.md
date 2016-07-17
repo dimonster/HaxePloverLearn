@@ -63,7 +63,7 @@
 * but `PWUT`
 * it `T`
 * was `WA`
-* gone. `TKWOPB TP-PL`
+* gone. `TKPWOPB TP-PL`
 * boy, `PWOEU KW-BG`
 * no `TPHO`
 * one `WUPB`

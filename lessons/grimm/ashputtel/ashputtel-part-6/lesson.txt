@@ -121,7 +121,7 @@ Ashputtel Part 6
 'when': WHEPB
 'all': AUL
 'were': WR
-'gone,': TKWOPB KW-BG
+'gone,': TKPWOPB KW-BG
 'and': SKP
 'nobody': TPHOEB
 'left': HREFT

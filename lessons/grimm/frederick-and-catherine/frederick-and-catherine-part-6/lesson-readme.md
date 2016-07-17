@@ -67,7 +67,7 @@
 * where `W-R`
 * it `T`
 * had `H`
-* gone; `TKWOPB STPH*FPLT`
+* gone; `TKPWOPB STPH*FPLT`
 * said, `SAEUD KW-BG`
 * 'Well, `AE WEL KW-BG`
 * I `EU`

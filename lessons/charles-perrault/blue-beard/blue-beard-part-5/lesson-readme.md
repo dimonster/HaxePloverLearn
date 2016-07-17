@@ -91,7 +91,7 @@
 * quite `KWAOEUT`
 * clean; `KHAOEPB STPH*FPLT`
 * when `WHEPB`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * off `OF`
 * from `TPR`
 * side, `SAOEUD KW-BG`

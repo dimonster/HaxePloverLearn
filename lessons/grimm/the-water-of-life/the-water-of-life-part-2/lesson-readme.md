@@ -25,7 +25,7 @@
 * and `SKP`
 * when `WHEPB`
 * had `H`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * on `OPB`
 * way `WAEU`
 * some `SOPL`

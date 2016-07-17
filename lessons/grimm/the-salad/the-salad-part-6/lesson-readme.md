@@ -108,7 +108,7 @@
 * all `AUL`
 * said; `SAEUD STPH*FPLT`
 * soon `SAOPB`
-* gone, `TKWOPB KW-BG`
+* gone, `TKPWOPB KW-BG`
 * climbed `KHRAOEUPLD`
 * top `TOP`
 * short `SHORT`

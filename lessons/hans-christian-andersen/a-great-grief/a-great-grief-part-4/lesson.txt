@@ -62,7 +62,7 @@ A Great Grief Part 4
 'grave': TKPWRAEUF
 'and': SKP
 'had': H
-'gone': TKWOPB
+'gone': TKPWOPB
 'away;': A/WAEU STPH*FPLT
 'then': THEPB
 'she': SHE

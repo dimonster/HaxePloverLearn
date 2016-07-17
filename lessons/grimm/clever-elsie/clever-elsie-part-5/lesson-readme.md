@@ -112,7 +112,7 @@
 * 'Yes, `AE KWRE KW-BG`
 * do `TKO`
 * that.' `THA TP-PL AE`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * away, `A/WAEU KW-BG`
 * she `SHE`
 * cooked `KAOBGD`

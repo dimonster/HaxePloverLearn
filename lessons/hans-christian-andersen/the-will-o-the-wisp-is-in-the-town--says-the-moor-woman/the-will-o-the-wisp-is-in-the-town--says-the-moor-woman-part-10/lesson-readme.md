@@ -19,7 +19,7 @@
 * and `SKP`
 * she `SHE`
 * was `WA`
-* gone. `TKWOPB TP-PL`
+* gone. `TKPWOPB TP-PL`
 * man `PHAPB`
 * going `TKPW-G`
 * shut `SHUT`
@@ -135,7 +135,7 @@
 * examine. `KP TP-PL`
 * Even `AOEPB`
 * children `KHEURPB`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * beyond `KWROPBD`
 * that. `THA TP-PL`
 * Give `TKPWEUF`

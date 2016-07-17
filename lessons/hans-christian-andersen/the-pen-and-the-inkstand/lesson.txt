@@ -167,7 +167,7 @@
 'From': TPR
 'me': PHE
 'have': SR
-'gone': TKWOPB
+'gone': TKPWOPB
 'forth': TPO*RT
 'to': TO
 'the': -T

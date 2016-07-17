@@ -107,7 +107,7 @@
 * turn, `TURPB KW-BG`
 * till `T*EUL`
 * night `TPHAOEUT`
-* gone. `TKWOPB TP-PL`
+* gone. `TKPWOPB TP-PL`
 * morning `PHORPBG`
 * Snowdrop `XXX Snowdrop`
 * told `TOLD`

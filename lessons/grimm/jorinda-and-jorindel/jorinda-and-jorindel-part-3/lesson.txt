@@ -145,7 +145,7 @@ Jorinda and Jorindel Part 3
 'the': -T
 'nightingale': TPHAOEUT/-G/TKPWAEL
 'was': WA
-'gone--but': TKWOPB H-PB H-PB PWUT
+'gone--but': TKPWOPB H-PB H-PB PWUT
 'what': WHA
 'could': KO
 'he': E

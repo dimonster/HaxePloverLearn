@@ -110,7 +110,7 @@
 * fallen? `TPAL/-PB H-F`
 * searched, `SEFRPBD KW-BG`
 * boy `PWOEU`
-* gone, `TKWOPB KW-BG`
+* gone, `TKPWOPB KW-BG`
 * not `TPHOT`
 * be `-B`
 * found. `TPOUPBD TP-PL`

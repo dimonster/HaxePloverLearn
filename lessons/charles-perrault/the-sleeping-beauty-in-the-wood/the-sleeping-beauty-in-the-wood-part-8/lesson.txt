@@ -9,7 +9,7 @@ The Sleeping Beauty in the Wood Part 8
 'sleeping': SHRAOEPG
 'Princess,': PREUPB/ES KW-BG
 'being': -BG
-'gone': TKWOPB
+'gone': TKPWOPB
 'a-hunting': AEU H-PB HUPBT/-G
 'on': OPB
 'that': THA

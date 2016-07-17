@@ -156,7 +156,7 @@ Snow-White and Rose-Red Part 2
 'if': TP
 'they': THE
 'had': H
-'gone': TKWOPB
+'gone': TKPWOPB
 'only': OEPBL
 'a': AEU
 'few': TPAOU

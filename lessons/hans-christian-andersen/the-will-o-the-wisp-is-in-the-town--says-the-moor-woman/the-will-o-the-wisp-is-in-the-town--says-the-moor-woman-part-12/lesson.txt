@@ -121,7 +121,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman Part 12
 'nightingale,': TPHAOEUT/-G/TKPWAEL KW-BG
 'and': SKP
 'have': SR
-'gone': TKWOPB
+'gone': TKPWOPB
 'into': TPHAO
 'the': -T
 'forest': TPOEFRT

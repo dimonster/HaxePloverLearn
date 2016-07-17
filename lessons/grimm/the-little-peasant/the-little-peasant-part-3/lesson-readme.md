@@ -104,7 +104,7 @@
 * is `S`
 * tired `TAOEURD`
 * has `HAS`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * sleep.' `SHRAOEP TP-PL AE`
 * meantime `PHAO*EPB/TAOEUPL`
 * came `KAEUPL`

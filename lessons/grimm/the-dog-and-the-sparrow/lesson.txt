@@ -374,7 +374,7 @@
 'they': THE
 'had': H
 'not': TPHOT
-'gone': TKWOPB
+'gone': TKPWOPB
 'far': TPAR
 'before': PW-F
 'the': -T
@@ -1040,7 +1040,7 @@
 'was': WA
 'almost': HR-PL
 'all': AUL
-'gone.': TKWOPB TP-PL
+'gone.': TKPWOPB TP-PL
 ''Not': AE TPHOT
 'wretch': WREFP
 'enough': TPHUF

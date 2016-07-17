@@ -87,7 +87,7 @@ The Story of the Year Part 14
 'summer': SAOURPL
 'queen': KWAOEPB
 'was': WA
-'gone,': TKWOPB KW-BG
+'gone,': TKPWOPB KW-BG
 'but': PWUT
 'a': AEU
 'butterfly,': PW*URT/TPHRAOEU KW-BG

@@ -116,7 +116,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman Part 5
 'it': T
 'may': PHAE
 'have': SR
-'gone': TKWOPB
+'gone': TKPWOPB
 'away.': A/WAEU TP-PL
 '"I': KR-GS EU
 'will': HR

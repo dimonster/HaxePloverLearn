@@ -122,7 +122,7 @@
 * had `H`
 * set `SET`
 * ever. `-FR TP-PL`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * home. `HOEPL TP-PL`
 * night. `TPHAOEUT TP-PL`
 * cold `KOELD`

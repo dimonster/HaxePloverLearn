@@ -52,7 +52,7 @@
 * you.' `U TP-PL AE`
 * morning `PHORPBG`
 * awoke `A/WOEBG`
-* gone; `TKWOPB STPH*FPLT`
+* gone; `TKPWOPB STPH*FPLT`
 * went `WEPBT`
 * merrily `PHER/HREU`
 * king, `KEUPBG KW-BG`

@@ -605,7 +605,7 @@
 'and': SKP
 'Queen': KWAOEPB
 'being': -BG
-'gone': TKWOPB
+'gone': TKPWOPB
 'to': TO
 'one': WUPB
 'of': -F
@@ -1384,7 +1384,7 @@
 'hundred': HUPBD
 'years': KWRAOERS
 'were': WR
-'gone': TKWOPB
+'gone': TKPWOPB
 'and': SKP
 'past,': PAFT KW-BG
 'the': -T
@@ -1407,7 +1407,7 @@
 'sleeping': SHRAOEPG
 'Princess,': PREUPB/ES KW-BG
 'being': -BG
-'gone': TKWOPB
+'gone': TKPWOPB
 'a-hunting': AEU H-PB HUPBT/-G
 'on': OPB
 'that': THA

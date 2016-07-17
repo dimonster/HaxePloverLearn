@@ -44,7 +44,7 @@
 * out `OUT`
 * she `SHE`
 * was `WA`
-* gone, `TKWOPB KW-BG`
+* gone, `TKPWOPB KW-BG`
 * but `PWUT`
 * waited `WAEUTD`
 * till `T*EUL`

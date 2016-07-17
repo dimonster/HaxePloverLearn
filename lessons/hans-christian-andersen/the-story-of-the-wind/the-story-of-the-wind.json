@@ -3316,9 +3316,9 @@
 "ABL KW-BG": "able,",
 "AE WHEUR H-PB R*/SP-S H-PB R*/SP-S KW-BG": "'Whir-r-r,",
 "WHEUR H-PB R*/SP-S H-PB R*/SP-S TP-PL": "whir-r-r.",
-"TKWOPB": "Gone",
+"TKPWOPB": "Gone",
 "A/WAEU SKHRAPL": "away!",
-"TKWOPB": "Gone",
+"TKPWOPB": "Gone",
 "A/WAEU SKHRAPL AE": "away!'",
 "XXX Ida": "Ida",
 "WAUBGD": "walked",
@@ -4311,5 +4311,5 @@
 "A/WAEU KW-BG": "away,",
 "SKP": "and",
 "WA": "was",
-"TKWOPB TP-PL": "gone."
+"TKPWOPB TP-PL": "gone."
 }

@@ -100,7 +100,7 @@
 * doubt `TKOUT`
 * blown `PWHROEPB`
 * his `HEUS`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * to `TO`
 * bed; `PWED STPH*FPLT`
 * remained `RE/PHAEUPBD`

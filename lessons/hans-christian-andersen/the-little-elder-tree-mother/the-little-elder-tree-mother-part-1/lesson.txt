@@ -12,7 +12,7 @@ The Little Elder-Tree Mother Part 1
 'cold;': KOELD STPH*FPLT
 'he': E
 'had': H
-'gone': TKWOPB
+'gone': TKPWOPB
 'out': OUT
 'and': SKP
 'got': TKPWOT

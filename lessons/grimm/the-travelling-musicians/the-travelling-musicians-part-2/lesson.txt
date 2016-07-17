@@ -3,7 +3,7 @@ The Travelling Musicians Part 2
 'They': THE
 'had': H
 'not': TPHOT
-'gone': TKWOPB
+'gone': TKPWOPB
 'far': TPAR
 'before': PW-F
 'they': THE

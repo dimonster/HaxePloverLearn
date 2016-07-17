@@ -25,7 +25,7 @@ The Juniper-Tree Part 15
 'when': WHEPB
 'I': EU
 'was': WA
-'gone;': TKWOPB STPH*FPLT
+'gone;': TKPWOPB STPH*FPLT
 'then': THEPB
 'the': -T
 'woman': WOPL

@@ -121,7 +121,7 @@ The Bottle Neck Part 2
 'yesterday.': KWRED TP-PL
 'I': EU
 'have': SR
-'gone': TKWOPB
+'gone': TKPWOPB
 'through': THRU
 'a': AEU
 'great': TKPWRAET

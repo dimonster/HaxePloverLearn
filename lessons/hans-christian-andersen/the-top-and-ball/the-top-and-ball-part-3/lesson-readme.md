@@ -8,7 +8,7 @@
 * be `-B`
 * found; `TPOUPBD STPH*FPLT`
 * was `WA`
-* gone. `TKWOPB TP-PL`
+* gone. `TKPWOPB TP-PL`
 * "I `KR-GS EU`
 * know `TPHOE`
 * very `SRE`

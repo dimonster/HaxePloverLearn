@@ -348,7 +348,7 @@
 'and': SKP
 'it': T
 'was': WA
-'gone.': TKWOPB TP-PL
+'gone.': TKPWOPB TP-PL
 'The': -T
 'cow-herd': KO*U H-PB H*ERD
 'said:': SAEUD STPH-FPLT
@@ -573,7 +573,7 @@
 'tired': TAOEURD
 'and': SKP
 'has': HAS
-'gone': TKWOPB
+'gone': TKPWOPB
 'to': TO
 'sleep.'': SHRAOEP TP-PL AE
 'In': TPH

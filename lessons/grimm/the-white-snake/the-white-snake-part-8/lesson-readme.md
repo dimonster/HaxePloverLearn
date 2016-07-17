@@ -18,7 +18,7 @@
 * and `SKP`
 * would `WO`
 * have `SR`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * on `OPB`
 * for `TPOR`
 * ever, `-FR KW-BG`

@@ -56,7 +56,7 @@
 * went `WEPBT`
 * he `E`
 * was `WA`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * children `KHEURPB`
 * were `WR`
 * still `STEUL`

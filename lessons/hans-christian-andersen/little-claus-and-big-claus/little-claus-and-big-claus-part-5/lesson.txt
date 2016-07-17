@@ -14,7 +14,7 @@ Little Claus and Big Claus Part 5
 'the': -T
 'sexton': SEBGS/TOPB
 'had': H
-'gone': TKWOPB
+'gone': TKPWOPB
 'to': TO
 'visit': SREUFT
 'the': -T

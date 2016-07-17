@@ -43,7 +43,7 @@ The Golden Bird Part 1
 'of': -F
 'them': THEPL
 'was': WA
-'gone.': TKWOPB TP-PL
+'gone.': TKPWOPB TP-PL
 'The': -T
 'king': KEUPBG
 'became': PWAEUPL
@@ -110,7 +110,7 @@ The Golden Bird Part 1
 'another': TPHOER
 'apple': A*EPL
 'was': WA
-'gone.': TKWOPB TP-PL
+'gone.': TKPWOPB TP-PL
 'Then': THEPB
 'the': -T
 'third': THEURD

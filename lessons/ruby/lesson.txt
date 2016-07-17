@@ -18,7 +18,7 @@ Ruby
 ''sinatra'': A*E STPHAT/RA AE
 ''nokogiri'': A*E TPHO/KO/TKPWEU/REU AE
 ''devise'': A*E TKWAOEUZ AE
-'group': TKPWRAUP
+'group': TKPWRAOUP
 ':production': KHR-PB PRUBGS
 ':development': KHR-PB SREPLT
 ':test': KHR-PB TEF

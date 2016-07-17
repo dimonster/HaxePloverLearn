@@ -89,7 +89,7 @@
 * disorder, `TKORD KW-BG`
 * everything `EFG`
 * seemed `SAOEPLD`
-* gone, `TKWOPB KW-BG`
+* gone, `TKPWOPB KW-BG`
 * enemy's `EPB/PHEU AE S*/SP-S`
 * horses `HORS/-S`
 * stamping `STAPL/-PG`
@@ -103,7 +103,7 @@
 * end. `EPBD TP-PL`
 * now `TPHOU`
 * past `PAFT`
-* gone—so `TKWOPB EPL/TKA*RB SO`
+* gone—so `TKPWOPB EPL/TKA*RB SO`
 * people `PAOEPL`
 * said; `SAEUD STPH*FPLT`
 * yet `KWRET`
@@ -118,7 +118,7 @@
 * must `PHUFT`
 * be `-B`
 * dead, `TKED KW-BG`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * other `OER`
 * things," `THEUPBGS KW-BG KR-GS`
 * said `SAEUD`

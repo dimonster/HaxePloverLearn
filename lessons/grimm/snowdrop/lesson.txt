@@ -786,7 +786,7 @@
 'the': -T
 'night': TPHAOEUT
 'was': WA
-'gone.': TKWOPB TP-PL
+'gone.': TKPWOPB TP-PL
 'In': TPH
 'the': -T
 'morning': PHORPBG
@@ -1815,7 +1815,7 @@
 'the': -T
 'dwarfs': TKWAR/-FS
 'had': H
-'gone': TKWOPB
+'gone': TKPWOPB
 'home,': HOEPL KW-BG
 'they': THE
 'found': TPOUPBD

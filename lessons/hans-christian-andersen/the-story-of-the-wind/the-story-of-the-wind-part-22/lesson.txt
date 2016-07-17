@@ -112,4 +112,4 @@ The Story of the Wind Part 22
 'away,': A/WAEU KW-BG
 'and': SKP
 'was': WA
-'gone.': TKWOPB TP-PL
+'gone.': TKPWOPB TP-PL

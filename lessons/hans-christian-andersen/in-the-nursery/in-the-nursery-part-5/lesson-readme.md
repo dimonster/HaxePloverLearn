@@ -109,7 +109,7 @@
 * appear: `A/PAOER STPH-FPLT`
 * Where's `W-R AE S*/SP-S`
 * humor? `HAOURPL H-F`
-* Gone, `TKWOPB KW-BG`
+* Gone, `TKPWOPB KW-BG`
 * fear, `TPAOER KW-BG`
 * feel `TPAOEL`
 * hollow `HOL/OE`

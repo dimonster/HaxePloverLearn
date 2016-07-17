@@ -39,7 +39,7 @@
 * boy, `PWOEU KW-BG`
 * grandpapa `XXX grandpapa`
 * had `H`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * with `W`
 * parents `PARPBTS`
 * see `SAOE`

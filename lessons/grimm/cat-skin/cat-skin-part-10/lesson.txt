@@ -146,7 +146,7 @@ Cat-Skin Part 10
 'the': -T
 'cook': KAOBG
 'was': WA
-'gone,': TKWOPB KW-BG
+'gone,': TKPWOPB KW-BG
 'she': SHE
 'put': PUT
 'the': -T

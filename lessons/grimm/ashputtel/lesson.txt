@@ -578,7 +578,7 @@
 'liked': HRAOEUBGD
 'to': TO
 'have': SR
-'gone': TKWOPB
+'gone': TKPWOPB
 'with': W
 'them': THEPL
 'to': TO
@@ -1119,7 +1119,7 @@
 'when': WHEPB
 'all': AUL
 'were': WR
-'gone,': TKWOPB KW-BG
+'gone,': TKPWOPB KW-BG
 'and': SKP
 'nobody': TPHOEB
 'left': HREFT
@@ -1481,7 +1481,7 @@
 'and': SKP
 'sisters': ST-RS
 'were': WR
-'gone,': TKWOPB KW-BG
+'gone,': TKPWOPB KW-BG
 'Ashputtel': XXX Ashputtel
 'went': WEPBT
 'to': TO
@@ -1649,7 +1649,7 @@
 'where': W-R
 'she': SHE
 'was': WA
-'gone,': TKWOPB KW-BG
+'gone,': TKPWOPB KW-BG
 'but': PWUT
 'waited': WAEUTD
 'till': T*EUL
@@ -1765,7 +1765,7 @@
 'and': SKP
 'sisters': ST-RS
 'were': WR
-'gone,': TKWOPB KW-BG
+'gone,': TKPWOPB KW-BG
 'she': SHE
 'went': WEPBT
 'again': TKPWEPB

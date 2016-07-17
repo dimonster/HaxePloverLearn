@@ -1,6 +1,6 @@
 # The Juniper Tree Part 14
 
-* gone; `TKWOPB STPH*FPLT`
+* gone; `TKPWOPB STPH*FPLT`
 * 'Look, `AE HRAOBG KW-BG`
 * mother,' `PHOER KW-BG AE`
 * said `SAEUD`

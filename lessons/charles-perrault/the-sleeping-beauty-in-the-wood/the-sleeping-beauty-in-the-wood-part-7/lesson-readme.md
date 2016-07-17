@@ -129,7 +129,7 @@
 * hundred `HUPBD`
 * years `KWRAOERS`
 * were `WR`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * past, `PAFT KW-BG`
 * son `SOPB`
 * then `THEPB`

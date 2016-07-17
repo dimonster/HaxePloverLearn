@@ -43,7 +43,7 @@ The Miser in the Bush Part 6
 'when': WHEPB
 'it': T
 'had': H
-'gone': TKWOPB
+'gone': TKPWOPB
 'on': OPB
 'a': AEU
 'while,': WHAOEUL KW-BG

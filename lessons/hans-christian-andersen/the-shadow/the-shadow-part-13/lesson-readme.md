@@ -82,7 +82,7 @@
 * seen. `SAOEPB TP-PL`
 * If `TP`
 * had `H`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * would `WO`
 * human `HAOUPL`
 * being, `-BG KW-BG`

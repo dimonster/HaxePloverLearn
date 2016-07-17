@@ -79,7 +79,7 @@ The Brave Tin Soldier Part 9
 'flames': TPHRAEUPLS
 'and': SKP
 'was': WA
-'gone.': TKWOPB TP-PL
+'gone.': TKPWOPB TP-PL
 'The': -T
 'tin': TEUPB
 'soldier': SHRERPBL

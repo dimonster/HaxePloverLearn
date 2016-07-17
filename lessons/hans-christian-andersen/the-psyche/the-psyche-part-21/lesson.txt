@@ -118,7 +118,7 @@ The Psyche Part 21
 'When': WHEPB
 'years': KWRAOERS
 'had': H
-'gone': TKWOPB
+'gone': TKPWOPB
 'by': PWEU
 'his': HEUS
 'skeleton': SKEL/TOPB

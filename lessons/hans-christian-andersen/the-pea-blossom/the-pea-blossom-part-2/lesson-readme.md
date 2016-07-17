@@ -87,7 +87,7 @@
 * if `TP`
 * you `U`
 * can;" `K STPH*FPLT KR-GS`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * moment. `PHOEPLT TP-PL`
 * "I," `KR-GS EU KW-BG KR-GS`
 * second, `SEBGD KW-BG`

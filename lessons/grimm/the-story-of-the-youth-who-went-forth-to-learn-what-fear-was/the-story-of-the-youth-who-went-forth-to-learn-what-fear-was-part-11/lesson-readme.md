@@ -124,7 +124,7 @@
 * fancy `TPAPB/SEU`
 * card-playing `KARD H-PB PHRA*EUG`
 * has `HAS`
-* gone,' `TKWOPB KW-BG AE`
+* gone,' `TKPWOPB KW-BG AE`
 * struck `STRUBG`
 * dead `TKED`
 * threw `THRAOU`

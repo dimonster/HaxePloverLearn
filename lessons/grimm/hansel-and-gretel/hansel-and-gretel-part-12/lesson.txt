@@ -24,7 +24,7 @@ Hansel and Gretel Part 12
 'four': TPOUR
 'weeks': WAOEBGS
 'had': H
-'gone': TKWOPB
+'gone': TKPWOPB
 'by,': PWEU KW-BG
 'and': SKP
 'Hansel': HAPB/SEL

@@ -68,7 +68,7 @@
 * Fire-drum. `TPAOEUR H-PB TKRUPL TP-PL`
 * "Peter `KR-GS PAOERT`
 * has `HAS`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * clear `KHRAOER`
 * out `OUT`
 * wits. `WEUT/-S TP-PL`

@@ -102,7 +102,7 @@
 * more, `PHOR KW-BG`
 * eat `AOET`
 * too.' `TAO TP-PL AE`
-* 'All-gone' `AE AUL H-PB TKWOPB AE`
+* 'All-gone' `AE AUL H-PB TKPWOPB AE`
 * already `HR-R`
 * poor `PAOR`
 * mouse's `PHOUS AE S*/SP-S`

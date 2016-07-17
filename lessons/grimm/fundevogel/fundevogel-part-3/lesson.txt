@@ -52,7 +52,7 @@ Fundevogel Part 3
 'the': -T
 'children': KHEURPB
 'were': WR
-'gone.': TKWOPB TP-PL
+'gone.': TKPWOPB TP-PL
 'Then': THEPB
 'she': SHE
 'was': WA
@@ -79,7 +79,7 @@ Fundevogel Part 3
 'the': -T
 'children': KHEURPB
 'are': R
-'gone?': TKWOPB H-F
+'gone?': TKPWOPB H-F
 'They': THE
 'must': PHUFT
 'be': -B

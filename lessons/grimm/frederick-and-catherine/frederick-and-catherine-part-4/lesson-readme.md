@@ -65,7 +65,7 @@
 * as `AZ`
 * soon `SAOPB`
 * was `WA`
-* gone, `TKWOPB KW-BG`
+* gone, `TKPWOPB KW-BG`
 * there `THR`
 * came `KAEUPL`
 * by `PWEU`

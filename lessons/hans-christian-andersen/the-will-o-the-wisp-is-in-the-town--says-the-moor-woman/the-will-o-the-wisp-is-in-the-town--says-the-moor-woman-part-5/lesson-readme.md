@@ -83,7 +83,7 @@
 * to `TO`
 * bid `PWEUD`
 * welcome, `WELG KW-BG`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * away. `A/WAEU TP-PL`
 * "I `KR-GS EU`
 * will `HR`

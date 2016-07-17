@@ -64,7 +64,7 @@
 * go, `TKPW KW-BG`
 * knew `TPHAOU`
 * man `PHAPB`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * mother, `PHOER KW-BG`
 * that, `THA KW-BG`
 * perhaps, `PRAPS KW-BG`

@@ -74,7 +74,7 @@
 * grieved `TKPWRAOEF/-D`
 * I `EU`
 * was `WA`
-* gone; `TKWOPB STPH*FPLT`
+* gone; `TKPWOPB STPH*FPLT`
 * two `TWO`
 * more `PHOR`
 * off `OF`

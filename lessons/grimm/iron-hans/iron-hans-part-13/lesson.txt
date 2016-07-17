@@ -88,7 +88,7 @@ Iron Hans Part 13
 'it': T
 'would': WO
 'have': SR
-'gone': TKWOPB
+'gone': TKPWOPB
 'badly': PWAD/HREU
 'without': WOUT
 'me."': PHE TP-PL KR-GS

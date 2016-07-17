@@ -70,7 +70,7 @@
 * answered `APBSD`
 * wife, `WAOEUF KW-BG`
 * 'he `AE E`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * country `KREU`
 * mother's `PHOER AE S*/SP-S`
 * great `TKPWRAET`

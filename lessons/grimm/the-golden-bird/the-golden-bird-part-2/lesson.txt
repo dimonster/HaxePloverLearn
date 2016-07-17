@@ -90,7 +90,7 @@ The Golden Bird Part 2
 'when': WHEPB
 'he': E
 'had': H
-'gone': TKWOPB
+'gone': TKPWOPB
 'but': PWUT
 'a': AEU
 'little': HREUL

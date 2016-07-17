@@ -67,7 +67,7 @@
 * many `PHAEPB`
 * days `TKAEUS`
 * had `H`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * by `PWEU`
 * before `PW-F`
 * heard, `HERD KW-BG`

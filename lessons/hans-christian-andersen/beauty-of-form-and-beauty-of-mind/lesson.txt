@@ -2458,7 +2458,7 @@
 'look': HRAOBG
 'at.': AT TP-PL
 '"He's': KR-GS E AE S*/SP-S
-'gone': TKWOPB
+'gone': TKPWOPB
 'to': TO
 'the': -T
 'very': SRE
@@ -2467,7 +2467,7 @@
 'mamma-in-law;': PHAPL/PHA H-PB TPH H-PB HRAU STPH*FPLT
 '"he': KR-GS E
 'has': HAS
-'gone': TKWOPB
+'gone': TKPWOPB
 'from': TPR
 'the': -T
 'most': PHOFT

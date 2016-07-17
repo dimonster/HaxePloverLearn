@@ -9,7 +9,7 @@
 * sleeping `SHRAOEPG`
 * Princess, `PREUPB/ES KW-BG`
 * being `-BG`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * a-hunting `AEU H-PB HUPBT/-G`
 * on `OPB`
 * side `SAOEUD`

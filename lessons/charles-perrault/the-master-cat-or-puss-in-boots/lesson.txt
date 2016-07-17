@@ -1183,7 +1183,7 @@
 'King': KEUPBG
 'had': H
 'then': THEPB
-'gone': TKWOPB
+'gone': TKPWOPB
 'over': OEFR
 'belonged': PWHROPBGD
 'to': TO

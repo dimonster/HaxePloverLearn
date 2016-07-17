@@ -34,7 +34,7 @@
 * was `WA`
 * almost `HR-PL`
 * all `AUL`
-* gone. `TKWOPB TP-PL`
+* gone. `TKPWOPB TP-PL`
 * 'Not `AE TPHOT`
 * enough `TPHUF`
 * yet!' `KWRET SKHRAPL AE`

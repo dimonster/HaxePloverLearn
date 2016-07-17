@@ -19,7 +19,7 @@
 * myself `PHAO*EUS`
 * shot. `SHOT TP-PL`
 * Years `KWRAOERS`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * by `PWEU`
 * when, `WHEPB KW-BG`
 * one `WUPB`

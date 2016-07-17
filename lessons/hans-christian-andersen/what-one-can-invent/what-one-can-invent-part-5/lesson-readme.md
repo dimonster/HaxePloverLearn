@@ -122,7 +122,7 @@
 * other `OER`
 * must `PHUFT`
 * have `SR`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * her. `HER TP-PL`
 * It `T`
 * not `TPHOT`

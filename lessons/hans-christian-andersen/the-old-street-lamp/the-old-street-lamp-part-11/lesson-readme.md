@@ -24,7 +24,7 @@
 * what `WHA`
 * they `THE`
 * both `PWO*T`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * through `THRU`
 * together,—in `TOGT KW-BG EPL/TKA*RB TPH`
 * rain `RAEUPB`

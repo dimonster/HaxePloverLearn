@@ -134,7 +134,7 @@ Ole the Tower-Keeper Part 8
 'me,': PHE KW-BG
 'I': EU
 'had': H
-'gone': TKWOPB
+'gone': TKPWOPB
 'quite': KWAOEUT
 'beyond': KWROPBD
 'all': AUL

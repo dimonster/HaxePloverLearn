@@ -99,7 +99,7 @@
 * behind `HEUPBD`
 * curtain. `KUR/TAPB TP-PL`
 * she `SHE`
-* gone—the `TKWOPB EPL/TKA*RB -T`
+* gone—the `TKPWOPB EPL/TKA*RB -T`
 * disappeared; `TKEUS/PAOERD STPH*FPLT`
 * no `TPHO`
 * longer `HRORPBG`

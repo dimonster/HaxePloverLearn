@@ -6,7 +6,7 @@ The Golden Goose Part 4
 'as': AZ
 'Dummling': XXX Dummling
 'had': H
-'gone': TKWOPB
+'gone': TKPWOPB
 'out': OUT
 'she': SHE
 'seized': SAOEZ/-D

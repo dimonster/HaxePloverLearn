@@ -118,7 +118,7 @@ The Shadow Part 13
 'If': TP
 'you': U
 'had': H
-'gone': TKWOPB
+'gone': TKPWOPB
 'there,': THR KW-BG
 'you': U
 'would': WO

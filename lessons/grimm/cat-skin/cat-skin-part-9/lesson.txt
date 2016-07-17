@@ -4,7 +4,7 @@ Cat-Skin Part 9
 'where': W-R
 'she': SHE
 'was': WA
-'gone;': TKWOPB STPH*FPLT
+'gone;': TKPWOPB STPH*FPLT
 'but': PWUT
 'she': SHE
 'sprang': SPRAPBG

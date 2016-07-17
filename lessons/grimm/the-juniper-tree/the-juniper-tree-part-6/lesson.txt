@@ -100,7 +100,7 @@ The Juniper-Tree Part 6
 'wife,': WAOEUF KW-BG
 ''he': AE E
 'is': S
-'gone': TKWOPB
+'gone': TKPWOPB
 'into': TPHAO
 'the': -T
 'country': KREU
@@ -120,7 +120,7 @@ The Juniper-Tree Part 6
 ''What': AE WHA
 'has': HAS
 'he': E
-'gone': TKWOPB
+'gone': TKPWOPB
 'there': THR
 'for,': TPOR KW-BG
 'and': SKP

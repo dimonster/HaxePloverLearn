@@ -71,7 +71,7 @@
 * much `PHUFP`
 * because `PWAU`
 * was `WA`
-* gone, `TKWOPB KW-BG`
+* gone, `TKPWOPB KW-BG`
 * but `PWUT`
 * knew `TPHAOU`
 * there `THR`

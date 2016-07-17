@@ -567,7 +567,7 @@
 'now': TPHOU
 'she': SHE
 'was': WA
-'gone,': TKWOPB KW-BG
+'gone,': TKPWOPB KW-BG
 'and': SKP
 'how': HOU
 'good': TKPWAOD

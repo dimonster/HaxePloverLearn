@@ -967,7 +967,7 @@
 'bees': PWAOES
 'must': PHUFT
 'have': SR
-'gone': TKWOPB
+'gone': TKPWOPB
 'with': W
 'her.': HER TP-PL
 'It': T

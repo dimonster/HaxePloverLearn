@@ -22,7 +22,7 @@ The Shepherd's Story of the Bond of Friendship Part 12
 'shot.': SHOT TP-PL
 'Years': KWRAOERS
 'had': H
-'gone': TKWOPB
+'gone': TKPWOPB
 'by': PWEU
 'when,': WHEPB KW-BG
 'one': WUPB

@@ -614,7 +614,7 @@
 '"Now': KR-GS TPHOU
 'he': E
 'is': S
-'gone,': TKWOPB KW-BG
+'gone,': TKPWOPB KW-BG
 'and': SKP
 'will': HR
 'soon': SAOPB

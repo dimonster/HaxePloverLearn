@@ -189,7 +189,7 @@ The Story of the Year Part 13
 'of': -F
 'the': -T
 'nest': TPHEFT
-'gone?"': TKWOPB H-F KR-GS
+'gone?"': TKPWOPB H-F KR-GS
 'cried': KRAOEUD
 'one,': WUPB KW-BG
 '"I': KR-GS EU

@@ -407,7 +407,7 @@
 'found;': TPOUPBD STPH*FPLT
 'it': T
 'was': WA
-'gone.': TKWOPB TP-PL
+'gone.': TKPWOPB TP-PL
 '"I': KR-GS EU
 'know': TPHOE
 'very': SRE
@@ -568,7 +568,7 @@
 'he,': E KW-BG
 'also,': HR-S KW-BG
 'was': WA
-'gone.': TKWOPB TP-PL
+'gone.': TKPWOPB TP-PL
 'They': THE
 'searched': SEFRPBD
 'everywhere,': WEFR KW-BG

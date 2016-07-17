@@ -186,7 +186,7 @@ The Sleeping Beauty in the Wood Part 7
 'hundred': HUPBD
 'years': KWRAOERS
 'were': WR
-'gone': TKWOPB
+'gone': TKPWOPB
 'and': SKP
 'past,': PAFT KW-BG
 'the': -T

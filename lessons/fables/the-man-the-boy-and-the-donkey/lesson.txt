@@ -58,7 +58,7 @@ The Man, the Boy, and the Donkey
 'they': THE
 'passed': PAFD
 'a': AEU
-'group': TKPWRAUP
+'group': TKPWRAOUP
 'of': -F
 'men,': PHEPB KW-BG
 'one': WUPB
@@ -93,7 +93,7 @@ The Man, the Boy, and the Donkey
 'But': PWUT
 'they': THE
 'hadn't': H-PBT
-'gone': TKWOPB
+'gone': TKPWOPB
 'far': TPAR
 'when': WHEPB
 'they': THE

@@ -101,7 +101,7 @@
 * room, `RAOPL KW-BG`
 * or `OR`
 * room `RAOPL`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * church. `KHUFRPB TP-PL`
 * sat `SAT`
 * pew `PAOU`

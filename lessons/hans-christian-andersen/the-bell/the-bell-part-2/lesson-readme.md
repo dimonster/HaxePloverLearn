@@ -71,7 +71,7 @@
 * Three `THRAOE`
 * persons `PERPBZ`
 * declared `TKE/KHRAEURD`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * as `AZ`
 * far `TPAR`
 * end `EPBD`

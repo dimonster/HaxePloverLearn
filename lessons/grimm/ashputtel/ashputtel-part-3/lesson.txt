@@ -180,7 +180,7 @@ Ashputtel Part 3
 'liked': HRAOEUBGD
 'to': TO
 'have': SR
-'gone': TKWOPB
+'gone': TKPWOPB
 'with': W
 'them': THEPL
 'to': TO

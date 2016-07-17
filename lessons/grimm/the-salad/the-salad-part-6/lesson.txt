@@ -154,7 +154,7 @@ The Salad Part 6
 'as': AZ
 'they': THE
 'were': WR
-'gone,': TKWOPB KW-BG
+'gone,': TKPWOPB KW-BG
 'he': E
 'climbed': KHRAOEUPLD
 'to': TO

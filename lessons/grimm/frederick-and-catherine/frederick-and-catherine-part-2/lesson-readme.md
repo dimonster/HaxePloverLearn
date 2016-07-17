@@ -33,7 +33,7 @@
 * steak. `STAEBG TP-PL`
 * 'It's `AE T AE S*/SP-S`
 * all `AUL`
-* gone, `TKWOPB KW-BG`
+* gone, `TKPWOPB KW-BG`
 * "what `KR-GS WHA`
 * can't `K-PBT`
 * be `-B`

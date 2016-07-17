@@ -294,7 +294,7 @@
 'young': KWRUPBG
 'man': PHAPB
 'is': S
-'gone,': TKWOPB KW-BG
+'gone,': TKPWOPB KW-BG
 'and': SKP
 'the': -T
 'rose': ROEZ

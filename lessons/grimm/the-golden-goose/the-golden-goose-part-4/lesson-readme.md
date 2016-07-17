@@ -5,7 +5,7 @@
 * soon `SAOPB`
 * Dummling `XXX Dummling`
 * had `H`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * out `OUT`
 * she `SHE`
 * seized `SAOEZ/-D`

@@ -13,7 +13,7 @@
 * the `-T`
 * sexton `SEBGS/TOPB`
 * had `H`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * to `TO`
 * visit `SREUFT`
 * farmer's `TPAR/PHER AE S*/SP-S`

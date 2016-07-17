@@ -60,7 +60,7 @@ Beauty of Form and Beauty of Mind Part 13
 'look': HRAOBG
 'at.': AT TP-PL
 '"He's': KR-GS E AE S*/SP-S
-'gone': TKWOPB
+'gone': TKPWOPB
 'to': TO
 'the': -T
 'very': SRE
@@ -69,7 +69,7 @@ Beauty of Form and Beauty of Mind Part 13
 'mamma-in-law;': PHAPL/PHA H-PB TPH H-PB HRAU STPH*FPLT
 '"he': KR-GS E
 'has': HAS
-'gone': TKWOPB
+'gone': TKPWOPB
 'from': TPR
 'the': -T
 'most': PHOFT

@@ -34,7 +34,7 @@
 * when `WHEPB`
 * I `EU`
 * was `WA`
-* gone; `TKWOPB STPH*FPLT`
+* gone; `TKPWOPB STPH*FPLT`
 * sister `ST-R`
 * loved `HROFD`
 * me `PHE`

@@ -83,7 +83,7 @@ Ashputtel Part 8
 'and': SKP
 'sisters': ST-RS
 'were': WR
-'gone,': TKWOPB KW-BG
+'gone,': TKPWOPB KW-BG
 'Ashputtel': XXX Ashputtel
 'went': WEPBT
 'to': TO

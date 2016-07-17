@@ -2587,7 +2587,7 @@
 'of': -F
 'the': -T
 'nest': TPHEFT
-'gone?"': TKWOPB H-F KR-GS
+'gone?"': TKPWOPB H-F KR-GS
 'cried': KRAOEUD
 'one,': WUPB KW-BG
 '"I': KR-GS EU
@@ -2685,7 +2685,7 @@
 'summer': SAOURPL
 'queen': KWAOEPB
 'was': WA
-'gone,': TKWOPB KW-BG
+'gone,': TKPWOPB KW-BG
 'but': PWUT
 'a': AEU
 'butterfly,': PW*URT/TPHRAOEU KW-BG

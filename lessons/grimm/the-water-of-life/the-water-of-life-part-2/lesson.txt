@@ -28,7 +28,7 @@ The Water of Life Part 2
 'when': WHEPB
 'he': E
 'had': H
-'gone': TKWOPB
+'gone': TKPWOPB
 'on': OPB
 'his': HEUS
 'way': WAEU

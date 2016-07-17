@@ -96,7 +96,7 @@ The Shadow Part 6
 'the': -T
 'shadow': SHO*EUD
 'was': WA
-'gone,': TKWOPB KW-BG
+'gone,': TKPWOPB KW-BG
 'but': PWUT
 'because': PWAU
 'he': E

@@ -4,7 +4,7 @@
 * where `W-R`
 * she `SHE`
 * was `WA`
-* gone; `TKWOPB STPH*FPLT`
+* gone; `TKPWOPB STPH*FPLT`
 * But `PWUT`
 * sprang `SPRAPBG`
 * into `TPHAO`

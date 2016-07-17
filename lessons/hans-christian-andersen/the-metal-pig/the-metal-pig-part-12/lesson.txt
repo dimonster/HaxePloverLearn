@@ -95,7 +95,7 @@ The Metal Pig Part 12
 'old': OLD
 'man': PHAPB
 'was': WA
-'gone': TKWOPB
+'gone': TKPWOPB
 'to': TO
 'his': HEUS
 'mother,': PHOER KW-BG

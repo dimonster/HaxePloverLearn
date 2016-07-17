@@ -138,7 +138,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman Part 1
 'and': SKP
 'everything': EFG
 'seemed': SAOEPLD
-'gone,': TKWOPB KW-BG
+'gone,': TKPWOPB KW-BG
 'and': SKP
 'the': -T
 'enemy's': EPB/PHEU AE S*/SP-S
@@ -166,7 +166,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman Part 1
 'were': WR
 'past': PAFT
 'and': SKP
-'gone—so': TKWOPB EPL/TKA*RB SO
+'gone—so': TKPWOPB EPL/TKA*RB SO
 'people': PAOEPL
 'said;': SAEUD STPH*FPLT
 'yet': KWRET
@@ -192,7 +192,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman Part 1
 'be': -B
 'dead,': TKED KW-BG
 'or': OR
-'gone': TKWOPB
+'gone': TKPWOPB
 'away': A/WAEU
 'with': W
 'many': PHAEPB

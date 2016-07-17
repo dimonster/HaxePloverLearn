@@ -32,7 +32,7 @@
 * tying `TAOEUG`
 * black `PWHRABG`
 * river `REUFR`
-* group `TKPWRAUP`
+* group `TKPWRAOUP`
 * roses `ROES/-S`
 * threw `THRAOU`
 * block `PWHROBG`

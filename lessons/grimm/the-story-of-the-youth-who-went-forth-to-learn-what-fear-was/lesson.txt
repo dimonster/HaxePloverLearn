@@ -1849,7 +1849,7 @@
 'many': PHAEPB
 'men': PHEPB
 'had': H
-'gone': TKWOPB
+'gone': TKPWOPB
 'into': TPHAO
 'the': -T
 'castle,': KAFL KW-BG
@@ -2165,7 +2165,7 @@
 'for': TPOR
 'card-playing': KARD H-PB PHRA*EUG
 'has': HAS
-'gone,'': TKWOPB KW-BG AE
+'gone,'': TKPWOPB KW-BG AE
 'and': SKP
 'he': E
 'struck': STRUBG

@@ -32,7 +32,7 @@ The Bell Part 3
 'of': -F
 'them': THEPL
 'had': H
-'gone': TKWOPB
+'gone': TKPWOPB
 'far': TPAR
 'enough,': TPHUF KW-BG
 'nor': TPH-R

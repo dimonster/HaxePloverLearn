@@ -1055,7 +1055,7 @@
 '"they': KR-GS THE
 'have': SR
 'all': AUL
-'gone': TKWOPB
+'gone': TKPWOPB
 'out,': OUT KW-BG
 'and': SKP
 'forgotten': TPORGTD

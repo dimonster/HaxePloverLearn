@@ -99,7 +99,7 @@
 * be. `-B TP-PL`
 * When `WHEPB`
 * found `TPOUPBD`
-* gone, `TKWOPB KW-BG`
+* gone, `TKPWOPB KW-BG`
 * he `E`
 * came `KAEUPL`
 * out `OUT`

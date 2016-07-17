@@ -115,7 +115,7 @@
 * should `SHO`
 * have `SR`
 * liked `HRAOEUBGD`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * them `THEPL`
 * ball; `PWAUL STPH*FPLT`
 * begged `PWEGD`

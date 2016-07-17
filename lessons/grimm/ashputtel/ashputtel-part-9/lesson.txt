@@ -51,7 +51,7 @@ Ashputtel Part 9
 'where': W-R
 'she': SHE
 'was': WA
-'gone,': TKWOPB KW-BG
+'gone,': TKPWOPB KW-BG
 'but': PWUT
 'waited': WAEUTD
 'till': T*EUL
@@ -167,7 +167,7 @@ Ashputtel Part 9
 'and': SKP
 'sisters': ST-RS
 'were': WR
-'gone,': TKWOPB KW-BG
+'gone,': TKPWOPB KW-BG
 'she': SHE
 'went': WEPBT
 'again': TKPWEPB

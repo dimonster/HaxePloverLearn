@@ -20,7 +20,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman Part 10
 'And': SKP
 'she': SHE
 'was': WA
-'gone.': TKWOPB TP-PL
+'gone.': TKPWOPB TP-PL
 'The': -T
 'man': PHAPB
 'was': WA
@@ -194,7 +194,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman Part 10
 'the': -T
 'children': KHEURPB
 'have': SR
-'gone': TKWOPB
+'gone': TKPWOPB
 'beyond': KWROPBD
 'that.': THA TP-PL
 'Give': TKPWEUF

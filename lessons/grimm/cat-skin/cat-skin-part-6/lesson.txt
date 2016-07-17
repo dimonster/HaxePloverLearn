@@ -73,7 +73,7 @@ Cat-Skin Part 6
 'her,': HER KW-BG
 'she': SHE
 'was': WA
-'gone,': TKWOPB KW-BG
+'gone,': TKPWOPB KW-BG
 'no': TPHO
 'one': WUPB
 'knew': TPHAOU

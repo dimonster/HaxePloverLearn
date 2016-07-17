@@ -35,7 +35,7 @@
 * loud, `HROUD KW-BG`
 * inwardly. `EUPB/WARD/HREU TP-PL`
 * "Charlotte's `KR-GS KHARL/OT AE S*/SP-S`
-* gone! `TKWOPB SKHRAPL`
+* gone! `TKPWOPB SKHRAPL`
 * Charlotte's `KHARL/OT AE S*/SP-S`
 * Now `TPHOU`
 * song `SOPBG`

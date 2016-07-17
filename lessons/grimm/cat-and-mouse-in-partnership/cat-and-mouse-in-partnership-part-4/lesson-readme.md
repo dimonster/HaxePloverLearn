@@ -113,8 +113,8 @@
 * cat. `KAT TP-PL`
 * 'He `AE E`
 * called `KAULD`
-* All-gone.' `AUL H-PB TKWOPB TP-PL AE`
-* 'All-gone,' `AE AUL H-PB TKWOPB KW-BG AE`
+* All-gone.' `AUL H-PB TKPWOPB TP-PL AE`
+* 'All-gone,' `AE AUL H-PB TKPWOPB KW-BG AE`
 * cried `KRAOEUD`
 * 'that `AE THA`
 * most `PHOFT`
@@ -125,7 +125,7 @@
 * never `TPHEF`
 * seen `SAOEPB`
 * print. `PREUPBT TP-PL`
-* All-gone; `AUL H-PB TKWOPB STPH*FPLT`
+* All-gone; `AUL H-PB TKPWOPB STPH*FPLT`
 * can `K`
 * that `THA`
 * mean?' `PHAOEPB H-F AE`

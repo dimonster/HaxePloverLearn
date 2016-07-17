@@ -128,7 +128,7 @@ The King of the Golden Mountain Part 10
 'the': -T
 'ring': REUPBG
 'was': WA
-'gone': TKWOPB
+'gone': TKPWOPB
 'from': TPR
 'his': HEUS
 'finger.': TPURPBG TP-PL

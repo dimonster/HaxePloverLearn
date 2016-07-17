@@ -88,7 +88,7 @@
 * that `THA`
 * power `POUR`
 * is `S`
-* gone, `TKWOPB KW-BG`
+* gone, `TKPWOPB KW-BG`
 * shall `SHAL`
 * free, `TPRAOE KW-BG`
 * Water `WAUR`

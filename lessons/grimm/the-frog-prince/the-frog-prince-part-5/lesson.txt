@@ -49,7 +49,7 @@ The Frog-Prince Part 5
 'last': HRAFT
 'he': E
 'is': S
-'gone,': TKWOPB KW-BG
+'gone,': TKPWOPB KW-BG
 'and': SKP
 'I': EU
 'shall': SHAL

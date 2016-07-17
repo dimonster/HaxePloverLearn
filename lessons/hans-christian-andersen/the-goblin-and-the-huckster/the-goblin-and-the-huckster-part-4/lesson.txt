@@ -154,7 +154,7 @@ The Goblin and the Huckster Part 4
 'his': HEUS
 'candle': KA*PBLD
 'and': SKP
-'gone': TKWOPB
+'gone': TKPWOPB
 'to': TO
 'bed;': PWED STPH*FPLT
 'but': PWUT

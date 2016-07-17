@@ -7,7 +7,7 @@
 * and `SKP`
 * Queen `KWAOEPB`
 * being `-BG`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * to `TO`
 * one `WUPB`
 * of `-F`

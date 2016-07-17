@@ -51,7 +51,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was Part 10
 'many': PHAEPB
 'men': PHEPB
 'had': H
-'gone': TKWOPB
+'gone': TKPWOPB
 'into': TPHAO
 'the': -T
 'castle,': KAFL KW-BG

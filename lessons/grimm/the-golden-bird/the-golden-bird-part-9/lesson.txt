@@ -70,7 +70,7 @@ The Golden Bird Part 9
 'the': -T
 'hill': HEUL
 'was': WA
-'gone;': TKWOPB STPH*FPLT
+'gone;': TKPWOPB STPH*FPLT
 'so': SO
 'he': E
 'went': WEPBT

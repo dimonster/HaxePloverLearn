@@ -28,7 +28,7 @@
 * in `TPH`
 * the `-T`
 * world `WORLD`
-* gone, `TKWOPB KW-BG`
+* gone, `TKPWOPB KW-BG`
 * save `SAF`
 * just `SKWRUFT`
 * leather `HRE/THER`

@@ -118,7 +118,7 @@ The Shadow Part 24
 'place."': PHRAEUS TP-PL KR-GS
 '"I': KR-GS EU
 'have': SR
-'gone': TKWOPB
+'gone': TKPWOPB
 'through': THRU
 'the': -T
 'most': PHOFT
@@ -136,7 +136,7 @@ The Shadow Part 24
 'my': PHEU
 'shadow': SHO*EUD
 'has': HAS
-'gone': TKWOPB
+'gone': TKPWOPB
 'mad;': PHAD STPH*FPLT
 'I': EU
 'suppose': SPOS

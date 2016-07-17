@@ -41,7 +41,7 @@ Iron Hans Part 11
 'when': WHEPB
 'we': WE
 'are': R
-'gone,': TKWOPB KW-BG
+'gone,': TKPWOPB KW-BG
 'we': WE
 'will': HR
 'leave': HREF
@@ -56,7 +56,7 @@ Iron Hans Part 11
 'When': WHEPB
 'they': THE
 'had': H
-'gone': TKWOPB
+'gone': TKPWOPB
 'forth,': TPO*RT KW-BG
 'he': E
 'went': WEPBT

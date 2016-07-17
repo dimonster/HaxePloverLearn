@@ -180,7 +180,7 @@ A Story Part 3
 'ever.': -FR TP-PL
 'She': SHE
 'had': H
-'gone': TKWOPB
+'gone': TKPWOPB
 'home.': HOEPL TP-PL
 'It': T
 'was': WA

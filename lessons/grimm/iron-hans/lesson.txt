@@ -674,7 +674,7 @@
 'but': PWUT
 'it': T
 'was': WA
-'gone.': TKWOPB TP-PL
+'gone.': TKPWOPB TP-PL
 'She': SHE
 'called': KAULD
 'the': -T
@@ -2039,7 +2039,7 @@
 'when': WHEPB
 'we': WE
 'are': R
-'gone,': TKWOPB KW-BG
+'gone,': TKPWOPB KW-BG
 'we': WE
 'will': HR
 'leave': HREF
@@ -2054,7 +2054,7 @@
 'When': WHEPB
 'they': THE
 'had': H
-'gone': TKWOPB
+'gone': TKPWOPB
 'forth,': TPO*RT KW-BG
 'he': E
 'went': WEPBT
@@ -2486,7 +2486,7 @@
 'it': T
 'would': WO
 'have': SR
-'gone': TKWOPB
+'gone': TKPWOPB
 'badly': PWAD/HREU
 'without': WOUT
 'me."': PHE TP-PL KR-GS

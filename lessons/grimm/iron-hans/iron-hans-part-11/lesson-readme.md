@@ -36,14 +36,14 @@
 * When `WHEPB`
 * we `WE`
 * are `R`
-* gone, `TKWOPB KW-BG`
+* gone, `TKPWOPB KW-BG`
 * leave `HREF`
 * behind `HEUPBD`
 * us `US`
 * stable `STABL`
 * you.' `U TP-PL AE`
 * they `THE`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * forth, `TPO*RT KW-BG`
 * he `E`
 * went `WEPBT`

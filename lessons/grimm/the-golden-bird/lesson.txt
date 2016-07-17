@@ -41,7 +41,7 @@
 'of': -F
 'them': THEPL
 'was': WA
-'gone.': TKWOPB TP-PL
+'gone.': TKPWOPB TP-PL
 'The': -T
 'king': KEUPBG
 'became': PWAEUPL
@@ -108,7 +108,7 @@
 'another': TPHOER
 'apple': A*EPL
 'was': WA
-'gone.': TKWOPB TP-PL
+'gone.': TKPWOPB TP-PL
 'Then': THEPB
 'the': -T
 'third': THEURD
@@ -288,7 +288,7 @@
 'when': WHEPB
 'he': E
 'had': H
-'gone': TKWOPB
+'gone': TKPWOPB
 'but': PWUT
 'a': AEU
 'little': HREUL
@@ -1668,7 +1668,7 @@
 'the': -T
 'hill': HEUL
 'was': WA
-'gone;': TKWOPB STPH*FPLT
+'gone;': TKPWOPB STPH*FPLT
 'so': SO
 'he': E
 'went': WEPBT

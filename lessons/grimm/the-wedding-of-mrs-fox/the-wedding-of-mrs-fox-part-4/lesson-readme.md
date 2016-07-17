@@ -22,7 +22,7 @@
 * When `WHEPB`
 * wolf `WOFL`
 * was `WA`
-* gone, `TKWOPB KW-BG`
+* gone, `TKPWOPB KW-BG`
 * came `KAEUPL`
 * dog, `TKOG KW-BG`
 * stag, `STAG KW-BG`

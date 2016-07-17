@@ -11,7 +11,7 @@
 * caught `KAUT`
 * cold; `KOELD STPH*FPLT`
 * he `E`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * out `OUT`
 * and `SKP`
 * got `TKPWOT`

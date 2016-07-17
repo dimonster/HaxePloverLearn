@@ -73,7 +73,7 @@
 * daughters `TKAURS`
 * when `WHEPB`
 * were `WR`
-* gone, `TKWOPB KW-BG`
+* gone, `TKPWOPB KW-BG`
 * nobody `TPHOEB`
 * at `AT`
 * home, `HOEPL KW-BG`

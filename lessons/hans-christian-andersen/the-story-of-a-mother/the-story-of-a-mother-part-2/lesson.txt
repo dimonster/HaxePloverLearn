@@ -83,12 +83,12 @@ The Story of a Mother Part 2
 'old': OLD
 'man': PHAPB
 'was': WA
-'gone,': TKWOPB KW-BG
+'gone,': TKPWOPB KW-BG
 'and': SKP
 'her': HER
 'child—it': KHAOEULD EPL/TKA*RB T
 'was': WA
-'gone': TKWOPB
+'gone': TKPWOPB
 'too!—the': TAO SKHRAPL EPL/TKA*RB -T
 'old': OLD
 'man': PHAPB
@@ -193,7 +193,7 @@ The Story of a Mother Part 2
 'way': WAEU
 'he': E
 'has': HAS
-'gone,"': TKWOPB KW-BG KR-GS
+'gone,"': TKPWOPB KW-BG KR-GS
 'said': SAEUD
 'the': -T
 'mother;': PHOER STPH*FPLT

@@ -48,7 +48,7 @@ The Storm Shakes the Shield Part 4
 'boy,': PWOEU KW-BG
 'grandpapa': XXX grandpapa
 'had': H
-'gone': TKWOPB
+'gone': TKPWOPB
 'with': W
 'his': HEUS
 'parents': PARPBTS

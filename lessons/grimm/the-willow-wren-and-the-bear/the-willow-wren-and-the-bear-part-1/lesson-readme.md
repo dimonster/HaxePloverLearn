@@ -102,7 +102,7 @@
 * sleeve, `SHRAOEF KW-BG`
 * 'No, `AE TPHO KW-BG`
 * lady `HRA*ED`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * away `A/WAEU`
 * again.' `TKPWEPB TP-PL AE`
 * took `TAOBG`

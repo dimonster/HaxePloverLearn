@@ -43,7 +43,7 @@
 * men `PHEPB`
 * who `WHO`
 * are `R`
-* gone. `TKWOPB TP-PL`
+* gone. `TKPWOPB TP-PL`
 * Providence `PROF/TKEPBS`
 * has `HAS`
 * granted `TKPWRAPBTD`

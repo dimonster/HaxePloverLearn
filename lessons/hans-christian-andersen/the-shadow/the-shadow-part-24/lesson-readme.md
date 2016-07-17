@@ -89,7 +89,7 @@
 * take `TAEUBG`
 * place." `PHRAEUS TP-PL KR-GS`
 * have `SR`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * through `THRU`
 * most `PHOFT`
 * terrible `TERBL`

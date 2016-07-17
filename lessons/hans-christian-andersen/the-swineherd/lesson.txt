@@ -772,7 +772,7 @@
 'when': WHEPB
 'she': SHE
 'had': H
-'gone': TKWOPB
+'gone': TKPWOPB
 'a': AEU
 'little': HREUL
 'distance,': STKAPBS KW-BG
@@ -1067,7 +1067,7 @@
 'lady,': HRA*ED KW-BG
 'who': WHO
 'had': H
-'gone': TKWOPB
+'gone': TKPWOPB
 'down': TKOUPB
 'to': TO
 'ask': SK

@@ -56,7 +56,7 @@
 * mother, `PHOER KW-BG`
 * sisters `ST-RS`
 * were `WR`
-* gone, `TKWOPB KW-BG`
+* gone, `TKPWOPB KW-BG`
 * Ashputtel `XXX Ashputtel`
 * went `WEPBT`
 * said: `SAEUD STPH-FPLT`

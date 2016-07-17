@@ -21,7 +21,7 @@
 * grieved `TKPWRAOEF/-D`
 * when `WHEPB`
 * was `WA`
-* gone; `TKWOPB STPH*FPLT`
+* gone; `TKPWOPB STPH*FPLT`
 * then `THEPB`
 * woman `WOPL`
 * fell `TPEL`

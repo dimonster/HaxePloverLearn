@@ -392,7 +392,7 @@
 'He': E
 'had': H
 'not': TPHOT
-'gone': TKWOPB
+'gone': TKPWOPB
 'far': TPAR
 'before': PW-F
 'he': E
@@ -1041,7 +1041,7 @@
 'when': WHEPB
 'it': T
 'had': H
-'gone': TKWOPB
+'gone': TKPWOPB
 'on': OPB
 'a': AEU
 'while,': WHAOEUL KW-BG

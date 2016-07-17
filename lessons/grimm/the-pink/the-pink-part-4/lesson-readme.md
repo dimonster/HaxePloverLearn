@@ -5,7 +5,7 @@
 * when `WHEPB`
 * he `E`
 * had `H`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * away, `A/WAEU KW-BG`
 * she `SHE`
 * a `AEU`

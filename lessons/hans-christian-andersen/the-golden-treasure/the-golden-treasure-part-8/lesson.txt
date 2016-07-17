@@ -29,7 +29,7 @@ The Golden Treasure Part 8
 'that': THA
 'she': SHE
 'had': H
-'gone': TKWOPB
+'gone': TKPWOPB
 'into': TPHAO
 'the': -T
 'church,': KHUFRPB KW-BG

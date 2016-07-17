@@ -114,7 +114,7 @@
 * known; `TPHOEPB STPH*FPLT`
 * for `TPOR`
 * lands `HRAPBDZ`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * over `OEFR`
 * belonged `PWHROPBGD`
 * castle. `KAFL TP-PL`

@@ -25,7 +25,7 @@ The Wedding of Mrs Fox Part 4
 'the': -T
 'wolf': WOFL
 'was': WA
-'gone,': TKWOPB KW-BG
+'gone,': TKPWOPB KW-BG
 'came': KAEUPL
 'a': AEU
 'dog,': TKOG KW-BG

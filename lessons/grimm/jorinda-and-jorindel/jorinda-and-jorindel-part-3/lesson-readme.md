@@ -102,7 +102,7 @@
 * saw `SAU`
 * nightingale `TPHAOEUT/-G/TKPWAEL`
 * was `WA`
-* gone--but `TKWOPB H-PB H-PB PWUT`
+* gone--but `TKPWOPB H-PB H-PB PWUT`
 * what `WHA`
 * do? `TKO H-F`
 * move `PHOF`

@@ -136,7 +136,7 @@
 * where `W-R`
 * has `HAS`
 * master `PHAFRT`
-* gone?" `TKWOPB H-F KR-GS`
+* gone?" `TKPWOPB H-F KR-GS`
 * cried `KRAOEUD`
 * "I `KR-GS EU`
 * suppose `SPOS`

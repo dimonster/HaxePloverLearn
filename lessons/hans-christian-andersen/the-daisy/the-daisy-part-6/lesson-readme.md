@@ -47,7 +47,7 @@
 * lark, `HRARBG KW-BG`
 * "they `KR-GS THE`
 * all `AUL`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * out, `OUT KW-BG`
 * forgotten `TPORGTD`
 * give `TKPWEUF`

@@ -124,7 +124,7 @@
 * so. `SO TP-PL`
 * had `H`
 * not `TPHOT`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * far `TPAR`
 * before `PW-F`
 * met `PHET`

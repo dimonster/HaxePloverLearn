@@ -83,4 +83,4 @@
 * he `E`
 * rushed `RURBD`
 * was `WA`
-* gone. `TKWOPB TP-PL`
+* gone. `TKPWOPB TP-PL`

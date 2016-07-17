@@ -84,7 +84,7 @@
 * dead. `TKED TP-PL`
 * When `WHEPB`
 * years `KWRAOERS`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * by `PWEU`
 * skeleton `SKEL/TOPB`
 * dug `TKUG`

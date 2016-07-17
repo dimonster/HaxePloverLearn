@@ -159,7 +159,7 @@ In the Nursery Part 5
 'Where's': W-R AE S*/SP-S
 'my': PHEU
 'humor?': HAOURPL H-F
-'Gone,': TKWOPB KW-BG
+'Gone,': TKPWOPB KW-BG
 'I': EU
 'fear,': TPAOER KW-BG
 'And': SKP

@@ -1727,7 +1727,7 @@
 'vagabond.': SRAG/PWOPBD TP-PL
 'He': E
 'has': HAS
-'gone': TKWOPB
+'gone': TKPWOPB
 'away': A/WAEU
 'and': SKP
 'left': HREFT

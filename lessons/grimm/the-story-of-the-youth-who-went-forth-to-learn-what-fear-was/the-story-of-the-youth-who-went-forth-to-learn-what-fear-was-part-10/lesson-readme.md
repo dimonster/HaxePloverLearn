@@ -45,7 +45,7 @@
 * many `PHAEPB`
 * men `PHEPB`
 * had `H`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * into `TPHAO`
 * castle, `KAFL KW-BG`
 * but `PWUT`

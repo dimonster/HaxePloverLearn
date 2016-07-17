@@ -62,7 +62,7 @@
 * In `TPH`
 * shower. `SHOUR TP-PL`
 * summer `SAOURPL`
-* gone, `TKWOPB KW-BG`
+* gone, `TKPWOPB KW-BG`
 * but `PWUT`
 * butterfly, `PW*URT/TPHRAOEU KW-BG`
 * last `HRAFT`

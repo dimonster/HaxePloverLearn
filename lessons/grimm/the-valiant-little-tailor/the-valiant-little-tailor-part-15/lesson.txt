@@ -196,7 +196,7 @@ The Valiant Little Tailor Part 15
 'it': T
 'would': WO
 'have': SR
-'gone': TKWOPB
+'gone': TKPWOPB
 'to': TO
 'his': HEUS
 'heart': HART

@@ -26,7 +26,7 @@
 * when `WHEPB`
 * He `E`
 * had `H`
-* gone `TKWOPB`
+* gone `TKPWOPB`
 * hundred `HUPBD`
 * steps `STEPS`
 * or `OR`

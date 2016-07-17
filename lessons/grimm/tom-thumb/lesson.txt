@@ -944,7 +944,7 @@
 'found': TPOUPBD
 'they': THE
 'were': WR
-'gone,': TKWOPB KW-BG
+'gone,': TKPWOPB KW-BG
 'he': E
 'came': KAEUPL
 'out': OUT

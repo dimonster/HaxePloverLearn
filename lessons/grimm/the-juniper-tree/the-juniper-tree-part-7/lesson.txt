@@ -184,7 +184,7 @@ The Juniper-Tree Part 7
 'the': -T
 'bones': PWOEPBS
 'were': WR
-'gone.': TKWOPB TP-PL
+'gone.': TKPWOPB TP-PL
 'Little': HREUL
 'Marleen': XXX Marleen
 'now': TPHOU

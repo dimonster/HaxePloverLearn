@@ -89,7 +89,7 @@
 * but `PWUT`
 * when `WHEPB`
 * money `PHUPB`
-* gone, `TKWOPB KW-BG`
+* gone, `TKPWOPB KW-BG`
 * fell `TPEL`
 * again `TKPWEPB`
 * into `TPHAO`
