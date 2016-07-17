@@ -22,7 +22,7 @@ Donkey-Skin Part 13
 'in': TPH
 'the': -T
 'horrible': HORBL
-'donkey-skin': TOPB/KEU H-PB SKEUPB
+'donkey-skin': TKOPB/KAOE H-PB SKEUPB
 'after': AF
 'which': WEU
 'she': SHE
@@ -35,7 +35,7 @@ Donkey-Skin Part 13
 'One': WUPB
 'holiday': OL/TKAEU
 'when': WHEPB
-'Donkey-skin': TOPB/KEU H-PB SKEUPB
+'Donkey-skin': TKOPB/KAOE H-PB SKEUPB
 'had': H
 'put': PUT
 'on': OPB

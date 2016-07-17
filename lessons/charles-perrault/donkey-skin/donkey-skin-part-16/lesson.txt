@@ -105,7 +105,7 @@ Donkey-Skin Part 16
 'that': THA
 'I': EU
 'wish': WEURB
-'Donkey-skin': TOPB/KEU H-PB SKEUPB
+'Donkey-skin': TKOPB/KAOE H-PB SKEUPB
 'to': TO
 'make': PHAEUBG
 'me': PHE
@@ -131,7 +131,7 @@ Donkey-Skin Part 16
 'name,': TPHAEUPL KW-BG
 'asked': SK-D
 'who': WHO
-'Donkey-skin': TOPB/KEU H-PB SKEUPB
+'Donkey-skin': TKOPB/KAOE H-PB SKEUPB
 'might': PHAOEUT
 'be.': -B TP-PL
 '"It': KR-GS T

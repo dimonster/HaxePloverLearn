@@ -104,7 +104,7 @@
 * finest `TPAOEUPB/EFT`
 * stall, `STAUL KW-BG`
 * master `PHAFRT`
-* donkey, `TOPB/KEU KW-BG`
+* donkey, `TKOPB/KAOE KW-BG`
 * great `TKPWRAET`
 * long `HROPBG`
 * ears. `AOERS TP-PL`
@@ -112,7 +112,7 @@
 * whim `WHEUPL`
 * reason `R-PB`
 * King `KEUPBG`
-* donkey `TOPB/KEU`
+* donkey `TKOPB/KAOE`
 * particular `PHRAR`
 * distinguished `STKPWAOURBD`
 * place. `PHRAEUS TP-PL`

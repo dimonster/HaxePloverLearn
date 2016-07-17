@@ -153,7 +153,7 @@ Donkey-Skin Part 1
 'stall,': STAUL KW-BG
 'a': AEU
 'master': PHAFRT
-'donkey,': TOPB/KEU KW-BG
+'donkey,': TKOPB/KAOE KW-BG
 'with': W
 'great': TKPWRAET
 'long': HROPBG
@@ -176,7 +176,7 @@ Donkey-Skin Part 1
 'had': H
 'given': TKPWEUFPB
 'this': TH
-'donkey': TOPB/KEU
+'donkey': TKOPB/KAOE
 'a': AEU
 'particular': PHRAR
 'and': SKP

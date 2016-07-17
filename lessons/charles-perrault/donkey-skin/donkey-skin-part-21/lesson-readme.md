@@ -9,7 +9,7 @@
 * not `TPHOT`
 * brought `PWRAUT`
 * that `THA`
-* Donkey-skin, `TOPB/KEU H-PB SKEUPB KW-BG`
+* Donkey-skin, `TKOPB/KAOE H-PB SKEUPB KW-BG`
 * who `WHO`
 * made `PHAED`
 * me `PHE`
@@ -124,5 +124,5 @@
 * quickly `KWEULG`
 * covered `KOFRD`
 * finery `TPAOEUPB/REU`
-* donkey-skin `TOPB/KEU H-PB SKEUPB`
+* donkey-skin `TKOPB/KAOE H-PB SKEUPB`
 * opened `OEPD`

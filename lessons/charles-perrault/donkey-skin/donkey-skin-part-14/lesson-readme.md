@@ -26,7 +26,7 @@
 * a `AEU`
 * scullion `XXX scullion`
 * called `KAULD`
-* Donkey-skin `TOPB/KEU H-PB SKEUPB`
+* Donkey-skin `TKOPB/KAOE H-PB SKEUPB`
 * because `PWAU`
 * skin `SKEUPB`
 * which `WEU`

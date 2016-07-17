@@ -15,7 +15,7 @@
 * The `-T`
 * water. `WAUR TP-PL`
 * horrible `HORBL`
-* donkey-skin `TOPB/KEU H-PB SKEUPB`
+* donkey-skin `TKOPB/KAOE H-PB SKEUPB`
 * which `WEU`
 * covered `KOFRD`
 * from `TPR`

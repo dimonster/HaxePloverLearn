@@ -58,7 +58,7 @@
 * overjoyed `XXX overjoyed`
 * know `TPHOE`
 * that `THA`
-* Donkey-skin `TOPB/KEU H-PB SKEUPB`
+* Donkey-skin `TKOPB/KAOE H-PB SKEUPB`
 * Princess `PREUPB/ES`
 * redoubled `RE/TKUBL/-D`
 * caresses, `KA/RES/-S KW-BG`

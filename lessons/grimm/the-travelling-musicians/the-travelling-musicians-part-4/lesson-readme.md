@@ -97,7 +97,7 @@
 * peeped `PAOEPD`
 * in. `TPH TP-PL`
 * 'Well, `AE WEL KW-BG`
-* Donkey,' `TOPB/KEU KW-BG AE`
+* Donkey,' `TKOPB/KAOE KW-BG AE`
 * Chanticleer, `XXX Chanticleer KW-BG`
 * 'What `AE WHA`
 * do `TKO`

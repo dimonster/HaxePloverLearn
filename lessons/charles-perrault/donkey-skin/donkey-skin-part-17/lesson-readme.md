@@ -10,9 +10,9 @@
 * I `EU`
 * wish `WEURB`
 * that `THA`
-* Donkey-skin, `TOPB/KEU H-PB SKEUPB KW-BG`
+* Donkey-skin, `TKOPB/KAOE H-PB SKEUPB KW-BG`
 * since `SEUPBS`
-* Donkey-skin `TOPB/KEU H-PB SKEUPB`
+* Donkey-skin `TKOPB/KAOE H-PB SKEUPB`
 * it `T`
 * is, `S KW-BG`
 * make `PHAEUBG`

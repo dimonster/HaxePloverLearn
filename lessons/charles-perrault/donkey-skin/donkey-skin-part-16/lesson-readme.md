@@ -72,7 +72,7 @@
 * Know, `TPHOE KW-BG`
 * mother, `PHOER KW-BG`
 * wish `WEURB`
-* Donkey-skin `TOPB/KEU H-PB SKEUPB`
+* Donkey-skin `TKOPB/KAOE H-PB SKEUPB`
 * make `PHAEUBG`
 * cake, `KAEUBG KW-BG`
 * brought `PWRAUT`

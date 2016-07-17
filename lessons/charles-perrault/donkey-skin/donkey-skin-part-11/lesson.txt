@@ -115,7 +115,7 @@ Donkey-Skin Part 11
 'unpleasant': UPB/PHR*EPBT
 'did': TK
 'the': -T
-'donkey-skin': TOPB/KEU H-PB SKEUPB
+'donkey-skin': TKOPB/KAOE H-PB SKEUPB
 'make': PHAEUBG
 'her': HER
 'appear.': A/PAOER TP-PL

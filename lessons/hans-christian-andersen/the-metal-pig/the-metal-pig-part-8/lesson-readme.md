@@ -113,7 +113,7 @@
 * room `RAOPL`
 * for `TPOR`
 * loaded `HROED/-D`
-* donkey `TOPB/KEU`
+* donkey `TKOPB/KAOE`
 * pass. `PAS TP-PL`
 * great `TKPWRAET`
 * iron-bound `AOEURPB H-PB PWOUPBD`

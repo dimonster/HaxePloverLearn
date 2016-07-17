@@ -1576,7 +1576,7 @@
 'for': TPOR
 'a': AEU
 'loaded': HROED/-D
-'donkey': TOPB/KEU
+'donkey': TKOPB/KAOE
 'to': TO
 'pass.': PAS TP-PL
 'A': AEU

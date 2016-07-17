@@ -20,7 +20,7 @@
 * much `PHUFP`
 * In `TPH`
 * horrible `HORBL`
-* Donkey-skin `TOPB/KEU H-PB SKEUPB`
+* Donkey-skin `TKOPB/KAOE H-PB SKEUPB`
 * After `AF`
 * which `WEU`
 * been `PW-PB`

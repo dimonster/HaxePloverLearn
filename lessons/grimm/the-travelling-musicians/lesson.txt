@@ -738,7 +738,7 @@
 'peeped': PAOEPD
 'in.': TPH TP-PL
 ''Well,': AE WEL KW-BG
-'Donkey,'': TOPB/KEU KW-BG AE
+'Donkey,'': TKOPB/KAOE KW-BG AE
 'said': SAEUD
 'Chanticleer,': XXX Chanticleer KW-BG
 ''what': AE WHA
@@ -996,7 +996,7 @@
 'own': OEPB
 'liking.': HRAO*EUG TP-PL
 'The': -T
-'donkey': TOPB/KEU
+'donkey': TKOPB/KAOE
 'laid': HRAEUD
 'himself': H*EUPLS
 'down': TKOUPB

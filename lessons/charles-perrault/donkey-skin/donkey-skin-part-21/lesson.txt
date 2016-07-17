@@ -9,7 +9,7 @@ Donkey-Skin Part 21
 'not': TPHOT
 'brought': PWRAUT
 'that': THA
-'Donkey-skin,': TOPB/KEU H-PB SKEUPB KW-BG
+'Donkey-skin,': TKOPB/KAOE H-PB SKEUPB KW-BG
 'who': WHO
 'made': PHAED
 'me': PHE
@@ -196,7 +196,7 @@ Donkey-Skin Part 21
 'finery': TPAOEUPB/REU
 'with': W
 'the': -T
-'donkey-skin': TOPB/KEU H-PB SKEUPB
+'donkey-skin': TKOPB/KAOE H-PB SKEUPB
 'and': SKP
 'opened': OEPD
 'the': -T

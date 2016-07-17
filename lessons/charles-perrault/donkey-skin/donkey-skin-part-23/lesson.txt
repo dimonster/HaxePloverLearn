@@ -77,7 +77,7 @@ Donkey-Skin Part 23
 'to': TO
 'know': TPHOE
 'that': THA
-'Donkey-skin': TOPB/KEU H-PB SKEUPB
+'Donkey-skin': TKOPB/KAOE H-PB SKEUPB
 'was': WA
 'a': AEU
 'great': TKPWRAET

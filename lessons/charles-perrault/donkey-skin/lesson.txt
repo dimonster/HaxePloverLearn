@@ -151,7 +151,7 @@
 'stall,': STAUL KW-BG
 'a': AEU
 'master': PHAFRT
-'donkey,': TOPB/KEU KW-BG
+'donkey,': TKOPB/KAOE KW-BG
 'with': W
 'great': TKPWRAET
 'long': HROPBG
@@ -174,7 +174,7 @@
 'had': H
 'given': TKPWEUFPB
 'this': TH
-'donkey': TOPB/KEU
+'donkey': TKOPB/KAOE
 'a': AEU
 'particular': PHRAR
 'and': SKP
@@ -2113,7 +2113,7 @@
 'unpleasant': UPB/PHR*EPBT
 'did': TK
 'the': -T
-'donkey-skin': TOPB/KEU H-PB SKEUPB
+'donkey-skin': TKOPB/KAOE H-PB SKEUPB
 'make': PHAEUBG
 'her': HER
 'appear.': A/PAOER TP-PL
@@ -2215,7 +2215,7 @@
 'water.': WAUR TP-PL
 'The': -T
 'horrible': HORBL
-'donkey-skin': TOPB/KEU H-PB SKEUPB
+'donkey-skin': TKOPB/KAOE H-PB SKEUPB
 'which': WEU
 'covered': KOFRD
 'her': HER
@@ -2420,7 +2420,7 @@
 'in': TPH
 'the': -T
 'horrible': HORBL
-'donkey-skin': TOPB/KEU H-PB SKEUPB
+'donkey-skin': TKOPB/KAOE H-PB SKEUPB
 'after': AF
 'which': WEU
 'she': SHE
@@ -2433,7 +2433,7 @@
 'One': WUPB
 'holiday': OL/TKAEU
 'when': WHEPB
-'Donkey-skin': TOPB/KEU H-PB SKEUPB
+'Donkey-skin': TKOPB/KAOE H-PB SKEUPB
 'had': H
 'put': PUT
 'on': OPB
@@ -2628,7 +2628,7 @@
 'a': AEU
 'scullion': XXX scullion
 'called': KAULD
-'Donkey-skin': TOPB/KEU H-PB SKEUPB
+'Donkey-skin': TKOPB/KAOE H-PB SKEUPB
 'because': PWAU
 'of': -F
 'the': -T
@@ -3103,7 +3103,7 @@
 'that': THA
 'I': EU
 'wish': WEURB
-'Donkey-skin': TOPB/KEU H-PB SKEUPB
+'Donkey-skin': TKOPB/KAOE H-PB SKEUPB
 'to': TO
 'make': PHAEUBG
 'me': PHE
@@ -3129,7 +3129,7 @@
 'name,': TPHAEUPL KW-BG
 'asked': SK-D
 'who': WHO
-'Donkey-skin': TOPB/KEU H-PB SKEUPB
+'Donkey-skin': TKOPB/KAOE H-PB SKEUPB
 'might': PHAOEUT
 'be.': -B TP-PL
 '"It': KR-GS T
@@ -3208,9 +3208,9 @@
 'I': EU
 'wish': WEURB
 'that': THA
-'Donkey-skin,': TOPB/KEU H-PB SKEUPB KW-BG
+'Donkey-skin,': TKOPB/KAOE H-PB SKEUPB KW-BG
 'since': SEUPBS
-'Donkey-skin': TOPB/KEU H-PB SKEUPB
+'Donkey-skin': TKOPB/KAOE H-PB SKEUPB
 'it': T
 'is,': S KW-BG
 'make': PHAEUBG
@@ -3226,7 +3226,7 @@
 'farm': TPARPL
 'and': SKP
 'told': TOLD
-'Donkey-skin': TOPB/KEU H-PB SKEUPB
+'Donkey-skin': TKOPB/KAOE H-PB SKEUPB
 'that': THA
 'she': SHE
 'was': WA
@@ -3247,7 +3247,7 @@
 'some': SOPL
 'believe': PWHREF
 'that': THA
-'Donkey-skin': TOPB/KEU H-PB SKEUPB
+'Donkey-skin': TKOPB/KAOE H-PB SKEUPB
 'had': H
 'been': PW-PB
 'aware': A/WAEUR
@@ -3311,7 +3311,7 @@
 'as': AZ
 'it': T
 'may,': PHAE KW-BG
-'Donkey-skin,': TOPB/KEU H-PB SKEUPB KW-BG
+'Donkey-skin,': TKOPB/KAOE H-PB SKEUPB KW-BG
 'either': AOERT
 'having': SR-G
 'seen': SAOEPB
@@ -3614,7 +3614,7 @@
 'he': E
 'asked': SK-D
 'for': TPOR
-'Donkey-skin': TOPB/KEU H-PB SKEUPB
+'Donkey-skin': TKOPB/KAOE H-PB SKEUPB
 'she': SHE
 'would': WO
 'be': -B
@@ -4007,7 +4007,7 @@
 'not': TPHOT
 'brought': PWRAUT
 'that': THA
-'Donkey-skin,': TOPB/KEU H-PB SKEUPB KW-BG
+'Donkey-skin,': TKOPB/KAOE H-PB SKEUPB KW-BG
 'who': WHO
 'made': PHAED
 'me': PHE
@@ -4194,7 +4194,7 @@
 'finery': TPAOEUPB/REU
 'with': W
 'the': -T
-'donkey-skin': TOPB/KEU H-PB SKEUPB
+'donkey-skin': TKOPB/KAOE H-PB SKEUPB
 'and': SKP
 'opened': OEPD
 'the': -T
@@ -4475,7 +4475,7 @@
 'to': TO
 'know': TPHOE
 'that': THA
-'Donkey-skin': TOPB/KEU H-PB SKEUPB
+'Donkey-skin': TKOPB/KAOE H-PB SKEUPB
 'was': WA
 'a': AEU
 'great': TKPWRAET

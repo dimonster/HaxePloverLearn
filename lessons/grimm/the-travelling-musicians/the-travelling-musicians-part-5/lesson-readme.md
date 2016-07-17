@@ -122,5 +122,5 @@
 * resting-place `REFT/-G H-PB PHRAEUS`
 * own `OEPB`
 * liking. `HRAO*EUG TP-PL`
-* donkey `TOPB/KEU`
+* donkey `TKOPB/KAOE`
 * laid `HRAEUD`

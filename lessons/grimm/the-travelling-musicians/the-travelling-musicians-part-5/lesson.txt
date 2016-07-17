@@ -198,5 +198,5 @@ The Travelling Musicians Part 5
 'own': OEPB
 'liking.': HRAO*EUG TP-PL
 'The': -T
-'donkey': TOPB/KEU
+'donkey': TKOPB/KAOE
 'laid': HRAEUD

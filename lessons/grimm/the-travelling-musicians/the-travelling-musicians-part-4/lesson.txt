@@ -140,7 +140,7 @@ The Travelling Musicians Part 4
 'peeped': PAOEPD
 'in.': TPH TP-PL
 ''Well,': AE WEL KW-BG
-'Donkey,'': TOPB/KEU KW-BG AE
+'Donkey,'': TKOPB/KAOE KW-BG AE
 'said': SAEUD
 'Chanticleer,': XXX Chanticleer KW-BG
 ''what': AE WHA

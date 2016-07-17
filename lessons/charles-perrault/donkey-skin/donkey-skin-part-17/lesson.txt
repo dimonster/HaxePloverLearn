@@ -10,9 +10,9 @@ Donkey-Skin Part 17
 'I': EU
 'wish': WEURB
 'that': THA
-'Donkey-skin,': TOPB/KEU H-PB SKEUPB KW-BG
+'Donkey-skin,': TKOPB/KAOE H-PB SKEUPB KW-BG
 'since': SEUPBS
-'Donkey-skin': TOPB/KEU H-PB SKEUPB
+'Donkey-skin': TKOPB/KAOE H-PB SKEUPB
 'it': T
 'is,': S KW-BG
 'make': PHAEUBG
@@ -28,7 +28,7 @@ Donkey-Skin Part 17
 'farm': TPARPL
 'and': SKP
 'told': TOLD
-'Donkey-skin': TOPB/KEU H-PB SKEUPB
+'Donkey-skin': TKOPB/KAOE H-PB SKEUPB
 'that': THA
 'she': SHE
 'was': WA
@@ -49,7 +49,7 @@ Donkey-Skin Part 17
 'some': SOPL
 'believe': PWHREF
 'that': THA
-'Donkey-skin': TOPB/KEU H-PB SKEUPB
+'Donkey-skin': TKOPB/KAOE H-PB SKEUPB
 'had': H
 'been': PW-PB
 'aware': A/WAEUR
@@ -113,7 +113,7 @@ Donkey-Skin Part 17
 'as': AZ
 'it': T
 'may,': PHAE KW-BG
-'Donkey-skin,': TOPB/KEU H-PB SKEUPB KW-BG
+'Donkey-skin,': TKOPB/KAOE H-PB SKEUPB KW-BG
 'either': AOERT
 'having': SR-G
 'seen': SAOEPB

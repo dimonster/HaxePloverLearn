@@ -10,7 +10,7 @@ The Man, the Boy, and the Donkey
 'going': TKPW-G
 'with': W
 'their': THAEUR
-'Donkey': TOPB/KEU
+'Donkey': TKOPB/KAOE
 'to': TO
 'market.': PHARBGT TP-PL
 'As': AZ
@@ -32,7 +32,7 @@ The Man, the Boy, and the Donkey
 'what': WHA
 'is': S
 'a': AEU
-'Donkey': TOPB/KEU
+'Donkey': TKOPB/KAOE
 'for': TPOR
 'but': PWUT
 'to': TO
@@ -46,7 +46,7 @@ The Man, the Boy, and the Donkey
 'Boy': PWOEU
 'on': OPB
 'the': -T
-'Donkey': TOPB/KEU
+'Donkey': TKOPB/KAOE
 'and': SKP
 'they': THE
 'went': WEPBT
@@ -140,7 +140,7 @@ The Man, the Boy, and the Donkey
 'him': HEUPL
 'on': OPB
 'the': -T
-'Donkey.': TOPB/KEU TP-PL
+'Donkey.': TKOPB/KAOE TP-PL
 'By': PWEU
 'this': TH
 'time': TAOEUPL
@@ -182,7 +182,7 @@ The Man, the Boy, and the Donkey
 'overloading': AUFR/HRAOGD
 'that': THA
 'poor': PAOR
-'donkey': TOPB/KEU
+'donkey': TKOPB/KAOE
 'of': -F
 'yours': URS
 '-': H-PB
@@ -218,7 +218,7 @@ The Man, the Boy, and the Donkey
 'pole,': POEL KW-BG
 'tied': TAO*EUD
 'the': -T
-'donkey's': TOPB/KEU AE S
+'donkey's': TKOPB/KAOE AE S
 'feet': TPAOET
 'to': TO
 'it,': T KW-BG
@@ -228,7 +228,7 @@ The Man, the Boy, and the Donkey
 'pole': POEL
 'and': SKP
 'the': -T
-'donkey': TOPB/KEU
+'donkey': TKOPB/KAOE
 'to': TO
 'their': THAEUR
 'shoulders.': SHOULD/*ERZ TP-PL
@@ -251,7 +251,7 @@ The Man, the Boy, and the Donkey
 'Bridge,': PWREUPBLG KW-BG
 'when': WHEPB
 'the': -T
-'Donkey,': TOPB/KEU KW-BG
+'Donkey,': TKOPB/KAOE KW-BG
 'getting': TKPEGT
 'one': WUPB
 'of': -F
@@ -275,7 +275,7 @@ The Man, the Boy, and the Donkey
 'the': -T
 'struggle': STRULG
 'the': -T
-'Donkey': TOPB/KEU
+'Donkey': TKOPB/KAOE
 'fell': TPEL
 'over': OEFR
 'the': -T

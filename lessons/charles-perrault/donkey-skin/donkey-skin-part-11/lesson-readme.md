@@ -72,7 +72,7 @@
 * men-servants, `PHEPB H-PB SER/SRAPBTS KW-BG`
 * unpleasant `UPB/PHR*EPBT`
 * did `TK`
-* donkey-skin `TOPB/KEU H-PB SKEUPB`
+* donkey-skin `TKOPB/KAOE H-PB SKEUPB`
 * make `PHAEUBG`
 * appear. `A/PAOER TP-PL`
 * last `HRAFT`

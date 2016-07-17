@@ -15,7 +15,7 @@
 * he `E`
 * asked `SK-D`
 * for `TPOR`
-* Donkey-skin `TOPB/KEU H-PB SKEUPB`
+* Donkey-skin `TKOPB/KAOE H-PB SKEUPB`
 * she `SHE`
 * would `WO`
 * be `-B`
