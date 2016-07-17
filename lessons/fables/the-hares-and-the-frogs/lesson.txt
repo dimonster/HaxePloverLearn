@@ -25,7 +25,7 @@ The Hares and the Frogs
 'single': SEUPBLG
 'animal': PHAPBL
 'approach': PROEFP
-'them,': THEP KW-BG
+'them,': THEPL KW-BG
 'off': OF
 'they': THE
 'used': AOUFD

@@ -159,7 +159,7 @@ The Man, the Boy, and the Donkey
 'and': SKP
 'point': POEUPBT
 'at': AT
-'them.': THEP TP-PL
+'them.': THEPL TP-PL
 'The': -T
 'Man': PHAPB
 'stopped': STOPD
@@ -300,7 +300,7 @@ The Man, the Boy, and the Donkey
 'who': WHO
 'had': H
 'followed': TPOLD
-'them:': THEP STPH-FPLT
+'them:': THEPL STPH-FPLT
 '"Please': KR-GS PHRES
 'all,': AUL KW-BG
 'and': SKP

@@ -14,7 +14,7 @@ The Trumpeter Taken Prisoner
 'was': WA
 'captured': KA*FPD
 'by': PWEU
-'them.': THEP TP-PL
+'them.': THEPL TP-PL
 'They': THE
 'were': WR
 'about': PW

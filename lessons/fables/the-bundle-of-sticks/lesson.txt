@@ -87,7 +87,7 @@ The Bundle of Sticks
 'called': KAULD
 'out': OUT
 'to': TO
-'them:': THEP STPH-FPLT
+'them:': THEPL STPH-FPLT
 '"Now,': KR-GS TPHOU KW-BG
 'break,"': PRAEBG KW-RBGTS
 'and': SKP

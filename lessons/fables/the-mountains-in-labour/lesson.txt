@@ -118,7 +118,7 @@ The Mountains in Labour
 'running': R*UPBG
 'down': TKOUPB
 'towards': TORDZ
-'them,': THEP KW-BG
+'them,': THEPL KW-BG
 'and': SKP
 'ever': -FR
 'after': AF

@@ -94,4 +94,4 @@ The Cock and the Pearl
 'that': THA
 'can': K
 'prize': PRAOEUZ
-'them.': THEP TP-PL
+'them.': THEPL TP-PL

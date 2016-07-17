@@ -73,7 +73,7 @@ The Man and the Satyr
 'on': OPB
 'blowing': PWHROEG
 'at': AT
-'them.': THEP TP-PL
+'them.': THEPL TP-PL
 '"What': KR-GS WHA
 'do': TKO
 'you': U
@@ -97,7 +97,7 @@ The Man and the Satyr
 'my': PHEU
 'breath': PWR*ET
 'warms': WARPLS
-'them."': THEP TP-PL KR-GS
+'them."': THEPL TP-PL KR-GS
 'After': AF
 'this': TH
 'they': THE

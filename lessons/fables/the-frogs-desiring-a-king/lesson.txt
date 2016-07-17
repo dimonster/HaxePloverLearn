@@ -16,7 +16,7 @@ The Frogs Desiring a King
 'that': THA
 'just': SKWRUFT
 'suited': SAOUTD
-'them;': THEP STPH*FPLT
+'them;': THEPL STPH*FPLT
 'they': THE
 'went': WEPBT
 'splashing': SPHRARBG
@@ -28,7 +28,7 @@ The Frogs Desiring a King
 'nobody': TPHOEB
 'troubling': TRUBLG
 'with': W
-'them.': THEP TP-PL
+'them.': THEPL TP-PL
 'But': PWUT
 'some': SOPL
 'of': -F
@@ -225,7 +225,7 @@ The Frogs Desiring a King
 'did': TK
 'not': TPHOT
 'suit': SAOUT
-'them,': THEP KW-BG
+'them,': THEPL KW-BG
 'so': SO
 'they': THE
 'sent': SEPBT

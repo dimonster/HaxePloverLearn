@@ -148,7 +148,7 @@ The Shepherd's Boy
 'was': WA
 'again': TKPWEPB
 'deceiving': TKE/SAOEFG
-'them,': THEP KW-BG
+'them,': THEPL KW-BG
 'and': SKP
 'nobody': TPHOEB
 'stirred': STEURD

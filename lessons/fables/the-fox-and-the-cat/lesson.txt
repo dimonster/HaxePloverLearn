@@ -62,7 +62,7 @@ The Fox and the Cat
 'hounds': HOUPBDZ
 'coming': KO*G
 'towards': TORDZ
-'them,': THEP KW-BG
+'them,': THEPL KW-BG
 'and': SKP
 'the': -T
 'Cat': KAT

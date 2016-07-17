@@ -89,7 +89,7 @@ The Sick Lion
 'lay': HRAEU
 'helpless': HEP/-LS
 'before': PW-F
-'them:': THEP STPH-FPLT
+'them:': THEPL STPH-FPLT
 'so': SO
 'the': -T
 'Ass,': A*S KW-BG

@@ -68,7 +68,7 @@ The Fox Without a Tail
 'to': TO
 'place': PHRAEUS
 'before': PW-F
-'them.': THEP TP-PL
+'them.': THEPL TP-PL
 'When': WHEPB
 'they': THE
 'had': H

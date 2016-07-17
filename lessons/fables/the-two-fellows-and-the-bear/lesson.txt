@@ -14,7 +14,7 @@ The Two Fellows and the Bear
 'rushed': RURBD
 'out': OUT
 'upon': POPB
-'them.': THEP TP-PL
+'them.': THEPL TP-PL
 'One': WUPB
 'of': -F
 'the': -T
