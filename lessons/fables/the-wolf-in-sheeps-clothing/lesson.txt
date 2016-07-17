@@ -6,7 +6,7 @@ The Wolf in Sheep's Clothing
 'great': TKWRAET
 'difficulty': TKOEUFLT
 'in': TPH
-'getting': TKPEGT
+'getting': TKPWEGT
 'at': AT
 'the': -T
 'sheep': SHAOEP

@@ -81,7 +81,7 @@ The Dog in the Manger
 'the': -T
 'hope': HOEP
 'of': -F
-'getting': TKPEGT
+'getting': TKPWEGT
 'at': AT
 'the': -T
 'straw,': STRAU KW-BG

@@ -252,7 +252,7 @@ The Man, the Boy, and the Donkey
 'when': WHEPB
 'the': -T
 'Donkey,': TKOPB/KAOE KW-BG
-'getting': TKPEGT
+'getting': TKPWEGT
 'one': WUPB
 'of': -F
 'his': HEUS
