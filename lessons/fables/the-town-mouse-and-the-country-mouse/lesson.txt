@@ -117,7 +117,7 @@ The Town Mouse and the Country Mouse
 'in': TPH
 'town': TOUPB
 'a': AEU
-'week': WAOEB
+'week': WAOEBG
 'you': U
 'will': HR
 'wonder': WOPBD

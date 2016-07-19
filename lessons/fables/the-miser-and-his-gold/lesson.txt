@@ -25,7 +25,7 @@ The Miser and His Gold
 'garden;': TKPWA*RPB STPH*FPLT
 'but': PWUT
 'every': EF
-'week': WAOEB
+'week': WAOEBG
 'he': E
 'used': AOUFD
 'to': TO
