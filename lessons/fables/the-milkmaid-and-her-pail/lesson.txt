@@ -29,7 +29,7 @@ The Milkmaid and Her Pail
 'do': TKO
 'with': W
 'the': -T
-'money': PHUB
+'money': PHUPB
 'she': SHE
 'would': WO
 'get': TKPWET
@@ -62,7 +62,7 @@ The Milkmaid and Her Pail
 'wife.': WAOEUF TP-PL
 'With': W
 'the': -T
-'money': PHUB
+'money': PHUPB
 'that': THA
 'I': EU
 'get': TKPWET
