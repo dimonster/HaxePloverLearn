@@ -77,7 +77,7 @@ The Mountains in Labour
 'and': SKP
 'a': AEU
 'huge': HAOUPBLG
-'gap': TPWAP
+'gap': TKPWAP
 'appeared': A/PAOERD
 'in': TPH
 'the': -T
@@ -112,7 +112,7 @@ The Mountains in Labour
 'out': OUT
 'of': -F
 'the': -T
-'gap': TPWAP
+'gap': TKPWAP
 'and': SKP
 'came': KAEUPL
 'running': R*UPBG

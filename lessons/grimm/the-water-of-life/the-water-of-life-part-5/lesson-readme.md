@@ -13,7 +13,7 @@
 * lying `HRAOEUG`
 * down `TKOUPB`
 * inside `TPH-DZ`
-* gaping `TPWAP/-G`
+* gaping `TKPWAP/-G`
 * for `TPOR`
 * their `THAEUR`
 * prey, `PRA*EU KW-BG`

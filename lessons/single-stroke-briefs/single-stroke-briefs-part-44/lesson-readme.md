@@ -41,7 +41,7 @@
 * ganglia `TKPWHRA*`
 * ganglion `KPWHROPB`
 * ganglionic `TKPWHRO*PBG`
-* gap `TPWAP`
+* gap `TKPWAP`
 * gape `TKPWAEUP`
 * gaps `TKPWAPS`
 * garage `TKWRAPBLG`

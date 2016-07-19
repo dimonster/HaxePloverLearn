@@ -105,7 +105,7 @@ Snow-White and Rose-Red Part 11
 'do': TKO
 'you': U
 'stand': STAPBD
-'gaping': TPWAP/-G
+'gaping': TKPWAP/-G
 'there?'': THR H-F AE
 'cried': KRAOEUD
 'the': -T

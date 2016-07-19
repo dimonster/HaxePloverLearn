@@ -78,7 +78,7 @@
 * do `TKO`
 * you `U`
 * stand `STAPBD`
-* gaping `TPWAP/-G`
+* gaping `TKPWAP/-G`
 * there?' `THR H-F AE`
 * cried `KRAOEUD`
 * ashen-grey `XXX ashen H-PB TKPRAEU`

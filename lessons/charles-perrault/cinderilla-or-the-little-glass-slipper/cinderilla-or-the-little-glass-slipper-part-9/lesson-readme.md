@@ -69,7 +69,7 @@
 * stayed," `STAEUD KW-BG KR-GS`
 * cried `KRAOEUD`
 * she, `SHE KW-BG`
-* gaping, `TPWAP/-G KW-BG`
+* gaping, `TKPWAP/-G KW-BG`
 * rubbing `RUBG`
 * eyes, `AO*EUS KW-BG`
 * stretching `STREFPG`
