@@ -9,7 +9,7 @@ The Milkmaid and Her Pail
 'market': PHARBGT
 'carrying': KAERG
 'her': HER
-'milk': PH*ULG
+'milk': PH*EULG
 'in': TPH
 'a': AEU
 'Pail': PAEUL
@@ -35,7 +35,7 @@ The Milkmaid and Her Pail
 'get': TKPWET
 'for': TPOR
 'the': -T
-'milk.': PH*ULG TP-PL
+'milk.': PH*EULG TP-PL
 '"I'll': KR-GS AOEUL
 'buy': PWAOEU
 'some': SOPL
@@ -138,7 +138,7 @@ The Milkmaid and Her Pail
 'and': SKP
 'all': AUL
 'the': -T
-'milk': PH*ULG
+'milk': PH*EULG
 'was': WA
 'spilt.': SPEULT TP-PL
 'So': SO
