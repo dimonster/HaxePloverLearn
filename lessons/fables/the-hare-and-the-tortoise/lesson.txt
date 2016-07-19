@@ -94,7 +94,7 @@ The Hare and the Tortoise
 'but': PWUT
 'soon': SAOPB
 'stopped': STOPD
-'and,': ABD KW-BG
+'and,': SKP KW-BG
 'to': TO
 'show': SHOE
 'his': HEUS

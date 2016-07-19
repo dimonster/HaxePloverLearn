@@ -45,7 +45,7 @@ The Milkmaid and Her Pail
 'Brown,"': PWROUPB KW-RBGTS
 'said': SAEUD
 'she,': SHE KW-BG
-'"and': KR-GS ABD
+'"and': KR-GS SKP
 'they': THE
 'will': HR
 'lay': HRAEU

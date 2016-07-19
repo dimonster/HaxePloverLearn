@@ -93,7 +93,7 @@ The Man and the Satyr
 'said': SAEUD
 'the': -T
 'Man,': PHAPB KW-BG
-'"and': KR-GS ABD
+'"and': KR-GS SKP
 'my': PHEU
 'breath': PWR*ET
 'warms': WARPLS
@@ -133,7 +133,7 @@ The Man and the Satyr
 'blowing': PWHROEG
 'upon': POPB
 'it.': T-FP
-'"And': KR-GS ABD
+'"And': KR-GS SKP
 'what': WHA
 'do': TKO
 'you': U

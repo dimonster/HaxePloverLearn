@@ -68,7 +68,7 @@ The Ant and the Grasshopper
 'said': SAEUD
 'the': -T
 'Ant,': A*PBT KW-BG
-'"and': KR-GS ABD
+'"and': KR-GS SKP
 'recommend': REPL
 'you': U
 'to': TO

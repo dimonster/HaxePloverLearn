@@ -41,7 +41,7 @@ The Trumpeter Taken Prisoner
 'fight,"': TPAOEUT KW-RBGTS
 'said': SAEUD
 'he,': E KW-BG
-'"and': KR-GS ABD
+'"and': KR-GS SKP
 'indeed': TPHAOEPBD
 'carry': KAER
 'no': TPHO

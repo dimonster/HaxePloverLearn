@@ -57,7 +57,7 @@ The Fisher
 'his': HEUS
 'bagpipes': PWAG/PAOEUPZ
 'again,': TKPWEPB KW-BG
-'and,': ABD KW-BG
+'and,': SKP KW-BG
 'as': AZ
 'he': E
 'played,': PHRAEUD KW-BG

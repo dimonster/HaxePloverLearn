@@ -108,7 +108,7 @@ The Two Fellows and the Bear
 'to': TO
 'his': HEUS
 'comrade,': KOPL/RAD KW-BG
-'and,': ABD KW-BG
+'and,': SKP KW-BG
 'laughing,': HRAFG KW-BG
 'said': SAEUD
 '"What': KR-GS WHA

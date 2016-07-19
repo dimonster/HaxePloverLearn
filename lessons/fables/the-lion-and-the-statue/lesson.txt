@@ -40,7 +40,7 @@ The Lion and the Statue
 'me,"': PHE KW-RBGTS
 'he': E
 'cried,': KRAOEUD KW-BG
-'"and': KR-GS ABD
+'"and': KR-GS SKP
 'I': EU
 'will': HR
 'soon': SAOPB

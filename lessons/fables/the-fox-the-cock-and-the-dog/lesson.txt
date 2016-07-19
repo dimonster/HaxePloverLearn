@@ -64,7 +64,7 @@ The Fox, the Cock, and the Dog
 'said': SAEUD
 'the': -T
 'Cock;': KOBG STPH*FPLT
-'"and': KR-GS ABD
+'"and': KR-GS SKP
 'there': THR
 'I': EU
 'see': SAOE

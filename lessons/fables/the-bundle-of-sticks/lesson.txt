@@ -71,7 +71,7 @@ The Bundle of Sticks
 'said': SAEUD
 'the': -T
 'father,': TPAER KW-BG
-'"and': KR-GS ABD
+'"and': KR-GS SKP
 'each': AOEFP
 'of': -F
 'you': U
