@@ -39,7 +39,7 @@ The Miser and His Gold
 'over': OEFR
 'his': HEUS
 'gains.': TKPWAEUPBS TP-PL
-'a': AEU
+'A': AEU
 'robber,': ROB/ER KW-BG
 'who': WHO
 'had': H
