@@ -36,7 +36,7 @@ The Nurse and the Wolf
 'was': WA
 'passing': PAFG
 'close': KHROES
-'under': *UPD
+'under': TPH-PB
 'the': -T
 'window': WOEUPBD
 'as': AZ
@@ -115,7 +115,7 @@ The Nurse and the Wolf
 'wagging': WAG/-G
 'his': HEUS
 'tail.': TAEUL TP-PL
-'but': PWUT
+'But': PWUT
 'all': AUL
 'the': -T
 'Nurse': TPHURS
