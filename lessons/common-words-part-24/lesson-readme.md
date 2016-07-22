@@ -15,7 +15,7 @@
 * dress `TKRES`
 * pinks `PEUPB/-BGS`
 * shirt `SHEURT`
-* drunk `TKRUPBG`
+* drunk `TKR*UPBG`
 * drank `TKRAPBG`
 * piled `PAOEULD`
 * drink `TKREU`

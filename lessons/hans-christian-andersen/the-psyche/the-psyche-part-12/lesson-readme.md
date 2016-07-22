@@ -81,7 +81,7 @@
 * Little `HREUL`
 * eaten, `AOET/EPB KW-BG`
 * but `PWUT`
-* drunk, `TKRUPBG KW-BG`
+* drunk, `TKR*UPBG KW-BG`
 * spirits `SPEURTS`
 * company `K-P`
 * rose. `ROEZ TP-PL`

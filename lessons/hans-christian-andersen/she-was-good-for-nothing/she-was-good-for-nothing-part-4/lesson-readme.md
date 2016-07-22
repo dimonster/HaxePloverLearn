@@ -119,7 +119,7 @@
 * wine, `WAOEUPB KW-BG`
 * strong, `STROPBG KW-BG`
 * rich `REUFP`
-* drunk `TKRUPBG`
+* drunk `TKR*UPBG`
 * by `PWEU`
 * bottle. `PWO*LT TP-PL`
 * "Many `KR-GS PHAEPB`

@@ -789,7 +789,7 @@
 'strong,': STROPBG KW-BG
 'rich': REUFP
 'wine,': WAOEUPB KW-BG
-'drunk': TKRUPBG
+'drunk': TKR*UPBG
 'by': PWEU
 'the': -T
 'bottle.': PWO*LT TP-PL
@@ -2719,7 +2719,7 @@
 'dead.': TKED TP-PL
 '"She': KR-GS SHE
 'has': HAS
-'drunk': TKRUPBG
+'drunk': TKR*UPBG
 'herself': H*ERS
 'to': TO
 'death,"': TK*T KW-BG KR-GS

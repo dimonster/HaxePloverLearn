@@ -87,7 +87,7 @@
 * or `OR`
 * supposed `SPOED`
 * out `OUT`
-* drunk `TKRUPBG`
+* drunk `TKR*UPBG`
 * felicity `TPHREUS/TEU`
 * betrothed `PWE/TRO*T/-D`
 * prospect `PRO/SPEBGT`

@@ -198,5 +198,5 @@ The Queen Bee Part 2
 'had': H
 'eaten': AOET/EPB
 'and': SKP
-'drunk,': TKRUPBG KW-BG
+'drunk,': TKR*UPBG KW-BG
 'he': E

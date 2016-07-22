@@ -1889,7 +1889,7 @@
 'toasts': TOEFTS
 'that': THA
 'were': WR
-'drunk': TKRUPBG
+'drunk': TKR*UPBG
 'on': OPB
 'the': -T
 'transition': TAPBS/EUGS

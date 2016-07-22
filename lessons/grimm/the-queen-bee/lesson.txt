@@ -396,7 +396,7 @@
 'had': H
 'eaten': AOET/EPB
 'and': SKP
-'drunk,': TKRUPBG KW-BG
+'drunk,': TKR*UPBG KW-BG
 'he': E
 'showed': SHOED
 'each': AOEFP

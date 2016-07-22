@@ -83,7 +83,7 @@
 * dead. `TKED TP-PL`
 * "She `KR-GS SHE`
 * has `HAS`
-* drunk `TKRUPBG`
+* drunk `TKR*UPBG`
 * herself `H*ERS`
 * death," `TK*T KW-BG KR-GS`
 * said `SAEUD`

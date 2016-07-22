@@ -54,7 +54,7 @@ The Raven Part 8
 'had': H
 'eaten': AOET/EPB
 'and': SKP
-'drunk': TKRUPBG
+'drunk': TKR*UPBG
 'of': -F
 'them,': THEPL KW-BG
 'were': WR

@@ -55,7 +55,7 @@ The Robber Bridegroom Part 4
 'They': THE
 'were': WR
 'all': AUL
-'drunk,': TKRUPBG KW-BG
+'drunk,': TKR*UPBG KW-BG
 'and': SKP
 'paid': PAEUD
 'no': TPHO

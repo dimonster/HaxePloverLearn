@@ -71,7 +71,7 @@
 * spoke `SPOEBG`
 * toasts `TOEFTS`
 * were `WR`
-* drunk `TKRUPBG`
+* drunk `TKR*UPBG`
 * transition `TAPBS/EUGS`
 * Old `OLD`
 * into `TPHAO`

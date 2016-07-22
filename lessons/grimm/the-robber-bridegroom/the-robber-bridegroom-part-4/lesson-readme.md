@@ -46,7 +46,7 @@
 * along `A/HROPBG`
 * them. `THEPL TP-PL`
 * they `THE`
-* drunk, `TKRUPBG KW-BG`
+* drunk, `TKR*UPBG KW-BG`
 * and `SKP`
 * paid `PAEUD`
 * no `TPHO`

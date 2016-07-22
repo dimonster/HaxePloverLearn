@@ -61,7 +61,7 @@ The Storm Shakes the Shield Part 3
 'they': THE
 'had': H
 'first': TPEURS
-'drunk': TKRUPBG
+'drunk': TKR*UPBG
 'a': AEU
 'good': TKPWAOD
 'bowl': PWOEL

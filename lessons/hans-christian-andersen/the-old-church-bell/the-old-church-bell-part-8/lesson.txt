@@ -33,7 +33,7 @@ The Old Church Bell Part 8
 'the': -T
 'landlord': HR-LD
 'got': TKPWOT
-'drunk': TKRUPBG
+'drunk': TKR*UPBG
 'and': SKP
 'raved,': RAEUFD KW-BG
 'and': SKP

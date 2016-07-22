@@ -191,7 +191,7 @@ She Was Good for Nothing Part 4
 'strong,': STROPBG KW-BG
 'rich': REUFP
 'wine,': WAOEUPB KW-BG
-'drunk': TKRUPBG
+'drunk': TKR*UPBG
 'by': PWEU
 'the': -T
 'bottle.': PWO*LT TP-PL

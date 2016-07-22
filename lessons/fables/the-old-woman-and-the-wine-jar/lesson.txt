@@ -4,7 +4,7 @@ The Old Woman and the Wine-Jar
 'must': PHUFT
 'know': TPHOE
 'that': THA
-'sometimes': SAOEUPLS
+'sometimes': STAOEUPLS
 'old': OLD
 'women': WEUPL
 'like': HAOEUBG
@@ -49,7 +49,7 @@ The Old Woman and the Wine-Jar
 'wine': WAOEUPB
 'had': H
 'been': PW-PB
-'drunk': TKRUPBG
+'drunk': TKR*UPBG
 'out': OUT
 'of': -F
 'it.': T-FP

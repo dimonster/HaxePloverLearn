@@ -116,7 +116,7 @@ The Psyche Part 12
 'but': PWUT
 'much': PHUFP
 'was': WA
-'drunk,': TKRUPBG KW-BG
+'drunk,': TKR*UPBG KW-BG
 'and': SKP
 'the': -T
 'spirits': SPEURTS

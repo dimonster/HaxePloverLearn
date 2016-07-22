@@ -47,7 +47,7 @@
 * together, `TOGT KW-BG`
 * they `THE`
 * first `TPEURS`
-* drunk `TKRUPBG`
+* drunk `TKR*UPBG`
 * good `TKPWAOD`
 * bowl `PWOEL`
 * punch, `PUFRPB KW-BG`

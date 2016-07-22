@@ -46,7 +46,7 @@
 * although `HR*T`
 * he `E`
 * eaten `AOET/EPB`
-* drunk `TKRUPBG`
+* drunk `TKR*UPBG`
 * them, `THEPL KW-BG`
 * were `WR`
 * still `STEUL`

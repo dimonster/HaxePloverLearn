@@ -121,4 +121,4 @@
 * when `WHEPB`
 * had `H`
 * eaten `AOET/EPB`
-* drunk, `TKRUPBG KW-BG`
+* drunk, `TKR*UPBG KW-BG`

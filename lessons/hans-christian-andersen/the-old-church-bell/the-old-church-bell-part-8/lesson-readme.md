@@ -31,7 +31,7 @@
 * where `W-R`
 * landlord `HR-LD`
 * got `TKPWOT`
-* drunk `TKRUPBG`
+* drunk `TKR*UPBG`
 * raved, `RAEUFD KW-BG`
 * merry-makers `PHER/REU H-PB PHAEURBGS`
 * had `H`

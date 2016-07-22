@@ -141,7 +141,7 @@ The Bottle Neck Part 9
 'which': WEU
 'they': THE
 'had': H
-'drunk': TKRUPBG
+'drunk': TKR*UPBG
 'to': TO
 'the': -T
 'felicity': TPHREUS/TEU
