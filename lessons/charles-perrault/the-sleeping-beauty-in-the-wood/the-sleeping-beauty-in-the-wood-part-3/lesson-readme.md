@@ -109,7 +109,7 @@
 * awake `A/WAEUBG`
 * her." `HER TP-PL KR-GS`
 * King, `KEUPBG KW-BG`
-* avoid `A/SREUD`
+* avoid `A/SROEUD`
 * misfortune `PHEUS/TPOR/TAOUPB`
 * foretold `TPOER/TOLD`
 * by `PWEU`

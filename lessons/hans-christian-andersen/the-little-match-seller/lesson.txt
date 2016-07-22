@@ -88,7 +88,7 @@
 'the': -T
 'street': STRAOET
 'to': TO
-'avoid': A/SREUD
+'avoid': A/SROEUD
 'two': TWO
 'carriages': KAEURPBLG/-S
 'that': THA

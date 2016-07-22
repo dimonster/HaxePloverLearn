@@ -554,7 +554,7 @@
 'The': -T
 'King,': KEUPBG KW-BG
 'to': TO
-'avoid': A/SREUD
+'avoid': A/SROEUD
 'the': -T
 'misfortune': PHEUS/TPOR/TAOUPB
 'foretold': TPOER/TOLD

@@ -76,7 +76,7 @@
 * her, `HER KW-BG`
 * friends `TPREPBDZ`
 * relations `RAOELGS/-S`
-* avoid `A/SREUD`
+* avoid `A/SROEUD`
 * as `AZ`
 * plague `PHRAEUG`
 * pestilence!" `PEFT/HREPBS SKHRAPL KR-GS`

@@ -104,7 +104,7 @@ Everything in the Right Place Part 1
 'in': TPH
 'order': ORD
 'to': TO
-'avoid': A/SREUD
+'avoid': A/SROEUD
 'being': -BG
 'run': RUPB
 'over,': OEFR KW-BG

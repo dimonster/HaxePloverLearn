@@ -48,5 +48,5 @@
 * watch `WAFP`
 * edged `EPBLGD`
 * parts `PARTS`
-* avoid `A/SREUD`
+* avoid `A/SROEUD`
 * seats `SAOETS`

@@ -25,7 +25,7 @@ The One-Eyed Doe
 'side.': SAOEUD TP-PL
 'So': SO
 'to': TO
-'avoid': A/SREUD
+'avoid': A/SROEUD
 'any': TPHEU
 'danger': TKAEUPBLG
 'she': SHE

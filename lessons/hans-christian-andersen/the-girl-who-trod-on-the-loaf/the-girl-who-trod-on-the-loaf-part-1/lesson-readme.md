@@ -10,7 +10,7 @@
 * on `OPB`
 * loaf `HROEF`
 * to `TO`
-* avoid `A/SREUD`
+* avoid `A/SROEUD`
 * soiling `SOEUL/-G`
 * her `HER`
 * shoes, `SHAOS KW-BG`

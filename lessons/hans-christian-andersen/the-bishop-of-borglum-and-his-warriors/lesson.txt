@@ -712,7 +712,7 @@
 'friends': TPREPBDZ
 'and': SKP
 'relations': RAOELGS/-S
-'avoid': A/SREUD
+'avoid': A/SROEUD
 'her': HER
 'as': AZ
 'a': AEU

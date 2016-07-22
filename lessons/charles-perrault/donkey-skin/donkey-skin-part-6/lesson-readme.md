@@ -84,7 +84,7 @@
 * wishes, `WEURBS KW-BG`
 * you `U`
 * can `K`
-* avoid `A/SREUD`
+* avoid `A/SROEUD`
 * necessity `TPHES/TEU`
 * without `WOUT`
 * displeasing `TKEUS/PHRAOES/-G`

@@ -119,7 +119,7 @@ Donkey-Skin Part 6
 'but': PWUT
 'you': U
 'can': K
-'avoid': A/SREUD
+'avoid': A/SROEUD
 'the': -T
 'necessity': TPHES/TEU
 'without': WOUT

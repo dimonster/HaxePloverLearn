@@ -90,7 +90,7 @@ The Little Match-Seller Part 1
 'the': -T
 'street': STRAOET
 'to': TO
-'avoid': A/SREUD
+'avoid': A/SROEUD
 'two': TWO
 'carriages': KAEURPBLG/-S
 'that': THA

@@ -61,7 +61,7 @@
 * running `R*UPBG`
 * across `A/KROS`
 * street `STRAOET`
-* avoid `A/SREUD`
+* avoid `A/SROEUD`
 * two `TWO`
 * carriages `KAEURPBLG/-S`
 * rolling `ROLG`

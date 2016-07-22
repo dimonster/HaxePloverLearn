@@ -78,7 +78,7 @@
 * that `THA`
 * girl, `TKPWEURL KW-BG`
 * order `ORD`
-* avoid `A/SREUD`
+* avoid `A/SROEUD`
 * being `-BG`
 * run `RUPB`
 * over, `OEFR KW-BG`

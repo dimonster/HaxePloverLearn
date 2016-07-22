@@ -48,5 +48,5 @@ Common Words Part 13
 'watch': WAFP
 'edged': EPBLGD
 'parts': PARTS
-'avoid': A/SREUD
+'avoid': A/SROEUD
 'seats': SAOETS

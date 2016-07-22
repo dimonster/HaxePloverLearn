@@ -114,7 +114,7 @@ The Bishop of Borglum and His Warriors Part 4
 'friends': TPREPBDZ
 'and': SKP
 'relations': RAOELGS/-S
-'avoid': A/SREUD
+'avoid': A/SROEUD
 'her': HER
 'as': AZ
 'a': AEU
