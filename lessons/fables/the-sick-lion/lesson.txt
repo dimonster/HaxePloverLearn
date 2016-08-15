@@ -21,7 +21,7 @@ The Sick Lion
 'of': -F
 'his': HEUS
 'cave,': KAF KW-BG
-'gasping': TKPWAS/-PG
+'gasping': TKPWAFPG
 'for': TPOR
 'breath.': PWR*ET TP-PL
 'The': -T
