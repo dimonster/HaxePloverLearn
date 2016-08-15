@@ -192,4 +192,3 @@ The Shepherd's Boy
 'speaks': SPAOEBGS
 'the': -T
 'truth."': TRAOUT TP-PL KR-GS
-'':
