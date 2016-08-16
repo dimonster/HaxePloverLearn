@@ -20,7 +20,7 @@ The Dog and the Wolf
 'passing': PAFG
 'by.': PWEU TP-PL
 '"Ah,': KR-GS AERBGS
-'Cousin,"': KOZ KW-RBGTS
+'Cousin,"': KUZ KW-RBGTS
 'said': SAEUD
 'the': -T
 'Dog.': TKOG TP-PL

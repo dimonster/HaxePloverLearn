@@ -18,7 +18,7 @@ The Town Mouse and the Country Mouse
 'visit': SREUT
 'to': TO
 'his': HEUS
-'cousin': KOZ
+'cousin': KUZ
 'in': TPH
 'the': -T
 'country.': KREU TP-PL
@@ -28,7 +28,7 @@ The Town Mouse and the Country Mouse
 'and': SKP
 'ready,': R*ED KW-BG
 'this': TH
-'cousin,': KOZ KW-BG
+'cousin,': KUZ KW-BG
 'but': PWUT
 'he': E
 'loved': HROFD
@@ -75,7 +75,7 @@ The Town Mouse and the Country Mouse
 '"I': KR-GS EU
 'cannot': K/TPHOT
 'understand,': UPBS KW-BG
-'Cousin,': KOZ KW-BG
+'Cousin,': KUZ KW-BG
 'how': HOU
 'you': U
 'can': K
@@ -263,7 +263,7 @@ The Town Mouse and the Country Mouse
 'run': RUPB
 'off.': OF TP-PL
 '"Good-bye,': KR-GS TKPWAOD H-PB PWAO*EU KW-BG
-'Cousin,"': KOZ KW-RBGTS
+'Cousin,"': KUZ KW-RBGTS
 'said': SAEUD
 'the': -T
 'Country': KREU
