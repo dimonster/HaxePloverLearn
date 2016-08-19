@@ -4,7 +4,7 @@ The Two Crabs
 'fine': TPAOEUPB
 'day': TKAEU
 'two': TWO
-'Crabs': KRAB/-S
+'Crabs': KRABS
 'came': KAEUPL
 'out': OUT
 'from': TPR
@@ -25,7 +25,7 @@ The Two Crabs
 'are': R
 'walking': WAUG
 'very': SRE
-'ungracefully.': UPB/TKPWRAEUS/-FL/HREU TP-PL
+'ungracefully.': UPB/TKPWRAEUS/TPHREU TP-PL
 'You': U
 'should': SHO
 'accustom': A/KUS/TOPL
@@ -57,7 +57,7 @@ The Two Crabs
 'will': HR
 'follow': TPOL
 'you."': U TP-PL KR-GS
-'Example': KP-L
+'Example': KP-PL
 'is': S
 'the': -T
 'best': PWEFT
