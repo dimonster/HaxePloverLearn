@@ -115,7 +115,7 @@
 * miserable `PHEUZ/-BL`
 * creature, `KRAOEFP KW-BG`
 * yet `KWRET`
-* understands `URBDZ`
+* understands `URPBDZ`
 * how `HOU`
 * wriggle `WREUG/-L`
 * lurk `HRURBG`

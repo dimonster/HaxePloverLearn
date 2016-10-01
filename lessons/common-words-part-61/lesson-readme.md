@@ -6,7 +6,7 @@
 * questioning `KWEG`
 * positioning `POGS/-G`
 * immediately `PHAOELD`
-* understands `URBDZ`
+* understands `URPBDZ`
 * approaching `A/PROEFPG`
 * information `TP-FGS`
 * conversation `K-FRGS`

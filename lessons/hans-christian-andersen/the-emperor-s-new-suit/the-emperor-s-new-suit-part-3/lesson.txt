@@ -34,7 +34,7 @@ The Emperor's New Suit Part 3
 'intelligent,': SPWEPBLGT KW-BG
 'and': SKP
 'nobody': TPHOEB
-'understands': URBDZ
+'understands': URPBDZ
 'his': HEUS
 'office': OFS
 'better': PWOERT

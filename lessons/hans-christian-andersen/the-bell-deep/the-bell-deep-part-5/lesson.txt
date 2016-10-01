@@ -190,7 +190,7 @@ The Bell-Deep Part 5
 'around': ARPBD
 'it,': T KW-BG
 'and': SKP
-'understands': URBDZ
+'understands': URPBDZ
 'their': THAEUR
 'language.': HRAPBL TP-PL
 'The': -T

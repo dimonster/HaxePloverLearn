@@ -5,7 +5,7 @@
 * man, `PHAPB KW-BG`
 * who `WHO`
 * thoroughly `THORL`
-* understands `URBDZ`
+* understands `URPBDZ`
 * you, `U KW-BG`
 * agrees `TKPWRA*ES`
 * with `W`

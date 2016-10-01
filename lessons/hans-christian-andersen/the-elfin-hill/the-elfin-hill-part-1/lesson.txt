@@ -171,7 +171,7 @@ The Elfin Hill Part 1
 'creature,': KRAOEFP KW-BG
 'yet': KWRET
 'he': E
-'understands': URBDZ
+'understands': URPBDZ
 'very': SRE
 'well': WEL
 'how': HOU

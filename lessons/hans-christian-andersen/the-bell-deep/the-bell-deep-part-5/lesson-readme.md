@@ -123,7 +123,7 @@
 * sees `SAO*ES`
 * around `ARPBD`
 * it, `T KW-BG`
-* understands `URBDZ`
+* understands `URPBDZ`
 * their `THAEUR`
 * language. `HRAPBL TP-PL`
 * wind `WEUPBD`

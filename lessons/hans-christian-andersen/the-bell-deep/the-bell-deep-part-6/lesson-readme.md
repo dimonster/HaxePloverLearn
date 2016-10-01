@@ -19,7 +19,7 @@
 * things, `THEUPBGS KW-BG`
 * church `KHUFRPB`
 * Bell `PWEL`
-* understands `URBDZ`
+* understands `URPBDZ`
 * his `HEUS`
 * tongue, `TUPBG KW-BG`
 * rings `REUPBGS`

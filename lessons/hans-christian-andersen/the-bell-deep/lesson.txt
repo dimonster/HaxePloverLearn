@@ -988,7 +988,7 @@
 'around': ARPBD
 'it,': T KW-BG
 'and': SKP
-'understands': URBDZ
+'understands': URPBDZ
 'their': THAEUR
 'language.': HRAPBL TP-PL
 'The': -T
@@ -1021,7 +1021,7 @@
 'the': -T
 'church': KHUFRPB
 'bell': PWEL
-'understands': URBDZ
+'understands': URPBDZ
 'his': HEUS
 'tongue,': TUPBG KW-BG
 'and': SKP

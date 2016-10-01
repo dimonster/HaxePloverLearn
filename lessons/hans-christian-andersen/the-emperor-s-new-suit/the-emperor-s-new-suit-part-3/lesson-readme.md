@@ -31,7 +31,7 @@
 * intelligent, `SPWEPBLGT KW-BG`
 * and `SKP`
 * nobody `TPHOEB`
-* understands `URBDZ`
+* understands `URPBDZ`
 * his `HEUS`
 * office `OFS`
 * better `PWOERT`

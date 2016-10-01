@@ -23,7 +23,7 @@ The Bell-Deep Part 6
 'the': -T
 'church': KHUFRPB
 'bell': PWEL
-'understands': URBDZ
+'understands': URPBDZ
 'his': HEUS
 'tongue,': TUPBG KW-BG
 'and': SKP
