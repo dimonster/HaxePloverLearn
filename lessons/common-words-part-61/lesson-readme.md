@@ -13,5 +13,5 @@
 * grandfathers `TKPWR-FS`
 * grandmothers `TKPWR-PLS`
 * disappearing `TKEUS/PAOERG`
-* conversations `KAUPB/SRER/SAEUGS/-S`
+* conversations `K-FRGSZ`
 * understanding `URPBGD`
