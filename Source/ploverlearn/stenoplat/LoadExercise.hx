@@ -37,6 +37,7 @@ class LoadExercise extends Sprite
 	private var onExerciseLoaded : Exercise->Void;
 	private var fileName : String;
 	private var randomise : Bool;
+	private var repeatize : Bool;
 
 	public function new(fileName:String, onExerciseLoaded:Exercise->Void)
 	{
@@ -45,6 +46,7 @@ class LoadExercise extends Sprite
 		this.onExerciseLoaded = onExerciseLoaded;
 		this.fileName = fileName;
 		this.randomise = Lib.current.loaderInfo.parameters.random == "true";
+		this.repeatize = Lib.current.loaderInfo.parameters.repeat == "true";
 	}
 
 	public function load()
@@ -130,6 +132,10 @@ class LoadExercise extends Sprite
 		}
 
 	if(this.randomise) {
+		words = this.shuffleArray(words);
+	}
+
+	if(this.repeatize) {
 		words = this.shuffleArray(words);
 	}
 

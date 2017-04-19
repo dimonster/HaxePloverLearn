@@ -15,6 +15,7 @@ class Exercise
 	public var words : Array<WordAndHint>;
 	public var wordIndex : Int = -1;
 	public var random : Bool = false;
+	public var repeat : Bool = false;
 
 	public var caseSensitive(default, null):Bool = false;
 	public var requireSpaces(default, null):Bool = false;
@@ -33,6 +34,11 @@ class Exercise
 		if (random)
 		{
 			randomize();
+		}
+
+		if (repeat)
+		{
+			repeatize();
 		}
 	}
 
@@ -76,6 +82,11 @@ class Exercise
 	}
 
 	public function randomize()
+	{
+		words.sort(_randomize);
+	}
+
+	public function repeatize()
 	{
 		words.sort(_randomize);
 	}

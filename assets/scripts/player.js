@@ -10,7 +10,8 @@ var attributes = {
   id:"StenoPlatformer"
 };
 var flashvars = {
-  random: location.hash == "#random" ? "true" : "false"
+  random: location.hash == "#random" ? "true" : "false",
+  repeat: location.hash == "#repeat" ? "true" : "false"
 };
 
 swfobject.embedSWF(
