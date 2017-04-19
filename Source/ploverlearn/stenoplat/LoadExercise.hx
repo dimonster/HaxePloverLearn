@@ -136,7 +136,7 @@ class LoadExercise extends Sprite
 	}
 
 	if(this.repeatize) {
-    words = words.concat(words);
+    words = words.concat(words).concat(words);
 	}
 
 		return new Exercise(lessonTitle, exerciseName, words, settings);
