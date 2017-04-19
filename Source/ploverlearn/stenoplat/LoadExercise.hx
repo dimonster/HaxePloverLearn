@@ -137,6 +137,7 @@ class LoadExercise extends Sprite
 
 	if(this.repeatize) {
     words = words.concat(words).concat(words);
+		words = this.shuffleArray(words);
 	}
 
 		return new Exercise(lessonTitle, exerciseName, words, settings);
