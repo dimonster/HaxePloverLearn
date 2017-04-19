@@ -40,6 +40,7 @@ class Exercise
 		{
 			repeatize();
 		}
+
 	}
 
 	public function toString() : String
@@ -88,7 +89,7 @@ class Exercise
 
 	public function repeatize()
 	{
-		words.sort(_randomize);
+    words;
 	}
 
 	private function _setSettings(settings:Array<Setting>):Void
