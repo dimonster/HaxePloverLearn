@@ -15,5 +15,18 @@ HTML
 '<p>Lorem ipsum</p>': AEPBG P* A*EPBG HROR/EPL/EUP/SUPL AEPBG OEU P* A*EPBG
 '</body>': AEPBG OEU PWO*ED A*EPBG
 '</html>': AEPBG OEU H*PLT A*EPBG
+'<a href="': A/HREF
+'<img src="': EUPBG/SR-S
+'<br>': PWR*
+'<!-- -->': KPH*EPBT
+'checkbox': KHEBG/PWOBGS
+'px': P-BGS
+'z-index': STKPWEUPBGS
+'div': TK*EUF
+'min': PH*PB/PH*PB
+'css': KR*S
+'scss': SKR*S
+'rebeccapurple': RE/PWEBG/KA/PURPL
+'deeppink': TKAOEP/TK-LS/P*EUPBG
 case_sensitive=true
 notice_spaces=true
